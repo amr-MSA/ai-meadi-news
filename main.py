@@ -1,23 +1,24 @@
 import os
 import json
 import re
+import base64
 import requests
 import feedparser
-import urllib.parse
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 HISTORY_FILE = "posted_history.json"
 
-# المصادر الإخبارية المعتمدة
 RSS_SOURCES = [
-    "https://www.bleepingcomputer.com/feed/", # أمن سيبراني وتسريبات وعاجل
-    "https://news.ycombinator.com/rss",        # تسريبات وتقنيات نادرة من Hacker News
-    "https://www.theverge.com/rss/index.xml",  # أخبار الذكاء الاصطناعي والتقنية العامة
-    "https://techcrunch.com/feed/"             # الأخبار العامة
+    {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/"},
+    {"name": "Hacker News", "url": "https://news.ycombinator.com/rss"},
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"}
 ]
 
 def load_history():
@@ -33,17 +34,17 @@ def save_history(history):
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
-def is_already_posted(entry, history):
+def is_already_posted(entry_title, entry_link, history):
     for item in history:
         if isinstance(item, dict):
-            if item.get("link") == entry.link or item.get("title") == entry.title:
+            if item.get("link") == entry_link or item.get("title") == entry_title:
                 return True
-        elif isinstance(item, str) and item == entry.link:
+        elif isinstance(item, str) and item == entry_link:
             return True
     return False
 
 def get_og_image(article_url):
-    """جلب الصورة الحقيقية للمقال من الميتا تاغ og:image"""
+    """سحب الصورة الحقيقية للمقال"""
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
         res = requests.get(article_url, headers=headers, timeout=5)
@@ -51,143 +52,208 @@ def get_og_image(article_url):
             soup = BeautifulSoup(res.text, 'html.parser')
             og_img = soup.find('meta', property='og:image')
             if og_img and og_img.get('content'):
-                return og_img['content']
+                img_url = og_img['content']
+                if "http" in img_url and not img_url.endswith(".ico"):
+                    return img_url
     except Exception as e:
-        print(f"تعذر جلب og:image: {e}")
+        print(f"لم تُوجد صورة og:image: {e}")
     return None
 
-def fetch_all_news(history):
-    all_articles = []
+def generate_google_imagen(prompt):
+    """توليد صورة احترافية عبر Google Imagen 3 API عند عدم وجود صورة للمقال"""
+    if not GEMINI_API_KEY:
+        print("⚠️ مفتاح GEMINI_API_KEY غير مضاف في الحساب.")
+        return None
+
+    print("🎨 جاري توليد صورة احتياطية عبر Google Imagen 3...")
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:predict?key={GEMINI_API_KEY}"
+    headers = {"Content-Type": "application/json"}
+    payload = {
+        "instances": [{"prompt": f"Professional clean minimalist tech graphic, flat vector design, dark blue studio lighting: {prompt}"}],
+        "parameters": {
+            "sampleCount": 1,
+            "aspectRatio": "1:1"
+        }
+    }
+
+    try:
+        res = requests.post(url, headers=headers, json=payload, timeout=25)
+        if res.status_code == 200:
+            data = res.json()
+            b64_img = data['predictions'][0]['bytesBase64Encoded']
+            return base64.b64decode(b64_img)
+        else:
+            print(f"❌ خطأ من Google Imagen API: {res.text}")
+    except Exception as e:
+        print(f"❌ استثناء أثناء توليد صورة Google: {e}")
+    return None
+
+def fetch_news(history):
+    articles = []
     for source in RSS_SOURCES:
         try:
-            feed = feedparser.parse(source)
+            feed = feedparser.parse(source["url"])
             for entry in feed.entries:
-                if not is_already_posted(entry, history):
-                    all_articles.append(entry)
+                if not is_already_posted(entry.title, entry.link, history):
+                    summary = getattr(entry, 'summary', entry.title)
+                    clean_summary = re.sub('<[^<]+?>', '', summary)[:300]
+                    articles.append({
+                        "title": entry.title,
+                        "link": entry.link,
+                        "summary": clean_summary,
+                        "source_name": source["name"]
+                    })
         except Exception as e:
-            print(f"خطأ أثناء جلب {source}: {e}")
-    return all_articles
+            print(f"خطأ في جلب {source['name']}: {e}")
+    return articles
 
 def run():
     history = load_history()
-    print(f"السجل الحالي: {len(history)} خبر سابق.")
+    current_month = datetime.now().strftime("%Y-%m")
+    print(f"تم تحميل السجل: {len(history)} خبر منشور.")
 
-    print("1️⃣ جاري جلب الأخبار من المصادر متعددة...")
-    new_articles = fetch_all_news(history)
-    
-    if not new_articles:
-        print("⚠️ لا توجد أخبار جديدة لم تُنشر من قبل!")
+    articles = fetch_news(history)
+    if not articles:
+        print("⚠️ لا توجد أخبار جديدة لليوم لم تُنشر من قبل!")
         return
 
-    articles_to_process = new_articles[:15]
-    
+    articles_to_process = articles[:15]
     news_text = ""
     for idx, item in enumerate(articles_to_process, 1):
-        summary = getattr(item, 'summary', item.title)
-        # تنظيف النص من أوسمة HTML
-        clean_summary = re.sub('<[^<]+?>', '', summary)[:250]
-        news_text += f"ID: {idx}\nTitle: {item.title}\nLink: {item.link}\nSummary: {clean_summary}\n---\n"
+        news_text += f"ID: {idx} | Source: {item['source_name']}\nTitle: {item['title']}\nSummary: {item['summary']}\nLink: {item['link']}\n---\n"
 
-    print("2️⃣ إرسال الأخبار لـ Groq للتطليع والفلترة...")
-    groq_url = "https://api.groq.com/openai/v1/chat/completions"
-    headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
-        "Content-Type": "application/json"
-    }
+    recent_topics = [item.get("topic_key", "") for item in history if isinstance(item, dict) and item.get("month") == current_month]
 
-    system_prompt = """
-    أنت رئيس تحرير صحيفة تقنية موجهة لمهندسي وطلاب الحاسوب.
-    معايير الاختيار:
-    - أعطِ الأولوية المباشرة لـ: التسريبات (Leaks)، الثغرات الأمنية الكبرى، أدوات البرمجة والذكاء الاصطناعي الجديدة، أو الأحداث العاجلة.
-    - استبعد تماماً: صفقات القروض، الاستحواذات المالية للشركات المغمورة، والأخبار الروتينية.
+    system_prompt = f"""
+    أنت محرّر تقني محترف في قناة Eng. Limitless.
+    مواضيع تم نشرها هذا الشهر ويُمنع تكرارها: {recent_topics}
 
-    المطلوب منك إرجاع JSON حصراً بالتنسيق التالي:
-    {
+    المطلوب:
+    1. اختيار أفضل خبر تقني/تسريب/ثغرة لم يُنشر هذا الشهر.
+    2. استخراج "topic_key" باللغة الإنجليزية يصف الفكرة (مثل: Meta-Glimmer-AI).
+    3. صياغة وصف بالإنكليزية للصورة الاحتياطية (image_prompt) بأسلوب Flat Vector Tech.
+    4. كتابة التقرير بالتنسيق المعتمد حصراً:
+
+    ⚡ | خبر عاجل / تسريب تقني  (أو 📰 | تغطية تقنية)
+    ━━━━━━━━━━━━━━━━━━━━
+
+    [عنوان الخبر الرئيسي]
+
+    🔹 الحدث الرئيسي:
+    [شرح مفصل ومباشر للحدث]
+
+    🔹 التفاصيل والأرقام التقنية:
+    • [تفصيل تقني أو رقم 1]
+    • [تفصيل تقني أو رقم 2]
+
+    🔹 الأثر والأهمية:
+    [الأثر المباشر على المجال والطلاب]
+
+    —
+    ✍️ إعداد: Eng. Limitless
+    🔗 المصدر: [اسم المصدر]
+    #تقنية #حاسوب #Eng_Limitless
+
+    أرجع JSON حصراً:
+    {{
       "selected_id": 1,
-      "is_breaking": true,
-      "post": "نص المنشور باللغة العربية الفصحى المبسطة بأسلوب تقني جذاب مع إيموجي وهاشتاجات...",
-      "company_profile": "بطاقة تعريفية متكاملة بالشركة المذكورة في الخبر (إن وُجدت)، تشمل: المقر، التخصص، وأبرز منتجاتها. أو null إذا لم يتضمن الخبر شركة محددة",
-      "fallback_image_prompt": "Flat minimalist vector style tech illustration of..."
-    }
+      "topic_key": "topic-name",
+      "image_prompt": "Clean flat vector illustration of...",
+      "post_content": "النص الكامل للمنشور...",
+      "company_profile": "بطاقة تعريف بالشركة إن وجدت أو null"
+    }}
     """
 
     payload = {
         "model": "llama-3.3-70b-versatile",
         "messages": [
             {"role": "system", "content": system_prompt},
-            {"role": "user", "content": f"قائمة الأخبار المتاحة:\n{news_text}"}
+            {"role": "user", "content": f"الأخبار المتاحة:\n{news_text}"}
         ],
         "response_format": {"type": "json_object"}
     }
 
-    res = requests.post(groq_url, headers=headers, json=payload)
+    res = requests.post("https://api.groq.com/openai/v1/chat/completions", 
+                        headers={"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}, 
+                        json=payload)
+    
     if res.status_code != 200:
-        print("❌ خطأ من Groq:", res.text)
+        print("❌ خطأ من Groq API:", res.text)
         return
 
     content = json.loads(res.json()['choices'][0]['message']['content'])
-
+    
     try:
         selected_id = int(content.get('selected_id', 1))
         selected_article = articles_to_process[selected_id - 1]
     except Exception:
         selected_article = articles_to_process[0]
 
-    post_text = content['post']
+    post_content = content['post_content']
+    topic_key = content.get('topic_key', selected_article['title'][:30])
+    image_prompt = content.get('image_prompt', selected_article['title'])
     company_profile = content.get('company_profile')
-    is_breaking = content.get('is_breaking', False)
 
-    if is_breaking:
-        post_text = "⚡ **تغطية خاصة / خبر عاجل**\n\n" + post_text
+    print(f"📌 الخبر المختار: {selected_article['title']}")
 
-    print(f"📌 الخبر المختار: {selected_article.title}")
+    # 1️⃣ البحث عن الصورة الأصلية للمقال
+    image_url = get_og_image(selected_article['link'])
+    image_bytes = None
 
-    print("3️⃣ البحث عن صورة الخبر الأصلية...")
-    image_url = get_og_image(selected_article.link)
-    
+    # 2️⃣ إذا لم توجد صورة أصلية، استدعاء Google Imagen 3
     if not image_url:
-        print("لم تتم إيجاد صورة أصلية، جاري التوليد الاحتياطي...")
-        encoded_prompt = urllib.parse.quote(content.get('fallback_image_prompt', 'tech illustration'))
-        image_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1080&height=1080&model=flux&nologo=true"
+        image_bytes = generate_google_imagen(image_prompt)
 
-    print("4️⃣ إرسال المنشور الرئيسي إلى القناة...")
-    tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
-    caption_text = post_text if len(post_text) <= 1000 else post_text[:990] + "..."
-    
-    tg_payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "photo": image_url,
-        "caption": caption_text,
-        "parse_mode": "Markdown"
-    }
-    
-    tg_res = requests.post(tg_url, data=tg_payload)
-    
-    if tg_res.status_code == 200:
-        print("✅ تم نشر الخبر الرئيسي!")
-        res_json = tg_res.json()
-        message_id = res_json['result']['message_id']
+    # 3️⃣ النشر على تليجرام بحسب الوسائط المتوفرة
+    tg_res = None
+    if image_url:
+        print("📸 النشر مع صورة المقال الأصلية...")
+        tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+        tg_res = requests.post(tg_url, data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "photo": image_url,
+            "caption": post_content[:1024],
+            "parse_mode": "Markdown"
+        })
+    elif image_bytes:
+        print("🎨 النشر مع الصورة المُولدة من Google Imagen...")
+        tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+        tg_res = requests.post(tg_url, 
+                               data={"chat_id": TELEGRAM_CHAT_ID, "caption": post_content[:1024], "parse_mode": "Markdown"},
+                               files={"photo": ("image.jpg", image_bytes, "image/jpeg")})
+    else:
+        print("📄 النشر كنص منسق عالي الجودة (بدون صورة)...")
+        tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+        tg_res = requests.post(tg_url, data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": post_content,
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": True
+        })
 
-        # إذا كانت هناك بطاقة تعريفية للشركة، أرسلها كـ Reply تحت المنشور
+    if tg_res and tg_res.status_code == 200:
+        print("✅ تم النشر بنجاح على القناة!")
+        message_id = tg_res.json()['result']['message_id']
+
         if company_profile and str(company_profile).strip().lower() != "null":
-            print("5️⃣ إرسال بطاقة الشركة كتعليق/رد على المنشور...")
             reply_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-            reply_payload = {
+            requests.post(reply_url, data={
                 "chat_id": TELEGRAM_CHAT_ID,
-                "text": f"🏢 **بطاقة تعريفية بالشركة المذكورة:**\n\n{company_profile}",
+                "text": f"🏢 **بطاقة تعريف بالشركة المذكورة:**\n\n{company_profile}",
                 "reply_to_message_id": message_id,
                 "parse_mode": "Markdown"
-            }
-            requests.post(reply_url, data=reply_payload)
+            })
 
         history.append({
-            "title": selected_article.title,
-            "link": selected_article.link
+            "title": selected_article['title'],
+            "link": selected_article['link'],
+            "topic_key": topic_key,
+            "month": current_month
         })
         save_history(history)
-        print("💾 تم حفظ الخبر لمنع التكرار.")
+        print("💾 تم حفظ التقرير في السجل.")
     else:
-        print("❌ خطأ أثناء النشر على تليجرام:", tg_res.text)
+        print("❌ خطأ أثناء النشر على تليجرام:", tg_res.text if tg_res else "No response")
 
 if __name__ == "__main__":
     run()
