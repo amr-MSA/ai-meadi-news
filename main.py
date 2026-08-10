@@ -345,7 +345,7 @@ def call_gemini_for_selection(articles_to_process, recent_topics):
         client = genai.Client(api_key=GEMINI_API_KEY)
 
         response = client.models.generate_content(
-            model="gemini-2.5-flash", # أو النموذج المعتمد لديك في المكتبة
+            model="gemini-3.6-flash", # أو النموذج المعتمد لديك في المكتبة
             contents=f"{system_prompt}\n\nالأخبار المتاحة:\n{news_text}",
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
