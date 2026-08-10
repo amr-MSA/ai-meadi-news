@@ -6,12 +6,16 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
+# إلغاء أي تشغيل متزامن لمنع نشر الخبر مرتين عند تداخل الأوقات
+concurrency:
+  group: news-bot-single-run
+  cancel-in-progress: true
+
 jobs:
   run-automation:
     runs-on: ubuntu-latest
 
     permissions:
-      # ضرورية جداً للسماح للبوت برفع ملف السجل المحدث posted_history.json إلى المستودع
       contents: write
 
     steps:
@@ -26,13 +30,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests feedparser beautifulsoup4
+          pip install requests feedparser beautifulsoup4 pillow
 
       - name: Execute Python Script
         env:
-          # تأكد من إضافة كل هذه الأسرار في إعدادات مستودع جيت هاب الخاص بك
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # المفتاح الموحد للنصوص والصور من جوجل
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py
@@ -42,6 +45,5 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           git add posted_history.json || true
-          # استخدام [skip ci] يمنع البوت من الدخول في حلقة مفرغة من التشغيل عند كل رفع للملف
           git commit -m "Update posted news history [skip ci]" || true
           git push || true
