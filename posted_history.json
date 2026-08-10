@@ -13,5 +13,12 @@
     "topic_key": "SonicWall-SMA1000-Exploitation",
     "month": "2026-08",
     "posted_at": "2026-08-10T18:58:48.532114"
+  },
+  {
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "topic_key": "Meta-Muse-Glimmer",
+    "month": "2026-08",
+    "posted_at": "2026-08-10T19:41:30.777711"
   }
 ]
