@@ -27,5 +27,12 @@
     "topic_key": "StormEncryptor-Ransomware-Deployment",
     "month": "2026-08",
     "posted_at": "2026-08-10T20:21:46.789369"
+  },
+  {
+    "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+    "topic_key": "Metabase-SQLi-ZeroDay",
+    "month": "2026-08",
+    "posted_at": "2026-08-10T20:35:05.931338"
   }
 ]
