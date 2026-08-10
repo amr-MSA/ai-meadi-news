@@ -301,7 +301,11 @@ REQUIRED_FIELDS = [
 ]
 
 
-def call_groq_for_selection(articles_to_process, recent_topics):
+def call_gemini_for_selection(articles_to_process, recent_topics):
+    if not GEMINI_API_KEY:
+        print("❌ مفتاح GEMINI_API_KEY غير مضاف.")
+        return None
+
     news_text = ""
     for idx, item in enumerate(articles_to_process, 1):
         news_text += (
@@ -316,12 +320,11 @@ def call_groq_for_selection(articles_to_process, recent_topics):
 
 قواعد صارمة يجب الالتزام بها دون استثناء:
 1) اختر خبراً واحداً فقط، تقنياً بحتاً، لم يُغطَّ من قبل بأي صياغة.
-2) استخرج "topic_key" بالإنجليزية بصيغة قصيرة وموحّدة (مثال: Meta-Glimmer-AI)، يجب أن يكون هذا المفتاح كافياً لتمييز الحدث نفسه حتى لو تغيّر المصدر أو صياغة العنوان.
-3) اكتب "image_prompt" كوصف بصري موضوعي محايد لموضوع الخبر فقط (بدون أي توجيه أسلوبي فني، الأسلوب مثبت خارجياً).
-4) املأ الحقول التالية حصراً بمحتوى معلوماتي مباشر بدون أي مقدمات تسويقية وبدون أي سؤال تفاعلي من نوع "شاركنا رأيك" أو ما شابه إطلاقاً.
-5) ممنوع أي نص خارج بنية الـ JSON التالية، وممنوع أي تعليق إضافي.
+2) استخرج "topic_key" بالإنجليزية بصيغة قصيرة وموحّدة (مثال: Meta-Glimmer-AI).
+3) اكتب "image_prompt" كوصف بصري موضوعي محايد لموضوع الخبر فقط باللغة الإنجليزية.
+4) املأ الحقول التالية حصراً بمحتوى معلوماتي مباشر بلغة عربية فصيحة وقوية، بدون أي مقدمات تسويقية وبدون أي سؤال تفاعلي إطلاقاً.
 
-أعد فقط الكائن التالي:
+أعد فقط كائن JSON بالهيكل التالي:
 {{
   "selected_id": 1,
   "topic_key": "topic-name",
@@ -334,39 +337,44 @@ def call_groq_for_selection(articles_to_process, recent_topics):
 }}
 """
 
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key={GEMINI_API_KEY}"
+    headers = {"Content-Type": "application/json"}
+    
     payload = {
-        "model": "llama-3.3-70b-versatile",
-        "messages": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": f"الأخبار المتاحة:\n{news_text}"},
+        "contents": [
+            {
+                "parts": [
+                    {"text": f"{system_prompt}\n\nالأخبار المتاحة:\n{news_text}"}
+                ]
+            }
         ],
-        "response_format": {"type": "json_object"},
-        "temperature": 0.3,
+        "generationConfig": {
+            "response_mime_type": "application/json",
+            "temperature": 0.2
+        }
     }
 
-    res = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
-        headers={"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"},
-        json=payload,
-        timeout=30,
-    )
-
-    if res.status_code != 200:
-        print("❌ خطأ من Groq API:", res.text)
-        return None
-
     try:
-        content = json.loads(res.json()["choices"][0]["message"]["content"])
+        res = requests.post(url, headers=headers, json=payload, timeout=30)
+        if res.status_code != 200:
+            print("❌ خطأ من Gemini API:", res.text)
+            return None
+
+        response_data = res.json()
+        raw_text = response_data['candidates'][0]['content']['parts'][0]['text']
+        content = json.loads(raw_text)
+
+        missing = [f for f in REQUIRED_FIELDS if f not in content]
+        if missing:
+            print(f"❌ رد Gemini ناقص الحقول المطلوبة: {missing}")
+            return None
+
+        return content
+
     except Exception as e:
-        print(f"❌ تعذر فك JSON من رد Groq: {e}")
+        print(f"❌ استثناء أثناء استدعاء Gemini: {e}")
         return None
 
-    missing = [f for f in REQUIRED_FIELDS if f not in content]
-    if missing:
-        print(f"❌ رد Groq ناقص الحقول المطلوبة: {missing}")
-        return None
-
-    return content
 
 
 def build_post_content(title, main_event, tech_details_list, impact, source):
@@ -468,7 +476,7 @@ def run():
 
         content = None
         for attempt in range(2):  # محاولة واحدة إعادة إذا فشل الرد أو كان مكرراً
-            candidate = call_groq_for_selection(articles_to_process, recent_topics)
+            candidate = call_gemini_for_selection(articles_to_process, recent_topics)
             if not candidate:
                 continue
 
