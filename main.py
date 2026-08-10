@@ -305,7 +305,6 @@ from google import genai
 from google.genai import types
 
 def call_gemini_for_selection(articles_to_process, recent_topics):
-def call_gemini_for_selection(articles_to_process, recent_topics):
     if not GEMINI_API_KEY:
         print("❌ مفتاح GEMINI_API_KEY غير مضاف.")
         return None
