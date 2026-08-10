@@ -301,6 +301,9 @@ REQUIRED_FIELDS = [
 ]
 
 
+from google import genai
+from google.genai import types
+
 def call_gemini_for_selection(articles_to_process, recent_topics):
     if not GEMINI_API_KEY:
         print("❌ مفتاح GEMINI_API_KEY غير مضاف.")
@@ -337,32 +340,20 @@ def call_gemini_for_selection(articles_to_process, recent_topics):
 }}
 """
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key={GEMINI_API_KEY}"
-    headers = {"Content-Type": "application/json"}
-    
-    payload = {
-        "contents": [
-            {
-                "parts": [
-                    {"text": f"{system_prompt}\n\nالأخبار المتاحة:\n{news_text}"}
-                ]
-            }
-        ],
-        "generationConfig": {
-            "response_mime_type": "application/json",
-            "temperature": 0.2
-        }
-    }
-
     try:
-        res = requests.post(url, headers=headers, json=payload, timeout=30)
-        if res.status_code != 200:
-            print("❌ خطأ من Gemini API:", res.text)
-            return None
+        # إنشاء العميل باستخدام المفتاح كطريقة النوت بوك
+        client = genai.Client(api_key=GEMINI_API_KEY)
 
-        response_data = res.json()
-        raw_text = response_data['candidates'][0]['content']['parts'][0]['text']
-        content = json.loads(raw_text)
+        response = client.models.generate_content(
+            model="gemini-2.5-flash", # أو النموذج المعتمد لديك في المكتبة
+            contents=f"{system_prompt}\n\nالأخبار المتاحة:\n{news_text}",
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+                temperature=0.2
+            )
+        )
+
+        content = json.loads(response.text)
 
         missing = [f for f in REQUIRED_FIELDS if f not in content]
         if missing:
@@ -372,8 +363,9 @@ def call_gemini_for_selection(articles_to_process, recent_topics):
         return content
 
     except Exception as e:
-        print(f"❌ استثناء أثناء استدعاء Gemini: {e}")
+        print(f"❌ استثناء أثناء استدعاء Gemini عبر SDK: {e}")
         return None
+
 
 
 
