@@ -464,26 +464,7 @@ def run():
         return
 
     try:
-            if res.status_code == 200:
-                return res
-            print(f"⚠️ رفض تيليجرام إرسال الصورة ({res.text})، سيتم التحويل للنص...")
-        except Exception as e:
-            print(f"⚠️ خطأ أثناء إرسال الصورة لتيليجرام: {e}")
-
-    # 4. الملاذ الأخير الآمن: النشر كنص فقط إذا تعذرت الصورة كلياً
-    print("📄 النشر كنص منسق (بدون صورة)...")
-    tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    return requests.post(
-        tg_url,
-        data={
-            "chat_id": TELEGRAM_CHAT_ID,
-            "text": post_content,
-            "parse_mode": "Markdown",
-            "disable_web_page_preview": True,
-        },
-        timeout=30
-    )
-  for var_name, var_val in [
+        for var_name, var_val in [
             ("GROQ_API_KEY", GROQ_API_KEY),
             ("TELEGRAM_BOT_TOKEN", TELEGRAM_BOT_TOKEN),
             ("TELEGRAM_CHAT_ID", TELEGRAM_CHAT_ID),
@@ -508,7 +489,7 @@ def run():
         ]
 
         content = None
-        for attempt in range(2):  # محاولة واحدة إعادة إذا فشل الرد أو كان مكرراً
+        for attempt in range(2):
             candidate = call_gemini_for_selection(articles_to_process, recent_topics)
             if not candidate:
                 continue
@@ -546,19 +527,13 @@ def run():
         company_profile = content.get("company_profile")
 
         post_content = build_post_content(title, main_event, tech_details_list, impact, source)
-
         print(f"📌 الخبر المختار: {selected_article['title']}")
 
-        # بروتوكول الصور: أولوية 1 -> صورة المقال الحقيقية
         image_url = get_og_image(selected_article["link"])
         image_bytes = None
-        # أولوية 2 -> Google Imagen بأسلوب ثابت
         if not image_url:
             image_bytes = generate_google_imagen(image_prompt)
-        # أولوية 3 -> نص فقط (يُدار داخل publish_to_telegram)
 
-        # نحفظ الخبر في السجل فوراً بعد اتخاذ القرار (قبل انتظار رد تيليجرام)
-        # لتقليل نافذة السباق (Race Condition) في حال وجود تشغيل متزامن آخر
         history.append(
             {
                 "title": selected_article["title"],
@@ -590,8 +565,6 @@ def run():
             print("💾 تم حفظ التقرير في السجل لتفعيل الفلترة المستقبلية.")
         else:
             print("❌ خطأ أثناء النشر على تليجرام:", tg_res.text if tg_res else "No response")
-            # السجل تم حفظه مسبقاً لمنع إعادة اختيار نفس الخبر لاحقاً بشكل عشوائي؛
-            # إن رغبت بالتراجع عن الحفظ عند فشل النشر فعلياً، أزل هذا التعليق وطبّق rollback هنا.
 
     finally:
         release_lock()
