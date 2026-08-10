@@ -2,9 +2,8 @@ name: Daily AI Content Automation
 
 on:
   schedule:
-    # يعمل يومياً الساعة 4:00 عصراً بتوقيت اليمن/مكة (13:00 UTC)
-    - cron: '0 13 * * *'
-  # يتيح لك زِر التشغيل اليدوي للاختبار في أي وقت
+    # يعمل كل ساعتين لاقتناص التسريبات والأخبار العاجلة
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write # إعطاء صلاحية الكتابة للحفظ في المستودع الخاص
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -26,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests feedparser
+          pip install requests feedparser beautifulsoup4
 
       - name: Execute Python Script
         env:
@@ -42,4 +41,3 @@ jobs:
           git add posted_history.json || true
           git commit -m "Update posted news history [skip ci]" || true
           git push || true
-          
