@@ -400,7 +400,6 @@ def build_post_content(title, main_event, tech_details_list, impact, source):
 # =========================================================
 # 7) النشر على تيليجرام (مع التحميل المحلي للبايتس لتفادي حظر الروابط)
 # =========================================================
-def publish_to_telegram(post_content, image_url, image_bytes):
 def publish_to_telegram(title, post_content, image_url, image_bytes):
     photo_data = None
 
