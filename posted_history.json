@@ -34,5 +34,12 @@
     "topic_key": "Metabase-SQLi-ZeroDay",
     "month": "2026-08",
     "posted_at": "2026-08-10T20:35:05.931338"
+  },
+  {
+    "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+    "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+    "topic_key": "BdThemes-Supply-Chain-Attack",
+    "month": "2026-08",
+    "posted_at": "2026-08-10T22:30:39.196740"
   }
 ]
