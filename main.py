@@ -395,44 +395,66 @@ def build_post_content(title, main_event, tech_details_list, impact, source):
 """
     return post_content
 
-
 # =========================================================
-# 7) النشر على تيليجرام
+# 7) النشر على تيليجرام (مع التحميل المحلي للبايتس لتفادي حظر الروابط)
 # =========================================================
 def publish_to_telegram(post_content, image_url, image_bytes):
-    if image_url:
-        print("📸 النشر مع صورة المقال الأصلية...")
-        tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
-        return requests.post(
-            tg_url,
-            data={
-                "chat_id": TELEGRAM_CHAT_ID,
-                "photo": image_url,
-                "caption": post_content[:1024],
-                "parse_mode": "Markdown",
-            },
-        )
-    elif image_bytes:
-        print("🎨 النشر مع الصورة المُولدة عبر Google Imagen...")
-        tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
-        return requests.post(
-            tg_url,
-            data={"chat_id": TELEGRAM_CHAT_ID, "caption": post_content[:1024], "parse_mode": "Markdown"},
-            files={"photo": ("image.jpg", image_bytes, "image/jpeg")},
-        )
-    else:
-        print("📄 النشر كنص منسق (بدون صورة لمنع تشويه القناة بصورة رديئة)...")
-        tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-        return requests.post(
-            tg_url,
-            data={
-                "chat_id": TELEGRAM_CHAT_ID,
-                "text": post_content,
-                "parse_mode": "Markdown",
-                "disable_web_page_preview": True,
-            },
-        )
+    photo_data = None
 
+    # 1. إذا كان لدينا رابط صورة، نقوم بتحميله محلياً كبايتس أولاً
+    if image_url:
+        try:
+            print("📥 جاري تحميل صورة المقال محلياً عبر السيرفر...")
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+            img_res = requests.get(image_url, headers=headers, timeout=12)
+            if img_res.status_code == 200:
+                photo_data = img_res.content
+                print("✅ تم تحميل الصورة بنجاح.")
+            else:
+                print(f"⚠️ فشل تحميل الصورة من الرابط (Status: {img_res.status_code})")
+        except Exception as e:
+            print(f"⚠️ استثناء أثناء تحميل الصورة محلياً: {e}")
+
+    # 2. إذا فشل تحميل رابط المقال، نتحقق من توفر صورة Google Imagen الاحتياطية
+    if not photo_data and image_bytes:
+        print("🎨 استخدام الصورة المُولدة محلياً عبر Google Imagen...")
+        photo_data = image_bytes
+
+    # 3. إرسال الصورة لتيليجرام كملف ثنائي (Multipart/form-data) إذا كانت متوفرة
+    if photo_data:
+        try:
+            print("📸 جاري رفع ونشر الصورة مع المنشور على تيليجرام...")
+            tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+            res = requests.post(
+                tg_url,
+                data={
+                    "chat_id": TELEGRAM_CHAT_ID,
+                    "caption": post_content[:1024],
+                    "parse_mode": "Markdown",
+                },
+                files={"photo": ("image.jpg", photo_data, "image/jpeg")},
+                timeout=30
+            )
+            if res.status_code == 200:
+                return res
+            print(f"⚠️ رفض تيليجرام إرسال الصورة ({res.text})، سيتم التحويل للنص...")
+        except Exception as e:
+            print(f"⚠️ خطأ أثناء إرسال الصورة لتيليجرام: {e}")
+
+    # 4. الملاذ الأخير الآمن: النشر كنص فقط إذا تعذرت الصورة كلياً
+    print("📄 النشر كنص منسق (بدون صورة)...")
+    tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    return requests.post(
+        tg_url,
+        data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": post_content,
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": True,
+        },
+        timeout=30
+    )
+    
 
 # =========================================================
 # 8) التشغيل الرئيسي
@@ -442,7 +464,26 @@ def run():
         return
 
     try:
-        for var_name, var_val in [
+            if res.status_code == 200:
+                return res
+            print(f"⚠️ رفض تيليجرام إرسال الصورة ({res.text})، سيتم التحويل للنص...")
+        except Exception as e:
+            print(f"⚠️ خطأ أثناء إرسال الصورة لتيليجرام: {e}")
+
+    # 4. الملاذ الأخير الآمن: النشر كنص فقط إذا تعذرت الصورة كلياً
+    print("📄 النشر كنص منسق (بدون صورة)...")
+    tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    return requests.post(
+        tg_url,
+        data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": post_content,
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": True,
+        },
+        timeout=30
+    )
+  for var_name, var_val in [
             ("GROQ_API_KEY", GROQ_API_KEY),
             ("TELEGRAM_BOT_TOKEN", TELEGRAM_BOT_TOKEN),
             ("TELEGRAM_CHAT_ID", TELEGRAM_CHAT_ID),
