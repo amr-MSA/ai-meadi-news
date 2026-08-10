@@ -8,12 +8,13 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") # المفتاح الموحد للنصوص والصور
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 HISTORY_FILE = "posted_history.json"
 
+# المصادر المعتمدة
 RSS_SOURCES = [
     {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/"},
     {"name": "Hacker News", "url": "https://news.ycombinator.com/rss"},
@@ -35,8 +36,10 @@ def save_history(history):
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 def is_already_posted(entry_title, entry_link, history):
+    current_month = datetime.now().strftime("%Y-%m")
     for item in history:
         if isinstance(item, dict):
+            # فحص الرابط أو تطابق العنوان
             if item.get("link") == entry_link or item.get("title") == entry_title:
                 return True
         elif isinstance(item, str) and item == entry_link:
@@ -44,7 +47,7 @@ def is_already_posted(entry_title, entry_link, history):
     return False
 
 def get_og_image(article_url):
-    """سحب الصورة الحقيقية للمقال"""
+    """سحب الصورة الحقيقية والأصلية للمقال"""
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
         res = requests.get(article_url, headers=headers, timeout=5)
@@ -60,16 +63,17 @@ def get_og_image(article_url):
     return None
 
 def generate_google_imagen(prompt):
-    """توليد صورة احترافية عبر Google Imagen 3 API عند عدم وجود صورة للمقال"""
+    """توليد صورة احتياطية احترافية عبر Google Imagen 3"""
     if not GEMINI_API_KEY:
-        print("⚠️ مفتاح GEMINI_API_KEY غير مضاف في الحساب.")
+        print("⚠️ مفتاح GEMINI_API_KEY غير مضاف.")
         return None
 
-    print("🎨 جاري توليد صورة احتياطية عبر Google Imagen 3...")
+    print("🎨 جاري توليد صورة احتياطية احترافية عبر Google Imagen...")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:predict?key={GEMINI_API_KEY}"
     headers = {"Content-Type": "application/json"}
     payload = {
-        "instances": [{"prompt": f"Professional clean minimalist tech graphic, flat vector design, dark blue studio lighting: {prompt}"}],
+        # برومبت صارم لضمان الجودة والأسلوب المسطح
+        "instances": [{"prompt": f"Minimalist professional clean minimalist flat vector icon design of... {prompt}, dark blue color palette"}],
         "parameters": {
             "sampleCount": 1,
             "aspectRatio": "1:1"
@@ -122,44 +126,28 @@ def run():
     for idx, item in enumerate(articles_to_process, 1):
         news_text += f"ID: {idx} | Source: {item['source_name']}\nTitle: {item['title']}\nSummary: {item['summary']}\nLink: {item['link']}\n---\n"
 
+    # تجهيز سجل الموضوعات الشهرية لمنع التكرار الموضوعي
     recent_topics = [item.get("topic_key", "") for item in history if isinstance(item, dict) and item.get("month") == current_month]
 
+    # برومبت نظام صارم و "آلي" لإجبار النموذج على ملء القالب
     system_prompt = f"""
-    أنت محرّر تقني محترف في قناة Eng. Limitless.
-    مواضيع تم نشرها هذا الشهر ويُمنع تكرارها: {recent_topics}
+    أنت محلّل تقني محترف في قناة Eng. Limitless الموجهة لمهندسي وطلاب الحاسوب.
+    مواضيع تم نشرها هذا الشهر ويُمنع اختيار أي خبر يغطيها مجدداً: {recent_topics}
 
-    المطلوب:
+    المطلوب منك:
     1. اختيار أفضل خبر تقني/تسريب/ثغرة لم يُنشر هذا الشهر.
     2. استخراج "topic_key" باللغة الإنجليزية يصف الفكرة (مثل: Meta-Glimmer-AI).
     3. صياغة وصف بالإنكليزية للصورة الاحتياطية (image_prompt) بأسلوب Flat Vector Tech.
-    4. كتابة التقرير بالتنسيق المعتمد حصراً:
-
-    ⚡ | خبر عاجل / تسريب تقني  (أو 📰 | تغطية تقنية)
-    ━━━━━━━━━━━━━━━━━━━━
-
-    [عنوان الخبر الرئيسي]
-
-    🔹 الحدث الرئيسي:
-    [شرح مفصل ومباشر للحدث]
-
-    🔹 التفاصيل والأرقام التقنية:
-    • [تفصيل تقني أو رقم 1]
-    • [تفصيل تقني أو رقم 2]
-
-    🔹 الأثر والأهمية:
-    [الأثر المباشر على المجال والطلاب]
-
-    —
-    ✍️ إعداد: Eng. Limitless
-    🔗 المصدر: [اسم المصدر]
-    #تقنية #حاسوب #Eng_Limitless
-
-    أرجع JSON حصراً:
+    4. ملء حقول JSON المحددة أدناه ليتكون التقرير آلياً، ممنوع أي تعليق إضافي أو أسئلة للمتابعين:
+    
     {{
       "selected_id": 1,
       "topic_key": "topic-name",
       "image_prompt": "Clean flat vector illustration of...",
-      "post_content": "النص الكامل للمنشور...",
+      "title": "[عنوان الخبر الرئيسي المباشر]",
+      "main_event_summary": "[شرح مفصل ومباشر للحدث بدون مقدمات]",
+      "technical_details_points": ["تفصيل تقني أو رقم 1", "تفصيل تقني أو رقم 2"],
+      "impact_analysis": "[الأثر المباشر على المجال والطلاب]",
       "company_profile": "بطاقة تعريف بالشركة إن وجدت أو null"
     }}
     """
@@ -189,7 +177,33 @@ def run():
     except Exception:
         selected_article = articles_to_process[0]
 
-    post_content = content['post_content']
+    # بناء نص المنشور برمجياً من حقول JSON المحددة لضمان الامتثال التام للقالب الموحد
+    title = content.get('title', selected_article['title'])
+    main_event = content.get('main_event_summary', selected_article['summary'])
+    tech_details_list = content.get('technical_details_points', [])
+    tech_details = "\n• ".join(tech_details_list)
+    impact = content.get('impact_analysis', "الأثر قيد التحليل.")
+    source = selected_article['source_name']
+
+    # القالب الموحد المطبق برمجياً
+    post_content = f"""
+{title}
+
+🔹 الحدث الرئيسي:
+{main_event}
+
+🔹 التفاصيل والأرقام التقنية:
+• {tech_details}
+
+🔹 الأثر والأهمية:
+{impact}
+
+—
+✍️ إعداد: Eng. Limitless
+🔗 المصدر: {source}
+#تقنية #حاسوب #Eng_Limitless
+    """
+
     topic_key = content.get('topic_key', selected_article['title'][:30])
     image_prompt = content.get('image_prompt', selected_article['title'])
     company_profile = content.get('company_profile')
@@ -200,11 +214,11 @@ def run():
     image_url = get_og_image(selected_article['link'])
     image_bytes = None
 
-    # 2️⃣ إذا لم توجد صورة أصلية، استدعاء Google Imagen 3
+    # 2️⃣ إذا لم توجد صورة أصلية، استدعاء Google Imagen 3 (ببرومبت صارم جداً)
     if not image_url:
         image_bytes = generate_google_imagen(image_prompt)
 
-    # 3️⃣ النشر على تليجرام بحسب الوسائط المتوفرة
+    # 3️⃣ النشر على تليجرام بحسب الوسائط المتوفرة (أولوية للصورة الحقيقية)
     tg_res = None
     if image_url:
         print("📸 النشر مع صورة المقال الأصلية...")
@@ -216,13 +230,13 @@ def run():
             "parse_mode": "Markdown"
         })
     elif image_bytes:
-        print("🎨 النشر مع الصورة المُولدة من Google Imagen...")
+        print("🎨 النشر مع الصورة المُولدة الاحترافية من Google Imagen...")
         tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
         tg_res = requests.post(tg_url, 
                                data={"chat_id": TELEGRAM_CHAT_ID, "caption": post_content[:1024], "parse_mode": "Markdown"},
                                files={"photo": ("image.jpg", image_bytes, "image/jpeg")})
     else:
-        print("📄 النشر كنص منسق عالي الجودة (بدون صورة)...")
+        print("📄 النشر كنص منسق عالي الجودة (بدون صورة لمنع الرداءة)...")
         tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
         tg_res = requests.post(tg_url, data={
             "chat_id": TELEGRAM_CHAT_ID,
@@ -244,6 +258,7 @@ def run():
                 "parse_mode": "Markdown"
             })
 
+        # حفظ التكرار بالرابط والموضوع المقترن بالشهر لمنع التكرار الموضوعي
         history.append({
             "title": selected_article['title'],
             "link": selected_article['link'],
@@ -251,7 +266,7 @@ def run():
             "month": current_month
         })
         save_history(history)
-        print("💾 تم حفظ التقرير في السجل.")
+        print("💾 تم حفظ التقرير في السجل لتفعيل الفلترة.")
     else:
         print("❌ خطأ أثناء النشر على تليجرام:", tg_res.text if tg_res else "No response")
 
