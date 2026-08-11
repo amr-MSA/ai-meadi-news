@@ -55,5 +55,12 @@
     "topic_key": "Progress-LoadMaster-Flaw",
     "month": "2026-08",
     "posted_at": "2026-08-11T03:37:36.167425"
+  },
+  {
+    "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+    "topic_key": "TrueConf-Trojanized-Installers",
+    "month": "2026-08",
+    "posted_at": "2026-08-11T05:01:32.994104"
   }
 ]
