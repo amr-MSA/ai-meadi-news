@@ -6,5 +6,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-11T21:43:05.120832",
     "type": "daily"
+  },
+  {
+    "title": "Researchers find that feeding a frontier model's encrypted reasoning traces to a weaker model from the same provider can make it output the traces in plaintext (Will Knight/Wired)",
+    "link": "https://www.techmeme.com/260811/p37#a260811p37",
+    "topic_key": "ai-reasoning-traces-leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-11T21:46:22.006601",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
