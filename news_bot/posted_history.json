@@ -15,5 +15,13 @@
     "posted_at": "2026-08-11T21:46:22.006601",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+    "topic_key": "Microsoft-Patch-Tuesday-August-2026",
+    "month": "2026-08",
+    "posted_at": "2026-08-11T21:53:56.375858",
+    "type": "daily"
   }
 ]
