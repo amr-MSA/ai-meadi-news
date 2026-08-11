@@ -382,7 +382,7 @@ def call_gemini_for_selection(articles_to_process, recent_topics):
             missing = [f for f in REQUIRED_FIELDS if f not in content]
             if missing:
                 print(f"🤖 ❌ رد Gemini ناقص الحقول: {missing}")
-                               return None
+                return None
             print("[4/10] ✅ تم استلام رد Gemini صالح.")
             return content
         except Exception as e:
@@ -491,7 +491,7 @@ def upload_to_github(filepath, repo_filename, commit_message="تحديث الت�
     print(f"[6/10] ☁️ رفع '{repo_filename}' إلى GitHub ({GITHUB_REPO})...")
     if not GITHUB_TOKEN:
         print("[6/10] ⚠️ لا يوجد توكن GitHub (GITHUB_TOKEN أو GH_TOKEN).")
-        print("[6/10] ℹ️ في GitHub Actions: أضف 'GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}' في الـ Workflow.")
+        print("[6/10] ℹ️ في GitHub Actions: تأكد من وجود 'GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}' في الـ Workflow.")
         return False
 
     try:
@@ -572,4 +572,4 @@ def publish_to_telegram(title, full_report, image_url, image_bytes):
     print(f"📏 طول التقرير: {report_length} حرف (العتبة: {REPORT_LENGTH_THRESHOLD})")
 
     # ═══════════════════════════════════════════════════════
- 
+    # ا
