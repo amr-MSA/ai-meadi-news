@@ -48,5 +48,12 @@
     "topic_key": "Polish-OT-APN-Breach",
     "month": "2026-08",
     "posted_at": "2026-08-11T01:13:12.782500"
+  },
+  {
+    "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+    "topic_key": "Progress-LoadMaster-Flaw",
+    "month": "2026-08",
+    "posted_at": "2026-08-11T03:37:36.167425"
   }
 ]
