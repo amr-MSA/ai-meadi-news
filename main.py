@@ -25,8 +25,8 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 # ─── جديد: إعدادات GitHub ───
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")      # Personal Access Token
-GITHUB_REPO = os.environ.get("GITHUB_REPO")        # مثال: username/repo-name
+GITHUB_TOKEN = os.environ.get("TOKEN")      # Personal Access Token
+GITHUB_REPO = os.environ.get("amr-MSA/ai-meadi-news")        # مثال: username/repo-name
 GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH", "main")
 
 # ─── جديد: عتبة طول التقرير ───
