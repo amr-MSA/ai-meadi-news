@@ -97,5 +97,12 @@
     "topic_key": "Mozilla-GPG-Key-Exposure",
     "month": "2026-08",
     "posted_at": "2026-08-11T14:50:43.783670"
+  },
+  {
+    "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+    "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+    "topic_key": "Cloudflare-DDoS-Surge-Q2",
+    "month": "2026-08",
+    "posted_at": "2026-08-11T14:52:41.783737"
   }
 ]
