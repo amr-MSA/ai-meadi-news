@@ -50,5 +50,13 @@
     "posted_at": "2026-08-12T12:41:39.460188",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+    "topic_key": "Signal-Automatic-Key-Verification",
+    "month": "2026-08",
+    "posted_at": "2026-08-12T14:19:28.837598",
+    "type": "daily"
   }
 ]
