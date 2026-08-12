@@ -41,5 +41,14 @@
     "posted_at": "2026-08-12T05:23:07.825721",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "A serious incident occurred at MyDr, a Polish healthcare system provider",
+    "link": "https://databreaches.net/2026/08/12/a-serious-incident-occurred-at-mydr-a-polish-healthcare-system-provider/",
+    "topic_key": "mydr-healthcare-data-leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-12T12:41:39.460188",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
