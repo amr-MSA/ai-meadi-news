@@ -67,5 +67,14 @@
     "posted_at": "2026-08-12T16:45:00.306921",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Qwen3.8-2.4T-A95B Released",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/",
+    "topic_key": "qwen-model-release",
+    "month": "2026-08",
+    "posted_at": "2026-08-12T20:31:38.085658",
+    "type": "leak",
+    "reliability_level": "🟠"
   }
 ]
