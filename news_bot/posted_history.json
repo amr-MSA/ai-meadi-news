@@ -58,5 +58,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-12T14:19:28.837598",
     "type": "daily"
+  },
+  {
+    "title": "Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition",
+    "link": "https://itmeetsot.eu/posts/2026-08-12-opus5_automode/",
+    "topic_key": "claude-code-prompt-injection",
+    "month": "2026-08",
+    "posted_at": "2026-08-12T16:45:00.306921",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
