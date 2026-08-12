@@ -32,5 +32,14 @@
     "posted_at": "2026-08-12T00:57:30.904170",
     "type": "leak",
     "reliability_level": "🟠"
+  },
+  {
+    "title": "Researchers say suspected Chinese hackers used open-source AI agents to build an autonomous hacking tool that compromised Taiwanese government websites in July (Tom Wilson/Financial Times)",
+    "link": "https://www.techmeme.com/260812/p2#a260812p2",
+    "topic_key": "ai-autonomous-cyberattack",
+    "month": "2026-08",
+    "posted_at": "2026-08-12T05:23:07.825721",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
