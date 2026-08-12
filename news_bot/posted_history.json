@@ -23,5 +23,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-11T21:53:56.375858",
     "type": "daily"
+  },
+  {
+    "title": "All the more reason not to use Closed Models ... Claude now officially \"marks\" AI-generated content ... steganographically, apparently ... and there are false positives already",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vlr43b/all_the_more_reason_not_to_use_closed_models/",
+    "topic_key": "claude-steganographic-watermarking",
+    "month": "2026-08",
+    "posted_at": "2026-08-12T00:57:30.904170",
+    "type": "leak",
+    "reliability_level": "🟠"
   }
 ]
