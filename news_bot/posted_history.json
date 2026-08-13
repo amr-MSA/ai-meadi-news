@@ -76,5 +76,14 @@
     "posted_at": "2026-08-12T20:31:38.085658",
     "type": "leak",
     "reliability_level": "🟠"
+  },
+  {
+    "title": "More Novo Nordisk data dumped by FulcrumSec",
+    "link": "https://databreaches.net/2026/08/12/more-novo-nordisk-data-dumped-by-fulcrumsec/",
+    "topic_key": "novo-nordisk-ai-data-leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-13T00:59:06.600302",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
