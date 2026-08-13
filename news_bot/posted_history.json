@@ -111,5 +111,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-13T14:21:46.193824",
     "type": "daily"
+  },
+  {
+    "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/",
+    "topic_key": "deepseek-v4-pro-leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-13T16:44:13.420503",
+    "type": "leak",
+    "reliability_level": "🟠"
   }
 ]
