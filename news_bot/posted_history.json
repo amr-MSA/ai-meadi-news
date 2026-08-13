@@ -94,5 +94,14 @@
     "posted_at": "2026-08-13T03:58:20.432245",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Ransomware Attack Disables Canadian Hospital’s Doors, HVAC",
+    "link": "https://databreaches.net/2026/08/12/ransomware-attack-disables-canadian-hospitals-doors-hvac/",
+    "topic_key": "hospital-ot-ransomware",
+    "month": "2026-08",
+    "posted_at": "2026-08-13T05:38:06.024478",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
