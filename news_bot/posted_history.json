@@ -103,5 +103,13 @@
     "posted_at": "2026-08-13T05:38:06.024478",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+    "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+    "topic_key": "windows-plug-and-pwn-vulnerability",
+    "month": "2026-08",
+    "posted_at": "2026-08-13T14:21:46.193824",
+    "type": "daily"
   }
 ]
