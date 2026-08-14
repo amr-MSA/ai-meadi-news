@@ -138,5 +138,14 @@
     "posted_at": "2026-08-13T22:29:41.515982",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
+    "link": "https://www.techmeme.com/260814/p2#a260814p2",
+    "topic_key": "apple-china-llm",
+    "month": "2026-08",
+    "posted_at": "2026-08-14T05:23:29.913356",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
