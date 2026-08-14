@@ -147,5 +147,13 @@
     "posted_at": "2026-08-14T05:23:29.913356",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+    "topic_key": "VMware-vCenter-RCE-Exploit",
+    "month": "2026-08",
+    "posted_at": "2026-08-14T14:15:10.937343",
+    "type": "daily"
   }
 ]
