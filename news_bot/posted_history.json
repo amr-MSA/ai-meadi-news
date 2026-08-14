@@ -155,5 +155,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-14T14:15:10.937343",
     "type": "daily"
+  },
+  {
+    "title": "France investigates tax authority breach after hacker claims 600,000 victims",
+    "link": "https://databreaches.net/2026/08/14/france-investigates-tax-authority-breach-after-hacker-claims-600000-victims/",
+    "topic_key": "france-tax-authority-data-breach",
+    "month": "2026-08",
+    "posted_at": "2026-08-14T16:39:39.712055",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
