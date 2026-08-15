@@ -208,5 +208,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-15T13:28:20.094494",
     "type": "daily"
+  },
+  {
+    "title": "ChatGPT upcoming speed improvements summarized by OpenAI employee",
+    "link": "https://www.reddit.com/r/singularity/comments/1vp3eh6/chatgpt_upcoming_speed_improvements_summarized_by/",
+    "topic_key": "chatgpt-speed-improvements",
+    "month": "2026-08",
+    "posted_at": "2026-08-15T16:11:29.710449",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
