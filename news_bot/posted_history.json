@@ -200,5 +200,13 @@
     "posted_at": "2026-08-15T06:18:25.863106",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+    "topic_key": "sap-commerce-cloud-rce-vulnerability",
+    "month": "2026-08",
+    "posted_at": "2026-08-15T13:28:20.094494",
+    "type": "daily"
   }
 ]
