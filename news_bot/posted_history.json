@@ -235,5 +235,14 @@
     "posted_at": "2026-08-15T22:09:59.721655",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "NC: Possible cyberattack hits Wake election software vendor, leaving poll workers’ data exposed",
+    "link": "https://databreaches.net/2026/08/15/nc-possible-cyberattack-hits-wake-election-software-vendor-leaving-poll-workers-data-exposed/",
+    "topic_key": "wake-election-vendor-breach",
+    "month": "2026-08",
+    "posted_at": "2026-08-16T00:35:42.476499",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
