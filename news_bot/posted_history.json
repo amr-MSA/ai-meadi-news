@@ -252,5 +252,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-16T13:29:34.618317",
     "type": "daily"
+  },
+  {
+    "title": "500 Hosts, 1 TB and No Negotiation: Anubis Provides Details on the Fairlife Attack",
+    "link": "https://databreaches.net/2026/08/16/500-hosts-1-tb-and-no-negotiation-anubis-provides-details-on-the-fairlife-attack/",
+    "topic_key": "anubis-fairlife-breach",
+    "month": "2026-08",
+    "posted_at": "2026-08-16T14:12:14.095256",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
