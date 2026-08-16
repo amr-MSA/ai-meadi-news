@@ -244,5 +244,13 @@
     "posted_at": "2026-08-16T00:35:42.476499",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+    "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+    "topic_key": "evooo1bot-linux-botnet",
+    "month": "2026-08",
+    "posted_at": "2026-08-16T13:29:34.618317",
+    "type": "daily"
   }
 ]
