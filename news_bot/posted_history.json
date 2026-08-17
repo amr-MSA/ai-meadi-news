@@ -279,5 +279,13 @@
     "posted_at": "2026-08-17T12:20:08.155730",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+    "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+    "topic_key": "AmnesiaStealer-macOS-Browser-Hijack",
+    "month": "2026-08",
+    "posted_at": "2026-08-17T13:37:35.127008",
+    "type": "daily"
   }
 ]
