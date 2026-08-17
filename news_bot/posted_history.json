@@ -305,5 +305,14 @@
     "posted_at": "2026-08-17T16:13:56.259587",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "235 GB of PHI and internal documents dumped; Chaos claims it comes from Healthcare Highways",
+    "link": "https://databreaches.net/2026/08/17/235-gb-of-phi-and-internal-documents-dumped-chaos-claims-it-comes-from-healthcare-highways/",
+    "topic_key": "healthcare-highways-data-breach",
+    "month": "2026-08",
+    "posted_at": "2026-08-17T20:14:04.682197",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
