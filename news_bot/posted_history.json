@@ -270,5 +270,14 @@
     "posted_at": "2026-08-16T22:09:35.437620",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Ryde Data Breach Exposes 4.5M Customer Accounts Across Nordic Region",
+    "link": "https://ebuildersecurity.se/en/cyber-news/ryde-data-breach-4-5-million-nordic-accounts-2026/",
+    "topic_key": "ryde-nordic-data-breach",
+    "month": "2026-08",
+    "posted_at": "2026-08-17T12:20:08.155730",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
