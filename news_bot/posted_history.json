@@ -296,5 +296,14 @@
     "posted_at": "2026-08-17T14:18:43.192450",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "More than 2 million user records from TaxAct allegedly acquired; 450k already leaked",
+    "link": "https://databreaches.net/2026/08/17/more-than-2-million-user-records-from-taxact-allegedly-acquired-450k-already-leaked/",
+    "topic_key": "taxact-data-breach",
+    "month": "2026-08",
+    "posted_at": "2026-08-17T16:13:56.259587",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
