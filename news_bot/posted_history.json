@@ -331,5 +331,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-18T13:41:12.808423",
     "type": "daily"
+  },
+  {
+    "title": "OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold (Ina Fried/Axios)",
+    "link": "https://www.techmeme.com/260818/p29#a260818p29",
+    "topic_key": "openai-rl-pause-breach",
+    "month": "2026-08",
+    "posted_at": "2026-08-18T20:11:12.072935",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
