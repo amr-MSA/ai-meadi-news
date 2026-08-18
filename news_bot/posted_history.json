@@ -323,5 +323,13 @@
     "posted_at": "2026-08-18T02:46:33.885497",
     "type": "leak",
     "reliability_level": "🟢"
+  },
+  {
+    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+    "topic_key": "certighost-pki-vulnerability",
+    "month": "2026-08",
+    "posted_at": "2026-08-18T13:41:12.808423",
+    "type": "daily"
   }
 ]
