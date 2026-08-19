@@ -358,5 +358,13 @@
     "posted_at": "2026-08-19T02:49:06.599722",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+    "topic_key": "windows11-wmic-removal-security",
+    "month": "2026-08",
+    "posted_at": "2026-08-19T13:42:39.351988",
+    "type": "daily"
   }
 ]
