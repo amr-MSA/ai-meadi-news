@@ -410,5 +410,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-20T13:44:18.842098",
     "type": "daily"
+  },
+  {
+    "title": "I published 8 months of frontier-AI research, code, emails, and timestamps",
+    "link": "https://zenodo.org/records/21969180",
+    "topic_key": "ai-research-leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-20T22:15:34.066377",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
