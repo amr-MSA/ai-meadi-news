@@ -419,5 +419,14 @@
     "posted_at": "2026-08-20T22:15:34.066377",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Troutman Pepper Locke Silent as Threat Actors Leak Client Data, Tens of Thousands of SSNs",
+    "link": "https://databreaches.net/2026/08/21/troutman-pepper-locke-silent-as-threat-actors-leak-client-data-tens-of-thousands-of-ssns/",
+    "topic_key": "troutman-pepper-data-breach",
+    "month": "2026-08",
+    "posted_at": "2026-08-21T18:20:32.684002",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
