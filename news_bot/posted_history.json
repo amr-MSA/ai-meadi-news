@@ -437,5 +437,13 @@
     "posted_at": "2026-08-21T20:13:10.201625",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+    "topic_key": "rust-arrayref-crate-poisoning",
+    "month": "2026-08",
+    "posted_at": "2026-08-22T13:29:46.324828",
+    "type": "daily"
   }
 ]
