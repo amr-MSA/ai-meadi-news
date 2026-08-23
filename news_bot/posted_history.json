@@ -472,5 +472,13 @@
     "posted_at": "2026-08-23T10:12:37.176472",
     "type": "leak",
     "reliability_level": "🟠"
+  },
+  {
+    "title": "Hackers infect Android car head units with proxy botnet malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+    "topic_key": "Android-Automotive-Botnet-Malware",
+    "month": "2026-08",
+    "posted_at": "2026-08-23T13:30:53.167711",
+    "type": "daily"
   }
 ]
