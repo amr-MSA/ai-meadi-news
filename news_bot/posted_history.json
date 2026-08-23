@@ -463,5 +463,14 @@
     "posted_at": "2026-08-23T04:26:39.025268",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Qwen 3.8 27B is a game changer.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
+    "topic_key": "qwen-38-27b-leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-23T10:12:37.176472",
+    "type": "leak",
+    "reliability_level": "🟠"
   }
 ]
