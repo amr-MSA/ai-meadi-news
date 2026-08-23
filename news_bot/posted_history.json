@@ -480,5 +480,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-23T13:30:53.167711",
     "type": "daily"
+  },
+  {
+    "title": "ShinyHunters claims hack of ReliaQuest but provides no proof",
+    "link": "https://databreaches.net/2026/08/23/shinyhunters-claims-hack-of-reliaquest-but-provides-no-proof/",
+    "topic_key": "reliaquest-shinyhunters-breach-claim",
+    "month": "2026-08",
+    "posted_at": "2026-08-23T18:12:56.393500",
+    "type": "leak",
+    "reliability_level": "🟠"
   }
 ]
