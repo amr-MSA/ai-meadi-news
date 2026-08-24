@@ -516,5 +516,13 @@
     "posted_at": "2026-08-24T08:35:33.894551",
     "type": "leak",
     "reliability_level": "🟠"
+  },
+  {
+    "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+    "topic_key": "AWS-Exposed-Access-Keys-Leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-24T13:49:30.729860",
+    "type": "daily"
   }
 ]
