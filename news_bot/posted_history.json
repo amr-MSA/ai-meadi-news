@@ -507,5 +507,14 @@
     "posted_at": "2026-08-24T04:34:15.824415",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Xiaomi AI Cube announced with 1.2TB/s memory bandwidth",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vwvghi/xiaomi_ai_cube_announced_with_12tbs_memory/",
+    "topic_key": "xiaomi-ai-cube-leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-24T08:35:33.894551",
+    "type": "leak",
+    "reliability_level": "🟠"
   }
 ]
