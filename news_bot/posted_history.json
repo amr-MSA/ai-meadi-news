@@ -533,5 +533,14 @@
     "posted_at": "2026-08-25T00:35:25.754400",
     "type": "leak",
     "reliability_level": "🟡"
+  },
+  {
+    "title": "Apple M5 Server",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vx6ivx/apple_m5_server/",
+    "topic_key": "apple-m5-server",
+    "month": "2026-08",
+    "posted_at": "2026-08-25T08:28:57.285719",
+    "type": "leak",
+    "reliability_level": "🟠"
   }
 ]
