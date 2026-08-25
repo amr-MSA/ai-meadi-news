@@ -1,112 +1,115 @@
-"""
-leaks_main.py
-=========================================================
-نقطة دخول منفصلة تماماً عن main.py (خط النشرة اليومية)، مخصصة لخط
-"رصد التسريبات والأخبار العاجلة" (يعمل كل ساعتين عبر GitHub Actions).
+"""نقطة تشغيل خط رصد التسريبات والأخبار العاجلة."""
 
-الفلسفة: نخاطر بموثوقية الخبر مقابل السرعة، لكن نُصرّح بذلك دائماً
-عبر شارة موثوقية (🔴🟠🟡🟢) وتحذير صريح في كل منشور.
-
-لا يُعدَّل أي من الوحدات المشتركة (config/utils/history_manager/fetcher/
-ai_handler/publisher) هنا — هذا الملف يستوردها فقط، تماماً كما هو مخطط
-له في main.py الأصلي.
-=========================================================
-"""
-
-import utils
-import history_manager
 import ai_handler
-import publisher
-
-import leaks_config
-import leak_fetcher
+import history_manager
 import leak_ai_handler
+import leak_fetcher
 import leak_publisher
+import leaks_config
+import publisher
+import utils
+
+
+def _is_successful_response(response):
+    return response is not None and getattr(response, "status_code", None) == 200
+
+
+def _meets_reliability_threshold(level):
+    minimum = leaks_config.MIN_RELIABILITY_TO_PUBLISH
+    if minimum is None:
+        return True
+    levels = list(leaks_config.RELIABILITY_LEVELS)
+    try:
+        return levels.index(level) >= levels.index(minimum)
+    except ValueError:
+        return False
 
 
 def run():
     if not utils.acquire_lock():
         return
-
     try:
-        missing_vars = [name for name, val in leaks_config.REQUIRED_LEAK_ENV_VARS.items() if not val]
+        missing_vars = [
+            name for name, value in leaks_config.REQUIRED_LEAK_ENV_VARS.items() if not value
+        ]
         if missing_vars:
-            print(f"❌ متغيرات البيئة التالية غير موجودة (خط التسريبات): {missing_vars}. إنهاء آمن.")
+            print(f"❌ متغيرات البيئة التالية غير موجودة: {missing_vars}. إنهاء آمن.")
             return
-
-        # السجل موحّد مع خط النشرة اليومية، لضمان عدم تكرار نفس الحدث بين الخطين
         history = history_manager.load_history()
-
+        history_manager.prune_history(history)
         candidates = leak_fetcher.fetch_leak_candidates(history)
         if not candidates:
             print("🧐 لا توجد عناصر جديدة من مصادر التسريبات هذه الجولة.")
             return
-        print(f"📡 تم جلب {len(candidates)} مرشحاً محتملاً للتسريب.")
-
         verdict = leak_ai_handler.evaluate_leak_candidates(candidates)
-        if not verdict:
-            print("⚠️ تعذر الحصول على تقييم من Gemini هذه الجولة.")
+        if not isinstance(verdict, dict):
             return
-
         try:
             selected_id = int(verdict.get("selected_id", 0))
-        except Exception:
-            selected_id = 0
-
+        except (TypeError, ValueError):
+            return
         if selected_id == 0:
-            print("🧐 قرار Gemini: لا يوجد خبر يستحق المخاطرة بالنشر هذه الجولة.")
+            print("🧐 لا يوجد خبر يستحق النشر هذه الجولة.")
+            return
+        if not 1 <= selected_id <= len(candidates):
+            print("⚠️ selected_id غير صالح، تجاهل هذه الجولة.")
             return
 
-        try:
-            selected = candidates[selected_id - 1]
-        except (IndexError, TypeError):
-            print("⚠️ selected_id غير صالح من رد Gemini، تجاهل هذه الجولة.")
+        selected = candidates[selected_id - 1]
+        reliability_level = verdict.get("reliability_level")
+        if reliability_level not in leaks_config.RELIABILITY_LEVELS:
+            return
+        if not _meets_reliability_threshold(reliability_level):
             return
 
-        reliability_level = verdict.get("reliability_level", "🔴")
-        topic_key = verdict.get("topic_key", selected["title"][:30])
-
-        # فحص تكراري أخير مقابل السجل الموحّد (طبقة أمان إضافية قبل النشر الفعلي)
-        dup, reason = history_manager.is_duplicate_against_history(
-            selected["title"], selected["link"], topic_key, history
+        classification = history_manager.normalize_classification({
+            **(verdict.get("classification") or {}),
+            "topic_key": verdict.get("topic_key"),
+        })
+        duplicate, reason = history_manager.compare_candidate_to_history(
+            selected["title"], selected["link"], classification, history
         )
-        if dup:
-            print(f"⚠️ الخبر المختار مكرر ({reason})، تجاهل النشر لتفادي الازدواجية.")
+        if duplicate:
+            print(f"⚠️ الخبر المختار مكرر ({reason})، تجاهل النشر.")
             return
 
-        title = verdict.get("title", selected["title"])
-        summary = verdict.get("summary", selected["summary"])
-        disclaimer = verdict.get("disclaimer", "هذا الخبر غير مؤكد رسمياً بعد.")
-        image_prompt = verdict.get("image_prompt", selected["title"])
-        reliability_reason = verdict.get("reliability_reason", "")
-        source = selected["source_name"]
-
+        title = verdict.get("title") or selected["title"]
+        summary = verdict.get("summary") or selected["summary"]
         post_content = leak_publisher.build_leak_post_content(
-            reliability_level, reliability_reason, title, summary, disclaimer, source
+            reliability_level,
+            verdict.get("reliability_reason"),
+            title,
+            summary,
+            verdict.get("disclaimer"),
+            selected["source_name"],
+            selected["link"],
         )
-        print(f"🚨 تسريب مختار [{reliability_level}]: {selected['title']}")
-
-        # بروتوكول الصور نفسه المستخدم في النشرة اليومية (صورة حقيقية أولاً، ثم توليد احتياطي)
         image_url = publisher.get_og_image(selected["link"])
-        image_bytes = None
-        if not image_url:
-            image_bytes = ai_handler.generate_google_imagen(image_prompt)
-
-        # تحديث السجل الموحّد قبل النشر لضمان عدم تكرار نفس التسريب لاحقاً حتى لو فشل الإرسال جزئياً
-        history_manager.append_to_history(
-            history, selected["title"], selected["link"], topic_key,
-            entry_type="leak", reliability_level=reliability_level,
+        image_bytes = None if image_url else ai_handler.generate_google_imagen(
+            verdict.get("image_prompt") or selected["title"]
         )
-
         tg_res = leak_publisher.publish_leak_to_telegram(
             reliability_level, title, post_content, image_url, image_bytes
         )
+        if not _is_successful_response(tg_res):
+            print("❌ فشل نشر التسريب:", getattr(tg_res, "text", "No response"))
+            return
 
-        if tg_res is not None and tg_res.status_code == 200:
-            print("✅ تم نشر التسريب بنجاح مع شارة الموثوقية والتحذير.")
-        else:
-            print("❌ خطأ أثناء نشر التسريب على تيليجرام:", tg_res.text if tg_res is not None else "No response")
-
+        message_id = None
+        try:
+            message_id = tg_res.json()["result"]["message_id"]
+        except (AttributeError, KeyError, TypeError, ValueError):
+            pass
+        history_manager.append_to_history(
+            history, selected["title"], selected["link"], classification["topic_key"],
+            entry_type="leak", reliability_level=reliability_level,
+            classification=classification, summary=summary, source_name=selected["source_name"],
+            telegram_message_id=message_id,
+            telegram_message_url=publisher.build_telegram_message_url(
+                message_id, leaks_config.LEAK_TELEGRAM_CHAT_ID
+            ),
+        )
+        print("✅ تم نشر التسريب وحفظه بعد نجاح الإرسال.")
     finally:
         utils.release_lock()
 

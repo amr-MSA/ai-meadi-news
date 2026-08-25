@@ -1,241 +1,214 @@
-"""
-publisher.py
-=========================================================
-كل ما يخص:
-1) بروتوكول الصور: جلب صورة المقال الحقيقية (og:image) والتحقق من أبعادها.
-   (توليد الصورة الاحتياطية عبر Google Imagen موجود في ai_handler.py
-   لأنه استدعاء لنموذج ذكاء اصطناعي — هنا فقط نستهلك نتيجته).
-2) صياغة القالب النهائي الثابت للمنشور.
-3) التواصل الفعلي مع بوت تيليجرام: تحميل الصور محلياً لتفادي حظر الروابط،
-   إرسال الصورة + العنوان، ثم التقرير الكامل، ثم الرد ببطاقة الشركة.
-=========================================================
-"""
+"""اكتشاف صور الأخبار، بناء القوالب، والنشر على Telegram."""
+
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
 
 try:
-    from PIL import Image
     from io import BytesIO
+    from PIL import Image
     PIL_AVAILABLE = True
 except ImportError:
     PIL_AVAILABLE = False
 
 from config import (
-    TELEGRAM_BOT_TOKEN,
-    TELEGRAM_CHAT_ID,
     BAD_IMAGE_HINTS,
-    MIN_IMAGE_DIMENSION,
-    CHANNEL_SIGNATURE,
-    CHANNEL_HASHTAGS,
     CAPTION_HASHTAGS,
+    CHANNEL_HASHTAGS,
+    CHANNEL_SIGNATURE,
+    MIN_IMAGE_DIMENSION,
+    TELEGRAM_BOT_TOKEN,
     TELEGRAM_CAPTION_HARD_LIMIT,
+    TELEGRAM_CHAT_ID,
     TELEGRAM_SHORT_POST_THRESHOLD,
+    TELEGRAM_TEXT_HARD_LIMIT,
 )
-from utils import sanitize_field, escape_telegram_markdown
+from utils import escape_telegram_markdown, sanitize_field
+
+REQUEST_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ai-meadi-news/1.0)"}
 
 
-# =========================================================
-# 1) بروتوكول الصور (أولوية 1: صورة المقال الحقيقية)
-# =========================================================
 def _looks_like_icon(url):
     lowered = url.lower()
     return any(hint in lowered for hint in BAD_IMAGE_HINTS)
 
 
-def _validate_image_dimensions(img_url):
-    """التحقق أن الصورة ليست أيقونة صغيرة عبر أبعادها الفعلية (إن توفرت مكتبة Pillow)."""
+def _validate_image_dimensions(image_url):
     if not PIL_AVAILABLE:
-        return True  # لا نمنع النشر إن كانت المكتبة غير متوفرة، فقط نتجاوز هذا الفحص
+        return True
     try:
-        headers = {"User-Agent": "Mozilla/5.0"}
-        res = requests.get(img_url, headers=headers, timeout=6)
-        img = Image.open(BytesIO(res.content))
-        w, h = img.size
-        return w >= MIN_IMAGE_DIMENSION and h >= MIN_IMAGE_DIMENSION
+        response = requests.get(image_url, headers=REQUEST_HEADERS, timeout=6)
+        response.raise_for_status()
+        image = Image.open(BytesIO(response.content))
+        return image.size[0] >= MIN_IMAGE_DIMENSION and image.size[1] >= MIN_IMAGE_DIMENSION
     except Exception:
-        return True  # تعذر التحقق -> لا نستبعدها ظلماً، النشر يمر عبر مسار الصورة الحقيقية أصلاً
+        return True
 
 
 def get_og_image(article_url):
-    """أولوية 1: جلب صورة المقال الحقيقية (og:image) مع استبعاد الأيقونات الصغيرة."""
     try:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-        res = requests.get(article_url, headers=headers, timeout=8)
-        if res.status_code != 200:
-            return None
-
-        soup = BeautifulSoup(res.text, "html.parser")
+        response = requests.get(article_url, headers=REQUEST_HEADERS, timeout=8)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
         candidates = []
-        og_img = soup.find("meta", property="og:image")
-        if og_img and og_img.get("content"):
-            candidates.append(og_img["content"])
-        tw_img = soup.find("meta", attrs={"name": "twitter:image"})
-        if tw_img and tw_img.get("content"):
-            candidates.append(tw_img["content"])
-
-        for img_url in candidates:
-            if not img_url.startswith("http"):
+        og_image = soup.find("meta", property="og:image")
+        if og_image and og_image.get("content"):
+            candidates.append(og_image["content"])
+        twitter_image = soup.find("meta", attrs={"name": "twitter:image"})
+        if twitter_image and twitter_image.get("content"):
+            candidates.append(twitter_image["content"])
+        for image_url in candidates:
+            image_url = urljoin(article_url, image_url)
+            if not image_url.startswith(("http://", "https://")):
                 continue
-            if img_url.lower().endswith(".ico") or _looks_like_icon(img_url):
+            if image_url.lower().endswith(".ico") or _looks_like_icon(image_url):
                 continue
-            if _validate_image_dimensions(img_url):
-                return img_url
-
-    except Exception as e:
-        print(f"لم تُوجد صورة og:image صالحة: {e}")
-
+            if _validate_image_dimensions(image_url):
+                return image_url
+    except Exception as exc:
+        print(f"لم تُوجد صورة og:image صالحة: {exc}")
     return None
 
 
-# =========================================================
-# 2) القالب الإخباري الثابت
-# =========================================================
-def build_post_content(title, main_event, tech_details_list, impact, source):
-    """القالب الإخباري الثابت (Hardcoded) — لا يُترك للذكاء الاصطناعي كتابته حراً."""
+def build_post_content(title, main_event, tech_details_list, impact, source, source_link=None):
     title = escape_telegram_markdown(sanitize_field(title))
     main_event = escape_telegram_markdown(sanitize_field(main_event))
     impact = escape_telegram_markdown(sanitize_field(impact))
-    tech_details_list = [sanitize_field(p) for p in tech_details_list if sanitize_field(p)]
-    tech_details_list = [escape_telegram_markdown(p) for p in tech_details_list]
-    tech_details = "\n• ".join(tech_details_list) if tech_details_list else "لا توجد تفاصيل إضافية."
-
-    post_content = f"""{title}
+    details = []
+    if isinstance(tech_details_list, (list, tuple)):
+        for detail in tech_details_list:
+            clean_detail = sanitize_field(detail)
+            if clean_detail:
+                details.append(escape_telegram_markdown(clean_detail))
+    details_text = "\n• ".join(details) if details else "لا توجد تفاصيل إضافية."
+    source_name = escape_telegram_markdown(sanitize_field(source))
+    source_url = str(source_link or "").strip()
+    source_footer = f"{source_name}\n🌐 الرابط: {source_url}" if source_url else source_name
+    return f"""{title}
 
 🔹 الحدث الرئيسي:
 {main_event}
 
 🔹 التفاصيل والأرقام التقنية:
-• {tech_details}
+• {details_text}
 
 🔹 الأثر والأهمية:
 {impact}
 
 —
 {CHANNEL_SIGNATURE}
-🔗 المصدر: {source}
+🔗 المصدر: {source_footer}
 {CHANNEL_HASHTAGS}
 """
-    return post_content
 
 
-# =========================================================
-# 3) النشر على تيليجرام (مع التحميل المحلي للبايتس لتفادي حظر الروابط)
-# =========================================================
+def _split_text(text, limit=TELEGRAM_TEXT_HARD_LIMIT):
+    text = str(text or "")
+    chunks = []
+    while len(text) > limit:
+        split_at = text.rfind("\n", 0, limit + 1)
+        if split_at < max(1, limit // 2):
+            split_at = limit
+        if split_at < len(text) and text[split_at] == "\n":
+            chunks.append(text[:split_at].rstrip())
+            text = text[split_at:].lstrip("\n")
+        else:
+            chunks.append(text[:split_at])
+            text = text[split_at:]
+    if text or not chunks:
+        chunks.append(text)
+    return chunks
+
+
+def build_telegram_message_url(message_id, chat_id=None):
+    if not message_id:
+        return None
+    target = str(chat_id or TELEGRAM_CHAT_ID or "").strip()
+    if target.startswith("@"):
+        return f"https://t.me/{target[1:]}/{message_id}"
+    if target.startswith("-100"):
+        return f"https://t.me/c/{target[4:]}/{message_id}"
+    return None
+
+
+def _post_text_messages(target_chat_id, text, limit=TELEGRAM_TEXT_HARD_LIMIT, parse_mode="Markdown"):
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    last_response = None
+    for chunk in _split_text(text, limit=limit):
+        data = {"chat_id": target_chat_id, "text": chunk, "disable_web_page_preview": True}
+        if parse_mode:
+            data["parse_mode"] = parse_mode
+        last_response = requests.post(url, data=data, timeout=30)
+        if last_response.status_code != 200:
+            print(f"⚠️ رفض تيليجرام النص: {last_response.text}")
+            return last_response
+    return last_response
+
+
+def publish_text_to_telegram(text, chat_id=None):
+    try:
+        return _post_text_messages(chat_id or TELEGRAM_CHAT_ID, text, parse_mode=None)
+    except Exception as exc:
+        print(f"⚠️ استثناء أثناء إرسال النص: {exc}")
+        return None
+
+
 def publish_to_telegram(title, post_content, image_url, image_bytes, chat_id=None):
-    """
-    chat_id: اختياري — عند تركه فارغاً يُستخدم TELEGRAM_CHAT_ID الافتراضي (خط النشرة اليومية).
-    خط التسريبات (leak_publisher.py) يمرر LEAK_TELEGRAM_CHAT_ID هنا إن رغب المستخدم
-    مستقبلاً بفصل قناة التسريبات عن قناة النشرة الرسمية، دون أي تعديل إضافي هنا.
-    """
     target_chat_id = chat_id or TELEGRAM_CHAT_ID
     photo_data = None
-
     if image_url:
         try:
-            print("📥 جاري تحميل صورة المقال محلياً عبر السيرفر...")
-            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-            img_res = requests.get(image_url, headers=headers, timeout=12)
-            if img_res.status_code == 200:
-                photo_data = img_res.content
-                print("✅ تم تحميل الصورة بنجاح.")
-        except Exception as e:
-            print(f"⚠️ استثناء أثناء تحميل الصورة: {e}")
-
+            response = requests.get(image_url, headers=REQUEST_HEADERS, timeout=12)
+            response.raise_for_status()
+            if response.content:
+                photo_data = response.content
+        except Exception as exc:
+            print(f"⚠️ تعذر تحميل الصورة الحقيقية: {exc}")
     if not photo_data and image_bytes:
-        print("🎨 استخدام الصورة المُولدة عبر Google Imagen...")
         photo_data = image_bytes
 
-    # اختبار طول المنشور الكامل (مع الفوتر) لتحديد استراتيجية النشر:
-    # - قصير (<= الحد الآمن): كابشن واحد يحوي المنشور كاملاً مع الصورة، برسالة واحدة فقط.
-    # - طويل: صورة + عنوان مختصر فقط كابشن، ثم التقرير الكامل كرسالة نصية منفصلة تالية.
-    is_short_post = len(post_content) <= TELEGRAM_SHORT_POST_THRESHOLD
-
-    if is_short_post:
-        caption_text = post_content
-    else:
-        caption_text = f"🚨 **{escape_telegram_markdown(title)}**\n\n{CAPTION_HASHTAGS}"
-
+    is_short = len(post_content) <= TELEGRAM_SHORT_POST_THRESHOLD
+    caption = post_content if is_short else f"🚨 **{escape_telegram_markdown(title)}**\n\n{CAPTION_HASHTAGS}"
+    caption = caption[:TELEGRAM_CAPTION_HARD_LIMIT]
     if photo_data:
         try:
-            if is_short_post:
-                print(f"📸 المنشور قصير ({len(post_content)} حرف) — نشر الصورة والمنشور كاملاً برسالة واحدة...")
-            else:
-                print(f"📸 المنشور طويل ({len(post_content)} حرف) — نشر الصورة مع العنوان فقط، ثم التقرير لاحقاً...")
-
-            tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
-            res = requests.post(
-                tg_url,
-                data={
-                    "chat_id": target_chat_id,
-                    "caption": caption_text[:TELEGRAM_CAPTION_HARD_LIMIT],
-                    "parse_mode": "Markdown",
-                },
+            photo_response = requests.post(
+                f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto",
+                data={"chat_id": target_chat_id, "caption": caption, "parse_mode": "Markdown"},
                 files={"photo": ("image.jpg", photo_data, "image/jpeg")},
                 timeout=30,
             )
-            if res.status_code == 200:
-                if not is_short_post:
-                    # المنشور طويل: نرسل التقرير المفصل الكامل كرسالة نصية مستقلة (تستوعب حتى 4096 حرف)
-                    print("📤 جاري إرسال التقرير التقني المفصل برسالة نصية تالية...")
-                    msg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-                    requests.post(
-                        msg_url,
-                        data={
-                            "chat_id": target_chat_id,
-                            "text": post_content,
-                            "parse_mode": "Markdown",
-                            "disable_web_page_preview": True,
-                        },
-                        timeout=30,
-                    )
-                return res
-            else:
-                print(f"⚠️ رفض تيليجرام إرسال الصورة: {res.text}")
-        except Exception as e:
-            print(f"⚠️ خطأ أثناء إرسال الصورة: {e}")
-
-    # الملاذ الأخير: إرسال المنشور كاملاً كنص منسق في حال تعذر إرسال الصورة
-    print("📄 النشر كنص كامل منسق (بدون صورة)...")
-    tg_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+            if photo_response.status_code == 200:
+                if not is_short:
+                    details_response = _post_text_messages(target_chat_id, post_content)
+                    if details_response is None or details_response.status_code != 200:
+                        return details_response
+                return photo_response
+            print(f"⚠️ رفض تيليجرام إرسال الصورة: {photo_response.text}")
+        except Exception as exc:
+            print(f"⚠️ خطأ أثناء إرسال الصورة: {exc}")
     try:
-        res = requests.post(
-            tg_url,
-            data={
-                "chat_id": target_chat_id,
-                "text": post_content,
-                "parse_mode": "Markdown",
-                "disable_web_page_preview": True,
-            },
-            timeout=30,
-        )
-        if res.status_code != 200:
-            print(f"⚠️ رفض تيليجرام إرسال النص أيضاً: {res.text}")
-        return res
-    except Exception as e:
-        print(f"⚠️ استثناء أثناء إرسال النص: {e}")
+        return _post_text_messages(target_chat_id, post_content)
+    except Exception as exc:
+        print(f"⚠️ استثناء أثناء إرسال النص: {exc}")
         return None
 
 
-# =========================================================
-# 4) الرد ببطاقة تعريف الشركة (إن وُجدت) على نفس المنشور
-# =========================================================
 def send_company_profile_reply(message_id, company_profile, chat_id=None):
     if not company_profile or str(company_profile).strip().lower() == "null":
         return None
-    target_chat_id = chat_id or TELEGRAM_CHAT_ID
-    reply_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     try:
         return requests.post(
-            reply_url,
+            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
             data={
-                "chat_id": target_chat_id,
-                "text": f"🏢 **بطاقة تعريف بالشركة المذكورة:**\n\n{escape_telegram_markdown(sanitize_field(str(company_profile)))}",
+                "chat_id": chat_id or TELEGRAM_CHAT_ID,
+                "text": f"🏢 **بطاقة تعريف بالشركة المذكورة:**\n\n{escape_telegram_markdown(sanitize_field(company_profile))}",
                 "reply_to_message_id": message_id,
                 "parse_mode": "Markdown",
             },
             timeout=30,
         )
-    except Exception as e:
-        print(f"⚠️ تعذر إرسال بطاقة الشركة: {e}")
+    except Exception as exc:
+        print(f"⚠️ تعذر إرسال بطاقة الشركة: {exc}")
         return None

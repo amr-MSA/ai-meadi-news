@@ -1,57 +1,66 @@
-"""
-leak_fetcher.py
-=========================================================
-جلب آخر عنصر-عنصرين من كل مصدر تسريبات (leaks_config.LEAK_SOURCES)،
-دون أي انتظار أو تأكيد — الهدف الوحيد هنا هو السرعة القصوى.
-التحقق من الموثوقية والقيمة الخبرية يحدث لاحقاً في leak_ai_handler.py.
+"""جلب أحدث مرشحي التسريبات من مصادر RSS."""
 
-يعيد استخدام دوال fetcher.py و history_manager.py الموجودة أصلاً دون
-تعديلها، حفاظاً على الفصل التام بين خط النشرة اليومية وخط التسريبات.
-=========================================================
-"""
-
+import calendar
 import re
-import feedparser
+from datetime import datetime, timedelta, timezone
 
-from leaks_config import LEAK_SOURCES, LEAK_ITEMS_PER_SOURCE
-from fetcher import dedupe_articles_pool
+import feedparser
+import requests
+
+from config import NEWS_MAX_AGE_DAYS, RSS_REQUEST_TIMEOUT_SECONDS
+from fetcher import REQUEST_HEADERS, dedupe_articles_pool
 from history_manager import is_duplicate_against_history
+from leaks_config import LEAK_ITEMS_PER_SOURCE, LEAK_SOURCES
+
+
+def _clean_summary(summary, fallback):
+    text = re.sub(r"<[^>]+>", " ", str(summary or fallback))
+    return re.sub(r"\s+", " ", text).strip()[:400]
 
 
 def fetch_leak_candidates(history):
-    """
-    يُرجع قائمة مرشحين للتسريب: آخر LEAK_ITEMS_PER_SOURCE من كل مصدر،
-    بعد استبعاد أي عنصر مُنشر سابقاً (بنفس الرابط/العنوان) حسب السجل
-    الموحّد (posted_history.json) الذي يغطي خط النشرة اليومية وخط
-    التسريبات معاً.
-    """
+    cutoff = datetime.now(timezone.utc) - timedelta(days=NEWS_MAX_AGE_DAYS)
     candidates = []
     for source in LEAK_SOURCES:
         try:
-            feed = feedparser.parse(source["url"])
-            latest_entries = feed.entries[:LEAK_ITEMS_PER_SOURCE]
-            for entry in latest_entries:
-                title = getattr(entry, "title", "").strip()
-                link = getattr(entry, "link", "").strip()
+            response = requests.get(
+                source["url"], headers=REQUEST_HEADERS, timeout=RSS_REQUEST_TIMEOUT_SECONDS
+            )
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
+            if getattr(feed, "bozo", False) and not feed.entries:
+                raise ValueError(f"خلاصة RSS غير صالحة: {getattr(feed, 'bozo_exception', 'unknown')}")
+
+            accepted_from_source = 0
+            for entry in feed.entries:
+                if accepted_from_source >= LEAK_ITEMS_PER_SOURCE:
+                    break
+                published_struct = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
+                if not published_struct:
+                    continue
+                try:
+                    published_at = datetime.fromtimestamp(
+                        calendar.timegm(published_struct), tz=timezone.utc
+                    )
+                except (TypeError, ValueError, OverflowError):
+                    continue
+                if published_at < cutoff:
+                    continue
+                title = str(getattr(entry, "title", "")).strip()
+                link = str(getattr(entry, "link", "")).strip()
                 if not title or not link:
                     continue
-
                 dup, _ = is_duplicate_against_history(title, link, None, history)
                 if dup:
                     continue
-
-                summary = getattr(entry, "summary", title)
-                clean_summary = re.sub("<[^<]+?>", "", summary)[:400]
-                candidates.append(
-                    {
-                        "title": title,
-                        "link": link,
-                        "summary": clean_summary,
-                        "source_name": source["name"],
-                    }
-                )
-        except Exception as e:
-            print(f"⚠️ خطأ في جلب مصدر التسريبات {source['name']}: {e}")
-
-    # دمج التسريبات المتشابهة القادمة من أكثر من مصدر دفعة واحدة (نفس منطق fetcher.py)
+                candidates.append({
+                    "title": title,
+                    "link": link,
+                    "summary": _clean_summary(getattr(entry, "summary", ""), title),
+                    "source_name": source["name"],
+                    "published_at": published_at.isoformat(),
+                })
+                accepted_from_source += 1
+        except Exception as exc:
+            print(f"⚠️ خطأ في جلب مصدر التسريبات {source['name']}: {exc}")
     return dedupe_articles_pool(candidates)

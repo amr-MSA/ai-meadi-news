@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+news_bot/bot.lock
+news_bot/temp_selected_analysis.json
+.selected_analysis.*
+.posted_history.*.tmp
+.env
+.env.*
