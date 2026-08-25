@@ -76,7 +76,7 @@ def build_leak_post_content(
 {safe_summary}
 
 ⚠️ {safe_disclaimer}
-{f'🖼️ {safe_image_note}' if safe_image_note else ''}
+{f'🏷️ **توضيح الصورة:** {safe_image_note}' if safe_image_note else ''}
 
 —
 {LEAK_SIGNATURE}

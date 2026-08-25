@@ -119,6 +119,7 @@ class CoreBehaviorTests(unittest.TestCase):
             "🟡", "مصدر غير رسمي.", "عنوان", "ملخص", "تنبيه", "مصدر",
             "https://example.com", "صورة توضيحية مولدة بالذكاء الاصطناعي؛ لا تمثل دليلًا على صحة التسريب."
         )
+        self.assertIn("🏷️ **توضيح الصورة:**", content)
         self.assertIn("مولدة بالذكاء الاصطناعي", content)
         self.assertIn("لا تمثل دليلًا", content)
 
