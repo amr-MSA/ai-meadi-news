@@ -118,7 +118,14 @@ def get_leak_og_image(article_url):
     return None
 
 
-def build_post_content(title, main_event, tech_details_list, impact, source, source_link=None):
+def build_post_content(
+    title, main_event, tech_details_list, impact, source, source_link=None,
+    is_update=False, update_summary=""
+):
+    update_banner = ""
+    if is_update:
+        update_text = sanitize_field(update_summary) or "معلومة جوهرية جديدة حول حدث سابق."
+        update_banner = f"🔄 **تحديث جوهري:** {escape_telegram_markdown(update_text)}\n\n"
     title = escape_telegram_markdown(sanitize_field(title))
     main_event = escape_telegram_markdown(sanitize_field(main_event))
     impact = escape_telegram_markdown(sanitize_field(impact))
@@ -132,7 +139,7 @@ def build_post_content(title, main_event, tech_details_list, impact, source, sou
     source_name = escape_telegram_markdown(sanitize_field(source))
     source_url = str(source_link or "").strip()
     source_footer = f"{source_name}\n🌐 الرابط: {source_url}" if source_url else source_name
-    return f"""{title}
+    return f"""{update_banner}{title}
 
 🔹 الحدث الرئيسي:
 {main_event}

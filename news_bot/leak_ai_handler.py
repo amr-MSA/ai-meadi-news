@@ -1,5 +1,7 @@
 """تقييم مرشحي التسريبات عبر Gemini بصياغة تحريرية مختصرة."""
 
+import json
+
 from ai_handler import _generate_json_with_retries
 from leaks_config import RELIABILITY_LEVELS, REQUIRED_LEAK_FIELDS, RELIABILITY_REASON_MAX_CHARACTERS
 
@@ -18,7 +20,7 @@ NEWS_TYPES = (
 )
 
 
-def evaluate_leak_candidates(candidates_pool):
+def evaluate_leak_candidates(candidates_pool, history_context=None):
     """يقيّم المرشحين ويعيد JSON صالحًا أو None."""
     if not candidates_pool:
         return None
@@ -33,6 +35,7 @@ def evaluate_leak_candidates(candidates_pool):
     reliability_guide = "\n".join(
         f"{emoji} → {description}" for emoji, description in RELIABILITY_LEVELS.items()
     )
+    history_text = json.dumps(history_context or [], ensure_ascii=False, indent=2)
 
     prompt = f"""
 أنت محلل استخبارات تقنية. افحص المرشحين وحدد هل يستحق أحدهم النشر كتسريب عاجل.
@@ -41,19 +44,31 @@ def evaluate_leak_candidates(candidates_pool):
 مقياس الموثوقية:
 {reliability_guide}
 
+سجل الأحداث الحديثة للمقارنة:
+{history_text}
+
 القواعد:
 1) اختر عنصرًا واحدًا فقط عند وجود قيمة خبرية حقيقية.
-2) أعد reliability_reason في جملة واحدة مباشرة لا تتجاوز {RELIABILITY_REASON_MAX_CHARACTERS} حرفًا.
+2) قارن المرشح بالسجل الذي سيُرفق مع الطلب. أعد selection_decision بقيمة واحدة فقط: "new" لحدث جديد،
+   "duplicate" للحدث نفسه دون معلومة جديدة، أو "update" لنفس الحدث مع حقائق جديدة جوهرية.
+   لا تعتبر اختلاف المصدر أو إعادة الصياغة معلومة جديدة.
+3) عند update، أعد related_history_index، وnew_facts بقائمة من 1 إلى 3 حقائق جديدة محددة،
+   وupdate_summary في جملة قصيرة. عند new/duplicate اجعل هذه الحقول فارغة أو 0.
+4) أعد reliability_reason في جملة واحدة مباشرة لا تتجاوز {RELIABILITY_REASON_MAX_CHARACTERS} حرفًا.
    اذكر نوع الدليل أو غيابه فقط، ولا تكتب «تنويه» أو «تحذير» أو شرحًا مطولًا.
-3) أعد disclaimer قصيرًا جدًا دون عنوان أو تكرار، مثل: غير مؤكد رسميًا؛ يُنشر لأهميته وسرعته فقط.
-4) اكتب title وsummary بالعربية الفصحى. اجعل summary موجزًا ومركزًا على الادعاء الأساسي،
+5) أعد disclaimer قصيرًا جدًا دون عنوان أو تكرار، مثل: غير مؤكد رسميًا؛ يُنشر لأهميته وسرعته فقط.
+6) اكتب title وsummary بالعربية الفصحى. اجعل summary موجزًا ومركزًا على الادعاء الأساسي،
    ولا يتجاوز 700 حرف. لا تضف أرقامًا أو علاقات سببية غير موجودة في بيانات المرشح.
-5) اكتب topic_key بالإنجليزية وimage_prompt بالإنجليزية.
-6) صنّف الخبر داخل classification وباستخدام news_type واحد فقط من هذه القائمة: {NEWS_TYPES}، أو «أخرى».
+7) اكتب topic_key بالإنجليزية وimage_prompt بالإنجليزية.
+8) صنّف الخبر داخل classification وباستخدام news_type واحد فقط من هذه القائمة: {NEWS_TYPES}، أو «أخرى».
 
 أعد JSON فقط بهذا الشكل:
 {{
   "selected_id": 0,
+  "selection_decision": "new",
+  "related_history_index": 0,
+  "new_facts": [],
+  "update_summary": "",
   "reliability_level": "🔴",
   "reliability_reason": "مصدر غير رسمي دون تأكيد مستقل.",
   "topic_key": "topic-name",

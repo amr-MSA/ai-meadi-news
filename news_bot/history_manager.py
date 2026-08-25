@@ -1,4 +1,4 @@
-"""إدارة سجل الأخبار والتصنيفات ومنع تكرار الأحداث عبر الزمن."""
+"""إدارة سجل الأخبار، هوية الحدث، التحديثات، ومنع التكرار عبر المصادر."""
 
 import json
 import os
@@ -7,11 +7,13 @@ import tempfile
 from datetime import datetime, timedelta, timezone
 
 from config import (
+    EVENT_KEY_MIN_MATCH_FIELDS,
     HISTORY_FILE,
     HISTORY_RETENTION_DAYS,
     NEWS_TYPES,
     TITLE_SIMILARITY_THRESHOLD,
     TOPIC_SIMILARITY_THRESHOLD,
+    UPDATE_MIN_NEW_FACTS,
 )
 from utils import normalize_text, similarity
 
@@ -42,7 +44,6 @@ def load_history():
 
 
 def save_history(history):
-    """حفظ السجل بطريقة ذرية حتى لا يبقى JSON مبتوراً عند توقف العملية."""
     directory = os.path.dirname(HISTORY_FILE) or "."
     os.makedirs(directory, exist_ok=True)
     fd, temp_path = tempfile.mkstemp(prefix=".posted_history.", suffix=".tmp", dir=directory)
@@ -65,6 +66,10 @@ def _clean_value(value, fallback=UNKNOWN):
         return fallback
     text = str(value).strip()
     return text or fallback
+
+
+def _is_known(value):
+    return value not in (None, "", UNKNOWN, "غير محدد", "unknown")
 
 
 def normalize_classification(classification=None):
@@ -94,42 +99,108 @@ def normalize_classification(classification=None):
     }
 
 
+def build_event_key(classification):
+    normalized = normalize_classification(classification)
+    values = [normalized.get(field) for field in CLASSIFICATION_FIELDS]
+    if sum(_is_known(value) for value in values) < EVENT_KEY_MIN_MATCH_FIELDS:
+        return ""
+    return "|".join(normalize_text(value) for value in values)
+
+
 def _exact_classification_match(candidate, existing):
     candidate = normalize_classification(candidate)
     existing = normalize_classification(existing)
     comparable = [
         field for field in CLASSIFICATION_FIELDS
-        if candidate.get(field) not in (None, "", UNKNOWN)
-        and existing.get(field) not in (None, "", UNKNOWN)
+        if _is_known(candidate.get(field)) and _is_known(existing.get(field))
     ]
-    if len(comparable) < 3:
+    if len(comparable) < EVENT_KEY_MIN_MATCH_FIELDS:
         return False
     return all(normalize_text(candidate[field]) == normalize_text(existing[field]) for field in comparable)
 
 
-def compare_candidate_to_history(title, link, classification, history):
-    """يفحص المرشح مقابل كل عنصر في JSON ويعيد سبب أول تطابق مؤكد."""
+def _stored_event_key(item):
+    if not isinstance(item, dict):
+        return ""
+    if item.get("event_key"):
+        return normalize_text(item["event_key"])
+    return build_event_key(item)
+
+
+def find_matching_history(title, link, classification, history):
+    """يفحص كل عناصر السجل ويعيد الحدث المطابق مع سبب المطابقة."""
     candidate = normalize_classification(classification)
+    candidate_event_key = build_event_key(candidate)
     title = _clean_value(title, "")
     link = _clean_value(link, "")
 
     for item in history:
         if not isinstance(item, dict):
             if link and item == link:
-                return True, "link"
+                return {"item": item, "reason": "link", "exact_link": True}
             continue
         if link and item.get("link") == link:
-            return True, "link"
+            return {"item": item, "reason": "link", "exact_link": True}
+
+    for item in history:
+        if isinstance(item, dict) and _exact_classification_match(candidate, item):
+            return {"item": item, "reason": "classification-exact", "exact_link": False}
+
+    if candidate_event_key:
+        for item in history:
+            if isinstance(item, dict) and _stored_event_key(item) == candidate_event_key:
+                return {"item": item, "reason": "event-key", "exact_link": False}
+
+    for item in history:
+        if not isinstance(item, dict):
+            continue
         item_title = item.get("title")
         if item_title and title and similarity(item_title, title) >= TITLE_SIMILARITY_THRESHOLD:
-            return True, "title-similarity"
-        if _exact_classification_match(candidate, item):
-            return True, "classification-exact"
-        existing_topic = _clean_value(item.get("topic_key"), "")
-        if candidate.get("topic_key") not in ("", UNKNOWN) and existing_topic:
-            if similarity(existing_topic, candidate["topic_key"]) >= TOPIC_SIMILARITY_THRESHOLD:
-                return True, "topic-key"
-    return False, None
+            return {"item": item, "reason": "title-similarity", "exact_link": False}
+
+    existing_topic = candidate.get("topic_key")
+    if _is_known(existing_topic):
+        for item in history:
+            if isinstance(item, dict) and _is_known(item.get("topic_key")):
+                if similarity(item["topic_key"], existing_topic) >= TOPIC_SIMILARITY_THRESHOLD:
+                    return {"item": item, "reason": "topic-key", "exact_link": False}
+    return None
+
+
+def classify_candidate_against_history(
+    title, link, classification, history, selection_decision="new", new_facts=None
+):
+    """يعيد new أو duplicate أو update؛ التحديث لا يمر إلا مع حقائق جديدة فعلية."""
+    match = find_matching_history(title, link, classification, history)
+    if not match:
+        return {"action": "new", "reason": None, "existing": None}
+    if match["exact_link"]:
+        return {"action": "duplicate", "reason": "link", "existing": match["item"]}
+
+    facts = new_facts if isinstance(new_facts, list) else []
+    facts = [str(fact).strip() for fact in facts if str(fact).strip()]
+    if selection_decision == "update" and len(facts) >= UPDATE_MIN_NEW_FACTS:
+        event_key = _stored_event_key(match["item"])
+        known_facts = set()
+        if event_key:
+            for item in history:
+                if isinstance(item, dict) and _stored_event_key(item) == event_key:
+                    known_facts.update(normalize_text(fact) for fact in (item.get("new_facts") or []))
+        novel_facts = [fact for fact in facts if normalize_text(fact) not in known_facts]
+        if novel_facts:
+            return {
+                "action": "update",
+                "reason": match["reason"],
+                "existing": match["item"],
+                "novel_facts": novel_facts,
+            }
+        return {"action": "duplicate", "reason": "known-update-facts", "existing": match["item"]}
+    return {"action": "duplicate", "reason": match["reason"], "existing": match["item"]}
+
+
+def compare_candidate_to_history(title, link, classification, history):
+    result = classify_candidate_against_history(title, link, classification, history)
+    return result["action"] != "new", result["reason"]
 
 
 def is_duplicate_against_history(title, link, topic_key, history, classification=None):
@@ -179,6 +250,7 @@ def _build_entry(title, link, topic_key, entry_type, classification, summary, so
         "summary": _clean_value(summary, ""),
         "source_name": _clean_value(source_name, ""),
         "topic_key": normalized["topic_key"],
+        "event_key": build_event_key(normalized),
         "company_name": normalized["company_name"],
         "event_year_month": normalized["event_year_month"],
         "news_type": normalized["news_type"],
@@ -195,9 +267,9 @@ def _build_entry(title, link, topic_key, entry_type, classification, summary, so
 def append_to_history(
     history, title, link, topic_key, entry_type="daily", reliability_level=None,
     classification=None, summary="", source_name="", telegram_message_id=None,
-    telegram_message_url=None,
+    telegram_message_url=None, is_update=False, update_summary="", new_facts=None,
+    updates_event_key="", supersedes_posted_at=None,
 ):
-    """إضافة خبر منشور بعد نجاح الإرسال فقط."""
     entry = _build_entry(title, link, topic_key, entry_type, classification, summary, source_name, "published")
     if reliability_level:
         entry["reliability_level"] = reliability_level
@@ -205,13 +277,19 @@ def append_to_history(
         entry["telegram_message_id"] = telegram_message_id
     if telegram_message_url:
         entry["telegram_message_url"] = telegram_message_url
+    if is_update:
+        entry["is_update"] = True
+        entry["updates_event_key"] = updates_event_key or entry.get("event_key", "")
+        entry["update_summary"] = str(update_summary or "").strip()
+        entry["new_facts"] = [str(fact).strip() for fact in (new_facts or []) if str(fact).strip()]
+        if supersedes_posted_at:
+            entry["supersedes_posted_at"] = supersedes_posted_at
     history.append(entry)
     save_history(history)
     return history
 
 
 def append_skipped_candidates(history, candidates, important_ids, classifications=None):
-    """حفظ الأخبار المهمة التي لم تُختر لتظهر في الملخص الأسبوعي."""
     classifications = classifications if isinstance(classifications, list) else []
     important_ids = {int(item) for item in (important_ids or []) if str(item).isdigit()}
     by_id = {
@@ -245,10 +323,16 @@ def get_recent_history_window(history, days):
         if posted_dt is None or posted_dt >= cutoff:
             window.append({
                 "title": item.get("title", ""),
+                "summary": item.get("summary", ""),
                 "topic_key": item.get("topic_key", ""),
+                "event_key": item.get("event_key", ""),
                 "company_name": item.get("company_name", UNKNOWN),
                 "event_year_month": item.get("event_year_month", UNKNOWN),
                 "news_type": item.get("news_type", "أخرى"),
+                "product_name": item.get("product_name", UNKNOWN),
+                "region": item.get("region", UNKNOWN),
                 "posted_at": item.get("posted_at") or "unknown",
+                "is_update": bool(item.get("is_update")),
+                "update_summary": item.get("update_summary", ""),
             })
     return window

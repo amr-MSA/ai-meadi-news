@@ -50,6 +50,18 @@ def run():
         selected_article = staged["selected_article"]
         content = staged["gemini_analysis"]
         classification = history_manager.normalize_classification(content.get("classification"))
+        selection_decision = content.get("selection_decision", "new")
+        new_facts = content.get("new_facts", [])
+        comparison = history_manager.classify_candidate_against_history(
+            selected_article["title"], selected_article["link"], classification, history,
+            selection_decision=selection_decision, new_facts=new_facts,
+        )
+        if comparison["action"] == "duplicate":
+            print(f"⚠️ الخبر مكرر أو بلا معلومة جوهرية جديدة ({comparison['reason']}).")
+            return
+        is_update = comparison["action"] == "update"
+        new_facts = comparison.get("novel_facts", new_facts)
+        existing = comparison.get("existing") or {}
         title = content.get("title") or selected_article["title"]
         main_event = content.get("main_event_summary") or selected_article["summary"]
         impact = content.get("impact_analysis") or "الأثر قيد التحليل."
@@ -57,7 +69,8 @@ def run():
         source_link = selected_article["link"]
         post_content = publisher.build_post_content(
             title, main_event, content.get("technical_details_points", []),
-            impact, source_name, source_link
+            impact, source_name, source_link, is_update=is_update,
+            update_summary=content.get("update_summary", ""),
         )
 
         image_url = publisher.get_og_image(source_link)
@@ -75,6 +88,9 @@ def run():
             classification=classification, summary=main_event, source_name=source_name,
             telegram_message_id=message_id,
             telegram_message_url=publisher.build_telegram_message_url(message_id),
+            is_update=is_update, update_summary=content.get("update_summary", ""),
+            new_facts=new_facts, updates_event_key=history_manager.build_event_key(classification),
+            supersedes_posted_at=existing.get("posted_at") if is_update else None,
         )
         selected_id = int(content.get("selected_id", 0)) if str(content.get("selected_id", "")).isdigit() else 0
         important_ids = [
@@ -106,11 +122,13 @@ def _select_unique_article(articles_pool, history_context, history):
         selected_article = articles_pool[selected_id - 1]
         classification = history_manager.normalize_classification(candidate.get("classification"))
         classification["topic_key"] = candidate.get("topic_key") or classification["topic_key"]
-        duplicate, reason = history_manager.compare_candidate_to_history(
-            selected_article["title"], selected_article["link"], classification, history
+        comparison = history_manager.classify_candidate_against_history(
+            selected_article["title"], selected_article["link"], classification, history,
+            selection_decision=candidate.get("selection_decision", "new"),
+            new_facts=candidate.get("new_facts", []),
         )
-        if duplicate:
-            print(f"⚠️ الخبر المختار مكرر ({reason})، إعادة المحاولة...")
+        if comparison["action"] == "duplicate":
+            print(f"⚠️ الخبر المختار مكرر أو بلا تحديث جوهري ({comparison['reason']})، إعادة المحاولة...")
             continue
         candidate["classification"] = classification
         return candidate, selected_article

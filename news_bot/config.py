@@ -42,6 +42,9 @@ ARTICLES_POOL_MAX = 15
 SELECTION_MAX_ATTEMPTS = 2
 TITLE_SIMILARITY_THRESHOLD = 0.80
 TOPIC_SIMILARITY_THRESHOLD = 0.72
+EVENT_KEY_MIN_MATCH_FIELDS = 3
+UPDATE_SUMMARY_MAX_CHARACTERS = 400
+UPDATE_MIN_NEW_FACTS = 1
 
 FORBIDDEN_PATTERNS = [
     r"شارك[وا]?نا\s*رأي\w*",
@@ -83,6 +86,10 @@ REQUIRED_GEMINI_FIELDS = [
     "classification",
     "important_unselected_ids",
     "candidate_classifications",
+    "selection_decision",
+    "related_history_index",
+    "new_facts",
+    "update_summary",
 ]
 
 TELEGRAM_CAPTION_HARD_LIMIT = 1024

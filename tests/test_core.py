@@ -1,3 +1,4 @@
+import json
 import os
 import sys
 import tempfile
@@ -73,6 +74,91 @@ class CoreBehaviorTests(unittest.TestCase):
         )
         self.assertTrue(duplicate)
         self.assertEqual(reason, "classification-exact")
+
+    def test_same_event_from_different_source_is_duplicate_without_update(self):
+        classification = {
+            "company_name": "Acme",
+            "event_year_month": "2026-08",
+            "news_type": "ذكاء اصطناعي",
+            "product_name": "Model X",
+            "region": "Global",
+            "topic_key": "acme-model-x",
+        }
+        existing = [{**classification, "link": "https://source-a.example/item", "title": "الخبر الأول"}]
+        result = history_manager.classify_candidate_against_history(
+            "الخبر نفسه بصياغة مختلفة", "https://source-b.example/item", classification, existing,
+            selection_decision="new", new_facts=[]
+        )
+        self.assertEqual(result["action"], "duplicate")
+        self.assertIn(result["reason"], {"event-key", "classification-exact"})
+
+    def test_same_event_is_update_only_with_novel_facts(self):
+        classification = {
+            "company_name": "Acme",
+            "event_year_month": "2026-08",
+            "news_type": "ذكاء اصطناعي",
+            "product_name": "Model X",
+            "region": "Global",
+            "topic_key": "acme-model-x",
+        }
+        event_key = history_manager.build_event_key(classification)
+        existing = [{
+            **classification,
+            "event_key": event_key,
+            "link": "https://source-a.example/item",
+            "title": "الخبر الأول",
+            "new_facts": ["الإعلان الأول"],
+        }]
+        duplicate = history_manager.classify_candidate_against_history(
+            "تحديث بصياغة أخرى", "https://source-b.example/item", classification, existing,
+            selection_decision="update", new_facts=["الإعلان الأول"]
+        )
+        update = history_manager.classify_candidate_against_history(
+            "تحديث بصياغة أخرى", "https://source-c.example/item", classification, existing,
+            selection_decision="update", new_facts=["موعد الإطلاق الجديد"]
+        )
+        self.assertEqual(duplicate["action"], "duplicate")
+        self.assertEqual(update["action"], "update")
+        self.assertEqual(update["novel_facts"], ["موعد الإطلاق الجديد"])
+
+    def test_update_metadata_is_saved_after_publish(self):
+        classification = {
+            "company_name": "Acme",
+            "event_year_month": "2026-08",
+            "news_type": "ذكاء اصطناعي",
+            "product_name": "Model X",
+            "region": "Global",
+            "topic_key": "acme-model-x",
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            path = os.path.join(directory, "history.json")
+            history = []
+            with patch.object(history_manager, "HISTORY_FILE", path):
+                history_manager.append_to_history(
+                    history, "تحديث", "https://example.com/update", "acme-model-x",
+                    classification=classification, is_update=True,
+                    update_summary="إضافة موعد الإطلاق", new_facts=["موعد الإطلاق الجديد"],
+                    updates_event_key=history_manager.build_event_key(classification),
+                    supersedes_posted_at="2026-08-20T10:00:00+00:00",
+                )
+                with open(path, encoding="utf-8") as handle:
+                    saved = json.load(handle)
+        self.assertTrue(saved[0]["is_update"])
+        self.assertEqual(saved[0]["new_facts"], ["موعد الإطلاق الجديد"])
+        self.assertEqual(saved[0]["supersedes_posted_at"], "2026-08-20T10:00:00+00:00")
+
+    def test_weekly_summary_prompt_requires_editorial_synthesis(self):
+        captured = {}
+        def fake_generate(prompt):
+            captured["prompt"] = prompt
+            return {"part1": "تحليل", "part2": "غير منشور"}
+        with patch.object(weekly_summary_ai, "_generate_json_with_retries", side_effect=fake_generate):
+            result = weekly_summary_ai.generate_weekly_summary(
+                [{"title": "خبر", "summary": "ملخص", "link": "https://example.com"}], []
+            )
+        self.assertEqual(result["part1"], "تحليل")
+        self.assertIn("أعد بناء الصورة العامة للأسبوع", captured["prompt"])
+        self.assertIn("لا تكرر العنوان والملخص", captured["prompt"])
 
     def test_old_history_is_pruned_by_real_age(self):
         from datetime import datetime, timedelta, timezone

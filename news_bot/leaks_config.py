@@ -43,6 +43,10 @@ REQUIRED_LEAK_FIELDS = [
     "disclaimer",
     "image_prompt",
     "classification",
+    "selection_decision",
+    "related_history_index",
+    "new_facts",
+    "update_summary",
 ]
 
 LEAK_HEADER = "🚨 تسريب / خبر عاجل غير مؤكد رسمياً"

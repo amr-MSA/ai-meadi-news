@@ -49,7 +49,8 @@ def run():
         if not candidates:
             print("🧐 لا توجد عناصر جديدة من مصادر التسريبات هذه الجولة.")
             return
-        verdict = leak_ai_handler.evaluate_leak_candidates(candidates)
+        history_context = history_manager.get_recent_history_window(history, 60)
+        verdict = leak_ai_handler.evaluate_leak_candidates(candidates, history_context)
         if not isinstance(verdict, dict):
             return
         try:
@@ -74,12 +75,18 @@ def run():
             **(verdict.get("classification") or {}),
             "topic_key": verdict.get("topic_key"),
         })
-        duplicate, reason = history_manager.compare_candidate_to_history(
-            selected["title"], selected["link"], classification, history
+        selection_decision = verdict.get("selection_decision", "new")
+        new_facts = verdict.get("new_facts", [])
+        comparison = history_manager.classify_candidate_against_history(
+            selected["title"], selected["link"], classification, history,
+            selection_decision=selection_decision, new_facts=new_facts,
         )
-        if duplicate:
-            print(f"⚠️ الخبر المختار مكرر ({reason})، تجاهل النشر.")
+        if comparison["action"] == "duplicate":
+            print(f"⚠️ الخبر المختار مكرر أو بلا تحديث جوهري ({comparison['reason']})، تجاهل النشر.")
             return
+        is_update = comparison["action"] == "update"
+        new_facts = comparison.get("novel_facts", new_facts)
+        existing = comparison.get("existing") or {}
 
         title = verdict.get("title") or selected["title"]
         summary = verdict.get("summary") or selected["summary"]
@@ -129,6 +136,9 @@ def run():
             telegram_message_url=publisher.build_telegram_message_url(
                 message_id, leaks_config.LEAK_TELEGRAM_CHAT_ID
             ),
+            is_update=is_update, update_summary=verdict.get("update_summary", ""),
+            new_facts=new_facts, updates_event_key=history_manager.build_event_key(classification),
+            supersedes_posted_at=existing.get("posted_at") if is_update else None,
         )
         print("✅ تم نشر التسريب وحفظه بعد نجاح الإرسال.")
     finally:

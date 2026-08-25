@@ -75,13 +75,22 @@ def call_gemini_for_selection(articles_pool, history_context):
 1) اختر خبرًا واحدًا فقط غير مكرر.
 2) topic_key بالإنجليزية، وimage_prompt وصف بصري محايد بالإنجليزية.
 3) اكتب بالعربية الفصحى المباشرة دون مقدمات تسويقية أو أسئلة تفاعلية.
-4) صنف الخبر المختار، واذكر أرقام الأخبار المهمة التي لم تخترها في important_unselected_ids.
-5) أعد candidate_classifications لتلك الأخبار فقط، مع سبب مختصر لأهميتها.
-6) لا تخترع معلومات غير موجودة في بيانات الأخبار.
+4) قارن كل مرشح بالسجل. أعد selection_decision بقيمة واحدة فقط: "new" إذا كان حدثًا جديدًا،
+   "duplicate" إذا كان نفس الحدث دون معلومة جوهرية جديدة، أو "update" إذا كان نفس الحدث
+   لكن المصدر يضيف معلومة جوهرية فعلية. لا تسمح بالتحديث إذا كانت new_facts فارغة.
+5) عند update، أعد related_history_index (رقم عنصر السجل، أو 0 إن لم يوجد)، وnew_facts
+   بقائمة من 1 إلى 3 حقائق جديدة محددة، وupdate_summary في جملة قصيرة. عند new/duplicate اجعلها فارغة.
+6) صنف الخبر المختار، واذكر أرقام الأخبار المهمة التي لم تخترها في important_unselected_ids.
+7) أعد candidate_classifications لتلك الأخبار فقط، مع سبب مختصر لأهميتها.
+8) لا تخترع معلومات غير موجودة في بيانات الأخبار، ولا تعتبر اختلاف المصدر وحده معلومة جديدة.
 
 أعد كائن JSON فقط:
 {{
   "selected_id": 1,
+  "selection_decision": "new",
+  "related_history_index": 0,
+  "new_facts": [],
+  "update_summary": "",
   "topic_key": "topic-name",
   "image_prompt": "Neutral visual description of the subject only",
   "title": "العنوان الرئيسي المباشر للخبر",
