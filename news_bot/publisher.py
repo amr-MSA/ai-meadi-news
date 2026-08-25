@@ -24,6 +24,14 @@ from config import (
     TELEGRAM_SHORT_POST_THRESHOLD,
     TELEGRAM_TEXT_HARD_LIMIT,
 )
+from leaks_config import (
+    LEAK_IMAGE_ASPECT_RATIO_MAX,
+    LEAK_IMAGE_ASPECT_RATIO_MIN,
+    LEAK_IMAGE_MAX_BYTES,
+    LEAK_IMAGE_MIN_BYTES,
+    LEAK_IMAGE_MIN_HEIGHT,
+    LEAK_IMAGE_MIN_WIDTH,
+)
 from utils import escape_telegram_markdown, sanitize_field
 
 REQUEST_HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ai-meadi-news/1.0)"}
@@ -68,6 +76,45 @@ def get_og_image(article_url):
                 return image_url
     except Exception as exc:
         print(f"لم تُوجد صورة og:image صالحة: {exc}")
+    return None
+
+
+def get_leak_og_image(article_url):
+    """يعيد صورة مصدر صالحة فقط بعد تحقق صارم؛ لا يقبل صورة عامة أو غير قابلة للتحقق."""
+    try:
+        response = requests.get(article_url, headers=REQUEST_HEADERS, timeout=8)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+        candidates = []
+        for selector in [
+            soup.find("meta", property="og:image"),
+            soup.find("meta", attrs={"name": "twitter:image"}),
+        ]:
+            if selector and selector.get("content"):
+                candidates.append(urljoin(article_url, selector["content"]))
+        for image_url in candidates:
+            if not image_url.startswith(("http://", "https://")) or _looks_like_icon(image_url):
+                continue
+            image_response = requests.get(image_url, headers=REQUEST_HEADERS, timeout=10)
+            image_response.raise_for_status()
+            content = image_response.content
+            if not LEAK_IMAGE_MIN_BYTES <= len(content) <= LEAK_IMAGE_MAX_BYTES:
+                continue
+            if not PIL_AVAILABLE:
+                continue
+            with Image.open(BytesIO(content)) as image:
+                image.verify()
+            with Image.open(BytesIO(content)) as image:
+                width, height = image.size
+            ratio = width / height if height else 0
+            if (
+                width >= LEAK_IMAGE_MIN_WIDTH
+                and height >= LEAK_IMAGE_MIN_HEIGHT
+                and LEAK_IMAGE_ASPECT_RATIO_MIN <= ratio <= LEAK_IMAGE_ASPECT_RATIO_MAX
+            ):
+                return image_url
+    except Exception as exc:
+        print(f"⚠️ لم تجتز صورة التسريب تحقق المصدر: {exc}")
     return None
 
 

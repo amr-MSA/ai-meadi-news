@@ -10,6 +10,8 @@ import requests
 from google import genai
 from google.genai import types
 
+from utils import sanitize_field
+
 from config import (
     GEMINI_API_KEY,
     GEMINI_MAX_RETRIES,
@@ -158,10 +160,29 @@ def cleanup_temp_analysis():
         pass
 
 
-def generate_google_imagen(subject_prompt):
+def build_leak_image_prompt(subject_prompt):
+    """قالب صارم لصورة توضيحية لا يمكن فهمها كدليل على التسريب."""
+    subject = sanitize_field(subject_prompt)[:180] or "an abstract technology security event"
+    return f"""Create a square editorial illustration for a technology news post.
+Subject: {subject}
+Purpose: neutral visual accompaniment for an unverified allegation, never evidence.
+Composition: one clear symbolic subject, centered, uncluttered background, strong silhouette,
+professional editorial technology style, dark navy and cyan palette, 1:1 composition.
+Visual language: abstract conceptual illustration, non-photorealistic, no realistic people.
+Hard constraints: no readable text, no letters, no numbers, no logos, no brand marks, no trademarks,
+no product interfaces, no dashboards, no source code, no terminal, no hacking screen, no screenshots,
+no chat posts, no social media interface, no documents, no newspaper clipping, no leaked files,
+no credentials, no personal data, no flags, no watermark, no claims of confirmation, no visual proof.
+The result must look like an editorial illustration only and must not imply that the allegation is verified."""
+
+
+def generate_google_imagen(subject_prompt, image_kind="news"):
     if not GEMINI_API_KEY:
         return None
-    final_prompt = IMAGEN_STYLE_WRAPPER.format(subject=str(subject_prompt)[:200])
+    if image_kind == "leak_illustration":
+        final_prompt = build_leak_image_prompt(subject_prompt)
+    else:
+        final_prompt = IMAGEN_STYLE_WRAPPER.format(subject=str(subject_prompt)[:200])
     url = f"https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:predict?key={GEMINI_API_KEY}"
     try:
         response = requests.post(
