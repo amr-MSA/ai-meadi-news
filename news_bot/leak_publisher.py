@@ -1,70 +1,93 @@
-"""
-leak_publisher.py
-=========================================================
-قالب نشر مختص بالتسريبات/العاجل — مختلف عمداً عن قالب النشرة اليومية:
-يبدأ بشارة تحذير واضحة (🔴🟠🟡🟢) وسبب التصنيف، ثم تحذير صريح بعدم
-التأكد الرسمي، قبل عرض تفاصيل الخبر نفسه.
+"""قالب ونشر التسريبات بصياغة مختصرة وواضحة."""
 
-يعيد استخدام دوال التحميل والنشر الفعلي من publisher.py (get_og_image،
-publish_to_telegram) دون تعديلها — فقط قالب النص والتوقيع مختلفان.
-=========================================================
-"""
+import re
 
-from utils import sanitize_field, escape_telegram_markdown
 from leaks_config import (
-    RELIABILITY_LEVELS,
+    DISCLAIMER_MAX_CHARACTERS,
+    FIXED_LEAK_DISCLAIMER,
+    LEAK_CAPTION_HASHTAGS,
+    LEAK_HASHTAGS,
     LEAK_HEADER,
     LEAK_SIGNATURE,
-    LEAK_HASHTAGS,
-    LEAK_CAPTION_HASHTAGS,
     LEAK_TELEGRAM_CHAT_ID,
+    LEAK_SUMMARY_MAX_CHARACTERS,
+    LEAK_TITLE_MAX_CHARACTERS,
+    RELIABILITY_REASON_MAX_CHARACTERS,
 )
 from publisher import publish_to_telegram as _publish_to_telegram
+from utils import escape_telegram_markdown, sanitize_field
+
+SHORT_RELIABILITY_LABELS = {
+    "🔴": "منخفض جدًا",
+    "🟠": "ضعيف",
+    "🟡": "متوسط",
+    "🟢": "مرتفع نسبيًا",
+}
 
 
-def build_leak_post_content(reliability_level, reliability_reason, title, summary, disclaimer, source):
-    """قالب التسريبات الثابت: شارة الموثوقية أولاً، ثم التحذير، ثم الخبر."""
-    reliability_label = RELIABILITY_LEVELS.get(reliability_level, "غير مصنّف")
+def _compact_text(value, limit, fallback):
+    text = sanitize_field(value) or fallback
+    text = re.sub(
+        r"^(?:(?:تنويه|تنبيه|تحذير|ملاحظة)\s*:\s*)+",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
+    return re.sub(r"\s+", " ", text).strip()[:limit].rstrip(" ،؛:")
 
-    title = escape_telegram_markdown(sanitize_field(title))
-    summary = escape_telegram_markdown(sanitize_field(summary))
-    reliability_reason = escape_telegram_markdown(sanitize_field(reliability_reason))
-    disclaimer = escape_telegram_markdown(sanitize_field(disclaimer))
 
-    post_content = f"""{LEAK_HEADER}
+def build_leak_post_content(
+    reliability_level, reliability_reason, title, summary, disclaimer, source, source_link=None
+):
+    reason = _compact_text(
+        reliability_reason,
+        RELIABILITY_REASON_MAX_CHARACTERS,
+        "مصدر غير رسمي دون تأكيد مستقل.",
+    )
+    short_disclaimer = _compact_text(
+        FIXED_LEAK_DISCLAIMER,
+        DISCLAIMER_MAX_CHARACTERS,
+        FIXED_LEAK_DISCLAIMER,
+    )
+    safe_title = escape_telegram_markdown(
+        _compact_text(title, LEAK_TITLE_MAX_CHARACTERS, "تسريب تقني")
+    )
+    safe_summary = escape_telegram_markdown(
+        _compact_text(summary, LEAK_SUMMARY_MAX_CHARACTERS, "لا تتوفر تفاصيل إضافية.")
+    )
+    safe_reason = escape_telegram_markdown(reason)
+    safe_disclaimer = escape_telegram_markdown(short_disclaimer)
+    source_name = escape_telegram_markdown(sanitize_field(source))
+    source_url = str(source_link or "").strip()
+    source_footer = f"{source_name}\n🌐 الرابط: {source_url}" if source_url else source_name
+    reliability_label = SHORT_RELIABILITY_LABELS.get(reliability_level, "غير مصنف")
 
-{reliability_level} مستوى الموثوقية: {reliability_label}
-📝 سبب التصنيف: {reliability_reason}
+    return f"""{LEAK_HEADER}
 
-🔹 {title}
+{reliability_level} الموثوقية: {reliability_label}
+📝 التبرير: {safe_reason}
 
-{summary}
+🔹 {safe_title}
 
-⚠️ تنويه: {disclaimer}
+{safe_summary}
+
+⚠️ {safe_disclaimer}
 
 —
 {LEAK_SIGNATURE}
-🔗 المصدر الأولي: {source}
+🔗 المصدر الأولي: {source_footer}
 {LEAK_HASHTAGS}
 """
-    return post_content
 
 
 def build_leak_caption(reliability_level, title):
-    """نص مختصر يُرسل مع الصورة (تحت 1024 حرف) — شارة الموثوقية + العنوان فقط."""
     safe_title = escape_telegram_markdown(sanitize_field(title))
     return f"{reliability_level} 🚨 **{safe_title}**\n\n{LEAK_CAPTION_HASHTAGS}"
 
 
 def publish_leak_to_telegram(reliability_level, title, post_content, image_url, image_bytes):
-    """
-    يستخدم نفس آلية publisher.publish_to_telegram (تحميل الصورة محلياً، ثم
-    الرسالة النصية الكاملة) لكن مع كابشن مخصص يحمل شارة الموثوقية،
-    وينشر إلى LEAK_TELEGRAM_CHAT_ID (يساوي القناة الرسمية افتراضياً).
-    """
-    caption_title = f"{reliability_level} {title}"
     return _publish_to_telegram(
-        title=caption_title,
+        title=f"{reliability_level} {title}",
         post_content=post_content,
         image_url=image_url,
         image_bytes=image_bytes,

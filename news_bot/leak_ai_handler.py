@@ -1,88 +1,99 @@
-"""
-leak_ai_handler.py
-=========================================================
-يرسل مرشحي التسريب إلى Gemini ليقوم بدورين معاً في استدعاء واحد:
-1) الحَكَم: هل يستحق أي من هذه العناصر النشر كتسريب/عاجل، أم أنها
-   ضجيج/شائعة تافهة/محتوى غير تقني لا يستحق المخاطرة بالنشر؟
-2) المحلل: إن استحق، ما هو "مستوى الموثوقية" (🔴🟠🟡🟢) بناءً على قوة
-   المصدر وعدد القرائن الداعمة، مع صياغة تحذير صريح للقارئ.
-
-يعيد استخدام _generate_json_with_retries من ai_handler.py لتفادي تكرار
-منطق إعادة المحاولة عند الضغط على Gemini.
-=========================================================
-"""
-
-import json
+"""تقييم مرشحي التسريبات عبر Gemini بصياغة تحريرية مختصرة."""
 
 from ai_handler import _generate_json_with_retries
-from leaks_config import RELIABILITY_LEVELS, REQUIRED_LEAK_FIELDS
+from leaks_config import RELIABILITY_LEVELS, REQUIRED_LEAK_FIELDS, RELIABILITY_REASON_MAX_CHARACTERS
+
+
+NEWS_TYPES = (
+    "ذكاء اصطناعي",
+    "أمن سيبراني",
+    "برمجيات",
+    "أجهزة وعتاد",
+    "أنظمة تشغيل",
+    "تطوير وبرمجة",
+    "سحابة ومراكز بيانات",
+    "أعمال وتقنية",
+    "خصوصية وبيانات",
+    "أخرى",
+)
 
 
 def evaluate_leak_candidates(candidates_pool):
-    """
-    candidates_pool: قائمة عناصر (من leak_fetcher.fetch_leak_candidates)، كل عنصر
-    يحمل عنوان/رابط/ملخص/اسم المصدر.
-
-    يُعيد قاموساً بالحقول المطلوبة (REQUIRED_LEAK_FIELDS) أو None إن لم يستحق
-    أي عنصر النشر (selected_id == 0) أو عند فشل الاتصال.
-    """
+    """يقيّم المرشحين ويعيد JSON صالحًا أو None."""
     if not candidates_pool:
         return None
 
     items_text = ""
-    for idx, item in enumerate(candidates_pool, 1):
+    for index, item in enumerate(candidates_pool, 1):
         items_text += (
-            f"ID: {idx} | Source: {item['source_name']}\n"
+            f"ID: {index} | Source: {item['source_name']}\n"
             f"Title: {item['title']}\nSummary: {item['summary']}\nLink: {item['link']}\n---\n"
         )
 
-    reliability_guide = "\n".join(f"{emoji} → {desc}" for emoji, desc in RELIABILITY_LEVELS.items())
+    reliability_guide = "\n".join(
+        f"{emoji} → {description}" for emoji, description in RELIABILITY_LEVELS.items()
+    )
 
     prompt = f"""
-أنت محلل استخبارات تقنية سريع الحركة يراقب التسريبات والأخبار العاجلة قبل أن
-تنتشر في المواقع الشهيرة (مثال واقعي: تسريب كود Anthropic المصدري الذي لم
-تُغطِّه المواقع الكبرى إلا بعد فوات الأوان). مهمتك اتخاذ قرار سريع، وليس
-التحقق الكامل — السرعة هنا مقصودة وتُقابلها شفافية تامة عن درجة اليقين.
+أنت محلل استخبارات تقنية. افحص المرشحين وحدد هل يستحق أحدهم النشر كتسريب عاجل.
+لا تنشر الشائعة التافهة أو الخبر المؤكد رسميًا. إذا لم يستحق أي عنصر، أعد selected_id=0.
 
-مقياس الموثوقية الذي يجب عليك استخدامه حرفياً (اختر رمزاً واحداً فقط):
+مقياس الموثوقية:
 {reliability_guide}
 
-قواعد صارمة:
-1) افحص كل عنصر في القائمة: هل هو تسريب/خبر تقني عاجل حقيقي يستحق المخاطرة
-   بالنشر السريع (كود مصدري، تسريب منتج/نموذج AI قبل الإطلاق الرسمي، اختراق
-   بيانات، وثيقة داخلية مسرّبة، إلخ)؟ استبعد الشائعات التافهة، المحتوى غير
-   التقني، والأخبار المؤكدة رسمياً أصلاً (تلك تخص النشرة اليومية العادية لا هذا الخط).
-2) إن لم يستحق أي عنصر النشر إطلاقاً، أعد "selected_id": 0 وباقي الحقول فارغة.
-3) إن وُجد عنصر يستحق، اختر واحداً فقط (الأهم/الأخطر)، وحدد "reliability_level"
-   بدقة حسب المقياس أعلاه، مع "reliability_reason" (سبب مختصر وصادق لهذا التصنيف).
-4) "disclaimer" يجب أن يكون تحذيراً صريحاً وواضحاً للقارئ باللغة العربية يوضح
-   أن هذا الخبر لم يُؤكد رسمياً بعد ويُنشر لأهميته وسرعته فقط.
-5) "topic_key" بالإنجليزية بصيغة قصيرة وموحّدة، و"image_prompt" وصف بصري محايد بالإنجليزية.
-6) "title" و"summary" بلغة عربية فصيحة مباشرة، بدون أي مقدمات تسويقية أو أسئلة تفاعلية.
+القواعد:
+1) اختر عنصرًا واحدًا فقط عند وجود قيمة خبرية حقيقية.
+2) أعد reliability_reason في جملة واحدة مباشرة لا تتجاوز {RELIABILITY_REASON_MAX_CHARACTERS} حرفًا.
+   اذكر نوع الدليل أو غيابه فقط، ولا تكتب «تنويه» أو «تحذير» أو شرحًا مطولًا.
+3) أعد disclaimer قصيرًا جدًا دون عنوان أو تكرار، مثل: غير مؤكد رسميًا؛ يُنشر لأهميته وسرعته فقط.
+4) اكتب title وsummary بالعربية الفصحى. اجعل summary موجزًا ومركزًا على الادعاء الأساسي،
+   ولا يتجاوز 700 حرف. لا تضف أرقامًا أو علاقات سببية غير موجودة في بيانات المرشح.
+5) اكتب topic_key بالإنجليزية وimage_prompt بالإنجليزية.
+6) صنّف الخبر داخل classification وباستخدام news_type واحد فقط من هذه القائمة: {NEWS_TYPES}، أو «أخرى».
 
-أعد فقط كائن JSON بالهيكل التالي (بدون أي نص خارج الـ JSON):
+أعد JSON فقط بهذا الشكل:
 {{
   "selected_id": 0,
   "reliability_level": "🔴",
-  "reliability_reason": "سبب التصنيف",
+  "reliability_reason": "مصدر غير رسمي دون تأكيد مستقل.",
   "topic_key": "topic-name",
   "title": "عنوان مباشر للتسريب",
-  "summary": "شرح مختصر ومباشر لما تم تسريبه ولماذا يهم القارئ التقني",
-  "disclaimer": "نص تحذير صريح بعدم التأكد الرسمي",
-  "image_prompt": "Neutral visual description of the subject only"
+  "summary": "ملخص موجز للادعاء وأهميته التقنية",
+  "disclaimer": "غير مؤكد رسميًا؛ يُنشر لأهميته وسرعته فقط.",
+  "image_prompt": "Neutral visual description of the subject only",
+  "classification": {
+    "company_name": "اسم الشركة أو غير محدد",
+    "event_year_month": "YYYY-MM أو غير محدد",
+    "news_type": "أخرى",
+    "product_name": "اسم المنتج أو غير محدد",
+    "region": "المنطقة أو غير محدد",
+    "topic_key": "topic-name",
+    "keywords": ["keyword"]
+  }
 }}
 
-العناصر المرشحة لهذه الجولة:
+المرشحون:
 {items_text}
 """
 
     result = _generate_json_with_retries(prompt)
-    if not result:
+    if not isinstance(result, dict):
         return None
 
-    missing = [f for f in REQUIRED_LEAK_FIELDS if f not in result]
+    missing = [field for field in REQUIRED_LEAK_FIELDS if field not in result]
     if missing:
         print(f"❌ رد Gemini (تسريبات) ناقص الحقول المطلوبة: {missing}")
         return None
 
+    try:
+        selected_id = int(result.get("selected_id", 0))
+    except (TypeError, ValueError):
+        print("❌ رد Gemini (تسريبات) يحتوي selected_id غير صالح.")
+        return None
+    if selected_id < 0:
+        print("❌ رد Gemini (تسريبات) يحتوي selected_id سالبًا.")
+        return None
+    if selected_id and result.get("reliability_level") not in RELIABILITY_LEVELS:
+        print("❌ رد Gemini (تسريبات) يحتوي مستوى موثوقية غير معروف.")
+        return None
     return result

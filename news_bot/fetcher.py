@@ -1,65 +1,80 @@
-"""
-fetcher.py
-=========================================================
-جلب الأخبار من مصادر RSS، وتصفيتها مبدئياً:
-1) استبعاد أي خبر مطابق حرفياً أو شبه مطابق لسجل سابق (فلترة أولية سريعة).
-2) دمج الأخبار المتشابهة القادمة من مصادر مختلفة (نفس الحدث بروابط
-   مختلفة) والاحتفاظ بنسخة واحدة فقط قبل حتى إرسالها لِلنموذج.
+"""جلب الأخبار اليومية من مصادر RSS وتصفيتها مبدئيًا."""
 
-هذا الملف لا يقرر أبداً "الأهم" بين الأخبار — هذا القرار أصبح بالكامل
-من اختصاص Gemini في ai_handler.py، بعد أن يستلم دفعة المقالات + السياق
-التاريخي معاً (انظر config.ARTICLES_POOL_MIN/MAX).
-=========================================================
-"""
-
+import calendar
 import re
-import feedparser
+from datetime import datetime, timedelta, timezone
 
-from config import RSS_SOURCES, TITLE_SIMILARITY_THRESHOLD, ARTICLES_POOL_MAX
-from utils import similarity
+import feedparser
+import requests
+
+from config import (
+    ARTICLES_POOL_MAX,
+    NEWS_MAX_AGE_DAYS,
+    RSS_REQUEST_TIMEOUT_SECONDS,
+    RSS_SOURCES,
+    TITLE_SIMILARITY_THRESHOLD,
+)
 from history_manager import is_duplicate_against_history
+from utils import similarity
+
+REQUEST_HEADERS = {"User-Agent": "ai-meadi-news/1.0 (+https://github.com/amr-MSA/ai-meadi-news)"}
+
+
+def _clean_summary(summary, fallback):
+    text = re.sub(r"<[^>]+>", " ", str(summary or fallback))
+    return re.sub(r"\s+", " ", text).strip()[:300]
+
+
+def _entry_datetime(entry):
+    for field in ("published_parsed", "updated_parsed"):
+        value = getattr(entry, field, None)
+        if value:
+            try:
+                return datetime.fromtimestamp(calendar.timegm(value), tz=timezone.utc)
+            except (TypeError, ValueError, OverflowError):
+                continue
+    return None
+
+
+def _fetch_feed(url):
+    response = requests.get(url, headers=REQUEST_HEADERS, timeout=RSS_REQUEST_TIMEOUT_SECONDS)
+    response.raise_for_status()
+    return feedparser.parse(response.content)
 
 
 def fetch_news(history):
-    """يجلب الأخبار من كل المصادر، يستبعد المكرر مقابل السجل، ثم يُعيد
-    دفعة نظيفة (بحد أقصى ARTICLES_POOL_MAX) جاهزة لإرسالها إلى Gemini."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=NEWS_MAX_AGE_DAYS)
     articles = []
     for source in RSS_SOURCES:
         try:
-            feed = feedparser.parse(source["url"])
+            feed = _fetch_feed(source["url"])
+            if getattr(feed, "bozo", False) and not feed.entries:
+                raise ValueError(f"خلاصة RSS غير صالحة: {getattr(feed, 'bozo_exception', 'unknown')}")
             for entry in feed.entries:
-                dup, _ = is_duplicate_against_history(entry.title, entry.link, None, history)
+                published_at = _entry_datetime(entry)
+                if published_at is None or published_at < cutoff:
+                    continue
+                title = str(getattr(entry, "title", "")).strip()
+                link = str(getattr(entry, "link", "")).strip()
+                if not title or not link:
+                    continue
+                dup, _ = is_duplicate_against_history(title, link, None, history)
                 if not dup:
-                    summary = getattr(entry, "summary", entry.title)
-                    clean_summary = re.sub("<[^<]+?>", "", summary)[:300]
-                    articles.append(
-                        {
-                            "title": entry.title,
-                            "link": entry.link,
-                            "summary": clean_summary,
-                            "source_name": source["name"],
-                        }
-                    )
-        except Exception as e:
-            print(f"خطأ في جلب {source['name']}: {e}")
-
-    unique_articles = dedupe_articles_pool(articles)
-    return unique_articles[:ARTICLES_POOL_MAX]
+                    articles.append({
+                        "title": title,
+                        "link": link,
+                        "summary": _clean_summary(getattr(entry, "summary", ""), title),
+                        "source_name": source["name"],
+                        "published_at": published_at.isoformat(),
+                    })
+        except Exception as exc:
+            print(f"خطأ في جلب {source['name']}: {exc}")
+    return dedupe_articles_pool(articles)[:ARTICLES_POOL_MAX]
 
 
 def dedupe_articles_pool(articles):
-    """
-    قبل حتى إرسال الأخبار إلى Gemini: تجميع الأخبار المتشابهة القادمة من مصادر مختلفة
-    (نفس الحدث بروابط وعناوين مختلفة) والاحتفاظ بنسخة واحدة فقط.
-    هذا يمنع مباشرة سيناريو "نفس خبر ميتا من مصدرين مختلفين" حتى قبل وصوله للنموذج.
-    """
     unique = []
-    for art in articles:
-        is_dup = False
-        for kept in unique:
-            if similarity(art["title"], kept["title"]) >= TITLE_SIMILARITY_THRESHOLD:
-                is_dup = True
-                break
-        if not is_dup:
-            unique.append(art)
+    for article in articles:
+        if not any(similarity(article["title"], kept["title"]) >= TITLE_SIMILARITY_THRESHOLD for kept in unique):
+            unique.append(article)
     return unique
