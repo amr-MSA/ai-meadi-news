@@ -524,5 +524,14 @@
     "month": "2026-08",
     "posted_at": "2026-08-24T13:49:30.729860",
     "type": "daily"
+  },
+  {
+    "title": "Docs: Meta plans to launch its version of OpenClaw, codenamed Hatch, in late August or early September and its latest AI model, Watermelon, in October (Jyoti Mann/The Information)",
+    "link": "https://www.techmeme.com/260824/p37#a260824p37",
+    "topic_key": "meta-ai-roadmap-leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-25T00:35:25.754400",
+    "type": "leak",
+    "reliability_level": "🟡"
   }
 ]
