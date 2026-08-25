@@ -14,6 +14,14 @@ def _is_successful_response(response):
     return response is not None and getattr(response, "status_code", None) == 200
 
 
+def _image_allowed_for_reliability(level):
+    levels = list(leaks_config.RELIABILITY_LEVELS)
+    try:
+        return levels.index(level) >= levels.index(leaks_config.LEAK_IMAGE_MIN_RELIABILITY)
+    except ValueError:
+        return False
+
+
 def _meets_reliability_threshold(level):
     minimum = leaks_config.MIN_RELIABILITY_TO_PUBLISH
     if minimum is None:
@@ -75,6 +83,22 @@ def run():
 
         title = verdict.get("title") or selected["title"]
         summary = verdict.get("summary") or selected["summary"]
+        image_url = None
+        image_bytes = None
+        image_note = None
+        if _image_allowed_for_reliability(reliability_level):
+            image_url = publisher.get_leak_og_image(selected["link"])
+            if image_url:
+                image_note = leaks_config.LEAK_SOURCE_IMAGE_NOTE
+            elif leaks_config.LEAK_IMAGE_FALLBACK_ENABLED:
+                image_bytes = ai_handler.generate_google_imagen(
+                    verdict.get("image_prompt") or selected["title"],
+                    image_kind="leak_illustration",
+                )
+                if image_bytes:
+                    image_note = leaks_config.LEAK_AI_IMAGE_NOTE
+        else:
+            print("ℹ️ لن تُرفق صورة لأن مستوى موثوقية التسريب منخفض جدًا.")
         post_content = leak_publisher.build_leak_post_content(
             reliability_level,
             verdict.get("reliability_reason"),
@@ -83,10 +107,7 @@ def run():
             verdict.get("disclaimer"),
             selected["source_name"],
             selected["link"],
-        )
-        image_url = publisher.get_og_image(selected["link"])
-        image_bytes = None if image_url else ai_handler.generate_google_imagen(
-            verdict.get("image_prompt") or selected["title"]
+            image_note=image_note,
         )
         tg_res = leak_publisher.publish_leak_to_telegram(
             reliability_level, title, post_content, image_url, image_bytes

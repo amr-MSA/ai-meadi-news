@@ -37,7 +37,8 @@ def _compact_text(value, limit, fallback):
 
 
 def build_leak_post_content(
-    reliability_level, reliability_reason, title, summary, disclaimer, source, source_link=None
+    reliability_level, reliability_reason, title, summary, disclaimer, source,
+    source_link=None, image_note=None
 ):
     reason = _compact_text(
         reliability_reason,
@@ -57,6 +58,9 @@ def build_leak_post_content(
     )
     safe_reason = escape_telegram_markdown(reason)
     safe_disclaimer = escape_telegram_markdown(short_disclaimer)
+    safe_image_note = escape_telegram_markdown(
+        _compact_text(image_note, 150, "")
+    ) if image_note else ""
     source_name = escape_telegram_markdown(sanitize_field(source))
     source_url = str(source_link or "").strip()
     source_footer = f"{source_name}\n🌐 الرابط: {source_url}" if source_url else source_name
@@ -72,6 +76,7 @@ def build_leak_post_content(
 {safe_summary}
 
 ⚠️ {safe_disclaimer}
+{f'🖼️ {safe_image_note}' if safe_image_note else ''}
 
 —
 {LEAK_SIGNATURE}

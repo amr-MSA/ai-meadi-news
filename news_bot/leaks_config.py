@@ -56,3 +56,15 @@ DISCLAIMER_MAX_CHARACTERS = 120
 LEAK_TITLE_MAX_CHARACTERS = 180
 LEAK_SUMMARY_MAX_CHARACTERS = 700
 FIXED_LEAK_DISCLAIMER = "غير مؤكد رسميًا؛ يُنشر لأهميته وسرعته فقط."
+
+# سياسة الصور: الأخبار الضعيفة أو الغامضة لا تحصل على صورة كي لا تضخّم الشائعة.
+LEAK_IMAGE_MIN_RELIABILITY = "🟡"
+LEAK_IMAGE_MIN_BYTES = 8 * 1024
+LEAK_IMAGE_MAX_BYTES = 8 * 1024 * 1024
+LEAK_IMAGE_MIN_WIDTH = 600
+LEAK_IMAGE_MIN_HEIGHT = 400
+LEAK_IMAGE_ASPECT_RATIO_MIN = 0.55
+LEAK_IMAGE_ASPECT_RATIO_MAX = 1.90
+LEAK_IMAGE_FALLBACK_ENABLED = True
+LEAK_SOURCE_IMAGE_NOTE = "صورة مرتبطة بالموضوع وليست دليلًا على صحة التسريب."
+LEAK_AI_IMAGE_NOTE = "صورة توضيحية مولدة بالذكاء الاصطناعي؛ لا تمثل دليلًا على صحة التسريب."

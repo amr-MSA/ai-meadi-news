@@ -9,8 +9,10 @@ from unittest.mock import patch
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(PROJECT_ROOT, "news_bot"))
 
+import ai_handler
 import fetcher
 import history_manager
+import leaks_main
 import leak_publisher
 import main
 import publisher
@@ -90,6 +92,18 @@ class CoreBehaviorTests(unittest.TestCase):
         self.assertIn("مصدر تقني", content)
         self.assertIn("https://example.com/news", content)
 
+    def test_leak_image_policy_blocks_low_reliability(self):
+        self.assertFalse(leaks_main._image_allowed_for_reliability("🔴"))
+        self.assertFalse(leaks_main._image_allowed_for_reliability("🟠"))
+        self.assertTrue(leaks_main._image_allowed_for_reliability("🟡"))
+        self.assertTrue(leaks_main._image_allowed_for_reliability("🟢"))
+
+    def test_leak_image_prompt_is_strict_and_has_no_evidence_language(self):
+        prompt = ai_handler.build_leak_image_prompt("اختراق شركة X مع لقطة شاشة")
+        for phrase in ["no readable text", "no logos", "no screenshots", "no visual proof", "never evidence"]:
+            self.assertIn(phrase, prompt.lower())
+        self.assertIn("اختراق شركة X", prompt)
+
     def test_leak_post_compacts_reason_and_disclaimer(self):
         content = leak_publisher.build_leak_post_content(
             "🟡", "تنويه: تحذير: " + "سبب طويل " * 50, "عنوان", "ملخص", "تحذير طويل", "مصدر", "https://example.com"
@@ -99,6 +113,14 @@ class CoreBehaviorTests(unittest.TestCase):
         self.assertEqual(content.count("تنويه"), 0)
         self.assertEqual(content.count("تحذير"), 0)
         self.assertEqual(content.count("غير مؤكد رسميًا"), 1)
+
+    def test_leak_post_marks_ai_illustration_without_claiming_evidence(self):
+        content = leak_publisher.build_leak_post_content(
+            "🟡", "مصدر غير رسمي.", "عنوان", "ملخص", "تنبيه", "مصدر",
+            "https://example.com", "صورة توضيحية مولدة بالذكاء الاصطناعي؛ لا تمثل دليلًا على صحة التسريب."
+        )
+        self.assertIn("مولدة بالذكاء الاصطناعي", content)
+        self.assertIn("لا تمثل دليلًا", content)
 
     def test_invalid_gemini_id_is_rejected(self):
         articles = [{"title": "خبر", "link": "https://example.com"}]
