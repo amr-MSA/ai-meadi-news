@@ -542,5 +542,14 @@
     "posted_at": "2026-08-25T08:28:57.285719",
     "type": "leak",
     "reliability_level": "🟠"
+  },
+  {
+    "title": "Qwen3.8-Flash-Next tomorrow",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwtyd/qwen38flashnext_tomorrow/",
+    "topic_key": "qwen-flash-next-leak",
+    "month": "2026-08",
+    "posted_at": "2026-08-25T12:24:24.789912",
+    "type": "leak",
+    "reliability_level": "🟠"
   }
 ]
