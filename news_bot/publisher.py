@@ -118,6 +118,15 @@ def get_leak_og_image(article_url):
     return None
 
 
+def build_markdown_source_link(source_link, label="المصدر"):
+    """يبني رابطًا مضمنًا في Telegram Markdown، أو يعيد فراغًا للرابط غير الصالح."""
+    source_url = str(source_link or "").strip()
+    if not source_url.startswith(("http://", "https://")):
+        return ""
+    safe_url = source_url.replace("\\", "\\\\").replace(")", "\\)")
+    return f"[{escape_telegram_markdown(label)}]({safe_url})"
+
+
 def build_post_content(
     title, main_event, tech_details_list, impact, source, source_link=None,
     is_update=False, update_summary=""
@@ -137,8 +146,11 @@ def build_post_content(
                 details.append(escape_telegram_markdown(clean_detail))
     details_text = "\n• ".join(details) if details else "لا توجد تفاصيل إضافية."
     source_name = escape_telegram_markdown(sanitize_field(source))
-    source_url = str(source_link or "").strip()
-    source_footer = f"{source_name}\n🌐 الرابط: {source_url}" if source_url else source_name
+    source_link_markdown = build_markdown_source_link(source_link)
+    source_footer = (
+        f"{source_name}\n🔗 {source_link_markdown}"
+        if source_link_markdown else source_name
+    )
     return f"""{update_banner}{title}
 
 🔹 الحدث الرئيسي:

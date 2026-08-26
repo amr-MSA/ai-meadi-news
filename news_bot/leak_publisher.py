@@ -14,7 +14,7 @@ from leaks_config import (
     LEAK_TITLE_MAX_CHARACTERS,
     RELIABILITY_REASON_MAX_CHARACTERS,
 )
-from publisher import publish_to_telegram as _publish_to_telegram
+from publisher import build_markdown_source_link, publish_to_telegram as _publish_to_telegram
 from utils import escape_telegram_markdown, sanitize_field
 
 SHORT_RELIABILITY_LABELS = {
@@ -62,8 +62,11 @@ def build_leak_post_content(
         _compact_text(image_note, 150, "")
     ) if image_note else ""
     source_name = escape_telegram_markdown(sanitize_field(source))
-    source_url = str(source_link or "").strip()
-    source_footer = f"{source_name}\n🌐 الرابط: {source_url}" if source_url else source_name
+    source_link_markdown = build_markdown_source_link(source_link)
+    source_footer = (
+        f"{source_name}\n🔗 {source_link_markdown}"
+        if source_link_markdown else source_name
+    )
     reliability_label = SHORT_RELIABILITY_LABELS.get(reliability_level, "غير مصنف")
 
     return f"""{LEAK_HEADER}

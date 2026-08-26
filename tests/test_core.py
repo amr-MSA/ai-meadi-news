@@ -198,12 +198,24 @@ class CoreBehaviorTests(unittest.TestCase):
                 self.assertEqual(history_manager.prune_history(history), 1)
         self.assertEqual([item["title"] for item in history], ["recent"])
 
-    def test_source_name_and_link_are_in_footer(self):
+    def test_source_name_and_link_are_embedded_in_footer(self):
         content = publisher.build_post_content(
             "عنوان", "حدث", ["تفصيل"], "أثر", "مصدر تقني", "https://example.com/news"
         )
         self.assertIn("مصدر تقني", content)
-        self.assertIn("https://example.com/news", content)
+        self.assertIn("🔗 [المصدر](https://example.com/news)", content)
+        self.assertNotIn("🌐 الرابط:", content)
+
+    def test_source_link_falls_back_safely_for_invalid_url(self):
+        self.assertEqual(publisher.build_markdown_source_link("ftp://example.com/news"), "")
+
+    def test_leak_source_link_is_embedded_in_footer(self):
+        content = leak_publisher.build_leak_post_content(
+            "🟡", "مصدر غير رسمي.", "عنوان", "ملخص", "تنبيه", "مصدر",
+            "https://example.com/leak"
+        )
+        self.assertIn("🔗 [المصدر](https://example.com/leak)", content)
+        self.assertNotIn("🌐 الرابط:", content)
 
     def test_leak_image_policy_blocks_low_reliability(self):
         self.assertFalse(leaks_main._image_allowed_for_reliability("🔴"))
