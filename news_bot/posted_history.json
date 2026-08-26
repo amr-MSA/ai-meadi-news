@@ -1,373 +1,5 @@
 [
   {
-    "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
-    "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
-    "topic_key": "Sandworm-WireGuard-Trojan",
-    "month": "2026-08",
-    "posted_at": "2026-08-11T21:43:05.120832",
-    "type": "daily"
-  },
-  {
-    "title": "Researchers find that feeding a frontier model's encrypted reasoning traces to a weaker model from the same provider can make it output the traces in plaintext (Will Knight/Wired)",
-    "link": "https://www.techmeme.com/260811/p37#a260811p37",
-    "topic_key": "ai-reasoning-traces-leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-11T21:46:22.006601",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-    "topic_key": "Microsoft-Patch-Tuesday-August-2026",
-    "month": "2026-08",
-    "posted_at": "2026-08-11T21:53:56.375858",
-    "type": "daily"
-  },
-  {
-    "title": "All the more reason not to use Closed Models ... Claude now officially \"marks\" AI-generated content ... steganographically, apparently ... and there are false positives already",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vlr43b/all_the_more_reason_not_to_use_closed_models/",
-    "topic_key": "claude-steganographic-watermarking",
-    "month": "2026-08",
-    "posted_at": "2026-08-12T00:57:30.904170",
-    "type": "leak",
-    "reliability_level": "🟠"
-  },
-  {
-    "title": "Researchers say suspected Chinese hackers used open-source AI agents to build an autonomous hacking tool that compromised Taiwanese government websites in July (Tom Wilson/Financial Times)",
-    "link": "https://www.techmeme.com/260812/p2#a260812p2",
-    "topic_key": "ai-autonomous-cyberattack",
-    "month": "2026-08",
-    "posted_at": "2026-08-12T05:23:07.825721",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "A serious incident occurred at MyDr, a Polish healthcare system provider",
-    "link": "https://databreaches.net/2026/08/12/a-serious-incident-occurred-at-mydr-a-polish-healthcare-system-provider/",
-    "topic_key": "mydr-healthcare-data-leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-12T12:41:39.460188",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
-    "topic_key": "Signal-Automatic-Key-Verification",
-    "month": "2026-08",
-    "posted_at": "2026-08-12T14:19:28.837598",
-    "type": "daily"
-  },
-  {
-    "title": "Prompt Injection Experiments with Opus-5 in Claude Code – Auto-Mode Edition",
-    "link": "https://itmeetsot.eu/posts/2026-08-12-opus5_automode/",
-    "topic_key": "claude-code-prompt-injection",
-    "month": "2026-08",
-    "posted_at": "2026-08-12T16:45:00.306921",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Qwen3.8-2.4T-A95B Released",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/",
-    "topic_key": "qwen-model-release",
-    "month": "2026-08",
-    "posted_at": "2026-08-12T20:31:38.085658",
-    "type": "leak",
-    "reliability_level": "🟠"
-  },
-  {
-    "title": "More Novo Nordisk data dumped by FulcrumSec",
-    "link": "https://databreaches.net/2026/08/12/more-novo-nordisk-data-dumped-by-fulcrumsec/",
-    "topic_key": "novo-nordisk-ai-data-leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-13T00:59:06.600302",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
-    "link": "https://www.techmeme.com/260812/p56#a260812p56",
-    "topic_key": "anthropic-decart-acquisition",
-    "month": "2026-08",
-    "posted_at": "2026-08-13T03:58:20.432245",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Ransomware Attack Disables Canadian Hospital’s Doors, HVAC",
-    "link": "https://databreaches.net/2026/08/12/ransomware-attack-disables-canadian-hospitals-doors-hvac/",
-    "topic_key": "hospital-ot-ransomware",
-    "month": "2026-08",
-    "posted_at": "2026-08-13T05:38:06.024478",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-    "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
-    "topic_key": "windows-plug-and-pwn-vulnerability",
-    "month": "2026-08",
-    "posted_at": "2026-08-13T14:21:46.193824",
-    "type": "daily"
-  },
-  {
-    "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/",
-    "topic_key": "deepseek-v4-pro-leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-13T16:44:13.420503",
-    "type": "leak",
-    "reliability_level": "🟠"
-  },
-  {
-    "title": "Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ (Milana Vinn/Reuters)",
-    "link": "https://www.techmeme.com/260813/p43#a260813p43",
-    "topic_key": "workday-silverlake-acquisition",
-    "month": "2026-08",
-    "posted_at": "2026-08-13T20:29:28.620903",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Sources: OpenAI is on track to generate annualized revenue of $40B+ based on its current performance, roughly doubling its run rate from the end of 2025 (Bloomberg)",
-    "link": "https://www.techmeme.com/260813/p49#a260813p49",
-    "topic_key": "openai-revenue-leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-13T22:29:41.515982",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
-    "link": "https://www.techmeme.com/260814/p2#a260814p2",
-    "topic_key": "apple-china-llm",
-    "month": "2026-08",
-    "posted_at": "2026-08-14T05:23:29.913356",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-    "topic_key": "VMware-vCenter-RCE-Exploit",
-    "month": "2026-08",
-    "posted_at": "2026-08-14T14:15:10.937343",
-    "type": "daily"
-  },
-  {
-    "title": "France investigates tax authority breach after hacker claims 600,000 victims",
-    "link": "https://databreaches.net/2026/08/14/france-investigates-tax-authority-breach-after-hacker-claims-600000-victims/",
-    "topic_key": "france-tax-authority-data-breach",
-    "month": "2026-08",
-    "posted_at": "2026-08-14T16:39:39.712055",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price (Wall Street Journal)",
-    "link": "https://www.techmeme.com/260814/p22#a260814p22",
-    "topic_key": "paypal-stripe-acquisition-talks",
-    "month": "2026-08",
-    "posted_at": "2026-08-14T20:21:09.408261",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Sources: Nvidia has reworked a deal to finance an OpenAI Ohio data center campus so that it would initially guarantee only half of its planned $250B backstop (Anissa Gardizy/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260814/p30#a260814p30",
-    "topic_key": "nvidia-openai-datacenter-deal",
-    "month": "2026-08",
-    "posted_at": "2026-08-15T00:34:09.858500",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Source and letter: the US plans to tell 35 partner countries they'll be excluded from the US-led Pax Silica initiative if they also join China's rival framework (Michael Martina/Reuters)",
-    "link": "https://www.techmeme.com/260814/p35#a260814p35",
-    "topic_key": "us-pax-silica-ai-ultimatum",
-    "month": "2026-08",
-    "posted_at": "2026-08-15T04:19:38.474012",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore (Zijing Wu/Financial Times)",
-    "link": "https://www.techmeme.com/260815/p4#a260815p4",
-    "topic_key": "meta-manus-deal-unwind",
-    "month": "2026-08",
-    "posted_at": "2026-08-15T06:18:25.863106",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-    "topic_key": "sap-commerce-cloud-rce-vulnerability",
-    "month": "2026-08",
-    "posted_at": "2026-08-15T13:28:20.094494",
-    "type": "daily"
-  },
-  {
-    "title": "ChatGPT upcoming speed improvements summarized by OpenAI employee",
-    "link": "https://www.reddit.com/r/singularity/comments/1vp3eh6/chatgpt_upcoming_speed_improvements_summarized_by/",
-    "topic_key": "chatgpt-speed-improvements",
-    "month": "2026-08",
-    "posted_at": "2026-08-15T16:11:29.710449",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Time ran out for victims; CRPx0 puts data up for sale",
-    "link": "https://databreaches.net/2026/08/15/time-ran-out-for-victims-crpx0-puts-data-up-for-sale/",
-    "topic_key": "crpx0-data-breach-leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-15T18:12:55.457704",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Sources: Nvidia in talks to invest up to $3B in SoftBank-backed data center developer SB Energy that aims to IPO soon and is behind a huge OpenAI campus in Ohio (The Information)",
-    "link": "https://www.techmeme.com/260815/p14#a260815p14",
-    "topic_key": "nvidia-sbenergy-openai-investment",
-    "month": "2026-08",
-    "posted_at": "2026-08-15T22:09:59.721655",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "NC: Possible cyberattack hits Wake election software vendor, leaving poll workers’ data exposed",
-    "link": "https://databreaches.net/2026/08/15/nc-possible-cyberattack-hits-wake-election-software-vendor-leaving-poll-workers-data-exposed/",
-    "topic_key": "wake-election-vendor-breach",
-    "month": "2026-08",
-    "posted_at": "2026-08-16T00:35:42.476499",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-    "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-    "topic_key": "evooo1bot-linux-botnet",
-    "month": "2026-08",
-    "posted_at": "2026-08-16T13:29:34.618317",
-    "type": "daily"
-  },
-  {
-    "title": "500 Hosts, 1 TB and No Negotiation: Anubis Provides Details on the Fairlife Attack",
-    "link": "https://databreaches.net/2026/08/16/500-hosts-1-tb-and-no-negotiation-anubis-provides-details-on-the-fairlife-attack/",
-    "topic_key": "anubis-fairlife-breach",
-    "month": "2026-08",
-    "posted_at": "2026-08-16T14:12:14.095256",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May (Bloomberg)",
-    "link": "https://www.techmeme.com/260816/p9#a260816p9",
-    "topic_key": "stripe-openrouter-acquisition",
-    "month": "2026-08",
-    "posted_at": "2026-08-16T22:09:35.437620",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Ryde Data Breach Exposes 4.5M Customer Accounts Across Nordic Region",
-    "link": "https://ebuildersecurity.se/en/cyber-news/ryde-data-breach-4-5-million-nordic-accounts-2026/",
-    "topic_key": "ryde-nordic-data-breach",
-    "month": "2026-08",
-    "posted_at": "2026-08-17T12:20:08.155730",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-    "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-    "topic_key": "AmnesiaStealer-macOS-Browser-Hijack",
-    "month": "2026-08",
-    "posted_at": "2026-08-17T13:37:35.127008",
-    "type": "daily"
-  },
-  {
-    "title": "Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility (Emanuel Maiberg/404 Media)",
-    "link": "https://www.techmeme.com/260817/p20#a260817p20",
-    "topic_key": "amazon-ai-book-scanning",
-    "month": "2026-08",
-    "posted_at": "2026-08-17T14:18:43.192450",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "More than 2 million user records from TaxAct allegedly acquired; 450k already leaked",
-    "link": "https://databreaches.net/2026/08/17/more-than-2-million-user-records-from-taxact-allegedly-acquired-450k-already-leaked/",
-    "topic_key": "taxact-data-breach",
-    "month": "2026-08",
-    "posted_at": "2026-08-17T16:13:56.259587",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "235 GB of PHI and internal documents dumped; Chaos claims it comes from Healthcare Highways",
-    "link": "https://databreaches.net/2026/08/17/235-gb-of-phi-and-internal-documents-dumped-chaos-claims-it-comes-from-healthcare-highways/",
-    "topic_key": "healthcare-highways-data-breach",
-    "month": "2026-08",
-    "posted_at": "2026-08-17T20:14:04.682197",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "A video found in the macOS Tahoe 26.7 release candidate appears to show a man demoing camera-equipped AirPods using Visual Intelligence (Juli Clover/MacRumors)",
-    "link": "https://www.techmeme.com/260817/p38#a260817p38",
-    "topic_key": "airpods-camera-leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-18T02:46:33.885497",
-    "type": "leak",
-    "reliability_level": "🟢"
-  },
-  {
-    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-    "topic_key": "certighost-pki-vulnerability",
-    "month": "2026-08",
-    "posted_at": "2026-08-18T13:41:12.808423",
-    "type": "daily"
-  },
-  {
-    "title": "OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold (Ina Fried/Axios)",
-    "link": "https://www.techmeme.com/260818/p29#a260818p29",
-    "topic_key": "openai-rl-pause-breach",
-    "month": "2026-08",
-    "posted_at": "2026-08-18T20:11:12.072935",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Clop Claims Data Theft From More Than 40 Companies",
-    "link": "https://databreaches.net/2026/08/18/clop-claims-data-theft-from-more-than-40-companies/",
-    "topic_key": "clop-mass-data-breach",
-    "month": "2026-08",
-    "posted_at": "2026-08-18T22:11:53.411763",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Sources: Temporal is in talks for a fresh funding round that would give the open-source orchestration platform developer a ~$500M raise at a $12B+ valuation (Bloomberg)",
-    "link": "https://www.techmeme.com/260818/p43#a260818p43",
-    "topic_key": "temporal-funding-talks",
-    "month": "2026-08",
-    "posted_at": "2026-08-19T02:49:06.599722",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
-    "title": "Microsoft starts removing WMIC tool used by cybercriminals",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
-    "topic_key": "windows11-wmic-removal-security",
-    "month": "2026-08",
-    "posted_at": "2026-08-19T13:42:39.351988",
-    "type": "daily"
-  },
-  {
     "title": "A hacker known as Cyberleek leaks two GTA VI gameplay clips and the full map in protest of Rockstar Games' digital-only release; Rockstar issues DMCA takedowns (Jowi Morales/Tom's Hardware)",
     "link": "https://www.techmeme.com/260819/p21#a260819p21",
     "topic_key": "gta-6-leak",
@@ -559,5 +191,108 @@
     "month": "2026-08",
     "posted_at": "2026-08-25T13:48:52.485422",
     "type": "daily"
+  },
+  {
+    "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+    "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+    "summary": "كشفت التقارير الأمنية عن منصة احتيال كخدمة (PhaaS) جديدة تُسمى AnonyMousKIT، تقوم بأتمتة الاتصالات الهاتفية باستخدام وكلاء الذكاء الاصطناعي الصوتي لاستهداف أصحاب هواتف آيفون المسروقة والحصول على رموز المرور لتعطيل قفل التنشيط.",
+    "source_name": "BleepingComputer",
+    "topic_key": "anonymouskit-voice-ai-iphone-phishing",
+    "event_key": "apple|2026 08|أمن سيبراني|iphone|عالمي",
+    "company_name": "Apple",
+    "event_year_month": "2026-08",
+    "news_type": "أمن سيبراني",
+    "product_name": "iPhone",
+    "region": "عالمي",
+    "keywords": [
+      "Apple",
+      "iPhone",
+      "Voice AI",
+      "Phishing",
+      "Activation Lock",
+      "AnonyMousKIT"
+    ],
+    "month": "2026-08",
+    "posted_at": "2026-08-26T13:56:45.376808+00:00",
+    "type": "daily",
+    "status": "published",
+    "telegram_message_id": 115,
+    "telegram_message_url": "https://t.me/Eng_limitless/115"
+  },
+  {
+    "title": "Ubiquiti patches three max severity security vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+    "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
+    "source_name": "BleepingComputer",
+    "topic_key": "Ubiquiti patches three max sev",
+    "event_key": "",
+    "company_name": "غير محدد",
+    "event_year_month": "غير محدد",
+    "news_type": "أخرى",
+    "product_name": "غير محدد",
+    "region": "غير محدد",
+    "keywords": [],
+    "month": "2026-08",
+    "posted_at": "2026-08-26T13:56:45.378174+00:00",
+    "type": "daily_candidate",
+    "status": "skipped",
+    "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+    "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
+    "source_name": "BleepingComputer",
+    "topic_key": "Microsoft tests new privacy co",
+    "event_key": "",
+    "company_name": "غير محدد",
+    "event_year_month": "غير محدد",
+    "news_type": "أخرى",
+    "product_name": "غير محدد",
+    "region": "غير محدد",
+    "keywords": [],
+    "month": "2026-08",
+    "posted_at": "2026-08-26T13:56:45.378209+00:00",
+    "type": "daily_candidate",
+    "status": "skipped",
+    "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Massive DDoS attack disrupts Norway’s government digital services",
+    "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+    "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
+    "source_name": "BleepingComputer",
+    "topic_key": "Massive DDoS attack disrupts N",
+    "event_key": "",
+    "company_name": "غير محدد",
+    "event_year_month": "غير محدد",
+    "news_type": "أخرى",
+    "product_name": "غير محدد",
+    "region": "غير محدد",
+    "keywords": [],
+    "month": "2026-08",
+    "posted_at": "2026-08-26T13:56:45.378230+00:00",
+    "type": "daily_candidate",
+    "status": "skipped",
+    "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+    "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
+    "source_name": "BleepingComputer",
+    "topic_key": "WhatsApp adds stronger two-ste",
+    "event_key": "",
+    "company_name": "غير محدد",
+    "event_year_month": "غير محدد",
+    "news_type": "أخرى",
+    "product_name": "غير محدد",
+    "region": "غير محدد",
+    "keywords": [],
+    "month": "2026-08",
+    "posted_at": "2026-08-26T13:56:45.378248+00:00",
+    "type": "daily_candidate",
+    "status": "skipped",
+    "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
   }
 ]
