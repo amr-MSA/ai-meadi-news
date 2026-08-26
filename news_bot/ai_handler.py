@@ -12,9 +12,35 @@ from google.genai import types
 
 from utils import sanitize_field
 
+_last_gemini_request_at = None
+
+
+def _wait_for_gemini_request():
+    """يفرض فاصلًا أدنى بين جميع طلبات Gemini وImagen في العملية الحالية."""
+    global _last_gemini_request_at
+    now = time.monotonic()
+    if _last_gemini_request_at is None:
+        wait_seconds = GEMINI_INITIAL_REQUEST_DELAY_SECONDS
+    else:
+        elapsed = now - _last_gemini_request_at
+        wait_seconds = max(0, GEMINI_MIN_REQUEST_INTERVAL_SECONDS - elapsed)
+    if wait_seconds > 0:
+        print(f"⏳ انتظار {wait_seconds:.1f} ثانية قبل طلب Google التالي.")
+        time.sleep(wait_seconds)
+    _last_gemini_request_at = time.monotonic()
+
+
+# تُستخدم الاختبارات فقط لإعادة حالة محدد المعدل دون انتظار فعلي بين الحالات.
+def _reset_request_limiter_for_tests():
+    global _last_gemini_request_at
+    _last_gemini_request_at = None
+
+
 from config import (
     GEMINI_API_KEY,
+    GEMINI_INITIAL_REQUEST_DELAY_SECONDS,
     GEMINI_MAX_RETRIES,
+    GEMINI_MIN_REQUEST_INTERVAL_SECONDS,
     GEMINI_MODEL,
     GEMINI_RETRY_DELAY_SECONDS,
     IMAGEN_STYLE_WRAPPER,
@@ -30,6 +56,7 @@ def _generate_json_with_retries(prompt):
     client = genai.Client(api_key=GEMINI_API_KEY)
     for attempt in range(GEMINI_MAX_RETRIES):
         try:
+            _wait_for_gemini_request()
             response = client.models.generate_content(
                 model=GEMINI_MODEL,
                 contents=prompt,
@@ -194,6 +221,7 @@ def generate_google_imagen(subject_prompt, image_kind="news"):
         final_prompt = IMAGEN_STYLE_WRAPPER.format(subject=str(subject_prompt)[:200])
     url = f"https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:predict?key={GEMINI_API_KEY}"
     try:
+        _wait_for_gemini_request()
         response = requests.post(
             url,
             headers={"Content-Type": "application/json"},

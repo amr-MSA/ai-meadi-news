@@ -236,6 +236,17 @@ class CoreBehaviorTests(unittest.TestCase):
         self.assertIn("مولدة بالذكاء الاصطناعي", content)
         self.assertIn("لا تمثل دليلًا", content)
 
+    def test_gemini_requests_are_rate_limited(self):
+        with patch.object(ai_handler, "GEMINI_INITIAL_REQUEST_DELAY_SECONDS", 3), \
+             patch.object(ai_handler, "GEMINI_MIN_REQUEST_INTERVAL_SECONDS", 12), \
+             patch.object(ai_handler.time, "monotonic", side_effect=[100.0, 100.0, 100.0, 105.0]), \
+             patch.object(ai_handler.time, "sleep") as sleep:
+            ai_handler._reset_request_limiter_for_tests()
+            ai_handler._wait_for_gemini_request()
+            ai_handler._wait_for_gemini_request()
+        self.assertEqual(sleep.call_args_list[0].args[0], 3)
+        self.assertEqual(sleep.call_args_list[1].args[0], 12)
+
     def test_invalid_gemini_id_is_rejected(self):
         articles = [{"title": "خبر", "link": "https://example.com"}]
         with patch.object(main.ai_handler, "call_gemini_for_selection", return_value={"selected_id": 0}), \

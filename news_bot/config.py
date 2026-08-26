@@ -77,6 +77,9 @@ IMAGEN_STYLE_WRAPPER = (
 GEMINI_MODEL = "gemini-3.6-flash"
 GEMINI_MAX_RETRIES = 3
 GEMINI_RETRY_DELAY_SECONDS = 5
+# يمنع إرسال طلبات متتابعة إلى Gemini/Imagen بسرعة قد تُفسر كحركة آلية أو spam.
+GEMINI_INITIAL_REQUEST_DELAY_SECONDS = 3
+GEMINI_MIN_REQUEST_INTERVAL_SECONDS = 12
 REQUIRED_GEMINI_FIELDS = [
     "selected_id",
     "topic_key",
