@@ -5,6 +5,7 @@ import config
 import fetcher
 import history_manager
 import publisher
+import rejected_news_manager
 import utils
 
 
@@ -22,6 +23,7 @@ def _response_message_id(response):
 def run():
     if not utils.acquire_lock():
         return
+    rejected_entries = None
     try:
         missing_vars = [name for name, value in config.REQUIRED_ENV_VARS.items() if not value]
         if missing_vars:
@@ -29,15 +31,19 @@ def run():
             return
         history = history_manager.load_history()
         history_manager.prune_history(history)
+        rejected_entries = rejected_news_manager.load_rejected()
+        rejected_news_manager.prune_rejected(rejected_entries)
         history_context = history_manager.get_recent_history_window(
             history, days=config.HISTORY_CONTEXT_WINDOW_DAYS
         )
-        articles_pool = fetcher.fetch_news(history)
+        articles_pool = fetcher.fetch_news(history, rejected_entries)
         if not articles_pool:
             print("⚠️ لا توجد أخبار جديدة خلال آخر أسبوع ولم تتكرر موضوعياً!")
             return
 
-        content, selected_article = _select_unique_article(articles_pool, history_context, history)
+        content, selected_article = _select_unique_article(
+            articles_pool, history_context, history, rejected_entries
+        )
         if not content or not selected_article:
             print("❌ لم يتم التوصل لخبر غير مكرر بعد المحاولات المتاحة.")
             return
@@ -100,15 +106,26 @@ def run():
         history_manager.append_skipped_candidates(
             history, articles_pool, important_ids, content.get("candidate_classifications", [])
         )
+        selected_link = selected_article.get("link")
+        for article in articles_pool:
+            if article.get("link") == selected_link:
+                continue
+            rejected_news_manager.record_rejection(
+                rejected_entries, article.get("title"), article.get("link"),
+                article.get("source_name"), "لم يُختر للنشر اليومي", "gemini-selection",
+                summary=article.get("summary", ""),
+            )
         if message_id:
             publisher.send_company_profile_reply(message_id, content.get("company_profile"))
         print("✅ تم النشر وحُفظ الخبر والتصنيف والمرشحون المهمون.")
     finally:
+        if rejected_entries is not None:
+            rejected_news_manager.save_rejected(rejected_entries)
         ai_handler.cleanup_temp_analysis()
         utils.release_lock()
 
 
-def _select_unique_article(articles_pool, history_context, history):
+def _select_unique_article(articles_pool, history_context, history, rejected_entries=None):
     for _attempt in range(config.SELECTION_MAX_ATTEMPTS):
         candidate = ai_handler.call_gemini_for_selection(articles_pool, history_context)
         if not isinstance(candidate, dict):
@@ -128,6 +145,12 @@ def _select_unique_article(articles_pool, history_context, history):
             new_facts=candidate.get("new_facts", []),
         )
         if comparison["action"] == "duplicate":
+            rejected_news_manager.record_rejection(
+                rejected_entries, selected_article.get("title"), selected_article.get("link"),
+                selected_article.get("source_name"),
+                f"مكرر أو بلا تحديث جوهري: {comparison['reason']}", "gemini-selection",
+                summary=selected_article.get("summary", ""), classification=classification,
+            ) if rejected_entries is not None else None
             print(f"⚠️ الخبر المختار مكرر أو بلا تحديث جوهري ({comparison['reason']})، إعادة المحاولة...")
             continue
         candidate["classification"] = classification

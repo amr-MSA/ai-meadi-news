@@ -7,6 +7,7 @@ import leak_fetcher
 import leak_publisher
 import leaks_config
 import publisher
+import rejected_news_manager
 import utils
 
 
@@ -36,6 +37,7 @@ def _meets_reliability_threshold(level):
 def run():
     if not utils.acquire_lock():
         return
+    rejected_entries = None
     try:
         missing_vars = [
             name for name, value in leaks_config.REQUIRED_LEAK_ENV_VARS.items() if not value
@@ -45,19 +47,33 @@ def run():
             return
         history = history_manager.load_history()
         history_manager.prune_history(history)
-        candidates = leak_fetcher.fetch_leak_candidates(history)
+        rejected_entries = rejected_news_manager.load_rejected()
+        rejected_news_manager.prune_rejected(rejected_entries)
+        candidates = leak_fetcher.fetch_leak_candidates(history, rejected_entries)
         if not candidates:
             print("🧐 لا توجد عناصر جديدة من مصادر التسريبات هذه الجولة.")
             return
         history_context = history_manager.get_recent_history_window(history, 60)
         verdict = leak_ai_handler.evaluate_leak_candidates(candidates, history_context)
         if not isinstance(verdict, dict):
+            for candidate in candidates:
+                rejected_news_manager.record_rejection(
+                    rejected_entries, candidate.get("title"), candidate.get("link"),
+                    candidate.get("source_name"), "تعذر تقييم المرشح عبر Gemini", "gemini-evaluation",
+                    summary=candidate.get("summary", ""),
+                )
             return
         try:
             selected_id = int(verdict.get("selected_id", 0))
         except (TypeError, ValueError):
             return
         if selected_id == 0:
+            for candidate in candidates:
+                rejected_news_manager.record_rejection(
+                    rejected_entries, candidate.get("title"), candidate.get("link"),
+                    candidate.get("source_name"), "لم يحدد Gemini قيمة خبرية كافية للنشر", "gemini-selection",
+                    summary=candidate.get("summary", ""),
+                )
             print("🧐 لا يوجد خبر يستحق النشر هذه الجولة.")
             return
         if not 1 <= selected_id <= len(candidates):
@@ -69,6 +85,11 @@ def run():
         if reliability_level not in leaks_config.RELIABILITY_LEVELS:
             return
         if not _meets_reliability_threshold(reliability_level):
+            rejected_news_manager.record_rejection(
+                rejected_entries, selected.get("title"), selected.get("link"),
+                selected.get("source_name"), "الموثوقية أقل من حد النشر", "reliability-filter",
+                summary=selected.get("summary", ""),
+            )
             return
 
         classification = history_manager.normalize_classification({
@@ -82,6 +103,12 @@ def run():
             selection_decision=selection_decision, new_facts=new_facts,
         )
         if comparison["action"] == "duplicate":
+            rejected_news_manager.record_rejection(
+                rejected_entries, selected.get("title"), selected.get("link"),
+                selected.get("source_name"),
+                f"مكرر أو بلا تحديث جوهري: {comparison['reason']}", "history-duplicate",
+                summary=selected.get("summary", ""), classification=classification,
+            )
             print(f"⚠️ الخبر المختار مكرر أو بلا تحديث جوهري ({comparison['reason']})، تجاهل النشر.")
             return
         is_update = comparison["action"] == "update"
@@ -140,8 +167,18 @@ def run():
             new_facts=new_facts, updates_event_key=history_manager.build_event_key(classification),
             supersedes_posted_at=existing.get("posted_at") if is_update else None,
         )
+        for candidate in candidates:
+            if candidate.get("link") == selected.get("link"):
+                continue
+            rejected_news_manager.record_rejection(
+                rejected_entries, candidate.get("title"), candidate.get("link"),
+                candidate.get("source_name"), "لم يُختر للتسريبات في هذه الجولة", "gemini-selection",
+                summary=candidate.get("summary", ""),
+            )
         print("✅ تم نشر التسريب وحفظه بعد نجاح الإرسال.")
     finally:
+        if rejected_entries is not None:
+            rejected_news_manager.save_rejected(rejected_entries)
         utils.release_lock()
 
 

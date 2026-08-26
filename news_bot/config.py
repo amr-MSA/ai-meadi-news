@@ -23,6 +23,8 @@ TEMP_ANALYSIS_FILE = os.path.join(BASE_DIR, "temp_selected_analysis.json")
 HISTORY_CONTEXT_WINDOW_DAYS = 60
 NEWS_MAX_AGE_DAYS = 7
 HISTORY_RETENTION_DAYS = 7
+REJECTED_RETENTION_DAYS = 30
+REJECTED_HISTORY_FILE = os.path.join(BASE_DIR, "rejected_news.json")
 
 NEWS_TYPES = (
     "ذكاء اصطناعي",

@@ -17,6 +17,7 @@ import leaks_main
 import leak_publisher
 import main
 import publisher
+import rejected_news_manager
 import utils
 import weekly_summary_ai
 import weekly_summary_main
@@ -159,6 +160,32 @@ class CoreBehaviorTests(unittest.TestCase):
         self.assertEqual(result["part1"], "تحليل")
         self.assertIn("أعد بناء الصورة العامة للأسبوع", captured["prompt"])
         self.assertIn("لا تكرر العنوان والملخص", captured["prompt"])
+
+    def test_rejected_news_are_recorded_without_duplicates(self):
+        entries = []
+        rejected_news_manager.record_rejection(
+            entries, "خبر مكرر", "https://example.com/item", "مصدر", "مكرر", "history-duplicate"
+        )
+        rejected_news_manager.record_rejection(
+            entries, "خبر مكرر بصياغة مختلفة", "https://example.com/item", "مصدر آخر", "مكرر", "history-duplicate"
+        )
+        self.assertEqual(len(entries), 1)
+        self.assertEqual(entries[0]["reason"], "مكرر")
+        self.assertEqual(entries[0]["rejection_stage"], "history-duplicate")
+
+    def test_rejected_news_pruning_uses_real_rejection_age(self):
+        from datetime import datetime, timedelta, timezone
+        old = (datetime.now(timezone.utc) - timedelta(days=31)).isoformat()
+        recent = (datetime.now(timezone.utc) - timedelta(days=2)).isoformat()
+        entries = [
+            {"title": "قديم", "rejected_at": old},
+            {"title": "حديث", "rejected_at": recent},
+        ]
+        with tempfile.TemporaryDirectory() as directory:
+            path = os.path.join(directory, "rejected.json")
+            with patch.object(rejected_news_manager, "REJECTED_HISTORY_FILE", path):
+                self.assertEqual(rejected_news_manager.prune_rejected(entries), 1)
+        self.assertEqual([item["title"] for item in entries], ["حديث"])
 
     def test_old_history_is_pruned_by_real_age(self):
         from datetime import datetime, timedelta, timezone
