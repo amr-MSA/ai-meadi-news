@@ -76,7 +76,7 @@ def evaluate_leak_candidates(candidates_pool, history_context=None):
   "summary": "ملخص موجز للادعاء وأهميته التقنية",
   "disclaimer": "غير مؤكد رسميًا؛ يُنشر لأهميته وسرعته فقط.",
   "image_prompt": "Neutral visual description of the subject only",
-  "classification": {
+  "classification": {{
     "company_name": "اسم الشركة أو غير محدد",
     "event_year_month": "YYYY-MM أو غير محدد",
     "news_type": "أخرى",
@@ -84,7 +84,7 @@ def evaluate_leak_candidates(candidates_pool, history_context=None):
     "region": "المنطقة أو غير محدد",
     "topic_key": "topic-name",
     "keywords": ["keyword"]
-  }
+  }}
 }}
 
 المرشحون:

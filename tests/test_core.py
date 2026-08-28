@@ -14,6 +14,7 @@ import ai_handler
 import fetcher
 import history_manager
 import leaks_main
+import leak_ai_handler
 import leak_publisher
 import main
 import publisher
@@ -25,6 +26,49 @@ import config
 
 
 class CoreBehaviorTests(unittest.TestCase):
+    def test_leak_prompt_escapes_json_braces(self):
+        captured = {}
+        response = {
+            "selected_id": 0,
+            "selection_decision": "new",
+            "related_history_index": 0,
+            "new_facts": [],
+            "update_summary": "",
+            "reliability_level": "🔴",
+            "reliability_reason": "مصدر غير رسمي دون تأكيد مستقل.",
+            "topic_key": "test-topic",
+            "title": "عنوان اختباري",
+            "summary": "ملخص اختباري",
+            "disclaimer": "غير مؤكد رسميًا.",
+            "image_prompt": "Neutral technical illustration",
+            "classification": {
+                "company_name": "غير محدد",
+                "event_year_month": "غير محدد",
+                "news_type": "أخرى",
+                "product_name": "غير محدد",
+                "region": "غير محدد",
+                "topic_key": "test-topic",
+                "keywords": [],
+            },
+        }
+
+        def fake_generate(prompt):
+            captured["prompt"] = prompt
+            return response
+
+        candidate = {
+            "source_name": "Test source",
+            "title": "Test leak",
+            "summary": "A test leak candidate",
+            "link": "https://example.com/leak",
+        }
+        with patch.object(leak_ai_handler, "_generate_json_with_retries", side_effect=fake_generate):
+            result = leak_ai_handler.evaluate_leak_candidates([candidate], [])
+
+        self.assertEqual(result, response)
+        self.assertIn('"classification": {', captured["prompt"])
+        self.assertIn('"keywords": ["keyword"]', captured["prompt"])
+
     def test_rss_items_older_than_one_week_are_excluded(self):
         recent = time.gmtime(time.time() - 2 * 24 * 60 * 60)
         old = time.gmtime(time.time() - 9 * 24 * 60 * 60)
