@@ -1328,5 +1328,62 @@
     },
     "rejected_at": "2026-08-29T04:37:39.126875+00:00",
     "details": {}
+  },
+  {
+    "title": "swoole/typephp",
+    "link": "https://github.com/swoole/typephp",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Compile PHP to Native Binaries https://swoole.com/aot/ English | 简体中文 TypePHP A native AOT compiler for PHP Compile PHP source code into native machine code ahead of time — producing native executables, PHP extensions, and shared libraries — while keeping the PHP syntax you already know. What is TypePHP? TypePHP is an Ahead-Of-Time (AOT) compiler that translates PHP source code into C++ and then i",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T11:54:30.822344+00:00",
+    "details": {}
+  },
+  {
+    "title": "New AI-powered video tools have accelerated the surge in AI dramas in China; DataEye: 89 of the top 100 animated dramas on Douyin in May were AI productions (Financial Times)",
+    "link": "https://www.techmeme.com/260829/p9#a260829p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : New AI-powered video tools have accelerated the surge in AI dramas in China; DataEye: 89 of the top 100 animated dramas on Douyin in May were AI productions &nbsp; &mdash;&nbsp; Online performers left jobless as new video-generation programmes sweep industry&nbsp; &mdash;&nbsp; Chinese actors and online influencers have a new rival &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T11:56:07.656992+00:00",
+    "details": {}
+  },
+  {
+    "title": "Trade unions threaten to withhold support for politicians opposing data center projects, warning that blocking the projects endangers building-related jobs (Wall Street Journal)",
+    "link": "https://www.techmeme.com/260829/p8#a260829p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wall Street Journal : Trade unions threaten to withhold support for politicians opposing data center projects, warning that blocking the projects endangers building-related jobs &nbsp; &mdash;&nbsp; Trade unions threaten to withhold support for politicians, joining the building backlash&nbsp; &mdash;&nbsp; Much of the public outcry &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T11:56:07.658077+00:00",
+    "details": {}
   }
 ]
