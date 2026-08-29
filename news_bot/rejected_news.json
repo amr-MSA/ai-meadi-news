@@ -1727,5 +1727,43 @@
     },
     "rejected_at": "2026-08-29T18:59:17.066364+00:00",
     "details": {}
+  },
+  {
+    "title": "Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions (Sheena Meng/Bloomberg)",
+    "link": "https://www.techmeme.com/260829/p15#a260829p15",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sheena Meng / Bloomberg : Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions &nbsp; &mdash;&nbsp; The sprawling facilities get a lot of attention for their water and energy usage, but it's the threat of constant noise emission that has nearby residents up in arms.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T22:07:02.704647+00:00",
+    "details": {}
+  },
+  {
+    "title": "PEAR leaks data allegedly exfiltrated from South Plains Rural Health Services while SPRHS remains silent",
+    "link": "https://databreaches.net/2026/08/29/pear-leaks-data-allegedly-exfiltrated-from-south-plains-rural-health-services-while-sprhs-remains-silent/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "SuspectFile reports: A cyberattack against a Texas healthcare organization allegedly resulted in the exfiltration of approximately 1.4 TB of data, according to claims made by the ransomware group PEAR. The alleged victim is South Plains Rural Health Services, Inc. (SPRHS), a nonprofit healthcare organization that has provided services to rural communities across West Texas for decades. The informa",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T22:07:02.706973+00:00",
+    "details": {}
   }
 ]
