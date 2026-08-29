@@ -1499,5 +1499,119 @@
     },
     "rejected_at": "2026-08-29T15:55:26.427375+00:00",
     "details": {}
+  },
+  {
+    "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+    "source_name": "BleepingComputer",
+    "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T16:57:50.246944+00:00",
+    "details": {}
+  },
+  {
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "link": "https://lwn.net/Articles/1091231/",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T16:58:24.853809+00:00",
+    "details": {}
+  },
+  {
+    "title": "SQLite as a Document Database (2020)",
+    "link": "https://dgl.cx/2020/06/sqlite-json-support",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T16:58:24.854519+00:00",
+    "details": {}
+  },
+  {
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "link": "https://uecker.codeberg.page/2026-08-29.html",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T16:58:24.855293+00:00",
+    "details": {}
+  },
+  {
+    "title": "Tether: iMessage, SMS, etc. on Linux",
+    "link": "https://zackbartel.com/blog/2026/08/tether/",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T16:58:24.856020+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+    "link": "https://typebase.io",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T16:58:24.856898+00:00",
+    "details": {}
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "title": "Ox Alpha, a \"stealth model\" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)",
-    "link": "https://www.techmeme.com/260822/p7#a260822p7",
-    "topic_key": "ox-alpha-stealth-ai-model",
-    "month": "2026-08",
-    "posted_at": "2026-08-22T16:11:08.437063",
-    "type": "leak",
-    "reliability_level": "🔴"
-  },
-  {
     "title": "Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi (Robbie Whelan/Wall Street Journal)",
     "link": "https://www.techmeme.com/260822/p16#a260822p16",
     "topic_key": "nvidia-poolside-open-model",
@@ -415,5 +406,87 @@
       "النموذج يمثل أول إصدار متعدد الوسائط بشكل أصلي ضمن سلسلة GLM-5."
     ],
     "supersedes_posted_at": "2026-08-22T16:11:08.437063"
+  },
+  {
+    "title": "Brave browser adds email aliases to help users evade tracking",
+    "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+    "summary": "أطلقت شركة Brave التحديث رقم 1.94 لمتصفحها الشهير، مدرجةً ميزة جديدة تُدعى العناوين المستعارة للبريد الإلكتروني (Email Aliases) والتي تسمح للمستخدمين بإنشاء عناوين بريد مؤقتة فورًا عند التسجيل في المواقع والخدمات الجديدة لتفادي التتبع والإعلانات الموجهة.",
+    "source_name": "BleepingComputer",
+    "topic_key": "brave-browser-email-aliases",
+    "event_key": "brave|2026 08|أمن سيبراني|brave browser|عالمي",
+    "company_name": "Brave",
+    "event_year_month": "2026-08",
+    "news_type": "أمن سيبراني",
+    "product_name": "Brave Browser",
+    "region": "عالمي",
+    "keywords": [
+      "Brave",
+      "Email Aliases",
+      "Privacy",
+      "Browser"
+    ],
+    "month": "2026-08",
+    "posted_at": "2026-08-29T16:58:24.847276+00:00",
+    "type": "daily",
+    "status": "published",
+    "telegram_message_id": 120,
+    "telegram_message_url": "https://t.me/Eng_limitless/120"
+  },
+  {
+    "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+    "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+    "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+    "source_name": "BleepingComputer",
+    "topic_key": "hasbro-employee-data-breach",
+    "event_key": "",
+    "company_name": "Hasbro",
+    "event_year_month": "غير محدد",
+    "news_type": "أخرى",
+    "product_name": "غير محدد",
+    "region": "غير محدد",
+    "keywords": [],
+    "month": "2026-08",
+    "posted_at": "2026-08-29T16:58:24.849081+00:00",
+    "type": "daily_candidate",
+    "status": "skipped",
+    "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+    "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+    "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
+    "source_name": "BleepingComputer",
+    "topic_key": "windows-11-kb5120998-update",
+    "event_key": "",
+    "company_name": "Microsoft",
+    "event_year_month": "غير محدد",
+    "news_type": "أخرى",
+    "product_name": "غير محدد",
+    "region": "غير محدد",
+    "keywords": [],
+    "month": "2026-08",
+    "posted_at": "2026-08-29T16:58:24.849118+00:00",
+    "type": "daily_candidate",
+    "status": "skipped",
+    "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "link": "https://lwn.net/Articles/1091231/",
+    "summary": "Comments",
+    "source_name": "Hacker News",
+    "topic_key": "debian-generative-ai-policy-vote",
+    "event_key": "",
+    "company_name": "Debian",
+    "event_year_month": "غير محدد",
+    "news_type": "أخرى",
+    "product_name": "غير محدد",
+    "region": "غير محدد",
+    "keywords": [],
+    "month": "2026-08",
+    "posted_at": "2026-08-29T16:58:24.849144+00:00",
+    "type": "daily_candidate",
+    "status": "skipped",
+    "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
   }
 ]
