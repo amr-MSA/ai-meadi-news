@@ -1,13 +1,5 @@
 [
   {
-    "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-    "topic_key": "rust-arrayref-crate-poisoning",
-    "month": "2026-08",
-    "posted_at": "2026-08-22T13:29:46.324828",
-    "type": "daily"
-  },
-  {
     "title": "Ox Alpha, a \"stealth model\" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)",
     "link": "https://www.techmeme.com/260822/p7#a260822p7",
     "topic_key": "ox-alpha-stealth-ai-model",
@@ -389,5 +381,39 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "[Megathread] GLM-5.3-Flash - former ox-alpha",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vyzzxu/megathread_glm53flash_former_oxalpha/",
+    "summary": "كشفت أوساط المطورين ومجتمعات الذكاء الاصطناعي أن النموذج الخفي Ox Alpha الذي أثار الجدل مؤخرًا هو نموذج GLM-5.3-Flash. ويُعد هذا النموذج الأول المتعدد الوسائط أصليًا والمفتوح الوزن ضمن سلسلة نماذج GLM-5.",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "topic_key": "ox-alpha-stealth-ai-model",
+    "event_key": "zhipu ai|2026 08|ذكاء اصطناعي|glm 5 3 flash|عالمي",
+    "company_name": "Zhipu AI",
+    "event_year_month": "2026-08",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "GLM-5.3-Flash",
+    "region": "عالمي",
+    "keywords": [
+      "GLM-5.3-Flash",
+      "Ox Alpha",
+      "open-weight",
+      "AI model"
+    ],
+    "month": "2026-08",
+    "posted_at": "2026-08-29T15:55:26.418803+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 119,
+    "telegram_message_url": "https://t.me/Eng_limitless/119",
+    "is_update": true,
+    "updates_event_key": "zhipu ai|2026 08|ذكاء اصطناعي|glm 5 3 flash|عالمي",
+    "update_summary": "كُشف النقاب عن هوية النموذج الغامض Ox Alpha وتبين أنه نموذج الذكاء الاصطناعي مفتوح الوزن GLM-5.3-Flash.",
+    "new_facts": [
+      "النموذج المجهول Ox Alpha هو في الحقيقة نموذج GLM-5.3-Flash المفتوح الوزن.",
+      "النموذج يمثل أول إصدار متعدد الوسائط بشكل أصلي ضمن سلسلة GLM-5."
+    ],
+    "supersedes_posted_at": "2026-08-22T16:11:08.437063"
   }
 ]

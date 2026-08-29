@@ -1385,5 +1385,119 @@
     },
     "rejected_at": "2026-08-29T11:56:07.658077+00:00",
     "details": {}
+  },
+  {
+    "title": "Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide)",
+    "link": "https://www.techmeme.com/260829/p11#a260829p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tim Ingham / Music Business Worldwide : Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs &nbsp; &mdash;&nbsp; Sony Music Publishing and Warner Chappell Music have joined forces to sue Anthropic, home of Claude, over what the publishers call &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T15:55:26.421980+00:00",
+    "details": {}
+  },
+  {
+    "title": "Cursor co-founder Michael Truell says OpenAI represents just 5% of Cursor's traffic and Cursor trusted OpenAI to be \"neutral\"; Musk says he \"couldn't care less\" (Amir Efrati/The Information)",
+    "link": "https://www.techmeme.com/260829/p10#a260829p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Amir Efrati / The Information : Cursor co-founder Michael Truell says OpenAI represents just 5% of Cursor's traffic and Cursor trusted OpenAI to be &ldquo;neutral&rdquo;; Musk says he &ldquo;couldn't care less&rdquo; &nbsp; &mdash;&nbsp; OpenAI said Friday night that it will terminate its contract to provide its AI models &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T15:55:26.423468+00:00",
+    "details": {}
+  },
+  {
+    "title": "Manchester Airports breach exposes data on 8.7M customers",
+    "link": "https://forgeeks.net/manchester-airports-data-breach-8-7-million/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://forgeeks.net/manchester-airports-data-breach-8-7-million/ Comments URL: https://news.ycombinator.com/item?id=49490806 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T15:55:26.424339+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Seedeep – I couldn't see what Claude Code was doing, so I drew it",
+    "link": "https://github.com/duqaXxX/seedeep",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/duqaXxX/seedeep Comments URL: https://news.ycombinator.com/item?id=49490770 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T15:55:26.425259+00:00",
+    "details": {}
+  },
+  {
+    "title": "De: Hackers demand 30 bitcoin from Berlin as sensitive data breach widens",
+    "link": "https://databreaches.net/2026/08/29/de-hackers-demand-30-bitcoin-from-berlin-as-sensitive-data-breach-widens/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "DPA reports: The Berlin state government has declined to comment on the demands made by hackers who targeted the city&#8217;s administrative data network two weeks ago, a spokeswoman said on Saturday. The government is also withholding information about which data the attackers accessed and exactly who is behind the cyberattack. &#8220;For reasons of investigative tactics,... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T15:55:26.426604+00:00",
+    "details": {}
+  },
+  {
+    "title": "US officials backpedal on claims that government agencies were hacked by Chinese",
+    "link": "https://databreaches.net/2026/08/29/us-officials-backpedal-on-claims-that-government-agencies-were-hacked-by-chinese/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "AJ Vicens and Raphael Satter report: U.S. officials are backpedaling on claims that several government agencies were hacked by Chinese spies, now saying that the organizations were among the hackers&#8217; targets. In a freshly edited statement, the Justice Department said Friday that the U.S. Senate, the Federal Reserve, NASA, and others were &#8220;among the targets... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T15:55:26.427375+00:00",
+    "details": {}
   }
 ]
