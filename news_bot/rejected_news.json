@@ -1613,5 +1613,119 @@
     },
     "rejected_at": "2026-08-29T16:58:24.856898+00:00",
     "details": {}
+  },
+  {
+    "title": "[Megathread] GLM-5.3-Flash - former ox-alpha",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vyzzxu/megathread_glm53flash_former_oxalpha/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Megathread for discussing the release of GLM-5.3-Flash. Quants Fine-Tunes &amp; Abliterations Chat Templates Inference Server Support &amp; Configuration Experiences, Benchmarks &amp; Model Comparisons We'll try to clean up future duplicates around the release and point them here. Highlights GLM-5.3-Flash is the first natively multimodal model in the GLM-5 series, and the first open-weight release",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T18:58:32.856432+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic will \"permanently\" raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost (@claudedevs)",
+    "link": "https://www.techmeme.com/260829/p13#a260829p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "@claudedevs : Anthropic will &ldquo;permanently&rdquo; raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost &nbsp; &mdash;&nbsp; Starting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will be",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T18:59:17.061403+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources detail how Meta's $17.1B settlement with state AGs came together as Meta wanted to avoid going to trial following losses in cases in LA and New Mexico (New York Times)",
+    "link": "https://www.techmeme.com/260829/p12#a260829p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : Sources detail how Meta's $17.1B settlement with state AGs came together as Meta wanted to avoid going to trial following losses in cases in LA and New Mexico &nbsp; &mdash;&nbsp; State attorneys general spent months in negotiations.&nbsp; Then, as its legal losses mounted, the social media giant's new top lawyer brought a huge settlement to the table.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T18:59:17.062900+00:00",
+    "details": {}
+  },
+  {
+    "title": "The signal went up. The code got worse",
+    "link": "https://github.com/olesxg/flap-findings/blob/master/writing/the-signal-went-up.md",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/olesxg/flap-findings/blob/master/writing/the-signal-went-up.md Comments URL: https://news.ycombinator.com/item?id=49492129 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T18:59:17.063770+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Open-Source Local Whisper Flow Alternative",
+    "link": "https://www.cloudless.so/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.cloudless.so/ Comments URL: https://news.ycombinator.com/item?id=49491918 Points: 2 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T18:59:17.064675+00:00",
+    "details": {}
+  },
+  {
+    "title": "Tencent compressed Hy4-preview from 1.5TB to about 200GB GGUF and kept about 98% performance.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w1o324/tencent_compressed_hy4preview_from_15tb_to_about/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/RedditUsr2 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-29T18:59:17.066364+00:00",
+    "details": {}
   }
 ]
