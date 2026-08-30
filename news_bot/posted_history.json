@@ -1,22 +1,5 @@
 [
   {
-    "title": "Qwen 3.8 27B is a game changer.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
-    "topic_key": "qwen-38-27b-leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-23T10:12:37.176472",
-    "type": "leak",
-    "reliability_level": "🟠"
-  },
-  {
-    "title": "Hackers infect Android car head units with proxy botnet malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-    "topic_key": "Android-Automotive-Botnet-Malware",
-    "month": "2026-08",
-    "posted_at": "2026-08-23T13:30:53.167711",
-    "type": "daily"
-  },
-  {
     "title": "ShinyHunters claims hack of ReliaQuest but provides no proof",
     "link": "https://databreaches.net/2026/08/23/shinyhunters-claims-hack-of-reliaquest-but-provides-no-proof/",
     "topic_key": "reliaquest-shinyhunters-breach-claim",
@@ -586,5 +569,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 124,
     "telegram_message_url": "https://t.me/Eng_limitless/124"
+  },
+  {
+    "title": "SCOOP: Some Click2Mail customers will soon be receiving notification of a data security incident",
+    "link": "https://databreaches.net/2026/08/29/scoop-some-click2mail-customers-will-soon-be-receiving-notification-of-a-data-security-incident/",
+    "summary": "كشف تقرير أمني عن تعرض موقع Click2Mail لاختراق في بوابة الدفع، مما أدى إلى قرصنة بيانات البطاقات المصرفية لبعض العملاء أثناء الشراء، وسط توقعات بإرسال إشعار رسمي بالحادث للمتضررين قريبًا.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "click2mail-checkout-hijack-breach",
+    "event_key": "click2mail|2026 08|أمن سيبراني|click2mail checkout|أمريكا الشمالية",
+    "company_name": "Click2Mail",
+    "event_year_month": "2026-08",
+    "news_type": "أمن سيبراني",
+    "product_name": "Click2Mail Checkout",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Click2Mail",
+      "اختراق",
+      "سرقة بطاقات",
+      "أمن سيبراني"
+    ],
+    "month": "2026-08",
+    "posted_at": "2026-08-30T14:33:53.139083+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 125,
+    "telegram_message_url": "https://t.me/Eng_limitless/125"
   }
 ]

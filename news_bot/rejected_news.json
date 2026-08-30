@@ -2088,5 +2088,100 @@
     },
     "rejected_at": "2026-08-30T09:34:15.841852+00:00",
     "details": {}
+  },
+  {
+    "title": "A look at the race to build quantum computers, as the tech becomes a geopolitical battleground with potential to transform cybersecurity, finance, and more (Mark Bergen/Bloomberg)",
+    "link": "https://www.techmeme.com/260830/p6#a260830p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mark Bergen / Bloomberg : A look at the race to build quantum computers, as the tech becomes a geopolitical battleground with potential to transform cybersecurity, finance, and more &nbsp; &mdash;&nbsp; Companies are racing to create devices that could revolutionize finance, supercharge medical and climate research &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T14:33:53.143060+00:00",
+    "details": {}
+  },
+  {
+    "title": "The OpenAI/Hugging Face incident feels like we are halfway to losing control of AI entirely, and as AI advances rapidly we may not get another warning shot (Ajeya Cotra/Planned Obsolescence)",
+    "link": "https://www.techmeme.com/260830/p5#a260830p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ajeya Cotra / Planned Obsolescence : The OpenAI/Hugging Face incident feels like we are halfway to losing control of AI entirely, and as AI advances rapidly we may not get another warning shot &nbsp; &mdash;&nbsp; It's a major warning shot, and might be the last one we get&nbsp; &mdash;&nbsp; All opinions are my personal view, and don't represent my employer or fellow investigators.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T14:33:53.144969+00:00",
+    "details": {}
+  },
+  {
+    "title": "Keeping an open source project going when GitHub stars slow down",
+    "link": "https://twitter.com/paul_h0rn/status/2094070350120091915",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://twitter.com/paul_h0rn/status/2094070350120091915 Comments URL: https://news.ycombinator.com/item?id=49499007 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T14:33:53.146147+00:00",
+    "details": {}
+  },
+  {
+    "title": "ClaudeDevs: We're permanently raising standard weekly limits in Claude Code",
+    "link": "https://twitter.com/chandlerwilcox/status/2093742530659766324",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://twitter.com/chandlerwilcox/status/2093742530659766324 Comments URL: https://news.ycombinator.com/item?id=49498441 Points: 2 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T14:33:53.147416+00:00",
+    "details": {}
+  },
+  {
+    "title": "Me these days",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w2fmmq/me_these_days/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Eyelbee [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T14:33:53.148948+00:00",
+    "details": {}
   }
 ]
