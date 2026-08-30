@@ -1765,5 +1765,81 @@
     },
     "rejected_at": "2026-08-29T22:07:02.706973+00:00",
     "details": {}
+  },
+  {
+    "title": "Music producers are calling out tracks suspected of using AI tools like Suno, as the internet becomes increasingly filled with AI-generated music (Charles Pulliam-Moore/The Verge)",
+    "link": "https://www.techmeme.com/260829/p17#a260829p17",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Charles Pulliam-Moore / The Verge : Music producers are calling out tracks suspected of using AI tools like Suno, as the internet becomes increasingly filled with AI-generated music &nbsp; &mdash;&nbsp; As AI infiltrates the electronic dance music scene, a callout culture is brewing.&#65279; &hellip; For musicians &mdash; especially those creating art &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T02:10:26.248339+00:00",
+    "details": {}
+  },
+  {
+    "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
+    "link": "https://www.techmeme.com/260829/p16#a260829p16",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Luke James / Tom's Hardware : California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope &nbsp; &mdash;&nbsp; AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T02:10:26.249998+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+    "link": "https://github.com/mk6i/open-oscar-server",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/mk6i/open-oscar-server Comments URL: https://news.ycombinator.com/item?id=49494571 Points: 2 # Comments: 2",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T02:10:26.251063+00:00",
+    "details": {}
+  },
+  {
+    "title": "OSSBeacon – explainable PR risk for open-source maintainers",
+    "link": "https://github.com/closedfiles23-web/ossbeacon",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/closedfiles23-web/ossbeacon Comments URL: https://news.ycombinator.com/item?id=49494537 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T02:10:26.252086+00:00",
+    "details": {}
   }
 ]
