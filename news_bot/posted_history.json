@@ -1,14 +1,5 @@
 [
   {
-    "title": "ShinyHunters claims hack of ReliaQuest but provides no proof",
-    "link": "https://databreaches.net/2026/08/23/shinyhunters-claims-hack-of-reliaquest-but-provides-no-proof/",
-    "topic_key": "reliaquest-shinyhunters-breach-claim",
-    "month": "2026-08",
-    "posted_at": "2026-08-23T18:12:56.393500",
-    "type": "leak",
-    "reliability_level": "🟠"
-  },
-  {
     "title": "Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders' interest (Katie Roof/Business Insider)",
     "link": "https://www.techmeme.com/260823/p9#a260823p9",
     "topic_key": "hugging-face-acquisition-leak",
@@ -678,5 +669,32 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Sources: OpenAI bought tens of thousands of Macs for RL, Anthropic rents them, Nvidia sees Apple as its main local AI rival as Macs gain traction with AI devs (Aaron Tilley/The Information)",
+    "link": "https://www.techmeme.com/260830/p8#a260830p8",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة OpenAI اشترت عشرات الآلاف من أجهزة ماك المعتمدة على شرائح Apple Silicon لاستخدامها في عمليات التعلم بالتعزيز (RL)، في حين تعتمد Anthropic على استئجارها لنفس الغرض. ووفقاً للتسريبات، باتت شركة Nvidia تنظر إلى أجهزة ماك كمنافس رئيسي لها في سوق الذكاء الاصطناعي المحلي (Local AI) نظرًا لتزايد إقبال مطوري الذكاء الاصطناعي عليها.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "openai-anthropic-apple-mac-ai-clusters",
+    "event_key": "openai|2026 08|ذكاء اصطناعي|apple silicon mac|عالمي",
+    "company_name": "OpenAI",
+    "event_year_month": "2026-08",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "Apple Silicon Mac",
+    "region": "عالمي",
+    "keywords": [
+      "OpenAI",
+      "Apple Silicon",
+      "Nvidia",
+      "Anthropic",
+      "Local AI"
+    ],
+    "month": "2026-08",
+    "posted_at": "2026-08-30T18:54:37.170492+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 128,
+    "telegram_message_url": "https://t.me/Eng_limitless/128"
   }
 ]

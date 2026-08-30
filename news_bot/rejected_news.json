@@ -2392,5 +2392,119 @@
     },
     "rejected_at": "2026-08-30T17:12:09.740940+00:00",
     "details": {}
+  },
+  {
+    "title": "A look at the management changes John Ternus could make as many key Apple execs prepare to leave in the next few years; Apple tested a Pencil for folding iPhone (Mark Gurman/Bloomberg)",
+    "link": "https://www.techmeme.com/260830/p7#a260830p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mark Gurman / Bloomberg : A look at the management changes John Ternus could make as many key Apple execs prepare to leave in the next few years; Apple tested a Pencil for folding iPhone &nbsp; &mdash;&nbsp; Also: Apple experimented with a Pencil for the coming foldable iPhone.&nbsp; &mdash;&nbsp; When John Ternus becomes Apple's CEO this week &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T18:54:37.174811+00:00",
+    "details": {}
+  },
+  {
+    "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+    "link": "https://github.com/KodeMunkie/sm750hdmifb",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/KodeMunkie/sm750hdmifb Comments URL: https://news.ycombinator.com/item?id=49501611 Points: 2 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T18:54:37.176345+00:00",
+    "details": {}
+  },
+  {
+    "title": "Revise, a zero code, desktop ML platform, revolutionizing ML model creation",
+    "link": "https://www.revise.live/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.revise.live/ Comments URL: https://news.ycombinator.com/item?id=49500807 Points: 2 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T18:54:37.177771+00:00",
+    "details": {}
+  },
+  {
+    "title": "Some people said the Minecraft clone I fully vibecoded with Qwen3.8-27B Q4 is not that impressive because Minecraft is in the training data, so I had the model add 4 things that are probably not.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/liright [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T18:54:37.180639+00:00",
+    "details": {}
+  },
+  {
+    "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
+    "link": "https://databreaches.net/2026/08/30/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Connor Jones reports: The former Defense Intelligence Agency (DIA) IT specialist previously accused of trying to pass secret and top-secret information to foreign spies has pleaded guilty following a successful FBI sting. Nathan Vilas Laatsch, then 28, and now 29, was arrested in May 2025 after an undercover FBI agent caught him for the second time transmitting... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T18:54:37.182130+00:00",
+    "details": {}
+  },
+  {
+    "title": "A massive cache of Valve data has reportedly leaked online, appearing to include Portal 2’s elusive beta build and a potential weapon from Half-Life 2: Episode 3",
+    "link": "https://databreaches.net/2026/08/30/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Rick Lane reports: A massive cache of internal builds from Valve has reportedly leaked online, including beta builds of several classic Valve titles and possible weapons from Half-Life 2&#8217;s cancelled third episode. The leak, which began circulating on Saturday and comes from an unknown source, includes 12 terabytes of data currently being sifted through by data miners. The... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T18:54:37.184328+00:00",
+    "details": {}
   }
 ]
