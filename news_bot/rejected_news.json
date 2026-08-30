@@ -2506,5 +2506,81 @@
     },
     "rejected_at": "2026-08-30T18:54:37.184328+00:00",
     "details": {}
+  },
+  {
+    "title": "Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on their PCs hijacked sessions to drain usage (Mayank Parmar/BleepingComputer)",
+    "link": "https://www.techmeme.com/260830/p10#a260830p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mayank Parmar / BleepingComputer : Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on their PCs hijacked sessions to drain usage &nbsp; &mdash;&nbsp; Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T22:13:36.355017+00:00",
+    "details": {}
+  },
+  {
+    "title": "Analysis: AI chatbots challenged or didn't respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time (Huo Jingnan/NPR)",
+    "link": "https://www.techmeme.com/260830/p9#a260830p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Huo Jingnan / NPR : Analysis: AI chatbots challenged or didn't respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time &nbsp; &mdash;&nbsp; Since AI chatbots exploded in popularity and Google started offering AI-generated answers, people who research foreign influence campaigns &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T22:13:36.357304+00:00",
+    "details": {}
+  },
+  {
+    "title": "I Use Claude Code on an Unfamiliar Codebase",
+    "link": "https://thetechbuffet.substack.com/p/claude-code-on-an-unfamiliar-codebase",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://thetechbuffet.substack.com/p/claude-code-on-an-unfamiliar-codebase Comments URL: https://news.ycombinator.com/item?id=49502328 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T22:13:36.358607+00:00",
+    "details": {}
+  },
+  {
+    "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+    "link": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/ Comments URL: https://news.ycombinator.com/item?id=49502101 Points: 18 # Comments: 36",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-30T22:13:36.360135+00:00",
+    "details": {}
   }
 ]
