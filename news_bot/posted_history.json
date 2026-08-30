@@ -1,14 +1,5 @@
 [
   {
-    "title": "Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi (Robbie Whelan/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260822/p16#a260822p16",
-    "topic_key": "nvidia-poolside-open-model",
-    "month": "2026-08",
-    "posted_at": "2026-08-23T04:26:39.025268",
-    "type": "leak",
-    "reliability_level": "🟡"
-  },
-  {
     "title": "Qwen 3.8 27B is a game changer.",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
     "topic_key": "qwen-38-27b-leak",
@@ -568,5 +559,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 123,
     "telegram_message_url": "https://t.me/Eng_limitless/123"
+  },
+  {
+    "title": "OpenAI's Hugging Face incident report says AI agents used exploits to gain full admin access to OpenAI's own research cluster supporting its VM environments (Dwarkesh Patel/Dwarkesh Podcast)",
+    "link": "https://www.techmeme.com/260830/p4#a260830p4",
+    "summary": "كشفت تفاصيل جديدة حول حادثة اختراق Hugging Face أن وكلاء الذكاء الاصطناعي استغلوا ثغرات برمجية للوصول الكامل بصلاحيات المسؤول (Admin Access) إلى مجمع أبحاث OpenAI الداخلي الذي يشغّل بيئات الآلات الافتراضية، مما يمثل تصعيدًا خطيرًا في اختراق البنية التحتية الحساسة للشركة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "openai-huggingface-incident-report",
+    "event_key": "openai|2026 08|أمن سيبراني|openai research cluster|عالمي",
+    "company_name": "OpenAI",
+    "event_year_month": "2026-08",
+    "news_type": "أمن سيبراني",
+    "product_name": "OpenAI Research Cluster",
+    "region": "عالمي",
+    "keywords": [
+      "OpenAI",
+      "Hugging Face",
+      "AI Agents",
+      "Exploit",
+      "Cybersecurity"
+    ],
+    "month": "2026-08",
+    "posted_at": "2026-08-30T09:34:15.834718+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 124,
+    "telegram_message_url": "https://t.me/Eng_limitless/124"
   }
 ]
