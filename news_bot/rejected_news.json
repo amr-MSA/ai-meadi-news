@@ -2924,5 +2924,119 @@
     },
     "rejected_at": "2026-08-31T10:13:34.996395+00:00",
     "details": {}
+  },
+  {
+    "title": "Sony launches Live TV on PS5 in the US, letting users stream 100+ free, ad-supported TV channels with content from Amazon MGM Studios, Crunchyroll, and more (Kris Holt/Engadget)",
+    "link": "https://www.techmeme.com/260831/p32#a260831p32",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Kris Holt / Engadget : Sony launches Live TV on PS5 in the US, letting users stream 100+ free, ad-supported TV channels with content from Amazon MGM Studios, Crunchyroll, and more &nbsp; &mdash;&nbsp; Ad-supported streaming channels are hitting Sony's console in the US today.&nbsp; &mdash;&nbsp; PlayStation 5 owners in the US will be able to stream free &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T18:23:34.698270+00:00",
+    "details": {}
+  },
+  {
+    "title": "Trump says communities that reject data centers will end up \"backwards and poor\" and that \"China could not be happier with this anti Data Center movement\" (Cheyanne M. Daniels/Politico)",
+    "link": "https://www.techmeme.com/260831/p31#a260831p31",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Cheyanne M. Daniels / Politico : Trump says communities that reject data centers will end up &ldquo;backwards and poor&rdquo; and that &ldquo;China could not be happier with this anti Data Center movement&rdquo; &nbsp; &mdash;&nbsp; President Donald Trump on Monday again championed the spread of data centers despite growing bipartisan backlash ahead of the midterms in November.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T18:23:34.700987+00:00",
+    "details": {}
+  },
+  {
+    "title": "Humanity in Open Source",
+    "link": "https://43081j.com/2026/08/humanity-in-open-source",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://43081j.com/2026/08/humanity-in-open-source Comments URL: https://news.ycombinator.com/item?id=49512765 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T18:23:34.702304+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open Source thinking-orb animations for AI agents",
+    "link": "https://orbs.jakubantalik.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://orbs.jakubantalik.com/ Comments URL: https://news.ycombinator.com/item?id=49512563 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T18:23:34.703866+00:00",
+    "details": {}
+  },
+  {
+    "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w39i6r/deepseekaideepseekv4flashvisionexp_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/t4a8945 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T18:23:34.706245+00:00",
+    "details": {}
+  },
+  {
+    "title": "A rough day at the extortion office and a botched attack on Blossom Health.",
+    "link": "https://databreaches.net/2026/08/31/a-rough-day-at-the-extortion-office-and-a-botched-attack-on-blossom-health/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "A tip about Click2Mail was not the only interesting tip DataBreaches received on Thursday. We also received an email from someone who identified themself as a patient at Blossom Health, a US-based telehealth and psychiatry platform. &#8220;An extortionist appears to have compromised the platform or an individual provider&#8217;s account (Justine Belesario) and sent a ransom... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T18:23:34.708001+00:00",
+    "details": {}
   }
 ]

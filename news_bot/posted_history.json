@@ -1,13 +1,5 @@
 [
   {
-    "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-    "topic_key": "AWS-Exposed-Access-Keys-Leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-24T13:49:30.729860",
-    "type": "daily"
-  },
-  {
     "title": "Docs: Meta plans to launch its version of OpenClaw, codenamed Hatch, in late August or early September and its latest AI model, Watermelon, in October (Jyoti Mann/The Information)",
     "link": "https://www.techmeme.com/260824/p37#a260824p37",
     "topic_key": "meta-ai-roadmap-leak",
@@ -695,5 +687,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 129,
     "telegram_message_url": "https://t.me/Eng_limitless/129"
+  },
+  {
+    "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
+    "link": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
+    "summary": "نشرت عصابة برمجيات الفدية Orova سجلات طبية وشخصية حساسة تُقدر بأكثر من 150 ألف مريض تابعين لمؤسسة Cardiology Associates of Port Huron (CAPH) في ولاية ميشيغان، وذلك بعد انتهاء مهلة الفدية المطالب بها، وقد تم معاينة والتحقق من صحة عينات البيانات المعروضة.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "caph-orova-ransomware-data-leak",
+    "event_key": "cardiology associates of port huron|2026 08|أمن سيبراني|غير محدد|أمريكا الشمالية",
+    "company_name": "Cardiology Associates of Port Huron",
+    "event_year_month": "2026-08",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Orova",
+      "CAPH",
+      "تسريب بيانات",
+      "فدية",
+      "أمن سيبراني"
+    ],
+    "month": "2026-08",
+    "posted_at": "2026-08-31T18:23:34.693223+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 132,
+    "telegram_message_url": "https://t.me/Eng_limitless/132"
   }
 ]
