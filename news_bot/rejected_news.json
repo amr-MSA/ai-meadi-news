@@ -2677,5 +2677,252 @@
     },
     "rejected_at": "2026-08-31T02:05:20.553256+00:00",
     "details": {}
+  },
+  {
+    "title": "Lakr233/vphone-cli",
+    "link": "https://github.com/Lakr233/vphone-cli",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🇰🇷한국어 | 🇯🇵日本語 | 🇨🇳中文 | 🇬🇧English vphone-cli Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure. Prerequisites Host: Apple Silicon macOS 15+ (Sequoia) Xcode + iOS SDK (cross-compiles the guest daemon) SIP/AMFI relaxation to allow private PV=3 entitlements with unsigned-binary Dependencies: brew install python@3.13 aria2 wget gnu-tar openssl@3 ldid-procur",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.409928+00:00",
+    "details": {}
+  },
+  {
+    "title": "unclecode/crawl4ai",
+    "link": "https://github.com/unclecode/crawl4ai",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN https://crawl4ai.com 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. 🚀 Crawl4AI Cloud API — Closed Beta (Launching Soon) Reliable, large-scale web extraction, now built to be drastically more cost-effective than any of the existing solutions. 👉 Apply here for early a",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.414306+00:00",
+    "details": {}
+  },
+  {
+    "title": "mvanhorn/last30days-skill",
+    "link": "https://github.com/mvanhorn/last30days-skill",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days English | Français | Deutsch | Español | Português (Brasil) | 日本語 | 简体中文 An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v3 pipeline. The runtime skill spec lives in skills/last30days/S",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.416359+00:00",
+    "details": {}
+  },
+  {
+    "title": "majd/ipatool",
+    "link": "https://github.com/majd/ipatool",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. IPATool ipatool is a command line tool that allows you to search for iOS, iPadOS, tvOS, and visionOS apps on the App Store and download a copy of the app package, known as an ipa file. Requirements Installation Manual Package Manager (macOS) Usage Compil",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.417501+00:00",
+    "details": {}
+  },
+  {
+    "title": "punkpeye/awesome-mcp-servers",
+    "link": "https://github.com/punkpeye/awesome-mcp-servers",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A collection of MCP servers. https://glama.ai/mcp/servers",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.418563+00:00",
+    "details": {}
+  },
+  {
+    "title": "checkstyle/checkstyle",
+    "link": "https://github.com/checkstyle/checkstyle",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. https://checkstyle.org Checkstyle - Java Code Quality Tool Checkstyle is a tool that ensures adherence to a code standard or a s",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.419672+00:00",
+    "details": {}
+  },
+  {
+    "title": "pollen-robotics/microduck_rl",
+    "link": "https://github.com/pollen-robotics/microduck_rl",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "RL training environments for Microduck (mjlab) https://pollen-robotics.com/microduck Microduck RL RL training environments for Microduck — a ~800 g, ~25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime in pollen-robotics/microduck . https://github.com/user-attachments/assets/50c3d537-8",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.421487+00:00",
+    "details": {}
+  },
+  {
+    "title": "handsomestWei/patent-disclosure-skill",
+    "link": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 https://skillhub.cn/skills/patent-disclosure-skill 中国专利.skill 专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 有设计文档和代码，但 专利点还没梳 ？交底书要 框图 + 可改 Word ？ 定稿后还要 多轮补材料、纠错 并留下修改追溯？ 公开专利晦涩难懂，想 快速看懂权要与落地语境 ？ 初衷 · 运行效果 · 功能特性 · 示例 · 支持作者 · 参考文档 · 安装说明 · 技能入口 初衷 专利交底书编写 做了多年核心研发，专利发明人那一栏从没写过我的名字。 代码是自己敲的，方案是自己扛的，轮到交底书却卡在「专利点怎么挖、查新怎么写、框图和 Word 怎么一次交得出去」。本技能把这一",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.422850+00:00",
+    "details": {}
+  },
+  {
+    "title": "corsairdev/corsair",
+    "link": "https://github.com/corsairdev/corsair",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Connect your users to their apps https://corsair.dev Corsair: Connect your users to their apps Website · Discord · X Corsair is a fully-featured product integration platform with a seamless DX. Build anything, from an agent working across all your integrations to a multi-tenant dashboard for your users to connect to anything. Why does this exist? More than MCP Most agent integration tools are MCP-",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.423894+00:00",
+    "details": {}
+  },
+  {
+    "title": "colinhacks/zod",
+    "link": "https://github.com/colinhacks/zod",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "TypeScript-first schema validation with static type inference https://zod.dev Zod TypeScript-first schema validation with static type inference by @colinhacks Docs &nbsp;&nbsp;•&nbsp;&nbsp; Discord &nbsp;&nbsp;•&nbsp;&nbsp; 𝕏 &nbsp;&nbsp;•&nbsp;&nbsp; Bluesky Read the docs → What is Zod? Zod is a TypeScript-first validation library. Define a schema and parse some data with it. You'll get back a st",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:12:57.425945+00:00",
+    "details": {}
+  },
+  {
+    "title": "Bank of England Governor warns that advanced AI could destabilize the highly interconnected global financial system via cyber disruption across jurisdictions (Simon Goodley/The Guardian)",
+    "link": "https://www.techmeme.com/260831/p7#a260831p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Simon Goodley / The Guardian : Bank of England Governor warns that advanced AI could destabilize the highly interconnected global financial system via cyber disruption across jurisdictions &nbsp; &mdash;&nbsp; Andrew Bailey warns group about risk of advanced &lsquo;frontier models&rsquo; destabilising the &lsquo;highly interconnected&rsquo; financial system",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:13:34.992815+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at Pangram, the AI detector at the center of disputed accusations against writers, including a pulled novel and a Commonwealth Prize-winning short story (Elaine Moore/Financial Times)",
+    "link": "https://www.techmeme.com/260831/p6#a260831p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Elaine Moore / Financial Times : A look at Pangram, the AI detector at the center of disputed accusations against writers, including a pulled novel and a Commonwealth Prize-winning short story &nbsp; &mdash;&nbsp; Detection software offers quick answers, but the risk of false positives and the stigma of being accused are leading to societal mistrust in the written word.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:13:34.994758+00:00",
+    "details": {}
+  },
+  {
+    "title": "Could this affect M5 Ultra price/availability?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w35sc1/could_this_affect_m5_ultra_priceavailability/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/No_Conversation9561 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T10:13:34.996395+00:00",
+    "details": {}
   }
 ]
