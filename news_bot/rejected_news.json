@@ -2582,5 +2582,100 @@
     },
     "rejected_at": "2026-08-30T22:13:36.360135+00:00",
     "details": {}
+  },
+  {
+    "title": "The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth (Jason Douglas/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260830/p13#a260830p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jason Douglas / Wall Street Journal : The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth &nbsp; &mdash;&nbsp; Growth is holding up despite renewed tensions over trade, geopolitics and bond markets, though the AI boom's outsize role is a growing concern",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T02:05:20.544473+00:00",
+    "details": {}
+  },
+  {
+    "title": "Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek (Chris Metinko/Axios)",
+    "link": "https://www.techmeme.com/260830/p12#a260830p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Chris Metinko / Axios : Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek &nbsp; &mdash;&nbsp; Agentrys, a Nvidia alum-led chip design startup, raised $24.5 million in funding, CEO Mark Ren tells Axios Pro exclusively. &hellip; - The platform allows users to create their own agents &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T02:05:20.546416+00:00",
+    "details": {}
+  },
+  {
+    "title": "Copilot code review: Resolution reasons and expanded capabilities",
+    "link": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities/ Comments URL: https://news.ycombinator.com/item?id=49504720 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T02:05:20.547762+00:00",
+    "details": {}
+  },
+  {
+    "title": "Clips Kitty Open-source local AI video clipping and editing",
+    "link": "https://github.com/ColinGPT9/clips-studio",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/ColinGPT9/clips-studio Comments URL: https://news.ycombinator.com/item?id=49504646 Points: 1 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T02:05:20.549122+00:00",
+    "details": {}
+  },
+  {
+    "title": "Cybercriminals build fake school websites as education attacks hit record high",
+    "link": "https://databreaches.net/2026/08/30/cybercriminals-build-fake-school-websites-as-education-attacks-hit-record-high/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Joy Agwunobi reports: Cybercriminals are ramping up preparations for the new academic year by creating thousands of education-themed websites and phishing campaigns designed to steal personal and financial information from students, parents and educators, as the education sector remains the world’s most targeted industry for cyberattacks. New research by Check Point Research, the threat intelligen",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T02:05:20.553256+00:00",
+    "details": {}
   }
 ]
