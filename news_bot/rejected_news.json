@@ -3285,5 +3285,100 @@
     },
     "rejected_at": "2026-08-31T19:23:44.263907+00:00",
     "details": {}
+  },
+  {
+    "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
+    "link": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "On August 6, DataBreaches reported that Cardiology Associates of Port Huron (CAPH), a Michigan medical practice with 9 locations, appeared to have been breached by a group called Orova. As reported at the time, the listing included screenshots with personally identifiable and protected health information. Orova&#8217;s listing, posted on its leak site on August 4,... Source",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T23:29:04.069850+00:00",
+    "details": {}
+  },
+  {
+    "title": "Florida says it is revoking permits for Flock cameras and similar license-plate readers on state roads and no longer intends to issue such permits (Ryan Gillespie/Orlando Sentinel)",
+    "link": "https://www.techmeme.com/260831/p41#a260831p41",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ryan Gillespie / Orlando Sentinel : Florida says it is revoking permits for Flock cameras and similar license-plate readers on state roads and no longer intends to issue such permits &nbsp; &mdash;&nbsp; Florida is revoking permits for Flock cameras and similar license-plate readers on state roads, dealing a blow to local law enforcement agencies &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T23:29:20.216487+00:00",
+    "details": {}
+  },
+  {
+    "title": "Callscript: Code Mode, Without the Sandbox",
+    "link": "https://www.callscript.dev/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.callscript.dev/ Comments URL: https://news.ycombinator.com/item?id=49515936 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T23:29:20.218182+00:00",
+    "details": {}
+  },
+  {
+    "title": "Claude Code now appends a link to a Claude session in every commit",
+    "link": "https://news.ycombinator.com/item?id=49515667",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Claude code now appends every commit with this line, everyone is opted in automatically. This link is only accessible to the user so it doesn't make sense to be put in a commit. Claude-Session: https://claude.ai/code/session_... There is a new setting that allows you to disable it. \"attribution\": { \"sessionUrl\": false } Comments URL: https://news.ycombinator.com/item?id=49515667 Points: 4 # Commen",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T23:29:20.220042+00:00",
+    "details": {}
+  },
+  {
+    "title": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I keep seeing demos of AI agents building scenes in Blender through BlenderMCP, so I tried it myself. I ran both models locally for this and picked the GLM 5.3 family(Q4 quant) because videos of it doing 3D work kept showing up in my twitter feed (out of curiosity, I ran the same prompt through the full GLM 5.3, also locally with a Q4 quant) these aren't small models, obviously, a 4-bit quantized",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-08-31T23:29:20.222808+00:00",
+    "details": {}
   }
 ]

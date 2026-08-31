@@ -816,5 +816,32 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Filing: Apple claims a former iPhone engineer used a confidential Apple circuit schematic in his work at OpenAI, evidence is being destroyed, and more (Chance Miller/9to5Mac)",
+    "link": "https://www.techmeme.com/260831/p40#a260831p40",
+    "summary": "كشفت وثائق قضائية جديدة عن اتهام شركة أبل لمهندس آيفون سابق بنقل مخططات دوائر إلكترونية سرية واستخدامها أثناء عمله في شركة OpenAI. وأشارت أبل في مذكرتها القضائية إلى وجود أدلة تُتلف عمداً، مطالبة المحكمة بتسريع إجراءات التحقيق والاستكشاف المباشر للقضية.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "apple-openai-circuit-schematic-lawsuit",
+    "event_key": "apple|2026 08|أعمال وتقنية|iphone|أمريكا الشمالية",
+    "company_name": "Apple",
+    "event_year_month": "2026-08",
+    "news_type": "أعمال وتقنية",
+    "product_name": "iPhone",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Apple",
+      "OpenAI",
+      "دعوى قضائية",
+      "مخططات سرية",
+      "ملكية فكرية"
+    ],
+    "month": "2026-08",
+    "posted_at": "2026-08-31T23:29:20.210311+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 135,
+    "telegram_message_url": "https://t.me/Eng_limitless/135"
   }
 ]
