@@ -3380,5 +3380,24 @@
     },
     "rejected_at": "2026-08-31T23:29:20.222808+00:00",
     "details": {}
+  },
+  {
+    "title": "Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking (Anthropic)",
+    "link": "https://www.techmeme.com/260831/p43#a260831p43",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anthropic : Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking &nbsp; &mdash;&nbsp; On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-01T02:26:05.638857+00:00",
+    "details": {}
   }
 ]
