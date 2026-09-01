@@ -3950,5 +3950,100 @@
     },
     "rejected_at": "2026-09-01T18:57:26.795965+00:00",
     "details": {}
+  },
+  {
+    "title": "Google rolls out its September Android Drop, with remembered items in Find Hub, Guided vision in Gemini Live, Motion Assist to reduce motion sickness, and more (Ryan Whitwam/Ars Technica)",
+    "link": "https://www.techmeme.com/260901/p53#a260901p53",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ryan Whitwam / Ars Technica : Google rolls out its September Android Drop, with remembered items in Find Hub, Guided vision in Gemini Live, Motion Assist to reduce motion sickness, and more &nbsp; &mdash;&nbsp; Let's be frank: Some of Google's recent Android feature Drops have been duds, offering little more than an expansion of Gemini summaries and chat functions.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-01T22:09:54.192952+00:00",
+    "details": {}
+  },
+  {
+    "title": "Filing: Apple says John Ternus will get a compensation package worth ~$58M in FY 2027, while Tim Cook's role as executive chairman will pay ~$47M (Mark Gurman/Bloomberg)",
+    "link": "https://www.techmeme.com/260901/p52#a260901p52",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mark Gurman / Bloomberg : Filing: Apple says John Ternus will get a compensation package worth ~$58M in FY 2027, while Tim Cook's role as executive chairman will pay ~$47M &nbsp; &mdash;&nbsp; Apple Inc. said that new Chief Executive Officer John Ternus will get a compensation package worth about $58 million in fiscal 2027 &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-01T22:09:54.196366+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Teslacode.dev – use Claude Code on your Tesla screen",
+    "link": "https://teslacode.dev",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://teslacode.dev Comments URL: https://news.ycombinator.com/item?id=49527817 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-01T22:09:54.198730+00:00",
+    "details": {}
+  },
+  {
+    "title": "Claude Code setup I built for a bike workshop's 20-year-old classic ASP system",
+    "link": "https://pyfd.github.io/marginalia/published/claude-code-setup/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://pyfd.github.io/marginalia/published/claude-code-setup/ Comments URL: https://news.ycombinator.com/item?id=49527376 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-01T22:09:54.201198+00:00",
+    "details": {}
+  },
+  {
+    "title": "Fingers crossed for a 122b or really anything above 31b.🤞",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w4l9cp/fingers_crossed_for_a_122b_or_really_anything/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "What’s y’all’s best guess on parameter size based on these weird-ass names? &#32; submitted by &#32; /u/Porespellar [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-01T22:09:54.204076+00:00",
+    "details": {}
   }
 ]
