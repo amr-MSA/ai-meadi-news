@@ -1,22 +1,5 @@
 [
   {
-    "title": "Qwen3.8-Flash-Next tomorrow",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwtyd/qwen38flashnext_tomorrow/",
-    "topic_key": "qwen-flash-next-leak",
-    "month": "2026-08",
-    "posted_at": "2026-08-25T12:24:24.789912",
-    "type": "leak",
-    "reliability_level": "🟠"
-  },
-  {
-    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-    "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-    "topic_key": "Apple-M6-M5-Ultra-Silicon",
-    "month": "2026-08",
-    "posted_at": "2026-08-25T13:48:52.485422",
-    "type": "daily"
-  },
-  {
     "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
     "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
     "summary": "كشفت التقارير الأمنية عن منصة احتيال كخدمة (PhaaS) جديدة تُسمى AnonyMousKIT، تقوم بأتمتة الاتصالات الهاتفية باستخدام وكلاء الذكاء الاصطناعي الصوتي لاستهداف أصحاب هواتف آيفون المسروقة والحصول على رموز المرور لتعطيل قفل التنشيط.",
