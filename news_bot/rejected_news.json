@@ -3912,5 +3912,43 @@
     },
     "rejected_at": "2026-09-01T17:09:03.974658+00:00",
     "details": {}
+  },
+  {
+    "title": "Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M (Sam Sabin/Axios)",
+    "link": "https://www.techmeme.com/260901/p37#a260901p37",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sam Sabin / Axios : Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M &nbsp; &mdash;&nbsp; Aslan, a startup building AI agents that act as operatives in national security missions, is publicly launching today after raising $20.8 million &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-01T18:57:26.792584+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers (Ashley Capoot/CNBC)",
+    "link": "https://www.techmeme.com/260901/p36#a260901p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ashley Capoot / CNBC : Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers &nbsp; &mdash;&nbsp; Anthropic on Tuesday announced it will walk back a controversial data retention policy after &ldquo;a lot of feedback&rdquo; from its business customers &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-01T18:57:26.795965+00:00",
+    "details": {}
   }
 ]
