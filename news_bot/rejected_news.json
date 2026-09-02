@@ -4330,5 +4330,43 @@
     },
     "rejected_at": "2026-09-02T16:58:52.970547+00:00",
     "details": {}
+  },
+  {
+    "title": "Thyme Care, which focuses on filling gaps in cancer treatment through a virtual navigation platform, raised a $125M Series E at a $2B+ valuation (Ian Thomas/CNBC)",
+    "link": "https://www.techmeme.com/260902/p33#a260902p33",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ian Thomas / CNBC : Thyme Care, which focuses on filling gaps in cancer treatment through a virtual navigation platform, raised a $125M Series E at a $2B+ valuation &nbsp; &mdash;&nbsp; Despite recent advancements in oncology, the branch of medicine focused on the study, prevention, diagnosis and treatment of cancer &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T17:29:31.648863+00:00",
+    "details": {}
+  },
+  {
+    "title": "Commerce Secretary Howard Lutnick says \"we trust Anthropic\" as they are \"back on the right side\" with the administration and that \"they've done what we asked\" (Maria Curi/Axios)",
+    "link": "https://www.techmeme.com/260902/p32#a260902p32",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Maria Curi / Axios : Commerce Secretary Howard Lutnick says &ldquo;we trust Anthropic&rdquo; as they are &ldquo;back on the right side&rdquo; with the administration and that &ldquo;they've done what we asked&rdquo; &nbsp; &mdash;&nbsp; - &ldquo;They've done what we asked. &hellip; - &ldquo;Really excited for our conversation &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T17:29:31.650965+00:00",
+    "details": {}
   }
 ]
