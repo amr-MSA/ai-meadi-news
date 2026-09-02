@@ -4311,5 +4311,24 @@
     },
     "rejected_at": "2026-09-02T12:32:01.488575+00:00",
     "details": {}
+  },
+  {
+    "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+    "source_name": "BleepingComputer",
+    "summary": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T16:58:52.970547+00:00",
+    "details": {}
   }
 ]
