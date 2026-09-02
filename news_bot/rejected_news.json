@@ -4406,5 +4406,138 @@
     },
     "rejected_at": "2026-09-02T20:17:43.569022+00:00",
     "details": {}
+  },
+  {
+    "title": "Uber launches London's first commercial robotaxi service; the vehicles use Wayve's autonomous driving tech and will initially have human safety drivers (Andrew J. Hawkins/The Verge)",
+    "link": "https://www.techmeme.com/260902/p45#a260902p45",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Andrew J. Hawkins / The Verge : Uber launches London's first commercial robotaxi service; the vehicles use Wayve's autonomous driving tech and will initially have human safety drivers &nbsp; &mdash;&nbsp; The cars have no lidar and no geofence, but still will have human safety drivers for the initial launch.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T23:41:48.199964+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale (Marina Temkin/TechCrunch)",
+    "link": "https://www.techmeme.com/260902/p44#a260902p44",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Marina Temkin / TechCrunch : Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale &nbsp; &mdash;&nbsp; Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents to automate routine &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T23:41:48.204169+00:00",
+    "details": {}
+  },
+  {
+    "title": "Habab Discord Quest Extension – Open-source browser extension",
+    "link": "https://github.com/xloqia03/Habab-Discord-Quest-Extension",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/xloqia03/Habab-Discord-Quest-Extension Comments URL: https://news.ycombinator.com/item?id=49543942 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T23:41:48.206895+00:00",
+    "details": {}
+  },
+  {
+    "title": "Goroutine Leak Profiles",
+    "link": "https://go.dev/blog/goroutine-leak-profiles",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://go.dev/blog/goroutine-leak-profiles Comments URL: https://news.ycombinator.com/item?id=49543564 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T23:41:48.209028+00:00",
+    "details": {}
+  },
+  {
+    "title": "Muse Spark open weights coming soon",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w5l8bw/muse_spark_open_weights_coming_soon/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I am still waiting for Llama 5, because Muse Spark will be too big for me, or just something between Glimmer and Spark https://x.com/finkd/status/2095232032896946311 &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T23:41:48.211971+00:00",
+    "details": {}
+  },
+  {
+    "title": "DoD confirms ‘refrigeration disruption’ at military commissaries",
+    "link": "https://databreaches.net/2026/09/02/dod-confirms-refrigeration-disruption-at-military-commissaries/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "DysruptionHub raised the suspicion flag yesterday, but couldn&#8217;t get a straight answer from DOD as to whether refrigeration outages at 14 commissaries represented a cyberattack. The Military Times fared no better: With more than a half-dozen commissaries on military bases in the continental U.S. reporting refrigeration outages this week, the Pentagon is acknowledging the problem... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T23:41:48.214701+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
+    "link": "https://databreaches.net/2026/09/02/hackers-expose-donor-data-from-russian-fundraisers-for-ukrainians-political-prisoners/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Daryna Antoniuk reports: Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information. The unknown threat actor targeted Davayte, which raises money for civilians in Ukraine affected by Russia’s invasion, and You Are Not Alone, a project supporting...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T23:41:48.217527+00:00",
+    "details": {}
   }
 ]
