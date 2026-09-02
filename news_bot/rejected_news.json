@@ -4273,5 +4273,43 @@
     },
     "rejected_at": "2026-09-02T06:33:51.394552+00:00",
     "details": {}
+  },
+  {
+    "title": "The EU General Court dismisses Opera's challenge against the European Commission's decision to exempt Microsoft Edge from DMA gatekeeper regulations in 2024 (Reuters)",
+    "link": "https://www.techmeme.com/260902/p16#a260902p16",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : The EU General Court dismisses Opera's challenge against the European Commission's decision to exempt Microsoft Edge from DMA gatekeeper regulations in 2024 &nbsp; &mdash;&nbsp; Norwegian browser maker Opera (OPRA.O) on Wednesday lost its court challenge against EU antitrust regulators' decision to exempt Microsoft's &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T12:32:01.484433+00:00",
+    "details": {}
+  },
+  {
+    "title": "Survey: 53% of US adults say they spend too much time on their smartphone and 36% say about the right amount; 70% of ages 18 to 29 report spending too much time (Pew Research Center)",
+    "link": "https://www.techmeme.com/260902/p15#a260902p15",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Pew Research Center : Survey: 53% of US adults say they spend too much time on their smartphone and 36% say about the right amount; 70% of ages 18 to 29 report spending too much time &nbsp; &mdash;&nbsp; Between scrolling, notifications, and messages, smartphones can be hard to put down.&nbsp; Just over half of U.S. adults say they spend &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T12:32:01.488575+00:00",
+    "details": {}
   }
 ]
