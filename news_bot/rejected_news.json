@@ -4045,5 +4045,43 @@
     },
     "rejected_at": "2026-09-01T22:09:54.204076+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest (Bloomberg)",
+    "link": "https://www.techmeme.com/260901/p60#a260901p60",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest &nbsp; &mdash;&nbsp; Artificial intelligence coding startup Cognition AI Inc. is set to close a new round of funding that would vault its valuation to about $47 billion, according to people familiar with the efforts.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T01:47:09.691004+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Zac Hall/9to5Mac)",
+    "link": "https://www.techmeme.com/260901/p59#a260901p59",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Zac Hall / 9to5Mac : Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &nbsp; &mdash;&nbsp; In June, Anthropic first released Fable 5, its Mythos-class AI model for Claude.&nbsp; Three months later, Anthropic is enhancing Claude with its new Fable 5.1 model upgrade.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T01:47:09.693680+00:00",
+    "details": {}
   }
 ]
