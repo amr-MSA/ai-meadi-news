@@ -4083,5 +4083,195 @@
     },
     "rejected_at": "2026-09-02T01:47:09.693680+00:00",
     "details": {}
+  },
+  {
+    "title": "Gitlawb/openclaude",
+    "link": "https://github.com/Gitlawb/openclaude",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "runs anywhere. uses anything https://openclaude.gitlawb.com OpenClaude is an open-source coding-agent CLI for cloud and local model providers. Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Codex, Ollama, Atomic Chat, and other supported backends while keeping one terminal-first workflow: prompts, tools, agents, MCP, slash commands, and streaming output. OpenClaude is also mirrore",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:33.414122+00:00",
+    "details": {}
+  },
+  {
+    "title": "Imbad0202/academic-research-skills",
+    "link": "https://github.com/Imbad0202/academic-research-skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Academic Research Skills for Claude Code: research → write → review → revise → finalize https://buymeacoffee.com/crucify020v Academic Research Skills for Claude Code 简体中文版 | 繁體中文版 | 日本語版 | 한국어 A comprehensive suite of Claude Code skills for academic research, covering the full pipeline from research to publication. Install in 30 seconds (Claude Code CLI / VS Code / JetBrains, v3.7.0+): /plugin mar",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:33.420534+00:00",
+    "details": {}
+  },
+  {
+    "title": "iv-org/invidious",
+    "link": "https://github.com/iv-org/invidious",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Invidious is an alternative front-end to YouTube https://invidious.io Invidious An open source alternative front-end to YouTube Website &nbsp;•&nbsp; Instances list &nbsp;•&nbsp; FAQ &nbsp;•&nbsp; Documentation &nbsp;•&nbsp; Contribute &nbsp;•&nbsp; Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features Lightweight No ads No tracking No JavaScript required Light/D",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:33.425118+00:00",
+    "details": {}
+  },
+  {
+    "title": "3b1b/manim",
+    "link": "https://github.com/3b1b/manim",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Animation engine for explanatory math videos Manim is an engine for precise programmatic animations, designed for creating explanatory math videos. Note, there are two versions of manim. This repository began as a personal project by the author of 3Blue1Brown for the purpose of animating those videos, with video-specific code available here . In 2020 a group of developers forked it into what is no",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:33.431463+00:00",
+    "details": {}
+  },
+  {
+    "title": "browser-use/video-use",
+    "link": "https://github.com/browser-use/video-use",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Edit videos with coding agents video-use Introducing video-use — edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus. Try video-use in Browser Use Cloud . What it does Cuts out filler words ( umm , uh , false starts) and dead",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:33.435744+00:00",
+    "details": {}
+  },
+  {
+    "title": "VoltAgent/awesome-design-md",
+    "link": "https://github.com/VoltAgent/awesome-design-md",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. https://getdesign.md/ Curated collection of DESIGN.md analysis by developer focused websites. Awesome DESIGN.md Copy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI that stays visual",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:33.442926+00:00",
+    "details": {}
+  },
+  {
+    "title": "averygan/reclip",
+    "link": "https://github.com/averygan/reclip",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. ReClip A self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3. https://github.com/user-attachments/assets/419d3e50-c933-444b-8cab-a9724986ba05 Features Download videos from",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:33.444840+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at South Korea's sovereign AI efforts, including its planned $919B AI infrastructure investment and Nvidia's expanded ties with Samsung and SK Hynix (SemiAnalysis)",
+    "link": "https://www.techmeme.com/260902/p3#a260902p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "SemiAnalysis : A look at South Korea's sovereign AI efforts, including its planned $919B AI infrastructure investment and Nvidia's expanded ties with Samsung and SK Hynix &nbsp; &mdash;&nbsp; Korea hosts a Squid Games, National AI Tournament, the best non-Chinese open source model gets eliminated, why Nvidia needs open source, implications for Hynix and Samsung",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:51.387977+00:00",
+    "details": {}
+  },
+  {
+    "title": "Frontier AI labs are stepping up biological risk testing, which is harder than cybersecurity testing, where capabilities can be tested in digital environments (Financial Times)",
+    "link": "https://www.techmeme.com/260902/p2#a260902p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : Frontier AI labs are stepping up biological risk testing, which is harder than cybersecurity testing, where capabilities can be tested in digital environments &nbsp; &mdash;&nbsp; Executives and biosecurity experts are concerned that future models could help users create novel viruses or bioweapons.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:51.391331+00:00",
+    "details": {}
+  },
+  {
+    "title": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "One of the other posts today by user u/Howard_banister confirmed what I've been seeing from the other AI subreddits as well. Most of these other subs are 90% trend hopping crypto-bros equivalent people who are seemingly irrelevant most of the time when it comes to advancing AI as the vast majority is not just AI slop, but also human slop whether that be fearmongering or straight anti-ai arguments",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-02T06:33:51.394552+00:00",
+    "details": {}
   }
 ]
