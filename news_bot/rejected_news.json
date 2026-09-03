@@ -4976,5 +4976,138 @@
     },
     "rejected_at": "2026-09-03T06:40:53.555939+00:00",
     "details": {}
+  },
+  {
+    "title": "Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year (Ari Levy/CNBC)",
+    "link": "https://www.techmeme.com/260903/p18#a260903p18",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ari Levy / CNBC : Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year &nbsp; &mdash;&nbsp; Nvidia has officially agreed to buy open-source artificial intelligence platform Hugging Face for $12.9 billion, as the chipmaker moves beyond hardware and further up the AI stack.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T12:22:02.070191+00:00",
+    "details": {}
+  },
+  {
+    "title": "PlusAI, which is operating autonomous freight routes in Texas with trucking company Ryder, plans to go public in a SPAC deal at an $800M pre-money valuation (Pragyan Kalita/Reuters)",
+    "link": "https://www.techmeme.com/260903/p17#a260903p17",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Pragyan Kalita / Reuters : PlusAI, which is operating autonomous freight routes in Texas with trucking company Ryder, plans to go public in a SPAC deal at an $800M pre-money valuation &nbsp; &mdash;&nbsp; PlusAI has agreed to go public through a merger with blank-check firm Texas Ventures Acquisition III Corp (TVA.O) &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T12:22:02.073639+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Outfund.me – an open-source platform for alternative startup funding",
+    "link": "https://outfund.me/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://outfund.me/ Comments URL: https://news.ycombinator.com/item?id=49548826 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T12:22:02.076155+00:00",
+    "details": {}
+  },
+  {
+    "title": "He built Russia's FSB surveillance system, then fled with its source code",
+    "link": "https://istories.media/stories/2026/09/03/vines-sorm-iz-izbi/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://istories.media/stories/2026/09/03/vines-sorm-iz-izbi/ Comments URL: https://news.ycombinator.com/item?id=49548758 Points: 2 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T12:22:02.078524+00:00",
+    "details": {}
+  },
+  {
+    "title": "My RULE of Thumb of choosing a models",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w5zdx4/my_rule_of_thumb_of_choosing_a_models/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "This is mostly for setting up for expectation, since personally without LLM i could take 3 days (15 hours of active programming) to debug or implement a feature, but with Qwen 27B (even before Qwen 3.8) it take 4 hours. And yes 0.5 tok/s is human, not accounting of deletion and pausing, that's also the reason i am fine leaving overnight code base wide analysis or fin tech and deep research. &#32;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T12:22:02.080496+00:00",
+    "details": {}
+  },
+  {
+    "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
+    "link": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "SAN FRANCISCO – A federal grand jury has indicted Searzhudin Tamirlanovich Aktulaev on charges of Conspiracy, Transmission of a Program, Information, Code, and Command to Cause Damage to a Protected Computer, and Aggravated Identity Theft, among other offenses. Defendant was arrested in Cyprus in May 2025 and has been extradited to the United States. Yesterday,... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T12:22:02.084931+00:00",
+    "details": {}
+  },
+  {
+    "title": "North Dakota Supreme Court impacted by third-party data breach that has affected dozens of states",
+    "link": "https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Joe Kurzewski reports: A criminal investigation is underway after data associated with the North Dakota Supreme Court was affected by a breach of a third-party vendor used by the court. According to a news release, the North Dakota Court System was informed in late July that C-Track experienced a data breach that may have involved... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T12:22:02.087456+00:00",
+    "details": {}
   }
 ]
