@@ -5128,5 +5128,29 @@
     },
     "rejected_at": "2026-09-03T16:55:32.416630+00:00",
     "details": {}
+  },
+  {
+    "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
+    "link": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Roger Satterfield reports: An attacker handed an unknown corporate victim a comprehensive, 80-page security audit on Wednesday — not as a service, but as a postscript to the ransomware attack that had just consumed the victim&#8217;s enterprise. According to Palo Alto Networks&#8217; threat intelligence unit Unit 42, whose researchers documented the September 2 incident, the... Source",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "2026-09",
+      "news_type": "أمن سيبراني",
+      "product_name": "غير محدد",
+      "region": "عالمي",
+      "topic_key": "agentic-ransomware-enterprise-attack-unit42",
+      "keywords": [
+        "أمن سيبراني",
+        "ذكاء اصطناعي",
+        "برمجيات فدية",
+        "Unit 42"
+      ]
+    },
+    "rejected_at": "2026-09-03T17:27:33.388307+00:00",
+    "details": {}
   }
 ]
