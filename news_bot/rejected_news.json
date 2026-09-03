@@ -5109,5 +5109,24 @@
     },
     "rejected_at": "2026-09-03T12:22:02.087456+00:00",
     "details": {}
+  },
+  {
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "source_name": "TechCrunch",
+    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "reason": "مكرر داخل دفعة RSS الحالية",
+    "rejection_stage": "batch-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T16:55:32.416630+00:00",
+    "details": {}
   }
 ]
