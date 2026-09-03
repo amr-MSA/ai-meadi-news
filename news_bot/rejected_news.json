@@ -5228,5 +5228,81 @@
     },
     "rejected_at": "2026-09-03T20:15:07.832150+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest (Alex Konrad/Upstarts Media)",
+    "link": "https://www.techmeme.com/260903/p47#a260903p47",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Alex Konrad / Upstarts Media : Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest &nbsp; &mdash;&nbsp; Exclusive details on Town's new $90M fundraise at a $1B valuation, and the eleventh-hour cap table reshuffling behind it, per Upstarts sources.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T23:38:54.700083+00:00",
+    "details": {}
+  },
+  {
+    "title": "The benchmarks the big labs don't want you to see",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w6myn6/the_benchmarks_the_big_labs_dont_want_you_to_see/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/jd_3d [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T23:38:54.703072+00:00",
+    "details": {}
+  },
+  {
+    "title": "Two “Nephrology Associates” suffered cyberattacks. Only one of them has disclosed it.",
+    "link": "https://databreaches.net/2026/09/03/two-nephrology-associates-suffered-cyberattacks-only-one-of-them-has-disclosed-it/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Sometimes, first impressions are wrong. And in the case of &#8220;Nephrology Associates,&#8221; DataBreaches mistakenly thought one victim was attacked by two different groups. But no, there are actually two unrelated entities with the same name that suffered attacks this year. And only one of them has disclosed it. The Kansas Incident On March 7, The... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T23:38:54.709843+00:00",
+    "details": {}
+  },
+  {
+    "title": "The New School Safety Perimeter: Where Cybersecurity Meets Physical Security",
+    "link": "https://databreaches.net/2026/09/03/the-new-school-safety-perimeter-where-cybersecurity-meets-physical-security/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Kumar Sokka reports: At many institutions, the student ID number exposed in a data breach is the same number that unlocks dorm doors, sits behind classroom badge readers, controls laboratory access, and authenticates into building automation systems. The badge in a student&#8217;s wallet is keyed to that database. When that database is compromised, every physical... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T23:38:54.712968+00:00",
+    "details": {}
   }
 ]
