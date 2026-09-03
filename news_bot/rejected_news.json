@@ -4539,5 +4539,100 @@
     },
     "rejected_at": "2026-09-02T23:41:48.217527+00:00",
     "details": {}
+  },
+  {
+    "title": "Best Local Vision Language Models - August 2026",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Share what your favorite models are right now and why . Given the nature of the beast in evaluating VLMs (untrustworthiness of benchmarks, immature tooling, intrinsic stochasticity), please be as detailed as possible in describing your setup, nature of your usage ( what applications , how much, personal/professional use), tools/frameworks/prompts etc. Rules Should be open weights models Notes Bonu",
+    "reason": "أقدم من الحد الزمني المسموح",
+    "rejection_stage": "age-filter",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T01:52:38.476797+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at Loudoun County, Virginia, dubbed \"Data Center Alley\", which hosts ~250 data centers and offers a glimpse into data centers' impact on communities (Lauren Feiner/The Verge)",
+    "link": "https://www.techmeme.com/260902/p48#a260902p48",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Lauren Feiner / The Verge : A look at Loudoun County, Virginia, dubbed &ldquo;Data Center Alley&rdquo;, which hosts ~250 data centers and offers a glimpse into data centers' impact on communities &nbsp; &mdash;&nbsp; Massive AI infrastructure is being built out across the US.&nbsp; But if you want to know what the data center occupation looks like &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T01:53:54.491764+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox (Stephen Nakrosis/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260902/p47#a260902p47",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Stephen Nakrosis / Wall Street Journal : Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox &nbsp; &mdash;&nbsp; Microsoft is changing its reporting structure from three segments to two&mdash;Agents and Infra, and Devices and Consumer",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T01:53:54.495146+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen3.8-Max-0902 takes second slot on Code Arena beating Claude Opus 5 max",
+    "link": "https://arena.ai/leaderboard/code/webdev",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://arena.ai/leaderboard/code/webdev Comments URL: https://news.ycombinator.com/item?id=49544285 Points: 3 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T01:53:54.497589+00:00",
+    "details": {}
+  },
+  {
+    "title": "GLM 5.3 Flash makes a black hole Minecraft mod running locally on 4x RTX PRO 6000 WS",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w5gk2b/glm_53_flash_makes_a_black_hole_minecraft_mod/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "saw the post the other day where people said Minecraft clones aren't impressive anymore, because at this point the whole thing might as well be in the training data. so i tried something slightly different, which is asking a local model to write a mod for the real game, using the Fabric API the model is GLM 5.3 Flash (Q4 quant, running on a rented 4x RTX PRO 6000 box). this wasn't done in prompt o",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T01:53:54.501956+00:00",
+    "details": {}
   }
 ]
