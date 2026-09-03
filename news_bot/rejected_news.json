@@ -5152,5 +5152,81 @@
     },
     "rejected_at": "2026-09-03T17:27:33.388307+00:00",
     "details": {}
+  },
+  {
+    "title": "GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% (Greg Kamradt/ARC Prize)",
+    "link": "https://www.techmeme.com/260903/p40#a260903p40",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Greg Kamradt / ARC Prize : GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% &nbsp; &mdash;&nbsp; Summary&nbsp; &mdash; GPT-6 Astra scores 62.7% for $26K on ARC-AGI-3 Semi-Private with our Standard harness, and 99.9% for $19K with a Provider Adapter harness.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T20:15:07.825485+00:00",
+    "details": {}
+  },
+  {
+    "title": "DOD's Emil Michael says Anthropic is still a designated supply chain risk, a day after Howard Lutnick said it resolved its issues with the Trump administration (Maggie Eastland/Bloomberg)",
+    "link": "https://www.techmeme.com/260903/p39#a260903p39",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Maggie Eastland / Bloomberg : DOD's Emil Michael says Anthropic is still a designated supply chain risk, a day after Howard Lutnick said it resolved its issues with the Trump administration &nbsp; &mdash;&nbsp; US Commerce Secretary Howard Lutnick said Anthropic PBC has resolved its long-running issues with the Trump administration but a top Pentagon official begs to differ.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T20:15:07.828429+00:00",
+    "details": {}
+  },
+  {
+    "title": "It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w65uhf/its_official_nvidia_to_acquire_hugging_face_for/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/SarcasticBaka [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T20:15:07.830419+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apparently ChatGPT, Claude, and Grok were down",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w6aw2a/apparently_chatgpt_claude_and_grok_were_down/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/mailto_devnull [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T20:15:07.832150+00:00",
+    "details": {}
   }
 ]

@@ -877,5 +877,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 140,
     "telegram_message_url": "https://t.me/Eng_limitless/140"
+  },
+  {
+    "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
+    "link": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
+    "summary": "وثقت وحدة أبحاث التهديدات Unit 42 التابعة لشركة Palo Alto Networks هجومًا سيبرانيًا نفذته برمجيات فدية قائمة على وكلاء الذكاء الاصطناعي، حيث أدت لإغلاق البنية التحتية لشركة كبرى خلال 10 ساعات فقط. وعقب الشلل الكامل للشبكة، ترك المهاجمون تقرير تدقيق أمني مفصلًا يتكون من 80 صفحة يوضح الثغرات المستغلة.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "agentic-ransomware-enterprise-attack-unit42",
+    "event_key": "palo alto networks|2026 09|أمن سيبراني|غير محدد|عالمي",
+    "company_name": "Palo Alto Networks",
+    "event_year_month": "2026-09",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "عالمي",
+    "keywords": [
+      "أمن سيبراني",
+      "برمجيات فدية",
+      "ذكاء اصطناعي",
+      "Unit 42",
+      "اختراق"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-03T20:15:07.752095+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 141,
+    "telegram_message_url": "https://t.me/Eng_limitless/141"
   }
 ]
