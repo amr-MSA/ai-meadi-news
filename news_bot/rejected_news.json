@@ -4634,5 +4634,347 @@
     },
     "rejected_at": "2026-09-03T01:53:54.501956+00:00",
     "details": {}
+  },
+  {
+    "title": "fmtlib/fmt",
+    "link": "https://github.com/fmtlib/fmt",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A modern formatting library https://fmt.dev {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&amp;A: ask questions on StackOverflow with the tag fmt . Try {fmt} in Compiler Explorer . Features Simple format API with positional arguments for localization Implementation of C++20 std::format and C++23 std::print",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.353005+00:00",
+    "details": {}
+  },
+  {
+    "title": "google-research/timesfm",
+    "link": "https://github.com/google-research/timesfm",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/ TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. Paper: A decoder-o",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.355537+00:00",
+    "details": {}
+  },
+  {
+    "title": "debpalash/VoiceStudio",
+    "link": "https://github.com/debpalash/VoiceStudio",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. https://voicestudio.sh VoiceStudio Previously OmniVoice-Studio Clone voices, dub video, dictate, and produce long-form audio on your own hardware. 16 TTS engines · 11 ASR engines · 646-language catalogue · macOS, Windows, L",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.359653+00:00",
+    "details": {}
+  },
+  {
+    "title": "sngyai/Sequoia-X",
+    "link": "https://github.com/sngyai/Sequoia-X",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 Sequoia-X: 王者回归 | The King Returns A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2 简介 | Introduction Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 baostock （免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权）， 存储于本地 SQLite，彻底规避东方财富反爬问题。 两种运行模式 python main.py # 日常模式：8进程增量补数据 + 跑策略 + 飞书推送（2~3分钟） python main.py",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.361907+00:00",
+    "details": {}
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "link": "https://github.com/NousResearch/hermes-agent",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The agent that grows with you https://hermes-agent.nousresearch.com Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are acro",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.365289+00:00",
+    "details": {}
+  },
+  {
+    "title": "superlinked/sie",
+    "link": "https://github.com/superlinked/sie",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open-source inference server and production cluster for all the models your agent needs. https://superlinked.com SIE: Superlinked Inference Engine Self-hosted inference for agents. Every open model your agents call, served from one cluster in your cloud. Docs | Quickstart | API Reference | Models ⭐ Help us reach more developers and grow the SIE community. Star this repo! About SIE is an open-sourc",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.367668+00:00",
+    "details": {}
+  },
+  {
+    "title": "pacifio/atlas",
+    "link": "https://github.com/pacifio/atlas",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Source control for agents. Use multiple coding agents, track their changes and query them in one place https://www.tryatlas.cc/ Download · Discord · Docs · Contributing · Issues Atlas Atlas is source control for coding agents. Every agent run produces checkpoints: commits are linked back to the session that made it alongside the prompts, tool calls, and reasoning. You see which agent did exactly w",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.370245+00:00",
+    "details": {}
+  },
+  {
+    "title": "zyronon/TypeWords",
+    "link": "https://github.com/zyronon/TypeWords",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； https://typewords.cc English | Español | Deutsch | Français | Português | Русский | Українська | 日本語 | 한국인 | ไทย | Tiếng Việt | Bahasa Indonesia | 繁體中文 | 简体中文 Learn English, one keystroke at a time; smarter memorization, more efficient learning - an open-source word and article practice tool Online Access https://typewords.cc Features",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.372486+00:00",
+    "details": {}
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "link": "https://github.com/protocolbuffers/protobuf",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Protocol Buffers - Google's data interchange format http://protobuf.dev Protocol Buffers - Google's data interchange format Copyright 2008 Google LLC Overview Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more about it in protobuf's documentation . This README file contains protobuf installat",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.386752+00:00",
+    "details": {}
+  },
+  {
+    "title": "vercel-labs/portless",
+    "link": "https://github.com/vercel-labs/portless",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Replace port numbers with stable, named local URLs. For humans and agents. https://portless.sh portless Replace port numbers with stable, named .localhost URLs for local development. For humans and agents. - \"dev\": \"next dev\" # http://localhost:3000 + \"dev\": \"portless run next dev\" # https://myapp.localhost Install Global (recommended): npm install -g portless Or as a project dev dependency: npm i",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.390003+00:00",
+    "details": {}
+  },
+  {
+    "title": "blader/humanizer",
+    "link": "https://github.com/blader/humanizer",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Agent skill that removes signs of AI-generated writing from text https://skills.sh/blader/humanizer Humanizer Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. How it works Humanizer uses 35 patterns from Wikipedia's \"Signs of AI writing\" , maintained by WikiProject AI Cl",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.392842+00:00",
+    "details": {}
+  },
+  {
+    "title": "JuliusBrussee/caveman",
+    "link": "https://github.com/JuliusBrussee/caveman",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman https://docs.caveman.so/docs/quickstart why use many token when few do trick You pay for AI by the token, and your agent writes like it knows that. Caveman make agent stop. Same brain. Fewer words. Smaller bill. See it · Install · Savings · Learn · Proxy · Wrap · Docs · License See it 🗣",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.395848+00:00",
+    "details": {}
+  },
+  {
+    "title": "mattpocock/skills",
+    "link": "https://github.com/mattpocock/skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Skills for Real Engineers. Straight from my .agents directory. https://aihero.dev/skills Skills For Real Engineers My agent skills that I use every day to do real engineering - not vibe coding. Developing real applications is hard. Approaches like GSD, BMAD, and Spec-Kit try to help by owning the process. But while doing so, they take away your control and make bugs in the process hard to resolve.",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:37:39.398516+00:00",
+    "details": {}
+  },
+  {
+    "title": "How organized opposition that toppled a $100B data center project in Virginia's Prince William County became a blueprint for data center backlash in the US (Dawn Lim/Bloomberg)",
+    "link": "https://www.techmeme.com/260903/p7#a260903p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dawn Lim / Bloomberg : How organized opposition that toppled a $100B data center project in Virginia's Prince William County became a blueprint for data center backlash in the US &nbsp; &mdash;&nbsp; Organized opposition toppled a $100 billion project from developers backed by two of the world's biggest private equity companies.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:40:53.541158+00:00",
+    "details": {}
+  },
+  {
+    "title": "Several international law firms are seeking to build bespoke AI tools to gain an edge and protect their IP, while using off-the-shelf AI for everyday tasks (Nick Huber/Financial Times)",
+    "link": "https://www.techmeme.com/260903/p6#a260903p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Nick Huber / Financial Times : Several international law firms are seeking to build bespoke AI tools to gain an edge and protect their IP, while using off-the-shelf AI for everyday tasks &nbsp; &mdash;&nbsp; Desire for differentiation drives push to build in-house platforms&nbsp; &mdash;&nbsp; After a few short years of learning, experimenting and planning &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:40:53.545574+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: A register of agent-payment code that pays once when the reply is lost",
+    "link": "https://aurumflux.co/retry-safety/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://aurumflux.co/retry-safety/ Comments URL: https://news.ycombinator.com/item?id=49546561 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:40:53.548705+00:00",
+    "details": {}
+  },
+  {
+    "title": "Claude Code skill: no emdashes",
+    "link": "https://github.com/woutersf/claude-skill-no-emdashes",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/woutersf/claude-skill-no-emdashes Comments URL: https://news.ycombinator.com/item?id=49546537 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:40:53.551133+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft VibeVoice-ASR-Streaming Released",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w5trnb/microsoft_vibevoiceasrstreaming_released/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Acceptable-Cycle4645 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-03T06:40:53.555939+00:00",
+    "details": {}
   }
 ]
