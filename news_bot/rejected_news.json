@@ -5912,5 +5912,100 @@
     },
     "rejected_at": "2026-09-04T16:44:27.564467+00:00",
     "details": {}
+  },
+  {
+    "title": "An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more (Nilay Patel/The Verge)",
+    "link": "https://www.techmeme.com/260904/p22#a260904p22",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Nilay Patel / The Verge : An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more &nbsp; &mdash;&nbsp; Today, I'm talking with Tom Conrad, the CEO of Sonos.&nbsp; Tom and I have known each other for a long time &mdash; he was the chief technology officer &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T17:15:13.764169+00:00",
+    "details": {}
+  },
+  {
+    "title": "Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal's autonomous MetaHuman characters (Matt Shumer/Something Big Is Happening)",
+    "link": "https://www.techmeme.com/260904/p21#a260904p21",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Matt Shumer / Something Big Is Happening : Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal's autonomous MetaHuman characters &nbsp; &mdash;&nbsp; Everyday work, ambitious experiments, and the Manager Loop. &hellip; For nearly a year, OpenAI models were my unquestioned default &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T17:15:13.768080+00:00",
+    "details": {}
+  },
+  {
+    "title": "Georgi Gerganov on the Nvidia acquisition",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7990o/georgi_gerganov_on_the_nvidia_acquisition/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Link: https://x.com/ggerganov/status/2095897173376618881 &#32; submitted by &#32; /u/CombinationKitchen76 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T17:15:13.774511+00:00",
+    "details": {}
+  },
+  {
+    "title": "Honeywell Aerospace Inc. Agrees to Pay Over $2M to Settle False Claims Act Allegations of Failing to Comply with Cybersecurity Requirements in a U.S. Department of Defense Contract",
+    "link": "https://databreaches.net/2026/09/04/honeywell-aerospace-inc-agrees-to-pay-over-2m-to-settle-false-claims-act-allegations-of-failing-to-comply-with-cybersecurity-requirements-in-a-u-s-department-of-defense-contract/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "A DOJ press release on September 1: The Justice Department announced today that Honeywell Aerospace Inc. has agreed to pay $2,042,518 to resolve allegations that it is liable under the False Claims Act for failing to comply with cybersecurity requirements in a contract with the U.S. Department of Defense. Honeywell Aerospace, a corporation headquartered in... Source",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T17:15:13.778231+00:00",
+    "details": {}
+  },
+  {
+    "title": "DaVita settles ransomware attack lawsuit for $15M",
+    "link": "https://databreaches.net/2026/09/04/davita-settles-ransomware-attack-lawsuit-for-15m/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Chad Van Alstin reports an update on a ransomware attack previously reported on DataBreaches.net: Nationwide kidney dialysis chain DaVita has agreed to pay $15 million to settle a class action lawsuit stemming from a 2025 ransomware attack that exposed sensitive patient data to hackers, the bulk of which was later leaked onto the dark web. The hack... Source",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T17:15:13.780504+00:00",
+    "details": {}
   }
 ]
