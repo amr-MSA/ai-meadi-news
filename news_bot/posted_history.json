@@ -1022,5 +1022,40 @@
     "reliability_level": "🟡",
     "telegram_message_id": 145,
     "telegram_message_url": "https://t.me/Eng_limitless/145"
+  },
+  {
+    "title": "California AG Rob Bonta is investigating OpenAI over the Hugging Face hack in July, after more than a dozen states joined Alabama in its investigation (Chase DiFeliciantonio/Politico)",
+    "link": "https://www.techmeme.com/260904/p30#a260904p30",
+    "summary": "بدأ المدعي العام لولاية كاليفورنيا روب بونتا تحقيقاً مع شركة OpenAI بشأن حادثة الاختراق المرتبطة بـ Hugging Face، وذلك بعد انضمام أكثر من 12 ولاية أمريكية إلى التحقيق الذي بدأت ولاية ألاباما إجراءاته لبحث السلامة والأمن السيبراني.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "openai-huggingface-incident-report",
+    "event_key": "openai|2026 09|أمن سيبراني|openai research cluster|أمريكا الشمالية",
+    "company_name": "OpenAI",
+    "event_year_month": "2026-09",
+    "news_type": "أمن سيبراني",
+    "product_name": "OpenAI Research Cluster",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "OpenAI",
+      "Hugging Face",
+      "تحقيق قضائي",
+      "كاليفورنيا",
+      "أمن سيبراني"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-04T22:09:43.607177+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 146,
+    "telegram_message_url": "https://t.me/Eng_limitless/146",
+    "is_update": true,
+    "updates_event_key": "openai|2026 09|أمن سيبراني|openai research cluster|أمريكا الشمالية",
+    "update_summary": "فتح مدعي عام كاليفورنيا تحقيقاً مع OpenAI بشأن اختراق Hugging Face بمشاركة أكثر من 12 ولاية.",
+    "new_facts": [
+      "بدء مدعي عام ولاية كاليفورنيا تحقيقات رسمية مع شركة OpenAI بشأن حادثة اختراق Hugging Face.",
+      "انضمام أكثر من 12 ولاية أمريكية إلى التحقيقات الجارية التي بدأتها ولاية ألاباما."
+    ],
+    "supersedes_posted_at": "2026-08-30T09:34:15.834718+00:00"
   }
 ]

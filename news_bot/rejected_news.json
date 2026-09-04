@@ -6083,5 +6083,62 @@
     },
     "rejected_at": "2026-09-04T19:59:49.201614+00:00",
     "details": {}
+  },
+  {
+    "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
+    "link": "https://www.techmeme.com/260904/p29#a260904p29",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jonathan Randles / Bloomberg : Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google &nbsp; &mdash;&nbsp; An artificial intelligence startup is attempting to wrest away a vast trove of Spirit Aviation Holdings Inc.'s business records from Google LLC.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T22:09:43.661622+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Fast rust-based repository launcher for your code projects",
+    "link": "https://santiagodevelopment.com/p/2026/9/4/repo-zoo",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://santiagodevelopment.com/p/2026/9/4/repo-zoo Comments URL: https://news.ycombinator.com/item?id=49570623 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T22:09:43.664478+00:00",
+    "details": {}
+  },
+  {
+    "title": "15h.org – Open-Source Firmware and Support for AMD's Family 15h CPU's/MB's, etc.",
+    "link": "https://15h.org/index.php/Home",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://15h.org/index.php/Home Comments URL: https://news.ycombinator.com/item?id=49570520 Points: 2 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T22:09:43.667890+00:00",
+    "details": {}
   }
 ]
