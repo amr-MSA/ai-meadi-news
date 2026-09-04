@@ -5570,5 +5570,81 @@
     },
     "rejected_at": "2026-09-04T06:40:51.852895+00:00",
     "details": {}
+  },
+  {
+    "title": "Microsoft unveils Project Zenith, a \"distraction-free Windows experience\" for developers to run 30B+ parameter models locally on devices with 64GB+ of memory (Tom Warren/The Verge)",
+    "link": "https://www.techmeme.com/260904/p12#a260904p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tom Warren / The Verge : Microsoft unveils Project Zenith, a &ldquo;distraction-free Windows experience&rdquo; for developers to run 30B+ parameter models locally on devices with 64GB+ of memory &nbsp; &mdash;&nbsp; The first Project Zenith devices ship with AMD's Ryzen AI Halo chips. &hellip; Microsoft is giving its developer-optimized Windows experience a name: Project Zenith.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T12:20:08.307269+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Moonshot may seek to raise $3B to $5B in a planned Hong Kong IPO that could occur as soon as this year (Bloomberg)",
+    "link": "https://www.techmeme.com/260904/p11#a260904p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: Moonshot may seek to raise $3B to $5B in a planned Hong Kong IPO that could occur as soon as this year &nbsp; &mdash;&nbsp; Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T12:20:08.311325+00:00",
+    "details": {}
+  },
+  {
+    "title": "NVIDIA's $12,930,300,000.00 acquisition of Hugging Face contains an easter egg. The first 6 numbers of the acquisition price represent the decimal conversion of Unicode character U+1F917. The 🤗 emoji.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w71bax/nvidias_1293030000000_acquisition_of_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "From: Polymarket on 𝕏: https://x.com/Polymarket/status/2095646821485842805 Julien Chaumond on 𝕏: https://x.com/julien_c/status/2095822387895824836 &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T12:20:08.316812+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ledger faces $500 million class action over data breaches",
+    "link": "https://databreaches.net/2026/09/04/ledger-faces-500-million-class-action-over-data-breaches/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Pavlo Kot reports: ​Hardware crypto wallet maker Ledger is facing a class action seeking at least $500 million over a series of customer data breaches. The plaintiff claims the company failed to adequately protect customers&#8217; personal information and did not take sufficient measures following previous incidents. The lawsuit was filed on August 27 by Ledger user Douglas... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T12:20:08.322786+00:00",
+    "details": {}
   }
 ]

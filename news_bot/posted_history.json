@@ -866,5 +866,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 142,
     "telegram_message_url": "https://t.me/Eng_limitless/142"
+  },
+  {
+    "title": "FBI probes suspected breach at IDScan.net after dark web service Nexus offered 153M+ US and Canadian driver’s license scans",
+    "link": "https://databreaches.net/2026/09/04/fbi-probes-suspected-breach-at-idscan-net-after-dark-web-service-nexus-offered-153m-us-and-canadian-drivers-license-scans/",
+    "summary": "كشف تقرير أمني عن ظهور خدمة جديدة على الشبكة المظلمة تُدعى Nexus تعرض بيانات وأوراق ثبوتية قابلة للبحث لأكثر من 153 مليون رخصة قيادة مسربة لمواطنين في الولايات المتحدة وكندا. وبدأ مكتب التحقيقات الفيدرالي (FBI) تحقيقًا رسميًا حول حادثة اختراق محتملة لمنصة IDScan.net المزودة لخدمات التحقق من الهوية.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "nexus-idscan-driver-licenses-leak",
+    "event_key": "idscan net|2026 09|أمن سيبراني|غير محدد|أمريكا الشمالية",
+    "company_name": "IDScan.net",
+    "event_year_month": "2026-09",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "IDScan.net",
+      "FBI",
+      "Nexus",
+      "تسريب بيانات",
+      "أمن سيبراني"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-04T12:20:08.294990+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 143,
+    "telegram_message_url": "https://t.me/Eng_limitless/143"
   }
 ]
