@@ -995,5 +995,32 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)",
+    "link": "https://www.techmeme.com/260904/p27#a260904p27",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة Nscale البريطانية المتخصصة في البنية التحتية للحوسبة السحابية والذكاء الاصطناعي تجري محادثات لجمع تمويل ضخم يصل إلى 3.5 مليارات دولار، يتضمن استثماراً بقيمة ملياري دولار من شركة Nvidia، وذلك تمهيداً لطرح عام أولي (IPO) مُرتقب.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "nscale-nvidia-3.5b-funding-talks",
+    "event_key": "nscale|2026 09|سحابة ومراكز بيانات|غير محدد|أوروبا",
+    "company_name": "Nscale",
+    "event_year_month": "2026-09",
+    "news_type": "سحابة ومراكز بيانات",
+    "product_name": "غير محدد",
+    "region": "أوروبا",
+    "keywords": [
+      "Nscale",
+      "Nvidia",
+      "تمويل",
+      "ذكاء اصطناعي",
+      "سحابة"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-04T19:59:49.176167+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 145,
+    "telegram_message_url": "https://t.me/Eng_limitless/145"
   }
 ]

@@ -6007,5 +6007,81 @@
     },
     "rejected_at": "2026-09-04T17:15:13.780504+00:00",
     "details": {}
+  },
+  {
+    "title": "OpenAI rolls out GPT-6 Astra to Pro customers on the $100/month or $200/month plans (Zac Hall/9to5Mac)",
+    "link": "https://www.techmeme.com/260904/p26#a260904p26",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Zac Hall / 9to5Mac : OpenAI rolls out GPT-6 Astra to Pro customers on the $100/month or $200/month plans &nbsp; &mdash;&nbsp; Update: A day later, GPT-6 Astra is rolling out to Pro customers on the $100/month or $200/month plan.&nbsp; This follows other new model releases before Plus customers on the $20/month plan gain access.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T19:59:49.185224+00:00",
+    "details": {}
+  },
+  {
+    "title": "Code Review Tool",
+    "link": "https://github.com/larsmw/codevalidator",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/larsmw/codevalidator Comments URL: https://news.ycombinator.com/item?id=49569425 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T19:59:49.188077+00:00",
+    "details": {}
+  },
+  {
+    "title": "Training a Specialist Code Search Agent with Turbopuffer",
+    "link": "https://www.appliedcompute.com/case-studies/turbopuffer",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.appliedcompute.com/case-studies/turbopuffer Comments URL: https://news.ycombinator.com/item?id=49569081 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T19:59:49.191338+00:00",
+    "details": {}
+  },
+  {
+    "title": "You can now run a 90M conversational LLM on the Sony PSP (hardware from 2004). Doesn't get more local than this.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w78ztg/you_can_now_run_a_90m_conversational_llm_on_the/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Github link: https://github.com/thatblend/LLMPSP I wanted to see what the PSP can theoretically handle and I got my answer - a 90M model is about the max it can do without atrocious inference speeds. It's running around 0.5 - 0.6 tokens per second, which is very slow, but it's useable. Maybe 1-3 minutes for a reply. The model is actually fairly impressive for 90M parameters, it's not really useful",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T19:59:49.201614+00:00",
+    "details": {}
   }
 ]
