@@ -5304,5 +5304,100 @@
     },
     "rejected_at": "2026-09-03T23:38:54.712968+00:00",
     "details": {}
+  },
+  {
+    "title": "Tesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas (Reuters)",
+    "link": "https://www.techmeme.com/260903/p49#a260903p49",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Tesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas &nbsp; &mdash;&nbsp; Tesla (TSLA.O) said on Thursday it was offering rides in &ldquo;limited areas of Austin, Texas&rdquo; in its two-seater Cybercab &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T01:47:16.542772+00:00",
+    "details": {}
+  },
+  {
+    "title": "AI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor (Alexei Oreskovic/Fortune)",
+    "link": "https://www.techmeme.com/260903/p48#a260903p48",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Alexei Oreskovic / Fortune : AI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor &nbsp; &mdash;&nbsp; Ray Kurzweil, the pioneering AI scientist, Google researcher, and &ldquo;AI visionary,&rdquo; is joining a Silicon Valley startup developing &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T01:47:16.546341+00:00",
+    "details": {}
+  },
+  {
+    "title": "Overview of Code Virtualization",
+    "link": "https://tmpout.sh/5/12.html",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://tmpout.sh/5/12.html Comments URL: https://news.ycombinator.com/item?id=49559125 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T01:47:16.548350+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ask HN: Code review of AI output, review what?",
+    "link": "https://news.ycombinator.com/item?id=49559036",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "If AI is supposed to be doing a better job at coding, then what are humans reviewing in it? I don't understand why I need to spend extra time and effort just to read code that humans aren't supposed to write. I feel this is some sort of scam in the AI industry telling us to do code reviews. Either write the code yourself or just pass all the AI code. Please help me understand. Comments URL: https:",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T01:47:16.550645+00:00",
+    "details": {}
+  },
+  {
+    "title": "CNIL: Health data breach: €500,000 fine imposed on the Loire Private Hospital",
+    "link": "https://databreaches.net/2026/09/03/cnil-health-data-breach-e500000-fine-imposed-on-the-loire-private-hospital/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "On September 3, 2026, the CNIL issued a €500,000 fine against the Loire Private Hospital, for not having taken appropriate measures to ensure the security of the data of its patients and some of their relatives. During the summer of 2025, an attacker managed to connect to the electronic patient record (EPR) of the Loire Private... Source",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T01:47:16.558063+00:00",
+    "details": {}
   }
 ]
