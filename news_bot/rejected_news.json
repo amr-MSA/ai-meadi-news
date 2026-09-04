@@ -5399,5 +5399,176 @@
     },
     "rejected_at": "2026-09-04T01:47:16.558063+00:00",
     "details": {}
+  },
+  {
+    "title": "anthropics/skills",
+    "link": "https://github.com/anthropics/skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, wh",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T06:40:24.576465+00:00",
+    "details": {}
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "link": "https://github.com/bannedbook/fanqiang",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "翻墙-科学上网 翻墙-科学上网、翻墙工具、翻墙教程项目库 翻墙新闻-FQNews-安卓APP 安卓翻墙软件 安卓翻墙APP教程 Chrome一键翻墙包 Chrome一键翻墙包 Mac版 EdgeGo-Edge一键翻墙包 火狐firefox一键翻墙包 Firefox一键翻墙包Linux版 自建V2ray服务器翻墙简明教程 自建Shadowsocks服务器翻墙简明教程 免费ss账号 v2ray免费账号 苹果电脑MAC翻墙 iphone翻墙 TorBrowser一键翻墙包 中国大陆注册ChatGPT教程 如何使用v2rayN配置链式代理 Windows V2ray/SS/SSR 翻墙教程 Clash for Windows 翻墙教程 V2rayN 教程 如何使用v2rayN配置链式代理 SSTap教程 Windows翻墙之SSR教程 TorBrowser+V2rayN配置使用教程 iPhone/",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T06:40:24.595208+00:00",
+    "details": {}
+  },
+  {
+    "title": "ByteByteGoHq/system-design-101",
+    "link": "https://github.com/ByteByteGoHq/system-design-101",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. https://bytebytego.com/guides 【 👨🏻‍💻 YouTube | 📮 Newsletter 】 System Design 101 Explain complex systems using visuals and simple terms. Whether you're preparing for a System Design Interview or you simply want to understand how systems work beneath the surface, we hope this repository will help y",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T06:40:24.600536+00:00",
+    "details": {}
+  },
+  {
+    "title": "magnitudedev/magnitude",
+    "link": "https://github.com/magnitudedev/magnitude",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. https://magnitude.dev Magnitude Run your agent on local models. Free, private, and offline. Magnitude is an open source inference server that runs the best local models for your hardware, plugged",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T06:40:24.603257+00:00",
+    "details": {}
+  },
+  {
+    "title": "f/prompts.chat",
+    "link": "https://github.com/f/prompts.chat",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. https://prompts.chat prompts.chat The world's largest open-source prompt library for AI Works with ChatGPT, Claude, Gemini, Llama, Mistral, and more formerly known as Awesome ChatGPT Prompts 🌐 Browse Prompts • 📖 Read the Book • 📄 Vie",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T06:40:24.618255+00:00",
+    "details": {}
+  },
+  {
+    "title": "obra/superpowers",
+    "link": "https://github.com/obra/superpowers",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor De",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T06:40:24.621243+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: initial foldable iPhone production is limited to only a \"few hundred\" units a day due to Apple's strict quality standards as it ramps up output (Nikkei Asia)",
+    "link": "https://www.techmeme.com/260904/p3#a260904p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Nikkei Asia : Sources: initial foldable iPhone production is limited to only a &ldquo;few hundred&rdquo; units a day due to Apple's strict quality standards as it ramps up output &nbsp; &mdash;&nbsp; TAIPEI &mdash; Initial production of Apple's long-awaited foldable iPhone is currently limited to only a &ldquo;few hundred&rdquo; units a day &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T06:40:51.841725+00:00",
+    "details": {}
+  },
+  {
+    "title": "Q&A with Jensen Huang and Clément Delangue on the Nvidia-Hugging Face deal, scaling open-source models, the rumored $1B talent retention plan, and more (CNBC)",
+    "link": "https://www.techmeme.com/260904/p2#a260904p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "CNBC : Q&amp;A with Jensen Huang and Cl&eacute;ment Delangue on the Nvidia-Hugging Face deal, scaling open-source models, the rumored $1B talent retention plan, and more &nbsp; &mdash;&nbsp; Following is the unofficial transcript of a CNBC exclusive interview with Nvidia Founder &amp; CEO Jensen Huang &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T06:40:51.847086+00:00",
+    "details": {}
+  },
+  {
+    "title": "Can the bubble pop please?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w6nihk/can_the_bubble_pop_please/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/hedonihilistic [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-04T06:40:51.852895+00:00",
+    "details": {}
   }
 ]
