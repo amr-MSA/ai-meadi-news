@@ -1,31 +1,5 @@
 [
   {
-    "title": "Job listings and other indicators: SpaceX is working on a Bastrop, TX foundry to build blades for large gas turbines, which could ease its AI power crunch (Ann Davis Vaughan/The Information)",
-    "link": "https://www.techmeme.com/260829/p14#a260829p14",
-    "summary": "كشفت تقارير صحفية استنادًا إلى إعلانات وظائف ومؤشرات ميدانية أن شركة سبيس إكس تعمل على إنشاء مصنع في مدينة باستروب بولاية تكساس لتصنيع شفرات التوربينات الغازية الكبيرة، وذلك بهدف توليد الطاقة اللازمة لمراكز بيانات الذكاء الاصطناعي وتجاوز أزمة نقص الإمدادات الكهربائية.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "spacex-gas-turbine-foundry-ai-power",
-    "event_key": "spacex|2026 08|سحابة ومراكز بيانات|غير محدد|أمريكا الشمالية",
-    "company_name": "SpaceX",
-    "event_year_month": "2026-08",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "SpaceX",
-      "AI power",
-      "Gas Turbines",
-      "Data Centers"
-    ],
-    "month": "2026-08",
-    "posted_at": "2026-08-29T22:07:02.572519+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 122,
-    "telegram_message_url": "https://t.me/Eng_limitless/122"
-  },
-  {
     "title": "PEAR leaks data allegedly exfiltrated from South Plains Rural Health Services while SPRHS remains silent",
     "link": "https://databreaches.net/2026/08/29/pear-leaks-data-allegedly-exfiltrated-from-south-plains-rural-health-services-while-sprhs-remains-silent/",
     "summary": "ادعت عصابة برامج الفدية PEAR تسريب نحو 1.4 تيرابايت من البيانات الحساسة المقرصنة التابعة لمؤسسة South Plains Rural Health Services بمركزها في ولاية تكساس، في حين تسود حالة من الصمت من قبل الجهة المتضررة دون صدور أي بيان رسمي حتى الآن.",
