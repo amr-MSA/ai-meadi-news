@@ -6140,5 +6140,81 @@
     },
     "rejected_at": "2026-09-04T22:09:43.667890+00:00",
     "details": {}
+  },
+  {
+    "title": "Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome's sandboxed renderer process (Bill Toulas/BleepingComputer)",
+    "link": "https://www.techmeme.com/260904/p36#a260904p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bill Toulas / BleepingComputer : Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome's sandboxed renderer process &nbsp; &mdash;&nbsp; Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T01:48:30.007808+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: US negotiators used the promise of access to Nvidia's chips for an Armenian data center to broker a preliminary Armenia-Azerbaijan peace deal last year (Robbie Whelan/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260904/p35#a260904p35",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Robbie Whelan / Wall Street Journal : Sources: US negotiators used the promise of access to Nvidia's chips for an Armenian data center to broker a preliminary Armenia-Azerbaijan peace deal last year &nbsp; &mdash;&nbsp; Negotiators offered access to advanced AI hardware to help secure a preliminary agreement ending decades of conflict",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T01:48:30.013338+00:00",
+    "details": {}
+  },
+  {
+    "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
+    "link": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.manifold.security/blog/ai-coding-agents-git-hijack Comments URL: https://news.ycombinator.com/item?id=49572279 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T01:48:30.016813+00:00",
+    "details": {}
+  },
+  {
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 31 # Comments: 7",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T01:48:30.020247+00:00",
+    "details": {}
   }
 ]
