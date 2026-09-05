@@ -6463,5 +6463,62 @@
     },
     "rejected_at": "2026-09-05T11:27:44.334795+00:00",
     "details": {}
+  },
+  {
+    "title": "Businesses in China are experimenting with ways to package and market AI tokens to ordinary consumers, including as credit card rewards and telecom plan bundles (Kinling Lo/Rest of World)",
+    "link": "https://www.techmeme.com/260905/p8#a260905p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Kinling Lo / Rest of World : Businesses in China are experimenting with ways to package and market AI tokens to ordinary consumers, including as credit card rewards and telecom plan bundles &nbsp; &mdash;&nbsp; Five unexpected ways computing power is entering everyday life in the country.&nbsp; &mdash;&nbsp; Artificial intelligence tokens &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T14:09:43.979578+00:00",
+    "details": {}
+  },
+  {
+    "title": "AA Update! Here's how the Frontier ranks.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y261/aa_update_heres_how_the_frontier_ranks/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Along with everyone's favorite here, qwen3.8-27B &#32; submitted by &#32; /u/Tall_Abrocoma_3533 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T14:09:43.987672+00:00",
+    "details": {}
+  },
+  {
+    "title": "AA Update! Here's how the small models score.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Ling 3.0 Tiny still seems to be leading the pack despite only having 1.3B active &#32; submitted by &#32; /u/Tall_Abrocoma_3533 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T14:09:43.991055+00:00",
+    "details": {}
   }
 ]
