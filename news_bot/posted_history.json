@@ -1,32 +1,5 @@
 [
   {
-    "title": "De: Hackers demand 30 bitcoin from Berlin as sensitive data breach widens",
-    "link": "https://databreaches.net/2026/08/29/de-hackers-demand-30-bitcoin-from-berlin-as-sensitive-data-breach-widens/",
-    "summary": "طالب مخترقون حكومة ولاية برلين بفدية قدرها 30 بيتكوين بعد اتساع نطاق تسريب البيانات الناجم عن اختراق شبكة الإدارة الحكومية قبل أسبوعين، فيما امتنعت السلطات عن التعليق على شروط الفدية أو حجم البيانات الحساسة المكتشفة.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "berlin-government-data-breach-ransom",
-    "event_key": "حكومة برلين|2026 08|أمن سيبراني|غير محدد|أوروبا",
-    "company_name": "حكومة برلين",
-    "event_year_month": "2026-08",
-    "news_type": "أمن سيبراني",
-    "product_name": "غير محدد",
-    "region": "أوروبا",
-    "keywords": [
-      "أمن سيبراني",
-      "اختراق",
-      "برلين",
-      "بيتكوين",
-      "تسريب بيانات"
-    ],
-    "month": "2026-08",
-    "posted_at": "2026-08-29T18:59:17.057348+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 121,
-    "telegram_message_url": "https://t.me/Eng_limitless/121"
-  },
-  {
     "title": "Job listings and other indicators: SpaceX is working on a Bastrop, TX foundry to build blades for large gas turbines, which could ease its AI power crunch (Ann Davis Vaughan/The Information)",
     "link": "https://www.techmeme.com/260829/p14#a260829p14",
     "summary": "كشفت تقارير صحفية استنادًا إلى إعلانات وظائف ومؤشرات ميدانية أن شركة سبيس إكس تعمل على إنشاء مصنع في مدينة باستروب بولاية تكساس لتصنيع شفرات التوربينات الغازية الكبيرة، وذلك بهدف توليد الطاقة اللازمة لمراكز بيانات الذكاء الاصطناعي وتجاوز أزمة نقص الإمدادات الكهربائية.",

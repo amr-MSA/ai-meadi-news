@@ -6615,5 +6615,81 @@
     },
     "rejected_at": "2026-09-05T17:47:15.036443+00:00",
     "details": {}
+  },
+  {
+    "title": "Berlin is reviewing Rhysida's 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans (Miranda Murray/Reuters)",
+    "link": "https://www.techmeme.com/260905/p10#a260905p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Miranda Murray / Reuters : Berlin is reviewing Rhysida's 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans &nbsp; &mdash;&nbsp; Berlin's state government said on Saturday it was reviewing with the highest intensity a trove of stolen data published by a ransomware group &hellip;",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T19:39:33.427231+00:00",
+    "details": {}
+  },
+  {
+    "title": "Benzi – A harness reading LESS source code to write better quality code",
+    "link": "https://github.com/oooscoos/Benzi",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/oooscoos/Benzi Comments URL: https://news.ycombinator.com/item?id=49579769 Points: 1 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T19:40:03.055515+00:00",
+    "details": {}
+  },
+  {
+    "title": "Take-Two's Leak-Burying DMCA Attempts Snared GameStop and Gaming Journalist",
+    "link": "https://www.techdirt.com/2026/09/04/take-twos-leak-burying-dmca-attempts-snared-gamestop-gaming-journalist-that-did-nothing-wrong/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.techdirt.com/2026/09/04/take-twos-leak-burying-dmca-attempts-snared-gamestop-gaming-journalist-that-did-nothing-wrong/ Comments URL: https://news.ycombinator.com/item?id=49579011 Points: 2 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T19:40:03.059665+00:00",
+    "details": {}
+  },
+  {
+    "title": "French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft",
+    "link": "https://databreaches.net/2026/09/05/french-police-arrest-suspected-zerobytes-hacker-over-tax-data-theft/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Waqas reports: French authorities have detained an 18-year-old man suspected of belonging to ZeroBytes, a hacking group that claimed responsibility for several attacks targeting French government services and companies. The Paris prosecutor’s office disclosed the case on September 4, according to reports from French media. However, the suspect was arrested on August 18, formally placed... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T19:40:03.071419+00:00",
+    "details": {}
   }
 ]
