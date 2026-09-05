@@ -6691,5 +6691,81 @@
     },
     "rejected_at": "2026-09-05T19:40:03.071419+00:00",
     "details": {}
+  },
+  {
+    "title": "The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)",
+    "link": "https://www.techmeme.com/260905/p13#a260905p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Todd Bishop / GeekWire : The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times &nbsp; &mdash;&nbsp; Microsoft was sued Friday by the parent company of its hometown daily newspaper, The Seattle Times Co., which joined with Newsday &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T21:45:59.728087+00:00",
+    "details": {}
+  },
+  {
+    "title": "Trump admin debuts arcade.gov with a deportation-themed Snake clone and a Tetris-like wall-building clone; Tetris says it takes IP infringement \"very seriously\" (ABC News)",
+    "link": "https://www.techmeme.com/260905/p12#a260905p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "ABC News : Trump admin debuts arcade.gov with a deportation-themed Snake clone and a Tetris-like wall-building clone; Tetris says it takes IP infringement &ldquo;very seriously&rdquo; &nbsp; &mdash;&nbsp; In &ldquo;Build the Wall,&rdquo; players aim to &ldquo;protect the border&rdquo; from zombies.&nbsp; &mdash;&nbsp; Isabella Murray, Nicholas Kerr, and Michelle Stoddart",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T21:45:59.733785+00:00",
+    "details": {}
+  },
+  {
+    "title": "OSHintosh – an open source hardware 68000 Macintosh with a Bootable ROM Disk",
+    "link": "https://github.com/DosFox1/OSHintosh",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/DosFox1/OSHintosh Comments URL: https://news.ycombinator.com/item?id=49580210 Points: 3 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T21:45:59.737913+00:00",
+    "details": {}
+  },
+  {
+    "title": "Warmbly: Open-Source Cold Email",
+    "link": "https://github.com/warmbly/warmbly",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/warmbly/warmbly Comments URL: https://news.ycombinator.com/item?id=49580177 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T21:45:59.741256+00:00",
+    "details": {}
   }
 ]
