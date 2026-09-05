@@ -6520,5 +6520,24 @@
     },
     "rejected_at": "2026-09-05T14:09:43.991055+00:00",
     "details": {}
+  },
+  {
+    "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+    "source_name": "BleepingComputer",
+    "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T15:46:18.427478+00:00",
+    "details": {}
   }
 ]
