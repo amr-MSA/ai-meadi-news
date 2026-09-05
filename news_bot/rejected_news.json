@@ -6387,5 +6387,81 @@
     },
     "rejected_at": "2026-09-05T06:27:16.010467+00:00",
     "details": {}
+  },
+  {
+    "title": "In response to the \"wiki incident\", OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment (@openai)",
+    "link": "https://www.techmeme.com/260905/p7#a260905p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "@openai : In response to the &ldquo;wiki incident&rdquo;, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment &nbsp; &mdash;&nbsp; How we think about the &ldquo;wiki incident,&rdquo; where our agents wrote to several internet sites: it's past time for us &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T11:27:44.321678+00:00",
+    "details": {}
+  },
+  {
+    "title": "Q&A with Kai-Fu Lee on China's open-model advantage, AI's impact on jobs, US export restrictions on chips, Chinese AI's role in developing countries, and more (Mishal Husain/Bloomberg)",
+    "link": "https://www.techmeme.com/260905/p6#a260905p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mishal Husain / Bloomberg : Q&amp;A with Kai-Fu Lee on China's open-model advantage, AI's impact on jobs, US export restrictions on chips, Chinese AI's role in developing countries, and more &nbsp; &mdash;&nbsp; Chinese AI companies are rapidly closing the gap with US rivals, even after years of restrictions on their access to advanced chips.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T11:27:44.327637+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen3.8-27B beat the Wikipedia game in 6 clicks.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Used qwen3.8-27b in Opencode to make this silly mini-game because I'm not sober: ``` We are going to play a game, it will be the Wikipedia game. The Wikipedia game has the following rules: You will have a Wikipedia article set as a starting point. You will have a Wikipedia article set as an ending point. Your objective is to reach the the end point, which is an article completely separate from the",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T11:27:44.331172+00:00",
+    "details": {}
+  },
+  {
+    "title": "I've found myself using Local LLM's like 3D printers.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Anyone who has a 3D printer and get use of it finds it incredibly useful for those odd jobs around the house, a missing bracket, a cable router, steam deck holder and so on. In the past if I was missing an app or useful software, a game I'd do the lazy thing, even though I can and have coded in the past, its &quot;effort&quot; I'll just go and buy or download the latest and greatest. Earlier in th",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T11:27:44.334795+00:00",
+    "details": {}
   }
 ]
