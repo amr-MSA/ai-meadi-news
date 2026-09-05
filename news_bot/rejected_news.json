@@ -6216,5 +6216,176 @@
     },
     "rejected_at": "2026-09-05T01:48:30.020247+00:00",
     "details": {}
+  },
+  {
+    "title": "bikini/exploitarium",
+    "link": "https://github.com/bikini/exploitarium",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. Statement This repo was incomplete when published. In regard to",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T06:26:54.177354+00:00",
+    "details": {}
+  },
+  {
+    "title": "radixark/miles",
+    "link": "https://github.com/radixark/miles",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime. https://miles.radixark.com Enterprise-Grade Reinforcement Learning for Large-Scale Model Post-Training | Website | Documentation | Quick Start | Supported Models | Miles Diffusion | Blog | Slack ( #miles-rl ) | News [2026/08] 🔥 Miles v0.1 is released! Read the blog",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T06:26:54.188940+00:00",
+    "details": {}
+  },
+  {
+    "title": "anomalyco/opencode",
+    "link": "https://github.com/anomalyco/opencode",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The open source coding agent. https://opencode.ai The open source AI coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt Installation # YOLO curl -fsSL https://opencode.ai/install | bash # Package managers npm i -g opencode-a",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T06:26:54.192058+00:00",
+    "details": {}
+  },
+  {
+    "title": "clshortfuse/renodx",
+    "link": "https://github.com/clshortfuse/renodx",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Renovation Engine for DirectX Games https://renodx.com/ renodx RenoDX, short for \"Renovation Engine for DirectX Games\", is a toolset to mod games. Currently it can replace shaders, inject buffers, add overlays, upgrade swapchains, upgrade texture resources, and write user settings to disk. Because RenoDX uses Reshade's add-on system, compatibility is expected to be pretty wide. Using Reshade simpl",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T06:26:54.195044+00:00",
+    "details": {}
+  },
+  {
+    "title": "cathrynlavery/diagram-design",
+    "link": "https://github.com/cathrynlavery/diagram-design",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. https://cathrynlavery.github.io/diagram-design/ Diagram Design Editorial diagrams your designer won't hate. New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while stati",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T06:26:54.199575+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft says email spammers are adopting ASCII smuggling, an AI prompt injection tactic used to hide malicious instructions, to evade email platform filters (Dan Goodin/Ars Technica)",
+    "link": "https://www.techmeme.com/260905/p4#a260905p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dan Goodin / Ars Technica : Microsoft says email spammers are adopting ASCII smuggling, an AI prompt injection tactic used to hide malicious instructions, to evade email platform filters &nbsp; &mdash;&nbsp; A clever technique used to hide malicious prompts in attacks on AI agents has been adopted by spammers to evade filters &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T06:27:15.996729+00:00",
+    "details": {}
+  },
+  {
+    "title": "The US and UK sign an MOU to investigate and share info on organized crime syndicates behind online scam centers, many of which are based in Southeast Asia (Jonathan Greig/The Record)",
+    "link": "https://www.techmeme.com/260905/p3#a260905p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jonathan Greig / The Record : The US and UK sign an MOU to investigate and share info on organized crime syndicates behind online scam centers, many of which are based in Southeast Asia &nbsp; &mdash;&nbsp; The United States and United Kingdom will work together on an initiative to shut down scam centers stealing billions of dollars through investment and romance fraud schemes.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T06:27:16.002521+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: RagLeap Core – 46 AI Employees, open-source LangChain alt",
+    "link": "https://github.com/antonyrag/ragleap-core",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/antonyrag/ragleap-core Comments URL: https://news.ycombinator.com/item?id=49573630 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T06:27:16.006678+00:00",
+    "details": {}
+  },
+  {
+    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+    "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 11 # Comments: 2",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T06:27:16.010467+00:00",
+    "details": {}
   }
 ]
