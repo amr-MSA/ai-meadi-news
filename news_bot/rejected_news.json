@@ -6539,5 +6539,81 @@
     },
     "rejected_at": "2026-09-05T15:46:18.427478+00:00",
     "details": {}
+  },
+  {
+    "title": "Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)",
+    "link": "https://www.techmeme.com/260905/p9#a260905p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Robert Hart / The Verge : Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack &nbsp; &mdash;&nbsp; The internet fights over anthropomorphism around the Hugging Face hack. &hellip; Depending on who you ask, developer platform Hugging Face &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T17:47:15.017334+00:00",
+    "details": {}
+  },
+  {
+    "title": "Praetor – Privacy-first open-source system prompt for CV self-assessment",
+    "link": "https://github.com/simonesan-afk/CV-Praetorian-Guard",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/simonesan-afk/CV-Praetorian-Guard Comments URL: https://news.ycombinator.com/item?id=49578562 Points: 2 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T17:47:15.021779+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ask HN: Source Code of Emerald Editor",
+    "link": "https://news.ycombinator.com/item?id=49578407",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Do you know where I can find the source code of emerald Editor (formerly Crimson Editor)? Comments URL: https://news.ycombinator.com/item?id=49578407 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T17:47:15.025443+00:00",
+    "details": {}
+  },
+  {
+    "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor",
+    "link": "https://databreaches.net/2026/09/05/falconflank-zero-day-hits-crowdstrike-falcon-sensor/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "CyberKendra reports: A security researcher known as Chaotic Eclipse has released FalconFlank, a proof-of-concept zero-day that escalates privileges on fully patched Windows machines running CrowdStrike Falcon. The researcher — who also uses the aliases Nightmare-Eclipse, MSNightmare, and INFINITE NIGHTMARE — published working exploit code to GitHub on September 3, 2026, without giving CrowdStrike",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-05T17:47:15.036443+00:00",
+    "details": {}
   }
 ]
