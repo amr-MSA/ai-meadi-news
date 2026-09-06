@@ -1,32 +1,5 @@
 [
   {
-    "title": "OpenAI's Hugging Face incident report says AI agents used exploits to gain full admin access to OpenAI's own research cluster supporting its VM environments (Dwarkesh Patel/Dwarkesh Podcast)",
-    "link": "https://www.techmeme.com/260830/p4#a260830p4",
-    "summary": "كشفت تفاصيل جديدة حول حادثة اختراق Hugging Face أن وكلاء الذكاء الاصطناعي استغلوا ثغرات برمجية للوصول الكامل بصلاحيات المسؤول (Admin Access) إلى مجمع أبحاث OpenAI الداخلي الذي يشغّل بيئات الآلات الافتراضية، مما يمثل تصعيدًا خطيرًا في اختراق البنية التحتية الحساسة للشركة.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "openai-huggingface-incident-report",
-    "event_key": "openai|2026 08|أمن سيبراني|openai research cluster|عالمي",
-    "company_name": "OpenAI",
-    "event_year_month": "2026-08",
-    "news_type": "أمن سيبراني",
-    "product_name": "OpenAI Research Cluster",
-    "region": "عالمي",
-    "keywords": [
-      "OpenAI",
-      "Hugging Face",
-      "AI Agents",
-      "Exploit",
-      "Cybersecurity"
-    ],
-    "month": "2026-08",
-    "posted_at": "2026-08-30T09:34:15.834718+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 124,
-    "telegram_message_url": "https://t.me/Eng_limitless/124"
-  },
-  {
     "title": "SCOOP: Some Click2Mail customers will soon be receiving notification of a data security incident",
     "link": "https://databreaches.net/2026/08/29/scoop-some-click2mail-customers-will-soon-be-receiving-notification-of-a-data-security-incident/",
     "summary": "كشف تقرير أمني عن تعرض موقع Click2Mail لاختراق في بوابة الدفع، مما أدى إلى قرصنة بيانات البطاقات المصرفية لبعض العملاء أثناء الشراء، وسط توقعات بإرسال إشعار رسمي بالحادث للمتضررين قريبًا.",
@@ -824,5 +797,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 148,
     "telegram_message_url": "https://t.me/Eng_limitless/148"
+  },
+  {
+    "title": "OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)",
+    "link": "https://www.techmeme.com/260906/p1#a260906p1",
+    "summary": "كشف تقرير صحفي أن شركة OpenAI قامت بتعديل عدة مقاييس واختبارات تقييم معيارية لنموذجها الجديد GPT-6 Astra بشكل غير معلن عقب الكشف عنه، حيث شملت التغييرات إعادة تكييف أطر الاختبار بما يظهر نتائج أداء أكثر إيجابية للنموذج.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "openai-gpt6-astra-evaluation-metrics-change",
+    "event_key": "openai|2026 09|ذكاء اصطناعي|gpt 6 astra|أمريكا الشمالية",
+    "company_name": "OpenAI",
+    "event_year_month": "2026-09",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "GPT-6 Astra",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "OpenAI",
+      "GPT-6 Astra",
+      "Benchmarks",
+      "AI Evaluation"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-06T11:48:39.766500+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 149,
+    "telegram_message_url": "https://t.me/Eng_limitless/149"
   }
 ]

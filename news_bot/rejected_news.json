@@ -6995,5 +6995,119 @@
     },
     "rejected_at": "2026-09-06T06:36:46.784143+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms (Rafe Rosner-Uddin/Financial Times)",
+    "link": "https://www.techmeme.com/260906/p2#a260906p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Rafe Rosner-Uddin / Financial Times : Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms &nbsp; &mdash;&nbsp; Atoms gears up for hiring spree and could link with Uber, the company he was ousted from almost a decade ago",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T11:48:22.425314+00:00",
+    "details": {}
+  },
+  {
+    "title": "Stemma – one source of truth for Claude.md, AGENTS.md and Copilot",
+    "link": "https://github.com/alexvinola/stemma-cli",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/alexvinola/stemma-cli Comments URL: https://news.ycombinator.com/item?id=49584898 Points: 2 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T11:48:39.784167+00:00",
+    "details": {}
+  },
+  {
+    "title": "The one source of truth for gamers",
+    "link": "https://videogamescritic.com",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://videogamescritic.com Comments URL: https://news.ycombinator.com/item?id=49584499 Points: 2 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T11:48:39.787592+00:00",
+    "details": {}
+  },
+  {
+    "title": "Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w8r0t9/villager_simulation_game_poc_created_with/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://village-sim-one.vercel.app/ - 16GB VRAM RTX 5070 Ti, fully offloaded - Vision on CPU - Windows, not headless - beellama.cpp - latest version with the kvarn performance enhancements making it as fast as qx_x quants. - MTP n-max = 2 - tg up to 75t/s, pp up to 1700t/s - KV = kvarn3/kvarn3 - MTP draft KV = kvarn2/kvarn2 - context = 96256 - tail tokens = 1024 - HTML/Javascript - pi harness with",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T11:48:39.795544+00:00",
+    "details": {}
+  },
+  {
+    "title": "Natural Resources Wales confirms data breach due to human error",
+    "link": "https://databreaches.net/2026/09/06/natural-resources-wales-confirms-data-breach-due-to-human-error/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Nation.Cymru reports: Sensitive personal information relating to current and former Natural Resources Wales employees has been exposed in a data breach. The public body said a spreadsheet containing employee information had been inadvertently published on its website, potentially revealing details including ethnicity, disability status, religion, sexual orientation and caring responsibilities. The",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T11:48:39.799332+00:00",
+    "details": {}
+  },
+  {
+    "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+    "link": "https://databreaches.net/2026/09/06/us-offers-10-million-for-info-on-iranian-allegedly-behind-cyberattacks-on-critical-infrastructure/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Jonathan Greig reports: A $10 million reward has been posted by the State Department for information on the whereabouts of senior Iranian official Amir Yaryab. Yaryab allegedly leads the Islamic Revolutionary Guard Corps’ (IRGC) Cyber-Electronic Command (CEC). U.S. officials accused Yaryab of directing multiple Iranian hacking groups that have targeted “critical infrastructure sectors including de",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T11:48:39.803661+00:00",
+    "details": {}
   }
 ]
