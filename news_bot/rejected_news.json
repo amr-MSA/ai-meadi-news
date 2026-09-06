@@ -6786,5 +6786,81 @@
     },
     "rejected_at": "2026-09-05T23:26:46.699171+00:00",
     "details": {}
+  },
+  {
+    "title": "As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals (Morgan Meaker/Bloomberg)",
+    "link": "https://www.techmeme.com/260905/p14#a260905p14",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Morgan Meaker / Bloomberg : As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals &nbsp; &mdash;&nbsp; AI could transform our understanding of other species.&nbsp; It also risks giving humans powerful new ways to manipulate, exploit and harm them.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T01:42:06.322795+00:00",
+    "details": {}
+  },
+  {
+    "title": "When Code Is Abundant",
+    "link": "https://about.gitlab.com/blog/when-code-is-abundant/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://about.gitlab.com/blog/when-code-is-abundant/ Comments URL: https://news.ycombinator.com/item?id=49582295 Points: 3 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T01:42:06.331434+00:00",
+    "details": {}
+  },
+  {
+    "title": "GitHub Status – Disruption with Copilot Code Review",
+    "link": "https://www.githubstatus.com/incidents/zw1hbx2yyhvr",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.githubstatus.com/incidents/zw1hbx2yyhvr Comments URL: https://news.ycombinator.com/item?id=49582076 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T01:42:06.335113+00:00",
+    "details": {}
+  },
+  {
+    "title": "Which agent harness do you use and why?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I see a new one being launched every few days... How do these new harnesses compare to claude code, pi etc. has anyone switched from these? which harness to prefer and why &#32; submitted by &#32; /u/Background-Job-862 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T01:42:06.341933+00:00",
+    "details": {}
   }
 ]
