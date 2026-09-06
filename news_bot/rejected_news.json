@@ -7356,5 +7356,43 @@
     },
     "rejected_at": "2026-09-06T15:59:25.538308+00:00",
     "details": {}
+  },
+  {
+    "title": "Show HN: Yume, a desktop workspace for Claude Code sessions",
+    "link": "https://aofp.github.io/yume/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://aofp.github.io/yume/ Comments URL: https://news.ycombinator.com/item?id=49588503 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T17:51:25.489739+00:00",
+    "details": {}
+  },
+  {
+    "title": "Using GPT Astra to teach Qwen Next how to sculpt in 3D in Blender.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w90igd/using_gpt_astra_to_teach_qwen_next_how_to_sculpt/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Instead of distillation, fine-tuning, etc., I found a faster approach: having Codex+Astra to teach OpenCode + MCP Blender to make the modifications. Goal: achieve the same result using specific skills and steps. Astra is phenomenal, just as phenomenal as it is at quickly burning through your Pro quota. Qwen Next is a miracle; when properly guided and trained, it handles the same tasks without a hi",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T17:51:25.502736+00:00",
+    "details": {}
   }
 ]
