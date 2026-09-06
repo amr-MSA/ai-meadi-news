@@ -7489,5 +7489,43 @@
     },
     "rejected_at": "2026-09-06T21:49:43.146540+00:00",
     "details": {}
+  },
+  {
+    "title": "IrisFlow – open-source Mac overlay dictation (hold Left-Ctrl)",
+    "link": "https://github.com/joyboy5477/IrisFlow",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/joyboy5477/IrisFlow Comments URL: https://news.ycombinator.com/item?id=49591599 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T23:19:21.274443+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Story of VS Code (Documentary) [video]",
+    "link": "https://www.youtube.com/watch?v=kHL3XzjpT5w",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.youtube.com/watch?v=kHL3XzjpT5w Comments URL: https://news.ycombinator.com/item?id=49590801 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T23:19:21.277774+00:00",
+    "details": {}
   }
 ]

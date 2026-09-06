@@ -1,31 +1,5 @@
 [
   {
-    "title": "A massive cache of Valve data has reportedly leaked online, appearing to include Portal 2’s elusive beta build and a potential weapon from Half-Life 2: Episode 3",
-    "link": "https://databreaches.net/2026/08/30/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/",
-    "summary": "رُصد تسريب ضخم لبيانات وملفات داخلية تابعة لشركة Valve بحجم يصل إلى 12 تيرابايت عبر الإنترنت، ويشمل التسريب النسخة التجريبية النادرة من لعبة Portal 2 وأصولاً برمجية ملغاة لأسلحة من لعبة Half-Life 2: Episode 3.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "valve-massive-12tb-data-leak",
-    "event_key": "valve|2026 08|برمجيات|غير محدد|عالمي",
-    "company_name": "Valve",
-    "event_year_month": "2026-08",
-    "news_type": "برمجيات",
-    "product_name": "غير محدد",
-    "region": "عالمي",
-    "keywords": [
-      "Valve",
-      "Leak",
-      "Portal 2",
-      "Half-Life"
-    ],
-    "month": "2026-08",
-    "posted_at": "2026-08-30T22:13:36.350624+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 129,
-    "telegram_message_url": "https://t.me/Eng_limitless/129"
-  },
-  {
     "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
     "link": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
     "summary": "نشرت عصابة برمجيات الفدية Orova سجلات طبية وشخصية حساسة تُقدر بأكثر من 150 ألف مريض تابعين لمؤسسة Cardiology Associates of Port Huron (CAPH) في ولاية ميشيغان، وذلك بعد انتهاء مهلة الفدية المطالب بها، وقد تم معاينة والتحقق من صحة عينات البيانات المعروضة.",
