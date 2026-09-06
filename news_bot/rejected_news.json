@@ -7432,5 +7432,62 @@
     },
     "rejected_at": "2026-09-06T19:42:42.904520+00:00",
     "details": {}
+  },
+  {
+    "title": "Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade (Valida Pau/The Information)",
+    "link": "https://www.techmeme.com/260906/p7#a260906p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Valida Pau / The Information : Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade &nbsp; &mdash;&nbsp; Anthropic in the last year has scrambled to line up cloud computing deals with SpaceX, Google and others to meet the skyrocketing demand &hellip;",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T21:48:42.955799+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace (OpenAI)",
+    "link": "https://www.techmeme.com/260906/p8#a260906p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "OpenAI : OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace &nbsp; &mdash;&nbsp; Author: Jakub Pachocki, Chief Scientist at OpenAI&nbsp; &mdash;&nbsp; In mid-2023, within the &ldquo;RLSlow&rdquo; research project &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T21:49:43.130080+00:00",
+    "details": {}
+  },
+  {
+    "title": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I've been tinkering with local LLMs since the beginning of the year when I had an Intel Arc B580 and 32 GB of DDR5. Curiosity got the best of me and I bought the first R9700 about half a year ago, also because I wanted to upgrade my gaming graphics for 4k. As the 5090 was about 3 times as expensive, I had a &quot;sweet spot&quot;, kind of. On the last prime days, I found a X870E mainboard for ~150",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T21:49:43.146540+00:00",
+    "details": {}
   }
 ]
