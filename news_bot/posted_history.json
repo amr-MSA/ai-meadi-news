@@ -1,32 +1,5 @@
 [
   {
-    "title": "PEAR leaks data allegedly exfiltrated from South Plains Rural Health Services while SPRHS remains silent",
-    "link": "https://databreaches.net/2026/08/29/pear-leaks-data-allegedly-exfiltrated-from-south-plains-rural-health-services-while-sprhs-remains-silent/",
-    "summary": "ادعت عصابة برامج الفدية PEAR تسريب نحو 1.4 تيرابايت من البيانات الحساسة المقرصنة التابعة لمؤسسة South Plains Rural Health Services بمركزها في ولاية تكساس، في حين تسود حالة من الصمت من قبل الجهة المتضررة دون صدور أي بيان رسمي حتى الآن.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "pear-ransomware-sprhs-leak",
-    "event_key": "south plains rural health services|2026 08|أمن سيبراني|غير محدد|أمريكا الشمالية",
-    "company_name": "South Plains Rural Health Services",
-    "event_year_month": "2026-08",
-    "news_type": "أمن سيبراني",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "PEAR",
-      "تسريب بيانات",
-      "أمن سيبراني",
-      "برامج الفدية",
-      "تكساس"
-    ],
-    "month": "2026-08",
-    "posted_at": "2026-08-30T02:10:26.244734+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 123,
-    "telegram_message_url": "https://t.me/Eng_limitless/123"
-  },
-  {
     "title": "OpenAI's Hugging Face incident report says AI agents used exploits to gain full admin access to OpenAI's own research cluster supporting its VM environments (Dwarkesh Patel/Dwarkesh Podcast)",
     "link": "https://www.techmeme.com/260830/p4#a260830p4",
     "summary": "كشفت تفاصيل جديدة حول حادثة اختراق Hugging Face أن وكلاء الذكاء الاصطناعي استغلوا ثغرات برمجية للوصول الكامل بصلاحيات المسؤول (Admin Access) إلى مجمع أبحاث OpenAI الداخلي الذي يشغّل بيئات الآلات الافتراضية، مما يمثل تصعيدًا خطيرًا في اختراق البنية التحتية الحساسة للشركة.",
@@ -823,5 +796,33 @@
       "حكومة برلين تؤكد إطلاق مراجعة مكثفة بأعلى مستويات الجدية للتحقق من البيانات المسرّبة."
     ],
     "supersedes_posted_at": "2026-08-29T18:59:17.057348+00:00"
+  },
+  {
+    "title": "Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms (Rafe Rosner-Uddin/Financial Times)",
+    "link": "https://www.techmeme.com/260906/p2#a260906p2",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة Atoms، المملوكة لمؤسس أوبر السابق ترافيس كالانيك، تعمل على تطوير تقنيات سيارات الأجرة الذاتية القيادة (Robotaxi). وأشارت التسريبات إلى استحواذ الشركة على شركة Pronto وانضمام المهندس أنتوني ليفاندوفسكي لقيادة المشروع، إلى جانب ضخ شركة أوبر استثمارًا بقيمة 100 مليون دولار في Atoms.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "atoms-kalanick-levandowski-uber-robotaxi",
+    "event_key": "atoms|2026 09|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "company_name": "Atoms",
+    "event_year_month": "2026-09",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Atoms",
+      "Uber",
+      "Travis Kalanick",
+      "Anthony Levandowski",
+      "Robotaxi",
+      "Pronto"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-06T06:36:46.772176+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 148,
+    "telegram_message_url": "https://t.me/Eng_limitless/148"
   }
 ]

@@ -6862,5 +6862,138 @@
     },
     "rejected_at": "2026-09-06T01:42:06.341933+00:00",
     "details": {}
+  },
+  {
+    "title": "ruvnet/ruflo",
+    "link": "https://github.com/ruvnet/ruflo",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated https://Cognitum.One Ruflo An agent meta-harness for Claude Code and Codex. Agent = Model + Harness. The model writes;",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T06:36:28.790375+00:00",
+    "details": {}
+  },
+  {
+    "title": "humanlayer/skills",
+    "link": "https://github.com/humanlayer/skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "skills Claude Code skills from HumanLayer . Installation npx skills add humanlayer/skills --skill SKILLNAME Available Skills improve-claude-md Rewrites your CLAUDE.md using &lt;important if&gt; blocks to improve instruction adherence. npx skills add humanlayer/skills --skill improve-claude-md Then in your project: /improve-claude-md narrow-react-prop-types Narrows React component prop types to mat",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T06:36:28.793644+00:00",
+    "details": {}
+  },
+  {
+    "title": "BraveOPotato/FckSignups",
+    "link": "https://github.com/BraveOPotato/FckSignups",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A list of tools that are open-source, in-browser, and require no-signups! https://nosignups.net NoSignups (formerly FckSignups) Open Source Tools. Zero Bullsh*t. A curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work. What is this? NoSignups is a React + TypeScript project. If you want to run it locally, simply clo",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T06:36:28.799850+00:00",
+    "details": {}
+  },
+  {
+    "title": "WorldFlowAI/everything-claude-code",
+    "link": "https://github.com/WorldFlowAI/everything-claude-code",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development Everything Claude Code The complete collection of Claude Code configs from an Anthropic hackathon winner. Production-ready agents, skills, hooks, commands, rules, and MCP configurations evolved over 10+ months of intensive daily use building real products. The Guides This repo is the raw code on",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T06:36:28.803742+00:00",
+    "details": {}
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "link": "https://github.com/nvm-sh/nvm",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump Node Version Manager Table of Contents Intro About Installing and Updating Install &amp; Update Script Additional Notes Installing in Docker Installing in Docker for CICD-Jobs Troubleshooting on Linux Troubleshooting on macOS Ansible Verify Installation",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T06:36:28.815121+00:00",
+    "details": {}
+  },
+  {
+    "title": "Trump officials say Judeo-Christian principles inform AI policy, with some optimistic about AI and others seeing parallels to biblical end-times prophecies (Philip Wegmann/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260906/p3#a260906p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Philip Wegmann / Wall Street Journal : Trump officials say Judeo-Christian principles inform AI policy, with some optimistic about AI and others seeing parallels to biblical end-times prophecies &nbsp; &mdash;&nbsp; Trump administration officials are wrestling with the spiritual consequences of AI as the president embraces it as an economic engine",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T06:36:46.780478+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen3.8-27B \"Unhacked\" my PC",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w8jahs/qwen3827b_unhacked_my_pc/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Right, so this is going to be embarrassing but it's presumably something we've all been through at one point or another, and I guess this is my first time resolving something like this in the way that I did so figured I'd share if only to share that it's now a thing and that it's pretty cool.. A friend of mine sent a message asking what's up and if I wanted to watch a movie together, I was kinda h",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T06:36:46.784143+00:00",
+    "details": {}
   }
 ]
