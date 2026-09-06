@@ -7394,5 +7394,43 @@
     },
     "rejected_at": "2026-09-06T17:51:25.502736+00:00",
     "details": {}
+  },
+  {
+    "title": "OpenAI says it hit its \"automated research intern\" goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens (OpenAI)",
+    "link": "https://www.techmeme.com/260906/p6#a260906p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "OpenAI : OpenAI says it hit its &ldquo;automated research intern&rdquo; goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens &nbsp; &mdash;&nbsp; For AGI to benefit all of humanity, we believe it must be democratically governed.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T19:42:42.900553+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Local audit trail for Claude Code tool calls",
+    "link": "https://github.com/zaghaghi/toolog",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "A dead simple local audit trail for Claude Code tool calls. Energized by a rule-based risk analyser. Give it a llama-cpp compatible GGUF model and it will give you a second opinion on risk locally. Comments URL: https://news.ycombinator.com/item?id=49589526 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T19:42:42.904520+00:00",
+    "details": {}
   }
 ]
