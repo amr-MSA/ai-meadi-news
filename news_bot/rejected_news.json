@@ -7109,5 +7109,100 @@
     },
     "rejected_at": "2026-09-06T11:48:39.803661+00:00",
     "details": {}
+  },
+  {
+    "title": "How AI gutted Kenya's essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students' homework, leaving few paths back to work (New York Times)",
+    "link": "https://www.techmeme.com/260906/p4#a260906p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : How AI gutted Kenya's essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students' homework, leaving few paths back to work &nbsp; &mdash;&nbsp; Thousands of Kenyans made a living writing essays for overseas students.&nbsp; With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T14:33:10.281402+00:00",
+    "details": {}
+  },
+  {
+    "title": "What are code reviews even for?",
+    "link": "https://newsletter.getdx.com/p/what-are-code-reviews-even-for",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://newsletter.getdx.com/p/what-are-code-reviews-even-for Comments URL: https://news.ycombinator.com/item?id=49586511 Points: 3 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T14:33:10.290235+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: MarkFlowy – A open source Markdown editor rebuilt for large documents",
+    "link": "https://github.com/drl990114/MarkFlowy",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "I maintain MarkFlowy, a desktop Markdown editor for Windows, macOS, and Linux. I’ve spent the past two months rebuilding its editor core, mainly to improve performance with larger documents. The changes are part of v0.100.0. In testing, a 2 MB Markdown document opened in about a second. I’d be interested to see how it performs with other people’s documents and hardware. Opening speed was one part",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T14:33:10.294368+00:00",
+    "details": {}
+  },
+  {
+    "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "This comparison was requested by a few people, and certainly we were all eager to see the final results. The comparison had taken 11 days and the GPU was crunching numbers for ~167 hours. We've been comparing different abliterated models from huggingface to see if they really are what they claim to be. So far the results have been interesting. The pipeline includes a weight comparison, KL divergen",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T14:33:10.298363+00:00",
+    "details": {}
+  },
+  {
+    "title": "NYS Comptroller DiNapoli releases more municipal cybersecurity audits",
+    "link": "https://databreaches.net/2026/09/06/nys-comptroller-dinapoli-releases-more-municipal-cybersecurity-audits/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "New York State Comptroller DiNapoli recently released some municipal audits, three of which concerned cybersecurity. The following are excerpts from the public versions of the audits. Town of Wilton – Cybersecurity (2026M-48) Audit Period January 1, 2024 – August 8, 2025 Understanding the Audit Area The Town had 56 full-time and 13 part-time employees during... Source",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-06T14:33:10.305223+00:00",
+    "details": {}
   }
 ]
