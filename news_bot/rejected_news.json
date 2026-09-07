@@ -8230,5 +8230,62 @@
     },
     "rejected_at": "2026-09-07T18:30:53.533453+00:00",
     "details": {}
+  },
+  {
+    "title": "Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP (Vicky Ge Huang/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260907/p19#a260907p19",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Vicky Ge Huang / Wall Street Journal : Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP &nbsp; &mdash;&nbsp; The personal computer that launched a thousand memes will debut this week as a digital token",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T22:21:51.939474+00:00",
+    "details": {}
+  },
+  {
+    "title": "Friends Don't Let Friends Use Ollama",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wa26pn/friends_dont_let_friends_use_ollama/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/rm-rf-rm [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T22:21:51.943802+00:00",
+    "details": {}
+  },
+  {
+    "title": "MA: Springfield Public Schools will be closed Tuesday after a cyber incident",
+    "link": "https://databreaches.net/2026/09/07/ma-springfield-public-schools-will-be-closed-tuesday-after-a-cyber-incident/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Carolyn Rodriguez reports: Springfield Public Schools will be closed Tuesday after a cyber incident disrupted systems necessary for essential school operations, Superintendent Dr. Sonia Dinnall announced Monday. According to the district, the closure will help the district continue its response efforts while investigators assess the extent of the incident. “We understand that an unexpected closure",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T22:21:51.954963+00:00",
+    "details": {}
   }
 ]
