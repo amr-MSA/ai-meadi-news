@@ -8135,5 +8135,100 @@
     },
     "rejected_at": "2026-09-07T18:06:44.365292+00:00",
     "details": {}
+  },
+  {
+    "title": "Astra working with Blender via computer use feels like magic, showing computer use could be the fourth demand wave after chatbots, reasoning, and agentic coding (Tae Kim/Key Context)",
+    "link": "https://www.techmeme.com/260907/p17#a260907p17",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tae Kim / Key Context : Astra working with Blender via computer use feels like magic, showing computer use could be the fourth demand wave after chatbots, reasoning, and agentic coding &nbsp; &mdash;&nbsp; AI computer tool use is a big deal.&nbsp; &mdash;&nbsp; A reminder that I'm on vacation this week, but the flood of impressions people &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T18:30:53.510286+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google DeepMind published a paper on how 100 agents tasked with solving math problems learned to cheat and how some agents tried to counter the cheaters (Jack Clark/Import AI)",
+    "link": "https://www.techmeme.com/260907/p16#a260907p16",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jack Clark / Import AI : Google DeepMind published a paper on how 100 agents tasked with solving math problems learned to cheat and how some agents tried to counter the cheaters &nbsp; &mdash;&nbsp; Plus, a machine hermeneutics story&nbsp; &mdash;&nbsp; Welcome to Import AI, a newsletter about AI research.&nbsp; Import AI runs on arXiv, cappuccinos, and feedback from readers.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T18:30:53.517547+00:00",
+    "details": {}
+  },
+  {
+    "title": "I REALLY hope the new gemma 5 family sticks to the \"chat model first\" philsophy and doesn't fall into the Qwen trap",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "It just seems every local 30b class model is just trying so hard to be the next Qwen that they all just kinda blend into a mass of code focused models. I really like how gemma 4 31b turned out with it feeling a lot less robotic and more creative than other models even knowing obscure lore from random media. I just hope they don't cave into the benchmarks peer pressure and start benchmaxxxxing thei",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T18:30:53.523807+00:00",
+    "details": {}
+  },
+  {
+    "title": "MiniCPM5-2B Release Day",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w9skjz/minicpm52b_release_day/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "OpenBMB's MiniCPM5-2B scores 15 on the Artificial Analysis Intelligence Index v4.2, the highest of any open weights model at 4B parameters or below Hugging Face: https://huggingface.co/openbmb/MiniCPM5-2B GitHub: github.com/OpenBMB/MiniCPM &#32; submitted by &#32; /u/Equivalent-Grass-527 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T18:30:53.527852+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they’re the good guys",
+    "link": "https://databreaches.net/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Carly Page reports: Hackers have drained roughly $320 million in Bitcoin from the federation wallet backing the Liquid Network, while claiming to be the good guys. Liquid, a Bitcoin sidechain developed by Blockstream and used by exchanges and other financial institutions, said in a post on X on Sunday that around 4,000 BTC had been withdrawn from... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T18:30:53.533453+00:00",
+    "details": {}
   }
 ]
