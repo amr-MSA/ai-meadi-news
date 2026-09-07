@@ -7793,5 +7793,100 @@
     },
     "rejected_at": "2026-09-07T06:45:56.313527+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)",
+    "link": "https://www.techmeme.com/260907/p11#a260907p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month &nbsp; &mdash;&nbsp; ByteDance Ltd. is readying an AI model geared for real-time spatial video generation, taking on Meta Platforms Inc. and Alphabet Inc &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T13:46:58.666684+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at Anthropic's Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products (Stephen Council/Business Insider)",
+    "link": "https://www.techmeme.com/260907/p10#a260907p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Stephen Council / Business Insider : A look at Anthropic's Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products &nbsp; &mdash;&nbsp; Inside Anthropic, an unorthodox group can take a lot of credit for the AI company's meteoric rise.&nbsp; &mdash;&nbsp; The company's Labs team &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T13:46:58.672249+00:00",
+    "details": {}
+  },
+  {
+    "title": "Me trying to keep up with all the new AI models being released",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w9of3u/me_trying_to_keep_up_with_all_the_new_ai_models/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T13:46:58.675803+00:00",
+    "details": {}
+  },
+  {
+    "title": "Japan’s Health Ministry to Strengthen Cybersecurity Measures at Hospitals",
+    "link": "https://databreaches.net/2026/09/07/japans-health-ministry-to-strengthen-cybersecurity-measures-at-hospitals/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The Yomiuri Shimbun reports: The Health, Labor and Welfare Ministry is set to strengthen cybersecurity measures at hospitals to counter a surging number of cyberattacks on medical institutions. The ministry has included ¥13.7 billion in its budget request for fiscal 2027 to implement the measures for protecting networks and deploying cybersecurity specialists. The request will... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T13:46:58.682385+00:00",
+    "details": {}
+  },
+  {
+    "title": "Personal Data of Approximately 220,000 Domestic and International Gangnam Unni Users Leaked",
+    "link": "https://databreaches.net/2026/09/07/personal-data-of-approximately-220000-domestic-and-international-gangnam-unni-users-leaked/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Lee Seunghyeong reports: Personal information of approximately 220,000 domestic and international users has been leaked from Gangnam Unni, a beauty medical platform operated by Healing Paper. On September 7, Healing Paper announced through a public notice that on September 4, there was abnormal access to the integration feature (API) used to view consultation records, resulting... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T13:46:58.686181+00:00",
+    "details": {}
   }
 ]
