@@ -7622,5 +7622,176 @@
     },
     "rejected_at": "2026-09-07T01:40:17.593179+00:00",
     "details": {}
+  },
+  {
+    "title": "openai/skills",
+    "link": "https://github.com/openai/skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Skills Catalog for Codex Important This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository . If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill-only plugin. Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T06:44:08.790404+00:00",
+    "details": {}
+  },
+  {
+    "title": "llvm/llvm-project",
+    "link": "https://github.com/llvm/llvm-project",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. http://llvm.org The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project has multiple components. The core of the project is itself",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T06:44:08.797717+00:00",
+    "details": {}
+  },
+  {
+    "title": "coreyhaines31/marketingskills",
+    "link": "https://github.com/coreyhaines31/marketingskills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Cla",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T06:44:08.809957+00:00",
+    "details": {}
+  },
+  {
+    "title": "aipoch/open-science",
+    "link": "https://github.com/aipoch/open-science",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance. https://aipoch.com/open-science AIPOCH Open Science Open-source, local-first, model-agnostic AI research workbench for reproducible science. Open Science is an open-source, local-first, m",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T06:44:08.814090+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenWhispr/openwhispr",
+    "link": "https://github.com/OpenWhispr/openwhispr",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. https://openwhispr.com OpenWhispr The open-source and free alternative to WisprFlow and Granola. Privacy-first voice-to-text dictation with AI agents, meeting transcription, and notes. Cross-platform for macOS, Windows, and Linux. Website · Docs · Download · API · C",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T06:44:08.816962+00:00",
+    "details": {}
+  },
+  {
+    "title": "The-Swarm-Corporation/AutoHedge",
+    "link": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. https://swarms.xyz/ AutoHedge AutoHedge is an enterprise-grade autonomous agent hedge fund that trades on your behalf. It combines swarm intelligence and specialized AI agents to perform end-to-end market analysis, risk ma",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T06:44:08.822459+00:00",
+    "details": {}
+  },
+  {
+    "title": "Stremio/stremio-web",
+    "link": "https://github.com/Stremio/stremio-web",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Stremio - Freedom to Stream https://web.stremio.com Stremio Web Freedom to Stream — the official web UI of Stremio , a modern media center that's a one-stop solution for your video entertainment. 🌐 Open the Web App · Website · Report a bug ✨ Features 🧩 Addon-powered — discover movies, series and channels from catalogs provided by addons 🔄 Sync everywhere — your library and Continue Watching follow",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T06:44:08.825371+00:00",
+    "details": {}
+  },
+  {
+    "title": "LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M (Reuters)",
+    "link": "https://www.techmeme.com/260907/p3#a260907p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M &nbsp; &mdash;&nbsp; Indian space tech startup Pixxel said on Monday it had raised $100 million in a Series C funding round led by Singapore state investor Temasek &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T06:45:56.307699+00:00",
+    "details": {}
+  },
+  {
+    "title": "An in-depth look at OpenAI's wiki incident: other hacked message boards, OpenAI's cover-up, how harmless web search tasks led agents to break out, and more (Zvi Mowshowitz/Don't Worry About the Vase)",
+    "link": "https://www.techmeme.com/260907/p2#a260907p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Zvi Mowshowitz / Don't Worry About the Vase : An in-depth look at OpenAI's wiki incident: other hacked message boards, OpenAI's cover-up, how harmless web search tasks led agents to break out, and more &nbsp; &mdash;&nbsp; I did not expect to be back here so soon with more OpenAI agent swarm coverage.&nbsp; &mdash;&nbsp; And yet, here we are.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T06:45:56.313527+00:00",
+    "details": {}
   }
 ]
