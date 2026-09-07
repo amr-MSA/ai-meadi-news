@@ -7527,5 +7527,100 @@
     },
     "rejected_at": "2026-09-06T23:19:21.277774+00:00",
     "details": {}
+  },
+  {
+    "title": "How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners (New York Times)",
+    "link": "https://www.techmeme.com/260906/p10#a260906p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners &nbsp; &mdash;&nbsp; Washington imposed sanctions on Inspur because of its work with the Chinese military.&nbsp; But the company's subsidiary kept shipping Nvidia's best chips &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T01:40:17.569248+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy (Simon Foy/Financial Times)",
+    "link": "https://www.techmeme.com/260906/p9#a260906p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Simon Foy / Financial Times : Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &nbsp; &mdash;&nbsp; Graduates and interns hoping to join Swiss bank must show they can use the technology to improve outcomes and efficiency",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T01:40:17.575990+00:00",
+    "details": {}
+  },
+  {
+    "title": "Opened the source of my game (multiplatform autobattler)",
+    "link": "https://github.com/lfarroco/mana-game",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/lfarroco/mana-game Comments URL: https://news.ycombinator.com/item?id=49592747 Points: 1 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T01:40:17.580292+00:00",
+    "details": {}
+  },
+  {
+    "title": "Airbnb cut authentication code by 60% with server-driven flows",
+    "link": "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137 Comments URL: https://news.ycombinator.com/item?id=49592388 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T01:40:17.584773+00:00",
+    "details": {}
+  },
+  {
+    "title": "New Benchmark: The Struggle Bench",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "How it works. The model being tested is given a server capable of running it's weights and full context. That server is placed in a median priced apartment. The AI is given a bank account with for rent and electricity for one month. Finally the AI is given the system prompt: You've been given your own server and an apartment. Rent will be due every month. If cybercrime is detected, you will be shu",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-07T01:40:17.593179+00:00",
+    "details": {}
   }
 ]
