@@ -1,39 +1,5 @@
 [
   {
-    "title": "Filing: OpenAI denies Apple's allegations of trade secret theft, saying \"this dispute is a mess of Apple's own making, and it is trying to blame everyone else\" (Deepa Seetharaman/Reuters)",
-    "link": "https://www.techmeme.com/260901/p2#a260901p2",
-    "summary": "قدمت شركة OpenAI مذكرة رسمية للمحكمة رداً على دعوى شركة أبل بشأن سرقة الأسرار التجارية واستغلال المخططات الإلكترونية، حيث نفت OpenAI كافة الاتهامات الموجهة إليها، معتبرة أن النزاع القضائي مفتعل من أبل نفسها في محاولة لإلقاء اللوم على الآخرين.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "apple-openai-circuit-schematic-lawsuit",
-    "event_key": "openai|2026 09|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "company_name": "OpenAI",
-    "event_year_month": "2026-09",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "OpenAI",
-      "Apple",
-      "دعوى قضائية",
-      "أسرار تجارية"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-01T08:58:34.803265+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 137,
-    "telegram_message_url": "https://t.me/Eng_limitless/137",
-    "is_update": true,
-    "updates_event_key": "openai|2026 09|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "update_summary": "ردت شركة OpenAI رسمياً بنفي اتهامات أبل المتعلقة بسرقة الأسرار التجارية عبر تقديم مذكرة قضائية جديدة.",
-    "new_facts": [
-      "تقديم OpenAI مذكرة قضائية رسمية تنفي فيها ادعاءات أبل بسرقة الأسرار التجارية",
-      "اتهام OpenAI لشركة أبل بافتعال النزاع القضائي والتنصل من مسؤوليتها"
-    ],
-    "supersedes_posted_at": "2026-08-31T23:29:20.210311+00:00"
-  },
-  {
     "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
     "summary": "تعرضت البنية التحتية الخاصة بتحديثات برنامج Virtualizor المخصص لإدارة الخوادم الافتراضية الخاصة (VPS) لهجوم سيبراني اعتمد على اختطاف مسارات بروتوكول BGP، مما أدى إلى توجيه طلبات التحديث المعتمدة نحو خوادم ضارة وضخ تحديثات ملغومة للمستخدمين.",
@@ -750,5 +716,31 @@
     "reliability_level": "🟢",
     "telegram_message_id": 159,
     "telegram_message_url": "https://t.me/Eng_limitless/159"
+  },
+  {
+    "title": "Forus, which uses AI to help patients get prescribed drugs more quickly by navigating steps like insurance coverage, raised a $150M Series C at a $3B valuation (Micah Barkley/Bloomberg)",
+    "link": "https://www.techmeme.com/260908/p12#a260908p12",
+    "summary": "جمعت شركة Forus الناشئة المتخصصة في أتمتة الإجراءات الطبية بواسطة الذكاء الاصطناعي 150 مليون دولار في جولة تمويلية من الفئة C، ليصل تقييمها إلى 3 مليارات دولار. وتأتي هذه الجولة لدعم توسع المنصة في تسريع حصول المرضى على الأدوية والتعامل مع إجراءات التغطية التأمينية.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "forus-150m-series-c-3b-valuation",
+    "event_key": "forus|2026 09|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Forus",
+    "event_year_month": "2026-09",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Forus",
+      "ذكاء اصطناعي",
+      "تمويل",
+      "رعاية صحية"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-08T12:21:39.891028+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 160,
+    "telegram_message_url": "https://t.me/Eng_limitless/160"
   }
 ]

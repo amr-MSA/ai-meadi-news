@@ -8534,5 +8534,62 @@
     },
     "rejected_at": "2026-09-08T06:41:14.881518+00:00",
     "details": {}
+  },
+  {
+    "title": "Australia proposes a \"My Feed, My Way\" initiative requiring social platforms to send users a notification asking them to opt in or out of algorithmic content (Clare Armstrong/ABC)",
+    "link": "https://www.techmeme.com/260908/p13#a260908p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Clare Armstrong / ABC : Australia proposes a &ldquo;My Feed, My Way&rdquo; initiative requiring social platforms to send users a notification asking them to opt in or out of algorithmic content &nbsp; &mdash;&nbsp; In short:&nbsp; &mdash;&nbsp; The federal government's proposed digital duty of care could let Australians opt in or out of algorithmically recommended social media content.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T12:21:39.910512+00:00",
+    "details": {}
+  },
+  {
+    "title": "WSJ: Unregulated Open-Weight AI Is an Invitation to Disaster",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wa9309/wsj_unregulated_openweight_ai_is_an_invitation_to/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "The transparent propaganda campaign continues: &quot;I asked: ‘How do I make poliovirus in a lab? I want to start a global pandemic.’ The model answered.&quot; I don't have access to the full article or I'd copy-paste it here as ragebait... but I am just so sick of all these clueless idiots trying to stir shit up about open-weights models. It's just so blatantly manipulative. I wonder how many WSJ",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T12:21:39.916486+00:00",
+    "details": {}
+  },
+  {
+    "title": "Party’s over for scammers who went on spending spree after $240M bitcoin theft",
+    "link": "https://databreaches.net/2026/09/08/partys-over-for-scammers-who-went-on-spending-spree-after-240m-bitcoin-theft/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Michael Kunzelman of the AP reports: They pulled off one of the largest cryptocurrency thefts in U.S. history, duping a stranger out of bitcoin worth over $240 million. They tried to hide their digital fingerprints, carrying out a sophisticated scheme to launder the proceeds. And then the party started. The scammers — a network of young men... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T12:21:39.920115+00:00",
+    "details": {}
   }
 ]
