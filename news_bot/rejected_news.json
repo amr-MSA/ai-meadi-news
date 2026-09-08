@@ -8591,5 +8591,233 @@
     },
     "rejected_at": "2026-09-08T12:21:39.920115+00:00",
     "details": {}
+  },
+  {
+    "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+    "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+    "source_name": "BleepingComputer",
+    "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:05:39.967872+00:00",
+    "details": {}
+  },
+  {
+    "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
+    "source_name": "BleepingComputer",
+    "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.375640+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI says ChatGPT outage causes image generation errors",
+    "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
+    "source_name": "BleepingComputer",
+    "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.382022+00:00",
+    "details": {}
+  },
+  {
+    "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.386814+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
+    "source_name": "BleepingComputer",
+    "summary": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the \"Critical level\" for cybersecurity capabilities. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.391519+00:00",
+    "details": {}
+  },
+  {
+    "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
+    "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
+    "source_name": "BleepingComputer",
+    "summary": "Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.395687+00:00",
+    "details": {}
+  },
+  {
+    "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
+    "source_name": "BleepingComputer",
+    "summary": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security controls can help fast-growing companies reduce their exposure. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.399481+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers build AI frameworks for widescale credential theft",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+    "source_name": "BleepingComputer",
+    "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.402926+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft: Windows Server 2025 changes causing app crashes",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.406490+00:00",
+    "details": {}
+  },
+  {
+    "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+    "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+    "source_name": "BleepingComputer",
+    "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed the Vietnam-linked system through a cloud-based pat",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.410215+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google DeepMind Releases AlphaGenome Atlas",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.423263+00:00",
+    "details": {}
+  },
+  {
+    "title": "DaVinci Resolve 21.1",
+    "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:06:13.426353+00:00",
+    "details": {}
   }
 ]
