@@ -8287,5 +8287,81 @@
     },
     "rejected_at": "2026-09-07T22:21:51.954963+00:00",
     "details": {}
+  },
+  {
+    "title": "Grindr pays £26M to settle a 2024 UK lawsuit that alleged it shared users' HIV status with ad firms, in breach of UK law (Julia Kollewe/The Guardian)",
+    "link": "https://www.techmeme.com/260907/p21#a260907p21",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Julia Kollewe / The Guardian : Grindr pays &pound;26M to settle a 2024 UK lawsuit that alleged it shared users' HIV status with ad firms, in breach of UK law &nbsp; &mdash;&nbsp; US-owned dating app allegedly allowed ad firms access to private information in breach of UK law&nbsp; &mdash;&nbsp; Grindr will pay &pound;26m to settle a lawsuit brought &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T01:50:53.009300+00:00",
+    "details": {}
+  },
+  {
+    "title": "Robinhood secures its first IPO underwriting role, in Oura's IPO, which could give it more influence over how many shares are allocated to its customers (Wall Street Journal)",
+    "link": "https://www.techmeme.com/260907/p20#a260907p20",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wall Street Journal : Robinhood secures its first IPO underwriting role, in Oura's IPO, which could give it more influence over how many shares are allocated to its customers &nbsp; &mdash;&nbsp; Playing an official part in the IPO process could give Robinhood more influence over the number of shares allocated to its customers",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T01:50:53.016660+00:00",
+    "details": {}
+  },
+  {
+    "title": "TIL POSIX specifies a tool designed to assist you with generated code",
+    "link": "https://www.reddit.com/r/commandline/comments/1w809fu/til_posix_specifies_a_tool_designed_to_assist_you",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.reddit.com/r/commandline/comments/1w809fu/til_posix_specifies_a_tool_designed_to_assist_you Comments URL: https://news.ycombinator.com/item?id=49604498 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T01:50:53.022616+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Full-Source Bootstrap: Building from source all the way down (2023)",
+    "link": "https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/ Comments URL: https://news.ycombinator.com/item?id=49604227 Points: 30 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T01:50:53.028899+00:00",
+    "details": {}
   }
 ]
