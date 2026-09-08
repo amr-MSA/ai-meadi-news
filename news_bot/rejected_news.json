@@ -8819,5 +8819,138 @@
     },
     "rejected_at": "2026-09-08T17:06:13.426353+00:00",
     "details": {}
+  },
+  {
+    "title": "The White House has quietly removed Build The Wall, a Tetris clone on its arcade.gov website, after Tetris said it takes \"copyright infringement very seriously\" (Zack Zwiezen/Kotaku)",
+    "link": "https://www.techmeme.com/260908/p30#a260908p30",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Zack Zwiezen / Kotaku : The White House has quietly removed Build The Wall, a Tetris clone on its arcade.gov website, after Tetris said it takes &ldquo;copyright infringement very seriously&rdquo; &nbsp; &mdash;&nbsp; It seems the Trump administration doesn't want to tempt a lawsuit from The Tetris Company",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:39:03.311222+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI denies that its researchers or models saw Buckmaster or Alpöge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough (Wired)",
+    "link": "https://www.techmeme.com/260908/p29#a260908p29",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wired : OpenAI denies that its researchers or models saw Buckmaster or Alp&ouml;ge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough &nbsp; &mdash;&nbsp; A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:39:03.319843+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones",
+    "link": "https://github.com/agamrossen/VolAnti",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/agamrossen/VolAnti Comments URL: https://news.ycombinator.com/item?id=49613631 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:39:03.326057+00:00",
+    "details": {}
+  },
+  {
+    "title": "Weekly · Open-Source AI · week 37, 2026",
+    "link": "https://news.ycombinator.com/item?id=49613606",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "https://thezakulo.com/weekly/ short-video-generator-AI – Free open-source project designed for turning - https://github.com/pierrenade/short-video-generator-AI awesome-grokbot – 598 live x.ai/bot shares for Grok Bot — every link - https://github.com/kydlikebtc/awesome-grokbot Comments URL: https://news.ycombinator.com/item?id=49613606 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:39:03.331472+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI alleged of stealing mathematicians work",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wapjaw/openai_alleged_of_stealing_mathematicians_work/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Privacy have been concern of many of us to have their own hardware to run llms, and here's another reason why: two mathematicians spent a year cracking one of the hardest problems in math and fed every draft of their works into Codex. A few days before they could publish, OpenAI suddenly showed up with the same solutions. When asked if their model (Sol and Astra) was trained on the pair's private",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:39:03.336358+00:00",
+    "details": {}
+  },
+  {
+    "title": "DeepSeek Flash 4.1 is already being tested via API and rolling out.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Translation: &quot;Internal beta testing for an intermediate version of DeepSeek V4.1 Flash is now open; you are welcome to try it out. It adopts a new model architecture featuring native multimodal support, stronger capabilities, faster speeds, and lower costs. Keep your base_url unchanged and set the model name to deepseek-v4.1-flash-expires-on-0910 to call the API. Current pricing is identical",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:39:03.342186+00:00",
+    "details": {}
+  },
+  {
+    "title": "Everett, Massachusetts, closes City Hall after cybersecurity incident",
+    "link": "https://databreaches.net/2026/09/08/everett-massachusetts-closes-city-hall-after-cybersecurity-incident/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "DysruptionHub reports: Everett, Massachusetts, closed City Hall to the public Tuesday after a cybersecurity incident affected its internal network and technology systems, shifting most essential employees to another municipal building. The city said in a Monday announcement that it discovered the incident Sunday evening and began working with its technology team and cybersecurity professionals. It",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T17:39:03.347695+00:00",
+    "details": {}
   }
 ]
