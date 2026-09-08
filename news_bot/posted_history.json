@@ -1,33 +1,5 @@
 [
   {
-    "title": "Sources: Anthropic has signed a $35B cloud deal with Nvidia-backed Lambda; Nvidia will hold the lease on and supply chips to a Texas data center built by Hut 8 (Anissa Gardizy/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260831/p42#a260831p42",
-    "summary": "كشفت تقارير صحفية استنادًا إلى مصادر مطلعة عن توقيع شركة Anthropic صفقة سحابية ضخمة بقيمة 35 مليار دولار مع شركة Lambda المدعومة من Nvidia. وتتضمن الصفقة تزويد مركز بيانات جديد تبنيه شركة Hut 8 في ولاية تكساس بالشرائح الإلكترونية، على أن تحتفظ Nvidia بعقد الإيجار الخاص بالمركز لتأمين البنية التحتية لتشغيل نماذج الذكاء الاصطناعي.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "anthropic-lambda-nvidia-cloud-deal",
-    "event_key": "anthropic|2026 08|سحابة ومراكز بيانات|غير محدد|أمريكا الشمالية",
-    "company_name": "Anthropic",
-    "event_year_month": "2026-08",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Anthropic",
-      "Nvidia",
-      "Lambda",
-      "Hut 8",
-      "Data Center",
-      "AI Infrastructure"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-01T02:26:05.625124+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 136,
-    "telegram_message_url": "https://t.me/Eng_limitless/136"
-  },
-  {
     "title": "Filing: OpenAI denies Apple's allegations of trade secret theft, saying \"this dispute is a mess of Apple's own making, and it is trying to blame everyone else\" (Deepa Seetharaman/Reuters)",
     "link": "https://www.techmeme.com/260901/p2#a260901p2",
     "summary": "قدمت شركة OpenAI مذكرة رسمية للمحكمة رداً على دعوى شركة أبل بشأن سرقة الأسرار التجارية واستغلال المخططات الإلكترونية، حيث نفت OpenAI كافة الاتهامات الموجهة إليها، معتبرة أن النزاع القضائي مفتعل من أبل نفسها في محاولة لإلقاء اللوم على الآخرين.",
@@ -751,5 +723,32 @@
     "reliability_level": "🟢",
     "telegram_message_id": 158,
     "telegram_message_url": "https://t.me/Eng_limitless/158"
+  },
+  {
+    "title": "Mistral raised a €3B Series D led by Samsung at a €21B valuation, up from €11.7B a year ago, as it expands into data centers beyond developing AI models (Adam Satariano/New York Times)",
+    "link": "https://www.techmeme.com/260908/p4#a260908p4",
+    "summary": "كشفت تقارير صحفية أن شركة مسترال الفرنسية للذكاء الاصطناعي جمعت 3 مليارات يورو في جولة تمويلية من الفئة D بقيادة شركة سامسونغ، ليرتفع تقييمها إلى 21 مليار يورو مقارنة بـ 11.7 مليار يورو العام الماضي. وتأتي هذه الجولة لمساعدة الشركة على التوسع في إنشاء مراكز البيانات وتطوير نماذجها لتقديم بديل أوروبي منافس للشركات الأمريكية والصينية.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "mistral-3b-series-d-samsung-valuation",
+    "event_key": "mistral|2026 09|أعمال وتقنية|غير محدد|أوروبا",
+    "company_name": "Mistral",
+    "event_year_month": "2026-09",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أوروبا",
+    "keywords": [
+      "Mistral",
+      "Samsung",
+      "Series D",
+      "Funding",
+      "AI"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-08T06:41:14.866998+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 159,
+    "telegram_message_url": "https://t.me/Eng_limitless/159"
   }
 ]
