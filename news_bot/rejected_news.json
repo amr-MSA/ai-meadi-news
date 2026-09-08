@@ -8952,5 +8952,119 @@
     },
     "rejected_at": "2026-09-08T17:39:03.347695+00:00",
     "details": {}
+  },
+  {
+    "title": "Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock (John Koetsier/Forbes)",
+    "link": "https://www.techmeme.com/260908/p39#a260908p39",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "John Koetsier / Forbes : Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock &nbsp; &mdash;&nbsp; Figure AI pulled the wraps off Index last week.&nbsp; It's a billion-dollar bet on real-world data for robot AI training &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T20:26:40.353741+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meta's personal AI agent Muse is powered by Muse Spark 1.3 and is free for up to 100M tokens per week, with $20 and $100 monthly tiers (Riley Griffin/Bloomberg)",
+    "link": "https://www.techmeme.com/260908/p38#a260908p38",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Riley Griffin / Bloomberg : Meta's personal AI agent Muse is powered by Muse Spark 1.3 and is free for up to 100M tokens per week, with $20 and $100 monthly tiers &nbsp; &mdash;&nbsp; Meta Platforms Inc. unveiled a new artificial intelligence agent designed to carry out tasks on a user's behalf, advancing Mark Zuckerberg's vision &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T20:26:40.358917+00:00",
+    "details": {}
+  },
+  {
+    "title": "Postgres schema review and 3D explorer, run on seven open-source apps",
+    "link": "https://github.com/greenstevester/postgres-schema-gallery",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/greenstevester/postgres-schema-gallery Comments URL: https://news.ycombinator.com/item?id=49616278 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T20:26:40.362347+00:00",
+    "details": {}
+  },
+  {
+    "title": "A data leak shut a top research biobank: lessons from the recovery",
+    "link": "https://www.nature.com/articles/d41586-026-02803-y",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-02803-y Comments URL: https://news.ycombinator.com/item?id=49615470 Points: 2 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T20:26:40.365723+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen/Qwen-Drive-1.0-4B · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I don't think anyone posted about this here, but Qwen released a finetuned version of 3.5 4 for driving. The full Bf16 checkpoint is 9B. This is a very interesting development of Chinese AI labs tackle self driving next with open weight models. Edit: the HF repo links to the github repo, which in the citation links to a 40 page technical report . Here's the abstract: We present Qwen-Drive-1.0, an",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T20:26:40.371908+00:00",
+    "details": {}
+  },
+  {
+    "title": "Singaporean Ringleader of $245 Million Cryptocurrency Racketeering Enterprise Pleads Guilty in Washington D.C.",
+    "link": "https://databreaches.net/2026/09/08/singaporean-ringleader-of-245-million-cryptocurrency-racketeering-enterprise-pleads-guilty-in-washington-d-c/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "WASHINGTON – Malone Lam, 22, a citizen of Singapore and recent resident of Miami, pleaded guilty today in U.S. District Court in Washington D.C. in connection with his role as ringleader of an international cybercrime conspiracy that used social engineering to steal and launder cryptocurrency valued at more than $245 million, announced U.S. Attorney Jeanine... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-08T20:26:40.375752+00:00",
+    "details": {}
   }
 ]
