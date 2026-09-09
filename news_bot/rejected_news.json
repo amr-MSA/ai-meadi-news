@@ -9427,5 +9427,49 @@
     },
     "rejected_at": "2026-09-09T12:33:45.186922+00:00",
     "details": {}
+  },
+  {
+    "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+    "source_name": "BleepingComputer",
+    "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
+    "reason": "مكرر في السجل: title-similarity",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T17:01:45.707941+00:00",
+    "details": {}
+  },
+  {
+    "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+    "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+    "source_name": "BleepingComputer",
+    "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "2026-09",
+      "news_type": "أمن سيبراني",
+      "product_name": "غير محدد",
+      "region": "عالمي",
+      "topic_key": "us-china-ai-model-distillation-token-extraction",
+      "keywords": [
+        "ذكاء اصطناعي",
+        "أمن سيبراني",
+        "تقطير النماذج",
+        "الولايات المتحدة",
+        "الصين"
+      ]
+    },
+    "rejected_at": "2026-09-09T17:04:03.945930+00:00",
+    "details": {}
   }
 ]
