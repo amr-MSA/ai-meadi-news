@@ -9142,5 +9142,24 @@
     },
     "rejected_at": "2026-09-08T23:44:40.103649+00:00",
     "details": {}
+  },
+  {
+    "title": "Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260908/p47#a260908p47",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Amrith Ramkumar / Wall Street Journal : Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control &nbsp; &mdash;&nbsp; Concerns are rising inside AI labs that competition is pushing tech companies to race toward self-improving models that risk spiraling out of human control",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T01:56:39.399254+00:00",
+    "details": {}
   }
 ]

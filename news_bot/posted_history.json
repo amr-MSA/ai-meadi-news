@@ -742,5 +742,31 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Source: Gimlet Labs raised its $300M round after telling investors OpenAI may spend $100M+ annually on its services; OpenAI says it's not a paying customer yet (The Information)",
+    "link": "https://www.techmeme.com/260908/p48#a260908p48",
+    "summary": "كشف تقرير صحفي لموقع The Information أن شركة Gimlet Labs أغلقت جولة تمويلية بقيمة 300 مليون دولار بقيادة أندريسن هوروفيتش ليرتفع تقييمها إلى 3 مليارات دولار، وذلك بعد إبلاغها المستثمرين بتوقعات أن تنفق OpenAI أكثر من 100 مليون دولار سنوياً على خدماتها. وفي المقابل، أوضحت OpenAI أنها لا تُعدّ زبوناً مدفوعاً للشركة حتى الآن.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "gimlet-labs-openai-pitch-funding",
+    "event_key": "gimlet labs|2026 09|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "company_name": "Gimlet Labs",
+    "event_year_month": "2026-09",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Gimlet Labs",
+      "OpenAI",
+      "تمويل",
+      "ذكاء اصطناعي"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-09T01:56:39.387132+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 162,
+    "telegram_message_url": "https://t.me/Eng_limitless/162"
   }
 ]
