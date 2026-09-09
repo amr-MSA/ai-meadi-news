@@ -9471,5 +9471,100 @@
     },
     "rejected_at": "2026-09-09T17:04:03.945930+00:00",
     "details": {}
+  },
+  {
+    "title": "Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy (Jay Peters/The Verge)",
+    "link": "https://www.techmeme.com/260909/p28#a260909p28",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jay Peters / The Verge : Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy &nbsp; &mdash;&nbsp; Apple has officially revealed its next line of Pro smartphones. &hellip; Apple announced the iPhone 18 Pro and iPhone 18 Pro Max at its event on Wednesday.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T17:24:46.655701+00:00",
+    "details": {}
+  },
+  {
+    "title": "A livestream of Apple's \"Surprise and Shine\" event (Apple on YouTube)",
+    "link": "https://www.techmeme.com/260909/p27#a260909p27",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Apple on YouTube : A livestream of Apple's &ldquo;Surprise and Shine&rdquo; event &nbsp; &mdash;&nbsp; Join us for a special event on September 9 at 10 a.m. PT. Click &ldquo;Notify me&rdquo; and we'll send you a reminder before showtime.&nbsp; #AppleEvent #AppleKeynote",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T17:24:46.661842+00:00",
+    "details": {}
+  },
+  {
+    "title": "An open-source SAS interpreter, written by agents",
+    "link": "https://kirha.com/research/opensas",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://kirha.com/research/opensas Comments URL: https://news.ycombinator.com/item?id=49629605 Points: 2 # Comments: 2",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T17:24:46.667221+00:00",
+    "details": {}
+  },
+  {
+    "title": "I rank the open-source AI agents that launched in the last 30 days",
+    "link": "https://www.theagenticleaderboard.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.theagenticleaderboard.com/ Comments URL: https://news.ycombinator.com/item?id=49629432 Points: 8 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T17:24:46.673091+00:00",
+    "details": {}
+  },
+  {
+    "title": "Why the hell is LM Studio making LM Studio so difficult to download?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wble79/why_the_hell_is_lm_studio_making_lm_studio_so/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Who is the marketing genius at LM Studio that decided that going ALL IN on pushing their new Bionic Agent product meant they are going to make it a giant pain in the ass to find and download actual LM Studio. This is the dumbest marketing decision I’ve ever seen. I used to love LM Studio, it was the middle stepping stone in the logical progression of inference. Most OGs here likely started with Ol",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T17:24:46.683873+00:00",
+    "details": {}
   }
 ]
