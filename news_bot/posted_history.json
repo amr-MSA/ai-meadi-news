@@ -795,5 +795,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 163,
     "telegram_message_url": "https://t.me/Eng_limitless/163"
+  },
+  {
+    "title": "Legal AI startup Harvey raised $550M co-led by Lightspeed and Diffusion at a $15.6B valuation, up from an $11B valuation when it raised $200M in March (Rebecca Torrence/Bloomberg)",
+    "link": "https://www.techmeme.com/260909/p10#a260909p10",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة Harvey الناشئة والمتخصصة في الذكاء الاصطناعي للقطاع القانوني أغلقت جولة تمويلية ضخمة بقيمة 550 مليون دولار بقيادة شركتي Lightspeed وDiffusion، مما رفع تقييمها إلى 15.6 مليار دولار مقارنة بـ 11 مليار دولار في مارس الماضي، وذلك لدعم تطوير نماذج الذكاء الاصطناعي الخاصة بالشركة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "harvey-550m-funding-15b-valuation",
+    "event_key": "harvey|2026 09|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Harvey",
+    "event_year_month": "2026-09",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Harvey",
+      "ذكاء اصطناعي",
+      "تمويل",
+      "Lightspeed",
+      "تقييم"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-09T12:33:45.157582+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 164,
+    "telegram_message_url": "https://t.me/Eng_limitless/164"
   }
 ]
