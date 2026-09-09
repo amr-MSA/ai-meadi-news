@@ -9161,5 +9161,176 @@
     },
     "rejected_at": "2026-09-09T01:56:39.399254+00:00",
     "details": {}
+  },
+  {
+    "title": "ayghri/i-have-adhd",
+    "link": "https://github.com/ayghri/i-have-adhd",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A skill to stop your coding agent from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! 🇬🇧 · 🇨🇳 · 🇧🇷 · 🇯🇵 · 🇻🇳 · 🇰🇷 · 🇹🇭 Install Copy/paste into your CLI prompt: Install the i-have-adhd skill/plugin from https://github.com/ayghri/i-have-adhd, refer to the repo's AGENTS.md for instructions. Or 🔗 check the installation instructions . What it does A skill for",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T06:55:08.603839+00:00",
+    "details": {}
+  },
+  {
+    "title": "multica-ai/andrej-karpathy-skills",
+    "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuan_jy A single CLAUDE.md file to improve Claude Code behavior, derived from And",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T06:55:08.634588+00:00",
+    "details": {}
+  },
+  {
+    "title": "browser-use/browser-use",
+    "link": "https://github.com/browser-use/browser-use",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Agents that use the browser. https://browser-use.com What can Browser Use do? Browser Use lets an AI agent use a web browser the same way humans do — it opens pages, clicks buttons, types, and fills in forms. You describe the task, and it completes it. For example, you can have it: 📋 Fill Forms Task: \"Fill in this job application with my resume and information.\" Example code ↗ 🍎 Extract data Task:",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T06:55:08.653791+00:00",
+    "details": {}
+  },
+  {
+    "title": "viarotel-org/escrcpy",
+    "link": "https://github.com/viarotel-org/escrcpy",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "📱 Display and control your Android device graphically with scrcpy. https://viarotel.eu.org/ Escrcpy 📱 Display and control your Android device graphically with scrcpy. 中文文档 Escrcpy focuses on a stable integration foundation; some advanced features come from the private extension repository EscrcpyX and are offered on a paid basis. Features 🖥️ Inset Mirror : Dedicated embedded window, auto-fits scre",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T06:55:08.669887+00:00",
+    "details": {}
+  },
+  {
+    "title": "openai/plugins",
+    "link": "https://github.com/openai/plugins",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "OpenAI Plugins Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under plugins/&lt;name&gt;/ with a required .codex-plugin/plugin.json manifest and optional companion surfaces such as skills/ , .app.json , .mcp.json , plugin-level agents/ , commands/ , hooks.json , assets/ , and other supporting files. The default marketplace lives at .agents/plugins",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T06:55:08.674116+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: China Securities Regulatory Commission is informally tightening IPO approvals for humanoid startups after a volatile debut by industry leader Unitree (The Information)",
+    "link": "https://www.techmeme.com/260909/p3#a260909p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "The Information : Sources: China Securities Regulatory Commission is informally tightening IPO approvals for humanoid startups after a volatile debut by industry leader Unitree &nbsp; &mdash;&nbsp; Chinese regulators are tightening the approval for humanoid startups seeking to go public after a volatile debut &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T06:55:24.486014+00:00",
+    "details": {}
+  },
+  {
+    "title": "GPT3 Writing Code",
+    "link": "https://twitter.com/Altimor/status/1278736953836400640",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://twitter.com/Altimor/status/1278736953836400640 Comments URL: https://news.ycombinator.com/item?id=49622077 Points: 4 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T06:55:24.490430+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: AI-first open-source alternative to Microsoft and Google Office",
+    "link": "https://github.com/injectinglabs/injoffice",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "InjOffice — AI-first open-source alternative to Microsoft Office and Google Workspace Comments URL: https://news.ycombinator.com/item?id=49621425 Points: 3 # Comments: 3",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T06:55:24.496335+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hi, I'm the co-creator of this Qwen3.8-Flash-Next engine support in MLX-serve. I've been tuning this one to run both fast, efficient and correct up 1m context using kv cache 8 bits in M5 Max 128GB. Qwen is working well at very long context as showed in the video (a snapshot at ~760k context), I let it build MLX Serve Monitor plugin that you've seen on the right side of Opencode2's app. The generat",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T06:55:24.506845+00:00",
+    "details": {}
   }
 ]

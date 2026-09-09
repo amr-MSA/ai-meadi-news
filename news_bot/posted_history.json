@@ -768,5 +768,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 162,
     "telegram_message_url": "https://t.me/Eng_limitless/162"
+  },
+  {
+    "title": "Sources: Anthropic declined to submit Mythos 5.1 to the UK AISI for pre-release testing, prompting UK fears that US AI labs are aligning with US protectionism (Financial Times)",
+    "link": "https://www.techmeme.com/260909/p4#a260909p4",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة Anthropic رفضت تقديم نموذجها المرتقب Mythos 5.1 إلى معهد أمان الذكاء الاصطناعي البريطاني (UK AISI) لإجراء اختبارات التقييم قبل الإطلاق، مما أثار مخاوف لدى الحكومة البريطانية من توجه معامل الذكاء الاصطناعي الأمريكية نحو السياسات الحمائية والتكتل.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "anthropic-mythos-uk-aisi-refusal",
+    "event_key": "anthropic|2026 09|ذكاء اصطناعي|mythos 5 1|عالمي",
+    "company_name": "Anthropic",
+    "event_year_month": "2026-09",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "Mythos 5.1",
+    "region": "عالمي",
+    "keywords": [
+      "Anthropic",
+      "Mythos 5.1",
+      "UK AISI",
+      "الذكاء الاصطناعي",
+      "اختبارات السلامة"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-09T06:55:24.471494+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 163,
+    "telegram_message_url": "https://t.me/Eng_limitless/163"
   }
 ]
