@@ -9642,5 +9642,43 @@
     },
     "rejected_at": "2026-09-09T20:09:49.044557+00:00",
     "details": {}
+  },
+  {
+    "title": "Consensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure (Jason Shubnell/The Block)",
+    "link": "https://www.techmeme.com/260909/p47#a260909p47",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jason Shubnell / The Block : Consensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure &nbsp; &mdash;&nbsp; - Consensys Software Inc. will split into two independently operated companies, separating its consumer-facing MetaMask business &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T23:38:21.134388+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apple A20 Pro debuts with 7-core GPU, 32-core Neural Engine and 50% more memory bandwidth (~115 GB/s)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wc0ekw/apple_a20_pro_debuts_with_7core_gpu_32core_neural/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "It seems to use a 96-bit LPDDR5X memory bus, instead of the previous 64-bit wide busses. Considering it's on 2nm, that's expensive silicon. That should result in around 115 GB/s memory bandwidth. A20 Pro also doubles the size of Apple's dedicated Neural Engine (from 16 to 32 cores total). &#32; submitted by &#32; /u/Balance- [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T23:38:21.141624+00:00",
+    "details": {}
   }
 ]

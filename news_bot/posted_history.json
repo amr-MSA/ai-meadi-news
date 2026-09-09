@@ -822,5 +822,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 164,
     "telegram_message_url": "https://t.me/Eng_limitless/164"
+  },
+  {
+    "title": "Slack messages: Automattic CEO Matt Mullenweg says he has been put on paid leave after CFO Mark Davies \"conspired\" with board members and was voted interim CEO (Samantha Cole/404 Media)",
+    "link": "https://www.techmeme.com/260909/p46#a260909p46",
+    "summary": "كشفت رسائل مسربة من قناة سلاك الداخلية لشركة Automattic أن الرئيس التنفيذي ومؤسس ووردبريس مات مولينويغ قد أُحيل إلى إجازة مدفوعة، وذلك عقب ما وصفه بـ \"خلاف ومؤامرة\" بين المدير المالي مارك ديفيز وأعضاء من مجلس الإدارة انتهت بالتصويت لتعيين ديفيز رئيساً تنفيذياً مؤقتاً للشركة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "automattic-mullenweg-paid-leave-slack-leak",
+    "event_key": "automattic|2026 09|أعمال وتقنية|wordpress|أمريكا الشمالية",
+    "company_name": "Automattic",
+    "event_year_month": "2026-09",
+    "news_type": "أعمال وتقنية",
+    "product_name": "WordPress",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Automattic",
+      "Matt Mullenweg",
+      "WordPress",
+      "Slack"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-09T23:38:21.121810+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 165,
+    "telegram_message_url": "https://t.me/Eng_limitless/165"
   }
 ]
