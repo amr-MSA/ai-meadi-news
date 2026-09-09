@@ -9566,5 +9566,81 @@
     },
     "rejected_at": "2026-09-09T17:24:46.683873+00:00",
     "details": {}
+  },
+  {
+    "title": "Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air (Cameron Faulkner/The Verge)",
+    "link": "https://www.techmeme.com/260909/p42#a260909p42",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Cameron Faulkner / The Verge : Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air &nbsp; &mdash;&nbsp; The price increase impacts the iPhone 16, the full iPhone 17 lineup, as well as the iPhone Air.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T20:09:49.023602+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them (Anthropic)",
+    "link": "https://www.techmeme.com/260909/p41#a260909p41",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anthropic : Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them &nbsp; &mdash;&nbsp; We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T20:09:49.032044+00:00",
+    "details": {}
+  },
+  {
+    "title": "LedgerAlps – A free and open source solution for billing in Switzerland",
+    "link": "https://ledgeralps.ch/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://ledgeralps.ch/ Comments URL: https://news.ycombinator.com/item?id=49633180 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T20:09:49.038156+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Vaultisse – open-source app to track and lend out physical books",
+    "link": "https://github.com/AlbertAmat/vaultisse",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/AlbertAmat/vaultisse Comments URL: https://news.ycombinator.com/item?id=49632584 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-09T20:09:49.044557+00:00",
+    "details": {}
   }
 ]
