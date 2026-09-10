@@ -9965,5 +9965,43 @@
     },
     "rejected_at": "2026-09-10T06:47:36.742095+00:00",
     "details": {}
+  },
+  {
+    "title": "Ant International, Visa, and Mastercard plan a new standard for payments made via AI agents, citing McKinsey's projection of $3T to $5T in commerce by 2030 (Evelyn Cheng/CNBC)",
+    "link": "https://www.techmeme.com/260910/p17#a260910p17",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Evelyn Cheng / CNBC : Ant International, Visa, and Mastercard plan a new standard for payments made via AI agents, citing McKinsey's projection of $3T to $5T in commerce by 2030 &nbsp; &mdash;&nbsp; Fintech company Ant International announced Thursday it has signed on Visa and Mastercard to collaborate on a new standard for payments &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T12:27:04.307324+00:00",
+    "details": {}
+  },
+  {
+    "title": "DeepSeek V4-1 Flash is out",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Here we go again, DeepSeek is back again with a new model V4-1 Flash A multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one million tokens Market crash as a service &#32; submitted by &#32; /u/tiguidoio [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T12:27:04.312032+00:00",
+    "details": {}
   }
 ]

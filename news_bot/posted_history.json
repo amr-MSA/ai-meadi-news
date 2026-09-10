@@ -821,5 +821,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 165,
     "telegram_message_url": "https://t.me/Eng_limitless/165"
+  },
+  {
+    "title": "Sources: Nasdaq is investing $100M in Kraken parent Payward, valuing the cryptocurrency exchange at $21B; Kraken will distribute Nasdaq's tokenized stocks (Katherine Doherty/Bloomberg)",
+    "link": "https://www.techmeme.com/260910/p16#a260910p16",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن بورصة ناسداك تجري استثماراً بقيمة 100 مليون دولار في شركة Payward، المالكة لمنصة تداول العملات المشفرة Kraken، ما يرفع تقييم الشركة إلى 21 مليار دولار. ووفقاً للتسريبات، ستتولى منصة كراكن توزيع الأسهم المرمزة التابعة لبورصة ناسداك.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "nasdaq-kraken-payward-investment-tokenized-stocks",
+    "event_key": "payward|2026 09|أعمال وتقنية|kraken|أمريكا الشمالية",
+    "company_name": "Payward",
+    "event_year_month": "2026-09",
+    "news_type": "أعمال وتقنية",
+    "product_name": "Kraken",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Nasdaq",
+      "Kraken",
+      "Payward",
+      "استثمار",
+      "أسهم مرمزة"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-10T12:27:04.292287+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 166,
+    "telegram_message_url": "https://t.me/Eng_limitless/166"
   }
 ]
