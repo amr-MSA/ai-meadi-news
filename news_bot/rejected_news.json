@@ -10079,5 +10079,24 @@
     },
     "rejected_at": "2026-09-10T17:22:35.113726+00:00",
     "details": {}
+  },
+  {
+    "title": "OpenAI says it will pause new $200/month ChatGPT Pro subscriptions amid \"unprecedented\" Astra demand; existing accounts, other plans, and API are unaffected (Tibo/@thsottiaux)",
+    "link": "https://www.techmeme.com/260910/p32#a260910p32",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tibo / @thsottiaux : OpenAI says it will pause new $200/month ChatGPT Pro subscriptions amid &ldquo;unprecedented&rdquo; Astra demand; existing accounts, other plans, and API are unaffected &nbsp; &mdash;&nbsp; To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our system",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T20:11:21.137824+00:00",
+    "details": {}
   }
 ]

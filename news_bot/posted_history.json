@@ -875,5 +875,40 @@
     "reliability_level": "🟡",
     "telegram_message_id": 167,
     "telegram_message_url": "https://t.me/Eng_limitless/167"
+  },
+  {
+    "title": "ID verification service IDScan confirms that a data breach involved the theft of driver's licenses from its systems after hackers offered 153M licenses for sale (Zack Whittaker/TechCrunch)",
+    "link": "https://www.techmeme.com/260910/p33#a260910p33",
+    "summary": "أكدت شركة IDScan المزودة لخدمات التحقق من الهوية تعرض أنظمتها لاختراق أمني أسفر عن سرقة رخص قيادة، وذلك عقب تقارير سابقة كشفت عن عرض 153 مليون رخصة قيادة للبيع على الشبكة المظلمة وبدء تحقيق من قبل مكتب التحقيقات الفيدرالي.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "nexus-idscan-driver-licenses-leak",
+    "event_key": "idscan net|2026 09|أمن سيبراني|غير محدد|أمريكا الشمالية",
+    "company_name": "IDScan.net",
+    "event_year_month": "2026-09",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "IDScan",
+      "اختراق",
+      "تسريب بيانات",
+      "رخص قيادة",
+      "أمن سيبراني"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-10T20:11:21.125232+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 168,
+    "telegram_message_url": "https://t.me/Eng_limitless/168",
+    "is_update": true,
+    "updates_event_key": "idscan net|2026 09|أمن سيبراني|غير محدد|أمريكا الشمالية",
+    "update_summary": "أكدت شركة IDScan رسمياً تعرض أنظمتها للاختراق وسرقة بيانات رخص القيادة بعد التحقيقات الأولوية.",
+    "new_facts": [
+      "تأكيد شركة IDScan رسمياً تعرض أنظمتها لاختراق أمني",
+      "تأكيد سرقة بيانات رخص القيادة بالفعل من قواعد بيانات الشركة"
+    ],
+    "supersedes_posted_at": "2026-09-04T12:20:08.294990+00:00"
   }
 ]
