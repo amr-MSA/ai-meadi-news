@@ -9775,5 +9775,195 @@
     },
     "rejected_at": "2026-09-10T01:54:20.371400+00:00",
     "details": {}
+  },
+  {
+    "title": "Tencent/teamai-cli",
+    "link": "https://github.com/Tencent/teamai-cli",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Make Every Team AI Native TeamAI — Make Every Team AI Native English | 简体中文 TeamAI manages your team's skills, rules, MCP, and knowledge across Claude Code, Codex, CodeBuddy, WorkBuddy, OpenCode, Cursor, and other AI agents. Contributors Thanks to everyone who has contributed to TeamAI! Made with contrib.rocks . Quick Start Install npm install -g teamai-cli Team admin / solo user Create a shared-e",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:04.509891+00:00",
+    "details": {}
+  },
+  {
+    "title": "earthtojake/text-to-cad",
+    "link": "https://github.com/earthtojake/text-to-cad",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A library of agent skills for CAD, CAE and CAM https://www.texttocad.dev ████████╗███████╗██╗ ██╗████████╗██████╗ ██████╗ █████╗ ██████╗ ╚══██╔══╝██╔════╝╚██╗██╔╝╚══██╔══╝╚════██╗██╔════╝██╔══██╗██╔══██╗ ██║ █████╗ ╚███╔╝ ██║ █████╔╝██║ ███████║██║ ██║ ██║ ██╔══╝ ██╔██╗ ██║ ██╔═══╝ ██║ ██╔══██║██║ ██║ ██║ ███████╗██╔╝ ██╗ ██║ ███████╗╚██████╗██║ ██║██████╔╝ ╚═╝ ╚══════╝╚═╝ ╚═╝ ╚═╝ ╚══════╝ ╚═════╝",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:04.522609+00:00",
+    "details": {}
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "link": "https://github.com/TauricResearch/TradingAgents",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework https://arxiv.org/pdf/2412.20138 Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 TradingAgents: Multi-Agents LLM Financial Trading Framework News [2026-08] TradingAgents v0.4.0 released with look-ahead / point-in-time fixes across FRED macro, social sentiment, and the decision-log memory; clearer decision signals; work",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:04.532489+00:00",
+    "details": {}
+  },
+  {
+    "title": "liquidslr/system-design-notes",
+    "link": "https://github.com/liquidslr/system-design-notes",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Notes of the book System Desgin Interview - An Insider's Guide https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu System Design Interview - An Insider's Guide (Vol 1 and 2) These notes are based on the System Design Interview books - Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu Note: These notes are a",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:04.537584+00:00",
+    "details": {}
+  },
+  {
+    "title": "vastsa/PI-Desktop",
+    "link": "https://github.com/vastsa/PI-Desktop",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins https://pi-docs.aiuo.net PI-Desktop Your local-first desktop workspace for AI coding agents. Bring your own model. Open any local project. Let agents work — while you stay in control. No PI-Desktop account. No mandatory relay. No editor lock-in. Download PI-Desktop · Documentation · Screens",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:04.552345+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at why the oft-discussed predictions that AI will deliver double-digit GDP growth in advanced economies are extremely unlikely over the next 10-15 years (Ghosts of Electricity)",
+    "link": "https://www.techmeme.com/260910/p10#a260910p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ghosts of Electricity : A look at why the oft-discussed predictions that AI will deliver double-digit GDP growth in advanced economies are extremely unlikely over the next 10-15 years &nbsp; &mdash;&nbsp; The following post represents the personal views of the author(s) and does not reflect or represent the positions of their employers.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:36.710121+00:00",
+    "details": {}
+  },
+  {
+    "title": "The AI boom is fueling a resurgence in VC bets in \"moonshot\" sectors such as BCI; Dealroom says non-AI deeptech funding has topped $150B since the start of 2024 (Tim Bradshaw/Financial Times)",
+    "link": "https://www.techmeme.com/260910/p9#a260910p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tim Bradshaw / Financial Times : The AI boom is fueling a resurgence in VC bets in &ldquo;moonshot&rdquo; sectors such as BCI; Dealroom says non-AI deeptech funding has topped $150B since the start of 2024 &nbsp; &mdash;&nbsp; Tech investors are rediscovering the kind of long-shot sci-fi bets that helped build Silicon Valley.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:36.720596+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open source FPGA: the next frontier is silicon",
+    "link": "https://www.reddit.com/r/FPGA/comments/1wbrrgi/open_source_fpga_the_next_frontier_is_silicon/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.reddit.com/r/FPGA/comments/1wbrrgi/open_source_fpga_the_next_frontier_is_silicon/ Comments URL: https://news.ycombinator.com/item?id=49637697 Points: 2 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:36.731660+00:00",
+    "details": {}
+  },
+  {
+    "title": "So relevant",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wc6krf/so_relevant/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/0dayturtle [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:36.736066+00:00",
+    "details": {}
+  },
+  {
+    "title": "deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wcagoi/deepseekaideepseekv41flash_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/t4a8945 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T06:47:36.742095+00:00",
+    "details": {}
   }
 ]

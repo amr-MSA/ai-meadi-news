@@ -1,32 +1,5 @@
 [
   {
-    "title": "Claude Code Stores OAuth Tokens in Plaintext",
-    "link": "https://secretspec.dev/blog/claude-code-stores-oauth-tokens-in-plaintext/",
-    "summary": "كشف تحليل أمني عن قيام أداة التطوير الذكية Claude Code التابعة لشركة Anthropic بتخزين رموز التفويض (OAuth Tokens) بنص صريح وغير مشفر على أجهزة المستخدمين المحلية، مما يعرض الحسابات لمخاطر السرقة في حال إصابة الجهاز ببرمجيات خبيثة.",
-    "source_name": "Hacker News - بحث leak/breach",
-    "topic_key": "claude-code-plaintext-oauth-tokens",
-    "event_key": "anthropic|2026 09|أمن سيبراني|claude code|عالمي",
-    "company_name": "Anthropic",
-    "event_year_month": "2026-09",
-    "news_type": "أمن سيبراني",
-    "product_name": "Claude Code",
-    "region": "عالمي",
-    "keywords": [
-      "Anthropic",
-      "Claude Code",
-      "OAuth",
-      "Cybersecurity",
-      "Data Leak"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-03T01:53:54.485087+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 140,
-    "telegram_message_url": "https://t.me/Eng_limitless/140"
-  },
-  {
     "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
     "link": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
     "summary": "وثقت وحدة أبحاث التهديدات Unit 42 التابعة لشركة Palo Alto Networks هجومًا سيبرانيًا نفذته برمجيات فدية قائمة على وكلاء الذكاء الاصطناعي، حيث أدت لإغلاق البنية التحتية لشركة كبرى خلال 10 ساعات فقط. وعقب الشلل الكامل للشبكة، ترك المهاجمون تقرير تدقيق أمني مفصلًا يتكون من 80 صفحة يوضح الثغرات المستغلة.",
