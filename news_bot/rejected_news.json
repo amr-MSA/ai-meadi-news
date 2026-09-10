@@ -10003,5 +10003,81 @@
     },
     "rejected_at": "2026-09-10T12:27:04.312032+00:00",
     "details": {}
+  },
+  {
+    "title": "Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more (Anthropic)",
+    "link": "https://www.techmeme.com/260910/p27#a260910p27",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anthropic : Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more &nbsp; &mdash;&nbsp; Cyber operations Surveillance operations Influence operations Conventional weapons Biological misuse Scams and fraud Illicit distillation",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T17:22:35.092144+00:00",
+    "details": {}
+  },
+  {
+    "title": "ANOTHER researcher accuses OpenAI of training on conversations and then claiming a breakthrough",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/SirReal14 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T17:22:35.098357+00:00",
+    "details": {}
+  },
+  {
+    "title": "FTC Withdraws Obsolete Policy Statement",
+    "link": "https://databreaches.net/2026/09/10/ftc-withdraws-obsolete-policy-statement/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "From the Federal Trade Commission: The Federal Trade Commission rescinded the 2021 Policy Statement on Breaches by Health Apps and Other Connected Devices. This controversial policy statement purported to apply the FTC’s Health Breach Notification Rule to health apps and connected devices that collect consumer health information. In 2024, however, the Commission updated the Health Breach Notificat",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T17:22:35.108256+00:00",
+    "details": {}
+  },
+  {
+    "title": "Korea raises data breach fines to 10% of revenue",
+    "link": "https://databreaches.net/2026/09/10/korea-raises-data-breach-fines-to-10-of-revenue/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Korea JoongAng Daily reports: Korea&#8217;s privacy regulator is sharply raising the cost of data breaches, aiming to push companies to treat data protection as a preventive investment rather than a routine cost of doing business. Starting Friday, companies found to have leaked the personal data of 10 million or more people through intent or gross negligence... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T17:22:35.113726+00:00",
+    "details": {}
   }
 ]
