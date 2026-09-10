@@ -9680,5 +9680,100 @@
     },
     "rejected_at": "2026-09-09T23:38:21.141624+00:00",
     "details": {}
+  },
+  {
+    "title": "California Gov. Gavin Newsom signs into law two bills, backed by Anthropic and OpenAI, regulating how outside groups evaluate AI for safety (Christine Mui/Politico)",
+    "link": "https://www.techmeme.com/260909/p51#a260909p51",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Christine Mui / Politico : California Gov. Gavin Newsom signs into law two bills, backed by Anthropic and OpenAI, regulating how outside groups evaluate AI for safety &nbsp; &mdash;&nbsp; SAN FRANCISCO &mdash; California Gov. Gavin Newsom on Wednesday signed two bills regulating how outside groups evaluate AI programs for safety after warnings &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T01:54:20.332915+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apple unveils AppleCare One Family, extending AppleCare coverage to every eligible device in an Apple Family Sharing group of up to 6 people for $49.99/month (Hartley Charlton/MacRumors)",
+    "link": "https://www.techmeme.com/260909/p50#a260909p50",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Hartley Charlton / MacRumors : Apple unveils AppleCare One Family, extending AppleCare coverage to every eligible device in an Apple Family Sharing group of up to 6 people for $49.99/month &nbsp; &mdash;&nbsp; Apple today announced AppleCare One Family, a new option for U.S. customers that extends AppleCare coverage to every eligible device across &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T01:54:20.341978+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ontario court records accessed in cybersecurity breach",
+    "link": "https://www.cbc.ca/news/canada/toronto/ontario-courts-cyber-attack-9.7337861",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.cbc.ca/news/canada/toronto/ontario-courts-cyber-attack-9.7337861 Comments URL: https://news.ycombinator.com/item?id=49637136 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T01:54:20.347473+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Open Source AI Stack",
+    "link": "https://www.together.ai/blog/the-open-source-ai-stack",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.together.ai/blog/the-open-source-ai-stack Comments URL: https://news.ycombinator.com/item?id=49637004 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T01:54:20.352334+00:00",
+    "details": {}
+  },
+  {
+    "title": "CO: Cyberattack damages files at Salida School District in Colorado",
+    "link": "https://databreaches.net/2026/09/09/co-cyberattack-damages-files-at-salida-school-district-in-colorado/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "DysruptionHub reports: A cyberattack forced Salida School District in Colorado to shut down its network June 29, damaging locally stored files and disrupting administrative operations, the district said. The attack began about 6:30 a.m. and was detected two hours later, according to a July 2 district notice. Officials took all systems offline and brought in specialists... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T01:54:20.371400+00:00",
+    "details": {}
   }
 ]
