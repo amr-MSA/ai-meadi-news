@@ -10098,5 +10098,43 @@
     },
     "rejected_at": "2026-09-10T20:11:21.137824+00:00",
     "details": {}
+  },
+  {
+    "title": "London-based Xapien, which uses AI for background checks and due diligence, raised a $56M Series B led by Spectrum Equity (Lucinda Shen/Axios)",
+    "link": "https://www.techmeme.com/260910/p40#a260910p40",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Lucinda Shen / Axios : London-based Xapien, which uses AI for background checks and due diligence, raised a $56M Series B led by Spectrum Equity &nbsp; &mdash;&nbsp; Xapien, an AI background check and due diligence company, raised $56 million in Series B funding led by Spectrum Equity, CEO Chris Green tells Axios Pro exclusively.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T23:31:33.473612+00:00",
+    "details": {}
+  },
+  {
+    "title": "I find it funny that a flash model is now 512GB",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wcvmuo/i_find_it_funny_that_a_flash_model_is_now_512gb/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "A few years ago a 100GB was considered a very large language model. What do we call under 100GB models now? Tiny models? haha &#32; submitted by &#32; /u/Terminator857 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-10T23:31:33.485361+00:00",
+    "details": {}
   }
 ]

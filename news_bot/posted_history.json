@@ -1,32 +1,5 @@
 [
   {
-    "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
-    "link": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
-    "summary": "وثقت وحدة أبحاث التهديدات Unit 42 التابعة لشركة Palo Alto Networks هجومًا سيبرانيًا نفذته برمجيات فدية قائمة على وكلاء الذكاء الاصطناعي، حيث أدت لإغلاق البنية التحتية لشركة كبرى خلال 10 ساعات فقط. وعقب الشلل الكامل للشبكة، ترك المهاجمون تقرير تدقيق أمني مفصلًا يتكون من 80 صفحة يوضح الثغرات المستغلة.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "agentic-ransomware-enterprise-attack-unit42",
-    "event_key": "palo alto networks|2026 09|أمن سيبراني|غير محدد|عالمي",
-    "company_name": "Palo Alto Networks",
-    "event_year_month": "2026-09",
-    "news_type": "أمن سيبراني",
-    "product_name": "غير محدد",
-    "region": "عالمي",
-    "keywords": [
-      "أمن سيبراني",
-      "برمجيات فدية",
-      "ذكاء اصطناعي",
-      "Unit 42",
-      "اختراق"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-03T20:15:07.752095+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 141,
-    "telegram_message_url": "https://t.me/Eng_limitless/141"
-  },
-  {
     "title": "Sources: Crusoe raised $3B+ at a ~$30B post-money valuation; Atreides Management and Valor Equity Partners co-led the round, with Mubadala Capital participating (Bloomberg)",
     "link": "https://www.techmeme.com/260903/p46#a260903p46",
     "summary": "كشفت تقارير صحفية استنادًا إلى مصادر مطلعة أن شركة Crusoe، المتخصصة في تزويد البنية التحتية السحابية وتطوير مراكز بيانات الذكاء الاصطناعي، أغلقت جولة تمويلية ضخمة تجاوزت 3 مليارات دولار ليصل تقييمها إلى نحو 30 مليار دولار. وقاد الجولة كل من Atreides Management وValor Equity Partners بمشاركة Mubadala Capital، لدعم توسع الشركة في توفير قدرات الحوسبة لشراكاتها مع كبرى الشركات مثل OpenAI وميكروسوفت وميتا.",
@@ -910,5 +883,33 @@
       "تأكيد سرقة بيانات رخص القيادة بالفعل من قواعد بيانات الشركة"
     ],
     "supersedes_posted_at": "2026-09-04T12:20:08.294990+00:00"
+  },
+  {
+    "title": "Sources: the Pentagon is in talks to lend roughly $5B to neocloud Fluidstack; Fluidstack is being advised on its loan application by Palmer Luckey's Erebor Bank (Wall Street Journal)",
+    "link": "https://www.techmeme.com/260910/p39#a260910p39",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن وزارة الدفاع الأمريكية (البنتاغون) تجري محادثات لإقراض شركة البنية التحتية السحابية للذكاء الاصطناعي Fluidstack نحو 5 مليارات دولار. وأفادت المصادر بأن بنك Erebor الذي أسسه بالمر لاكي يتولى تقديم الاستشارات للشركة بشأن تقديم طلب القرض.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "pentagon-fluidstack-5b-loan-talks",
+    "event_key": "fluidstack|2026 09|سحابة ومراكز بيانات|غير محدد|أمريكا الشمالية",
+    "company_name": "Fluidstack",
+    "event_year_month": "2026-09",
+    "news_type": "سحابة ومراكز بيانات",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Fluidstack",
+      "Pentagon",
+      "Erebor Bank",
+      "البنتاغون",
+      "حوسبة سحابية",
+      "ذكاء اصطناعي"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-10T23:31:33.462766+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 169,
+    "telegram_message_url": "https://t.me/Eng_limitless/169"
   }
 ]
