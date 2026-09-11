@@ -10402,5 +10402,62 @@
     },
     "rejected_at": "2026-09-11T06:47:05.122782+00:00",
     "details": {}
+  },
+  {
+    "title": "Source: former OpenAI executive Fidji Simo joins the board of directors at AI infrastructure startup Nscale; Simo will continue as a part-time advisor to OpenAI (Anissa Gardizy/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260911/p14#a260911p14",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anissa Gardizy / Wall Street Journal : Source: former OpenAI executive Fidji Simo joins the board of directors at AI infrastructure startup Nscale; Simo will continue as a part-time advisor to OpenAI &nbsp; &mdash;&nbsp; Nscale board member Sheryl Sandberg recruited Simo, a former top OpenAI executive who departed following a medical leave",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T12:26:21.443466+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI says it's no longer sponsoring Caltech's math hackathon, where participants use AI to solve research problems, following criticism of \"slop mathematics\" (Truman Dickerson/Business Insider)",
+    "link": "https://www.techmeme.com/260911/p13#a260911p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Truman Dickerson / Business Insider : OpenAI says it's no longer sponsoring Caltech's math hackathon, where participants use AI to solve research problems, following criticism of &ldquo;slop mathematics&rdquo; &nbsp; &mdash;&nbsp; The latest math problem OpenAI is trying to solve is a bunch of angry mathematicians.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T12:26:21.452377+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hugging Face security.txt",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbvlt/hugging_face_securitytxt/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://huggingface.co/security.txt &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T12:26:21.457200+00:00",
+    "details": {}
   }
 ]
