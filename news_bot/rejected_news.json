@@ -10174,5 +10174,233 @@
     },
     "rejected_at": "2026-09-11T01:51:53.379080+00:00",
     "details": {}
+  },
+  {
+    "title": "alsk1992/CloddsBot",
+    "link": "https://github.com/alsk1992/CloddsBot",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. https://www.cloddsbot.com AI-powered trading terminal for prediction markets, crypto &amp; futures",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:46:20.588168+00:00",
+    "details": {}
+  },
+  {
+    "title": "AlexsJones/llmfit",
+    "link": "https://github.com/AlexsJones/llmfit",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Hundreds of models & providers. One command to find what runs on your hardware. llmfit English · 中文 · 日本語 Find out which open-source Large Language Models (LLMs) your hardware can comfortably run. llmfit inspects your CPU, system RAM, GPU(s), VRAM, and accelerator configuration to recommend models across popular quantizations. 📊 New: benchmark &amp; share — real numbers from your machine, better e",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:46:20.596282+00:00",
+    "details": {}
+  },
+  {
+    "title": "armory3d/armorpaint",
+    "link": "https://github.com/armory3d/armorpaint",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Graphics Creation Tools https://armorpaint.org armorpaint ArmorPaint is a software for 3D PBR texture painting - check out the manual . Note 1: This repository is aimed at developers and may not be stable. Distributed binaries are paid to help with the project funding. All of the development is happening here in order to make it accessible to everyone. Thank you for support! Note 2: If you are com",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:46:20.608603+00:00",
+    "details": {}
+  },
+  {
+    "title": "diegosouzapw/OmniRoute",
+    "link": "https://github.com/diegosouzapw/OmniRoute",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors https://omniroute.online 🚀 OmniRoute — The Free AI Gateway 💰 ~1.47B",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:46:20.614812+00:00",
+    "details": {}
+  },
+  {
+    "title": "JustVugg/colibri",
+    "link": "https://github.com/JustVugg/colibri",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 https://justvugg.github.io/colibri Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating storage,",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:46:20.619700+00:00",
+    "details": {}
+  },
+  {
+    "title": "nashsu/llm_wiki",
+    "link": "https://github.com/nashsu/llm_wiki",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 LLM Wiki A personal knowledge base that builds itself. LLM reads your documents, builds a structured wiki, a",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:46:20.626282+00:00",
+    "details": {}
+  },
+  {
+    "title": "vercel-labs/skills",
+    "link": "https://github.com/vercel-labs/skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent interactively: npx skills use vercel-labs/agent-skills@web-design-guide",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:46:20.630874+00:00",
+    "details": {}
+  },
+  {
+    "title": "MIT launches the LLM Election Observatory, a dashboard tracking how nearly a dozen AI models tailor responses to political queries during the 2026 US midterms (Tiffany Hsu/New York Times)",
+    "link": "https://www.techmeme.com/260911/p5#a260911p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tiffany Hsu / New York Times : MIT launches the LLM Election Observatory, a dashboard tracking how nearly a dozen AI models tailor responses to political queries during the 2026 US midterms &nbsp; &mdash;&nbsp; Artificial intelligence is quickly becoming a go-to stop for voters looking for information about political races.&nbsp; Researchers are studying the effects.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:47:05.101384+00:00",
+    "details": {}
+  },
+  {
+    "title": "Get iPhone 18 Pro on Us at T-Mobile — America's Best Network (T-Mobile)",
+    "link": "https://www.techmeme.com/260911/p4#a260911p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "T-Mobile : Get iPhone 18 Pro on Us at T-Mobile &mdash; America's Best Network &nbsp; &mdash;&nbsp; Only T-Mobile customers get the latest iPhone lineup &mdash; including iPhone Duo, iPhone 18 Pro and iPhone 18 Pro Max &mdash; with the best benefits in wireless, 5G Advanced capabilities for faster speeds and EIP Flex 36, a path to a new iPhone with $0 out-of-pocket upfront",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:47:05.106947+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: OpenMuse – an Open Source alternative to Meta's personal agent",
+    "link": "https://github.com/diggerhq/openmuse/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/diggerhq/openmuse/ Comments URL: https://news.ycombinator.com/item?id=49652769 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:47:05.112279+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hired to Code, He Built Hudson River Trading and a $27B Fortune",
+    "link": "https://www.bloomberg.com/news/features/2026-09-10/how-jason-carroll-built-hudson-river-trading-and-a-27-billion-fortune",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.bloomberg.com/news/features/2026-09-10/how-jason-carroll-built-hudson-river-trading-and-a-27-billion-fortune Comments URL: https://news.ycombinator.com/item?id=49652499 Points: 7 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:47:05.117199+00:00",
+    "details": {}
+  },
+  {
+    "title": "Someone apparently managed to kind of replicate what V4.1 flash does on KV for fast prefill on Qwen",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wd4xxv/someone_apparently_managed_to_kind_of_replicate/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I wonder someone will figure out a way to do this with 27B? Throw Qwen3 on this page for demo https://kishida.github.io/webdemos/llkvapprox/ &#32; submitted by &#32; /u/T_rex2700 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T06:47:05.122782+00:00",
+    "details": {}
   }
 ]
