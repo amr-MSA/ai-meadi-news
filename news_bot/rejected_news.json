@@ -10934,5 +10934,43 @@
     },
     "rejected_at": "2026-09-11T20:10:30.111760+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B (Reuters)",
+    "link": "https://www.techmeme.com/260911/p34#a260911p34",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B &nbsp; &mdash;&nbsp; Anthropic is in talks to bring Nvidia (NVDA.O) as an anchor investor into what could be the largest IPO in history, two people familiar with the matter told Reuters.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T23:39:31.071628+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago (Ben Bergman/Business Insider)",
+    "link": "https://www.techmeme.com/260911/p33#a260911p33",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ben Bergman / Business Insider : Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago &nbsp; &mdash;&nbsp; Jeff Dean, who resigned as chief scientist from Google last month, is raising again for his new AI startup, Discovery Loop &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T23:39:31.082788+00:00",
+    "details": {}
   }
 ]
