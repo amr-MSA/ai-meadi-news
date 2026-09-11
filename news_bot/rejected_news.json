@@ -10136,5 +10136,43 @@
     },
     "rejected_at": "2026-09-10T23:31:33.485361+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same (Bloomberg)",
+    "link": "https://www.techmeme.com/260910/p44#a260910p44",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same &nbsp; &mdash;&nbsp; OpenAI is considering slowing down the development of cutting-edge artificial intelligence, and the ChatGPT maker's Chief Executive &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T01:51:53.369775+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: OpenAI asked members of Congress for guidance on whether orchestrating an industry-wide slowdown in AI development would be legal under antitrust law (Maxwell Zeff/Wired)",
+    "link": "https://www.techmeme.com/260910/p43#a260910p43",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Maxwell Zeff / Wired : Sources: OpenAI asked members of Congress for guidance on whether orchestrating an industry-wide slowdown in AI development would be legal under antitrust law &nbsp; &mdash;&nbsp; Substantive coordination on safety between AI labs may risk running afoul of antitrust law, the people say &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T01:51:53.379080+00:00",
+    "details": {}
   }
 ]

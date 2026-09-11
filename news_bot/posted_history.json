@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: Crusoe raised $3B+ at a ~$30B post-money valuation; Atreides Management and Valor Equity Partners co-led the round, with Mubadala Capital participating (Bloomberg)",
-    "link": "https://www.techmeme.com/260903/p46#a260903p46",
-    "summary": "كشفت تقارير صحفية استنادًا إلى مصادر مطلعة أن شركة Crusoe، المتخصصة في تزويد البنية التحتية السحابية وتطوير مراكز بيانات الذكاء الاصطناعي، أغلقت جولة تمويلية ضخمة تجاوزت 3 مليارات دولار ليصل تقييمها إلى نحو 30 مليار دولار. وقاد الجولة كل من Atreides Management وValor Equity Partners بمشاركة Mubadala Capital، لدعم توسع الشركة في توفير قدرات الحوسبة لشراكاتها مع كبرى الشركات مثل OpenAI وميكروسوفت وميتا.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "crusoe-3b-funding-30b-valuation",
-    "event_key": "crusoe|2026 09|سحابة ومراكز بيانات|غير محدد|أمريكا الشمالية",
-    "company_name": "Crusoe",
-    "event_year_month": "2026-09",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Crusoe",
-      "مراكز بيانات",
-      "تمويل",
-      "ذكاء اصطناعي",
-      "بلومبرغ"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-03T23:38:54.692529+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 142,
-    "telegram_message_url": "https://t.me/Eng_limitless/142"
-  },
-  {
     "title": "FBI probes suspected breach at IDScan.net after dark web service Nexus offered 153M+ US and Canadian driver’s license scans",
     "link": "https://databreaches.net/2026/09/04/fbi-probes-suspected-breach-at-idscan-net-after-dark-web-service-nexus-offered-153m-us-and-canadian-drivers-license-scans/",
     "summary": "كشف تقرير أمني عن ظهور خدمة جديدة على الشبكة المظلمة تُدعى Nexus تعرض بيانات وأوراق ثبوتية قابلة للبحث لأكثر من 153 مليون رخصة قيادة مسربة لمواطنين في الولايات المتحدة وكندا. وبدأ مكتب التحقيقات الفيدرالي (FBI) تحقيقًا رسميًا حول حادثة اختراق محتملة لمنصة IDScan.net المزودة لخدمات التحقق من الهوية.",
