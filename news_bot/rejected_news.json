@@ -10744,5 +10744,100 @@
     },
     "rejected_at": "2026-09-11T16:57:24.676441+00:00",
     "details": {}
+  },
+  {
+    "title": "Internal note: Frank Shaw is leaving Microsoft after 17 years as chief communications officer, saying it is \"time for me to move on and try new things\" (Tom Warren/The Verge)",
+    "link": "https://www.techmeme.com/260911/p22#a260911p22",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tom Warren / The Verge : Internal note: Frank Shaw is leaving Microsoft after 17 years as chief communications officer, saying it is &ldquo;time for me to move on and try new things&rdquo; &nbsp; &mdash;&nbsp; Frank Shaw has been supporting Microsoft's communications for nearly 30 years. &hellip; Frank Shaw is leaving Microsoft after 17 years as chief communications officer.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T17:24:41.758776+00:00",
+    "details": {}
+  },
+  {
+    "title": "Roblox announces new features, including game-creation tools, ability to make games available as standalone apps across platforms, and Roblox Wallet and Card (Ivan Mehta/TechCrunch)",
+    "link": "https://www.techmeme.com/260911/p21#a260911p21",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ivan Mehta / TechCrunch : Roblox announces new features, including game-creation tools, ability to make games available as standalone apps across platforms, and Roblox Wallet and Card &nbsp; &mdash;&nbsp; At its annual Roblox Developer Conference (RDC), the company behind the popular gaming platform announced several new features &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T17:24:41.768545+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen3.8-27B-Humanlike-Chat: A model I tuned to imitate realistic human-to-human conversation",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I made this because I was getting genuinely annoyed at trying to have a normal conversation with LLMs. Even with prompting and various tricks, most models I've tried still have this &quot;AI assistant&quot; vibe to them that is so familiar: too helpful, polished, verbose, using words we never use in conversation, etc. I wanted a model that could just talk to me like a person, so I did the slightly",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T17:24:41.781172+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ukrainian National Sentenced to Four Years in Prison for Wire Fraud Conspiracy in Connection with Conti Ransomware",
+    "link": "https://databreaches.net/2026/09/11/ukrainian-national-sentenced-to-four-years-in-prison-for-wire-fraud-conspiracy-in-connection-with-conti-ransomware/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "There&#8217;s an update to a previously reported case. From the Department of Justice, this press release: Oleksii Oleksiyovych Lytvynenko, 44, a Ukrainian national, was sentenced today to four years in prison for conspiracy to commit wire fraud in connection with a conspiracy to deploy Conti, a ransomware variant that infected the computers of more than 1,000... Source",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T17:24:41.788594+00:00",
+    "details": {}
+  },
+  {
+    "title": "Personal Info Possibly Compromised at Japan’s Digital Agency",
+    "link": "https://databreaches.net/2026/09/11/personal-info-possibly-compromised-at-japans-digital-agency/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "JiJi Press reports: Japan&#8217;s Digital Agency said Friday that about 246,000 sets of personal information, including the names and email addresses of government employees, may have been compromised through the unauthorized access of a network system operated by the agency. So far, no secondary damage such as the misuse of the possibly breached personal information... Source",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-11T17:24:41.795349+00:00",
+    "details": {}
   }
 ]
