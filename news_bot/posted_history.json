@@ -1,41 +1,5 @@
 [
   {
-    "title": "Berlin is reviewing Rhysida's 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans (Miranda Murray/Reuters)",
-    "link": "https://www.techmeme.com/260905/p10#a260905p10",
-    "summary": "أقدمت عصابة برمجيات الفدية Rhysida على نشر 5.79 تيرابايت من البيانات الحكومية التابعة لولاية برلين بعد رفض السلطات استجابة مطالب الفدية. ووفقًا لتقرير نشرته وكالة رويترز، تشمل الملفات المنشورة وثائق حساسة تتعلق بخطط الدفاع الوطني واستراتيجيات الاستجابة للتهديدات، فيما أكدت حكومة برلين أنها تقوم بمراجعة مكثفة للبيانات للوقوف على أبعاد التسريب.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "berlin-government-data-breach-ransom",
-    "event_key": "حكومة برلين|2026 09|أمن سيبراني|غير محدد|أوروبا",
-    "company_name": "حكومة برلين",
-    "event_year_month": "2026-09",
-    "news_type": "أمن سيبراني",
-    "product_name": "غير محدد",
-    "region": "أوروبا",
-    "keywords": [
-      "برلين",
-      "Rhysida",
-      "تسريب بيانات",
-      "برمجيات الفدية",
-      "أمن سيبراني"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-05T17:47:15.005315+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 147,
-    "telegram_message_url": "https://t.me/Eng_limitless/147",
-    "is_update": true,
-    "updates_event_key": "حكومة برلين|2026 09|أمن سيبراني|غير محدد|أوروبا",
-    "update_summary": "عصابة Rhysida تنشر 5.79 تيرابايت من بيانات حكومة برلين تشمل وثائق دفاع وطني إثر رفض الفدية.",
-    "new_facts": [
-      "تسريب 5.79 تيرابايت من بيانات ولاية برلين من قبل عصابة Rhysida بعد رفض دفع الفدية.",
-      "الملفات المسرّبة تحتوي على خطط للدفاع الوطني وإجراءات الاستجابة للتهديدات الأمنية.",
-      "حكومة برلين تؤكد إطلاق مراجعة مكثفة بأعلى مستويات الجدية للتحقق من البيانات المسرّبة."
-    ],
-    "supersedes_posted_at": "2026-08-29T18:59:17.057348+00:00"
-  },
-  {
     "title": "Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms (Rafe Rosner-Uddin/Financial Times)",
     "link": "https://www.techmeme.com/260906/p2#a260906p2",
     "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة Atoms، المملوكة لمؤسس أوبر السابق ترافيس كالانيك، تعمل على تطوير تقنيات سيارات الأجرة الذاتية القيادة (Robotaxi). وأشارت التسريبات إلى استحواذ الشركة على شركة Pronto وانضمام المهندس أنتوني ليفاندوفسكي لقيادة المشروع، إلى جانب ضخ شركة أوبر استثمارًا بقيمة 100 مليون دولار في Atoms.",

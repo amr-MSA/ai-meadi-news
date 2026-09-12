@@ -11485,5 +11485,43 @@
     },
     "rejected_at": "2026-09-12T15:59:28.930724+00:00",
     "details": {}
+  },
+  {
+    "title": "Elon Musk backs Dario Amodei's arguments about pacing the frontier, saying \"Dario is right\" (Ben Johansen/Politico)",
+    "link": "https://www.techmeme.com/260912/p14#a260912p14",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ben Johansen / Politico : Elon Musk backs Dario Amodei's arguments about pacing the frontier, saying &ldquo;Dario is right&rdquo; &nbsp; &mdash;&nbsp; Anthropic CEO Dario Amodei on Saturday called for the immediate slowdown of artificial intelligence development, warning that recent advances in AI have begun to outpace the industry's ability &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T17:57:01.339510+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks \"to be part of the 'embedded evaluators' program that Amodei\" committed to (Clem/@clementdelangue)",
+    "link": "https://www.techmeme.com/260912/p13#a260912p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Clem / @clementdelangue : Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks &ldquo;to be part of the &lsquo;embedded evaluators&rsquo; program that Amodei&rdquo; committed to &nbsp; &mdash;&nbsp; It's now clear that alignment is critical and won't be solved behind the closed doors of a handful of frontier labs. So today we're launching the Open Alignment Initiat",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T17:57:01.349105+00:00",
+    "details": {}
   }
 ]
