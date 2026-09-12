@@ -11048,5 +11048,195 @@
     },
     "rejected_at": "2026-09-12T01:57:03.528096+00:00",
     "details": {}
+  },
+  {
+    "title": "nab138/iloader",
+    "link": "https://github.com/nab138/iloader",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "User friendly sideloader https://iloader.app iloader Install SideStore (or other apps) and import your pairing file with ease This repository and iloader.app are the only official ways to download iloader. There is also an unofficial Homebrew cask , an unofficial AUR package , and an unofficial Fedora COPR repository maintained by the community. Do not download from any other sources or websites.",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:14.489241+00:00",
+    "details": {}
+  },
+  {
+    "title": "melgarafael/DeskcommCRM",
+    "link": "https://github.com/melgarafael/DeskcommCRM",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. https://deskcomm.com.br 🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsA",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:14.494428+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sonarr/Sonarr",
+    "link": "https://github.com/Sonarr/Sonarr",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Smart PVR for newsgroup and bittorrent users. https://sonarr.tv Sonarr Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. Getting Started Download/Insta",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:14.517141+00:00",
+    "details": {}
+  },
+  {
+    "title": "jihe520/MathModelAgent",
+    "link": "https://github.com/jihe520/MathModelAgent",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. https://mathmodel.top/home 🤖 MathModelAgent 📐 专为数学建模设计的 Agent 自动完成数学建模，生成一份完整的可以直接提交的论文。 简体中文 | English ⬇️ 下载最新桌面版（推荐） 🎨 姊妹项目： sci-box —— 科研图表 &amp; 流程图 SKILL 合集 🖥️ 桌面版（推荐使用方式） 不想折腾环境？直接下载桌面版，开箱即用。 👉 前往 Releases 下载最",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:14.521455+00:00",
+    "details": {}
+  },
+  {
+    "title": "p1neappleXpress/OpenFlux",
+    "link": "https://github.com/p1neappleXpress/OpenFlux",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Network stack research tool. TCP tunnel with pluggable transports. OpenFlux English | Русский Network stack research tool. TCP tunnel with pluggable transports. Disclaimer The author of OpenFlux does not encourage the use of this project to bypass restrictions or violate the rules of any platform, and is not responsible for the final scenarios of how users apply this tool in real life or on the In",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:14.525733+00:00",
+    "details": {}
+  },
+  {
+    "title": "jordan-gibbs/hyperresearch",
+    "link": "https://github.com/jordan-gibbs/hyperresearch",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. The Most Powerful Deep Research Harness Hyperresearch turns Claude Code into a deep research agent: one that currently leads the DeepResearch-Bench RACE leaderboard (benchmarked internally). A tier-adaptive 16-step pipeline takes one prompt and produces an adversarially-aud",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:14.530993+00:00",
+    "details": {}
+  },
+  {
+    "title": "alphaXiv/OpenResearch",
+    "link": "https://github.com/alphaXiv/OpenResearch",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Run parallel research agents with any model https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research artifacts. Download the desktop app · Documentation · Releases Get started Download the local desktop",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:14.534973+00:00",
+    "details": {}
+  },
+  {
+    "title": "github/spec-kit",
+    "link": "https://github.com/github/spec-kit",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "💫 Toolkit to help you get started with Spec-Driven Development https://github.github.com/spec-kit/ 🌱 Spec Kit Define what to build before building it — with any AI coding agent. An open source toolkit for building high-quality software with any AI coding agent — a ready-to-use spec-driven process (or bring your own), endlessly extensible, community-driven, and built for your whole organization. En",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:14.539960+00:00",
+    "details": {}
+  },
+  {
+    "title": "Q&A with AI researchers John Schulman, Beren Millidge, and Charlie O'Neill on steelmanning the case against RSI, Chinese labs' progress, long-horizon RL, more (Dwarkesh Patel/Dwarkesh Podcast)",
+    "link": "https://www.techmeme.com/260912/p3#a260912p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&amp;A with AI researchers John Schulman, Beren Millidge, and Charlie O'Neill on steelmanning the case against RSI, Chinese labs' progress, long-horizon RL, more &nbsp; &mdash;&nbsp; &ldquo;We're nowhere near the ceiling.&rdquo;&nbsp; &mdash;&nbsp; New episode with John Schulman, Beren Millidge and Charlie O'Neill.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:23.787029+00:00",
+    "details": {}
+  },
+  {
+    "title": "Epsilon Health, which contracts with radiologists who use its AI to generate image reports faster, emerges from stealth with a $20M Series A led by AlleyCorp (Brock E.W. Turner/Axios)",
+    "link": "https://www.techmeme.com/260912/p2#a260912p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Brock E.W. Turner / Axios : Epsilon Health, which contracts with radiologists who use its AI to generate image reports faster, emerges from stealth with a $20M Series A led by AlleyCorp &nbsp; &mdash;&nbsp; Epsilon Health, an AI-enabled radiology practice, emerged from stealth with a $20 million Series A round, CEO Rustin Rassoli tells Axios Pro exclusively.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T06:44:23.794400+00:00",
+    "details": {}
   }
 ]
