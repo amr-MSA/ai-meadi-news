@@ -11618,5 +11618,62 @@
     },
     "rejected_at": "2026-09-12T19:58:35.377331+00:00",
     "details": {}
+  },
+  {
+    "title": "An analysis of Bending Spoons' financials: the company relies on aggressive post-acquisition price hikes, and rising interest rates could crimp its growth (Jonathan Weil/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260912/p17#a260912p17",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jonathan Weil / Wall Street Journal : An analysis of Bending Spoons' financials: the company relies on aggressive post-acquisition price hikes, and rising interest rates could crimp its growth &nbsp; &mdash;&nbsp; The tech roll-up relies on aggressive price hikes and bespoke metrics.&nbsp; Rising interest rates could crimp its growth.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T21:55:58.464073+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Give Claude Code / Cursor a real eng team (tiers, roles, escalation)",
+    "link": "https://github.com/khuynh22/agent-dev-team",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/khuynh22/agent-dev-team Comments URL: https://news.ycombinator.com/item?id=49677601 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T21:55:58.481301+00:00",
+    "details": {}
+  },
+  {
+    "title": "Aaron Swartz and atx: the spec writer open source lost",
+    "link": "https://dev.profullstack.com/~anthony/blog/121-post.html",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://dev.profullstack.com/~anthony/blog/121-post.html Comments URL: https://news.ycombinator.com/item?id=49676976 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T21:55:58.487683+00:00",
+    "details": {}
   }
 ]
