@@ -11675,5 +11675,62 @@
     },
     "rejected_at": "2026-09-12T21:55:58.487683+00:00",
     "details": {}
+  },
+  {
+    "title": "Transferable sessions between Claude Code instances",
+    "link": "https://getcesar.dev/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://getcesar.dev/ Comments URL: https://news.ycombinator.com/item?id=49678247 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T23:33:34.086189+00:00",
+    "details": {}
+  },
+  {
+    "title": "This seems more probable than it was before.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wepx7w/this_seems_more_probable_than_it_was_before/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/pmv143 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T23:33:34.100250+00:00",
+    "details": {}
+  },
+  {
+    "title": "NYS DFS Issues New Cybersecurity Guidance on Risk Assessments for Financial Services Entities",
+    "link": "https://databreaches.net/2026/09/12/nys-dfs-issues-new-cybersecurity-guidance-on-risk-assessments-for-financial-services-entities/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "New York State Department of Financial Services (DFS): September 10, 2026 New York State Department of Financial Services (DFS) Acting Superintendent Kaitlin Asrow today issued new cybersecurity guidance outlining the Department’s expectations for DFS-regulated entities’ on conducting risk assessments sufficient to inform their cybersecurity programs. The guidance outlines requirements regarding s",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T23:33:34.114052+00:00",
+    "details": {}
   }
 ]
