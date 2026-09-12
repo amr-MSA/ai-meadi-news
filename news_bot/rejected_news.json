@@ -10972,5 +10972,81 @@
     },
     "rejected_at": "2026-09-11T23:39:31.082788+00:00",
     "details": {}
+  },
+  {
+    "title": "Amazon adds a Shop tab to Prime Video's X-Ray feature for related products while watching shows, and Shop the Scene powered by Amazon Lens in the Shopping app (Sarah Perez/TechCrunch)",
+    "link": "https://www.techmeme.com/260911/p36#a260911p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sarah Perez / TechCrunch : Amazon adds a Shop tab to Prime Video's X-Ray feature for related products while watching shows, and Shop the Scene powered by Amazon Lens in the Shopping app &nbsp; &mdash;&nbsp; Amazon is going to make it easier to shop when you're watching TV.&nbsp; The retail giant on Thursday announced a series of new features &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T01:57:03.508519+00:00",
+    "details": {}
+  },
+  {
+    "title": "Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections (Natalie Lung/Bloomberg)",
+    "link": "https://www.techmeme.com/260911/p35#a260911p35",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Natalie Lung / Bloomberg : Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections &nbsp; &mdash;&nbsp; Apple Inc.'s new always-listening artificial intelligence features for the Apple Watch Series 12 and Ultra 4 could put eavesdropping laws to the test, according to legal experts.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T01:57:03.517360+00:00",
+    "details": {}
+  },
+  {
+    "title": "Cohere's North Mini Code Megakernel Serving Engine",
+    "link": "https://cohere.com/blog/megakernels",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://cohere.com/blog/megakernels Comments URL: https://news.ycombinator.com/item?id=49667700 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T01:57:03.523294+00:00",
+    "details": {}
+  },
+  {
+    "title": "Code Contracts",
+    "link": "https://code-contracts.cc/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://code-contracts.cc/ Comments URL: https://news.ycombinator.com/item?id=49666986 Points: 3 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T01:57:03.528096+00:00",
+    "details": {}
   }
 ]
