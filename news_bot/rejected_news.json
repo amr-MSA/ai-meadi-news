@@ -11238,5 +11238,62 @@
     },
     "rejected_at": "2026-09-12T06:44:23.794400+00:00",
     "details": {}
+  },
+  {
+    "title": "South Korea's espionage laws, broadened for the first time in over seven decades, take effect on Sept. 13 as foreign spies increasingly target its chip sector (Daniel Tudor/Financial Times)",
+    "link": "https://www.techmeme.com/260912/p4#a260912p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Daniel Tudor / Financial Times : South Korea's espionage laws, broadened for the first time in over seven decades, take effect on Sept. 13 as foreign spies increasingly target its chip sector &nbsp; &mdash;&nbsp; Seoul broadens its espionage legislation for the first time in more than seven decades&nbsp; &mdash;&nbsp; South Korea is arming itself &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T11:46:36.548273+00:00",
+    "details": {}
+  },
+  {
+    "title": "Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I find this new model at HF: &quot;Built for demanding work. A 262 144-token context window, adjustable reasoning effort, tool calling, and text, image and video understanding. Architecture Agnes-3.0-Flash is a hybrid-attention decoder: three of every four layers run a gated delta rule (recurrent, with per-layer state independent of sequence length), and the fourth runs standard global attention.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T11:46:36.564851+00:00",
+    "details": {}
+  },
+  {
+    "title": "3.8-27B has ruined 3.5/3.6-35B’s for me. It’s just *absurdly* superior.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Applied science work, from workflow design, data pipeline, results analysis, article/reports writing and data publishing online. 5 projects I did in the past replicated from start to finish. 3x to 4x more total wall time. Yes, HUGE toll on how much you can do in a day if this was the only model you could use in your laptop. But oh my…the quality of that thing. The stupid level of attention to deta",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T11:46:36.572692+00:00",
+    "details": {}
   }
 ]
