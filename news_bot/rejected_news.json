@@ -11295,5 +11295,62 @@
     },
     "rejected_at": "2026-09-12T11:46:36.572692+00:00",
     "details": {}
+  },
+  {
+    "title": "Dario Amodei says Anthropic is \"unilaterally committing\" to giving third-party evaluators permanent access to verify its adherence to safety measures (Dario Amodei/@darioamodei)",
+    "link": "https://www.techmeme.com/260912/p7#a260912p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dario Amodei / @darioamodei : Dario Amodei says Anthropic is &ldquo;unilaterally committing&rdquo; to giving third-party evaluators permanent access to verify its adherence to safety measures &nbsp; &mdash;&nbsp; We Must Pace the Frontier: I've written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of thes",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T14:33:23.906972+00:00",
+    "details": {}
+  },
+  {
+    "title": "Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments (Dario Amodei)",
+    "link": "https://www.techmeme.com/260912/p6#a260912p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dario Amodei : Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments &nbsp; &mdash;&nbsp; I have worked on AI for the last twelve years because I believe it could dramatically raise the quality of human life.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T14:33:23.916429+00:00",
+    "details": {}
+  },
+  {
+    "title": "bartowski/Qwen3.8-27B-GGUF · Hugging Face - Updated (Per-tensor layout)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1webfsq/bartowskiqwen3827bgguf_hugging_face_updated/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Blog Post : Per-tensor layout maps for GGUF quantization Reddit thread : New tensor type layouts for my GGUF uploads EDIT : Model card has updated things such as Graph, table, text, etc., &#32; submitted by &#32; /u/pmttyji [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-12T14:33:23.932736+00:00",
+    "details": {}
   }
 ]
