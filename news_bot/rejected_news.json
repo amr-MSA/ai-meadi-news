@@ -12383,5 +12383,81 @@
     },
     "rejected_at": "2026-09-13T19:57:52.679608+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Anthropic, OpenAI, and Google have held working group meetings since July to discuss creating an industry-led standards body for AI (Leo Schwartz/The Information)",
+    "link": "https://www.techmeme.com/260913/p12#a260913p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Leo Schwartz / The Information : Sources: Anthropic, OpenAI, and Google have held working group meetings since July to discuss creating an industry-led standards body for AI &nbsp; &mdash;&nbsp; Anthropic, OpenAI and Google have been holding discussions about working together to create a standards body for the AI industry &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T22:02:28.997134+00:00",
+    "details": {}
+  },
+  {
+    "title": "Plot twist",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "From ex Qwen leader https://x.com/JustinLin610/status/2098989619576729924 &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T22:02:29.014576+00:00",
+    "details": {}
+  },
+  {
+    "title": "ChatGPT Images 2.5",
+    "link": "https://www.reddit.com/r/singularity/comments/1waxm7z/chatgpt_images_25/",
+    "source_name": "r/singularity (شائعات تقنية عامة)",
+    "summary": "&#32; submitted by &#32; /u/FateOfMuffins [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T22:02:29.027825+00:00",
+    "details": {}
+  },
+  {
+    "title": "Astra is now a certified human",
+    "link": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
+    "source_name": "r/singularity (شائعات تقنية عامة)",
+    "summary": "Source: https://twitter.com/sharifshameem/status/2096847916837314853 The video is very interesting to watch, honestly when the game first came out I thought of it as a mini AGI test and didn't think AI would be able to complete it until 2029. &#32; submitted by &#32; /u/enilea [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T22:02:29.034184+00:00",
+    "details": {}
   }
 ]
