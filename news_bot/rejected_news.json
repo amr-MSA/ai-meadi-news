@@ -11732,5 +11732,81 @@
     },
     "rejected_at": "2026-09-12T23:33:34.114052+00:00",
     "details": {}
+  },
+  {
+    "title": "Not just Korea: Google leaked identifying info for sex crime victims across the world",
+    "link": "https://databreaches.net/2026/09/12/not-just-korea-google-leaked-identifying-info-for-sex-crime-victims-across-the-world/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Shin Da-eun and Park Kang-su report: Korea was not the only country where victims who sent Google removal requests about illegally obtained sexual images ended up having their private information posted online, the Hankyoreh has confirmed. “Photos of me from when I was a minor were distributed without my consent. They were posted on an... Source",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T01:49:45.760588+00:00",
+    "details": {}
+  },
+  {
+    "title": "A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it (Michael Safi/The Guardian)",
+    "link": "https://www.techmeme.com/260912/p19#a260912p19",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Michael Safi / The Guardian : A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it &nbsp; &mdash;&nbsp; Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds are far from just tools.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T01:49:58.535064+00:00",
+    "details": {}
+  },
+  {
+    "title": "Twenty police forces in England and Wales recorded 163 crimes involving keywords like \"AI-generated\", \"deepfake\", and \"nudify\" by July 2026, up from 10 in 2023 (Mark Tovey/Telegraph)",
+    "link": "https://www.techmeme.com/260912/p18#a260912p18",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mark Tovey / Telegraph : Twenty police forces in England and Wales recorded 163 crimes involving keywords like &ldquo;AI-generated&rdquo;, &ldquo;deepfake&rdquo;, and &ldquo;nudify&rdquo; by July 2026, up from 10 in 2023 &nbsp; &mdash;&nbsp; Forces see a surge in crimes involving deepfake technology being used to &lsquo;undress women&rsquo;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T01:49:58.546174+00:00",
+    "details": {}
+  },
+  {
+    "title": "It’s official - Anthropic & OpenAI have just hired independent safety auditors!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wesoz4/its_official_anthropic_openai_have_just_hired/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/One-Replacement-37 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T01:49:58.554013+00:00",
+    "details": {}
   }
 ]
