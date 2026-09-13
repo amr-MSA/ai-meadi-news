@@ -12231,5 +12231,100 @@
     },
     "rejected_at": "2026-09-13T16:49:20.765909+00:00",
     "details": {}
+  },
+  {
+    "title": "President Trump dismisses calls for an AI slowdown, saying \"you have a lot of negative forces that are bringing it up that shouldn't be bringing it up\" (Myles McCormick/Financial Times)",
+    "link": "https://www.techmeme.com/260913/p9#a260913p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Myles McCormick / Financial Times : President Trump dismisses calls for an AI slowdown, saying &ldquo;you have a lot of negative forces that are bringing it up that shouldn't be bringing it up&rdquo; &nbsp; &mdash;&nbsp; President denounces demands for regulation as existential fears over technology move to the centre of US politics",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T17:08:59.037152+00:00",
+    "details": {}
+  },
+  {
+    "title": "A fast, free, and open-source local AWS service emulator built for developers",
+    "link": "https://floci.io/floci/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://floci.io/floci/ Comments URL: https://news.ycombinator.com/item?id=49686118 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T17:08:59.043098+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: 1Baton – a no-code tool for chaining API calls",
+    "link": "https://1baton.com",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hi HN! I've been building a no-code tool for authoring and running API integration tests called 1Baton. I work with APIs on a daily basis, building and testing them. In the services I work on, a single API endpoint often represents only a small action in a larger process, so testing a complete flow usually means calling several endpoints in sequence. When I started testing these flows, I found mys",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T17:08:59.048880+00:00",
+    "details": {}
+  },
+  {
+    "title": "Delaware Consumer Privacy and Data-Breach Law Updates",
+    "link": "https://databreaches.net/2026/09/13/delaware-consumer-privacy-and-data-breach-law-updates/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Joseph J. Lazzarotti of JacksonLewis writes: On September 2, 2026, Delaware’s Governor signed House Bill (HB) 380 and HB 381. HB 380 amends the Delaware Personal Data Privacy Act (DPDPA), which was enacted in 2023 and became effective January 1, 2025. HB 381 separately amends Delaware’s computer security breach notification law. In short, what changes... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T17:08:59.063991+00:00",
+    "details": {}
+  },
+  {
+    "title": "AT&T store worker gets 16 months inside for SIM-swap side hustle",
+    "link": "https://databreaches.net/2026/09/13/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Connor Jones reports: A former AT&#38;T retail worker who used his system access to hijack customers&#8217; phone numbers for cybercriminals has been sentenced to 16 months in federal prison. Kenneth Carter, 44, carried out the SIM swaps at a store in Portland, Oregon, , allowing the criminals to intercept authentication codes and raid victims&#8217; bank accounts.... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T17:08:59.069704+00:00",
+    "details": {}
   }
 ]
