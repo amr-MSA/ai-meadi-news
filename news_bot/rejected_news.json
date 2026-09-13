@@ -11984,5 +11984,81 @@
     },
     "rejected_at": "2026-09-13T06:55:54.226679+00:00",
     "details": {}
+  },
+  {
+    "title": "Anthropic and OpenAI are already free to \"pace the frontier\" and should do so for business reasons, instead of first demanding a preferred regulatory framework (David Sacks/@davidsacks)",
+    "link": "https://www.techmeme.com/260913/p5#a260913p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "David Sacks / @davidsacks : Anthropic and OpenAI are already free to &ldquo;pace the frontier&rdquo; and should do so for business reasons, instead of first demanding a preferred regulatory framework &nbsp; &mdash;&nbsp; Dario has written that we need to &ldquo;pace the frontier,",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T12:54:20.540896+00:00",
+    "details": {}
+  },
+  {
+    "title": "Filing: Vy Capital owns a 3.4% SpaceX stake; Vy is also the largest outside investor in BoringCo and Neuralink and committed $700M to Musk's Twitter acquisition (Ivan Levingston/Financial Times)",
+    "link": "https://www.techmeme.com/260913/p4#a260913p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ivan Levingston / Financial Times : Filing: Vy Capital owns a 3.4% SpaceX stake; Vy is also the largest outside investor in BoringCo and Neuralink and committed $700M to Musk's Twitter acquisition &nbsp; &mdash;&nbsp; Low-profile venture capital firm Vy Capital has emerged as one of the rocket maker's largest shareholders",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T12:54:20.552285+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Local LLM community feels like the golden era of the internet all over again",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Lately because of the current hardware shortage, unfortunately or fortunately, we can’t just throw infinite cloud compute at our problems, but we’re forced to actually care about what’s happening under the hood. We’re tweaking inference engines, learning quantization math, and optimizing architecture just to squeeze as much performance as possible for the lowest possible setups. Fact: Just recentl",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T12:54:20.559852+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Hugging Bay",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "New website to download models in case HF starts censoring or limiting access. &#32; submitted by &#32; /u/Thrumpwart [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-13T12:54:20.565444+00:00",
+    "details": {}
   }
 ]

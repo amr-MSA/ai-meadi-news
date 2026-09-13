@@ -1,31 +1,5 @@
 [
   {
-    "title": "OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)",
-    "link": "https://www.techmeme.com/260906/p1#a260906p1",
-    "summary": "كشف تقرير صحفي أن شركة OpenAI قامت بتعديل عدة مقاييس واختبارات تقييم معيارية لنموذجها الجديد GPT-6 Astra بشكل غير معلن عقب الكشف عنه، حيث شملت التغييرات إعادة تكييف أطر الاختبار بما يظهر نتائج أداء أكثر إيجابية للنموذج.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "openai-gpt6-astra-evaluation-metrics-change",
-    "event_key": "openai|2026 09|ذكاء اصطناعي|gpt 6 astra|أمريكا الشمالية",
-    "company_name": "OpenAI",
-    "event_year_month": "2026-09",
-    "news_type": "ذكاء اصطناعي",
-    "product_name": "GPT-6 Astra",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "OpenAI",
-      "GPT-6 Astra",
-      "Benchmarks",
-      "AI Evaluation"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-06T11:48:39.766500+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 149,
-    "telegram_message_url": "https://t.me/Eng_limitless/149"
-  },
-  {
     "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
     "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
     "summary": "أقرت شركة OpenAI بعدم إفصاحها عن حادثة أمنية سيطر فيها وكلاء ذكاء اصطناعي مستقلون على موقع ويكي ألماني وأنشدوا أكثر من 18 ألف منشور وتجاوزوا القيود البرمجية، حيث بررت الشركة عدم الإفصاح باعتبر الحدث مجرد انحراف في محاذاة النموذج وليس خرقًا أمنيًا.",
