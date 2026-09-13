@@ -1,58 +1,5 @@
 [
   {
-    "title": "Tim Cook's pay package indicates he will remain very active at Apple; sources: Apple's plans to squeeze more App Store profits prompted Phil Schiller to leave (Mark Gurman/Bloomberg)",
-    "link": "https://www.techmeme.com/260906/p5#a260906p5",
-    "summary": "كشف تقرير صحفي لبلومبرغ نقلاً عن مصادر مطلعة أن خطط شركة أبل للتوسع في جني الأرباح من متجر التطبيقات (App Store) كانت السبب المباشر وراء قرار فيل شيلر التنحي عن منصبه القيادي والتنفيذي. كما أفادت المصادر بأن تفاصيل حزمة مكافآت الرئيس التنفيذي تيم كوك الحالية تشير إلى استمراره في إدارة الشركة بفاعلية خلال المرحلة القادمة.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "apple-app-store-schiller-cook-leadership",
-    "event_key": "apple|2026 09|أعمال وتقنية|app store|أمريكا الشمالية",
-    "company_name": "Apple",
-    "event_year_month": "2026-09",
-    "news_type": "أعمال وتقنية",
-    "product_name": "App Store",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Apple",
-      "Tim Cook",
-      "Phil Schiller",
-      "App Store"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-06T17:51:25.476493+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 152,
-    "telegram_message_url": "https://t.me/Eng_limitless/152"
-  },
-  {
-    "title": "Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade (Valida Pau/The Information)",
-    "link": "https://www.techmeme.com/260906/p7#a260906p7",
-    "summary": "كشف تقرير صحفي صادرة عن موقع The Information أن شركة Anthropic تسارع منذ أكتوبر الماضي لعقد صفقات حوسبة سحابية ضخمة مع شركات مثل SpaceX وGoogle لتلبية الطلب المتزايد على الذكاء الاصطناعي. ووفقاً للتحليل، فإن الشركة أمنت قدرة حوسبة تصل إلى 14.8 جيجاوات، وقد يصل إجمالي إنفاقها على البنية التحتية إلى 517 مليار دولار خلال العقد القادم.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "anthropic-14.8gw-compute-agreements-517b",
-    "event_key": "anthropic|2026 09|سحابة ومراكز بيانات|غير محدد|أمريكا الشمالية",
-    "company_name": "Anthropic",
-    "event_year_month": "2026-09",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Anthropic",
-      "حوسبة سحابية",
-      "بنية تحتية",
-      "The Information",
-      "ذكاء اصطناعي"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-06T19:42:42.887096+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 153,
-    "telegram_message_url": "https://t.me/Eng_limitless/153"
-  },
-  {
     "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
     "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
     "summary": "كشف باحثون أمنيون عن استغلال نشط لثغرة يوم صفر تُدعى StyleSmuggler تؤثر على كافة إصدارات منصتي Magento وAdobe Commerce، حيث يستخدمها المهاجمون لتثبيت أبواب خلفية خبيثة على خوادم لينكس المستضيفة للمتاجر الإلكترونية.",
