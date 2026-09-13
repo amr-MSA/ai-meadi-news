@@ -1,33 +1,5 @@
 [
   {
-    "title": "Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms (Rafe Rosner-Uddin/Financial Times)",
-    "link": "https://www.techmeme.com/260906/p2#a260906p2",
-    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة Atoms، المملوكة لمؤسس أوبر السابق ترافيس كالانيك، تعمل على تطوير تقنيات سيارات الأجرة الذاتية القيادة (Robotaxi). وأشارت التسريبات إلى استحواذ الشركة على شركة Pronto وانضمام المهندس أنتوني ليفاندوفسكي لقيادة المشروع، إلى جانب ضخ شركة أوبر استثمارًا بقيمة 100 مليون دولار في Atoms.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "atoms-kalanick-levandowski-uber-robotaxi",
-    "event_key": "atoms|2026 09|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "company_name": "Atoms",
-    "event_year_month": "2026-09",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Atoms",
-      "Uber",
-      "Travis Kalanick",
-      "Anthony Levandowski",
-      "Robotaxi",
-      "Pronto"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-06T06:36:46.772176+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 148,
-    "telegram_message_url": "https://t.me/Eng_limitless/148"
-  },
-  {
     "title": "OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch (Emily Forlini/Fortune)",
     "link": "https://www.techmeme.com/260906/p1#a260906p1",
     "summary": "كشف تقرير صحفي أن شركة OpenAI قامت بتعديل عدة مقاييس واختبارات تقييم معيارية لنموذجها الجديد GPT-6 Astra بشكل غير معلن عقب الكشف عنه، حيث شملت التغييرات إعادة تكييف أطر الاختبار بما يظهر نتائج أداء أكثر إيجابية للنموذج.",
