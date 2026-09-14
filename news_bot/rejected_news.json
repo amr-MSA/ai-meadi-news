@@ -12459,5 +12459,62 @@
     },
     "rejected_at": "2026-09-13T22:02:29.034184+00:00",
     "details": {}
+  },
+  {
+    "title": "Current and former officials: the US NSA plans major restructuring to form five new units for AI, China, cybersecurity, warfighting, and global intelligence (Washington Post)",
+    "link": "https://www.techmeme.com/260913/p17#a260913p17",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Washington Post : Current and former officials: the US NSA plans major restructuring to form five new units for AI, China, cybersecurity, warfighting, and global intelligence &nbsp; &mdash;&nbsp; Gen. Joshua M. Rudd is retooling the massive spy agency to focus on priorities including AI, China and cybersecurity.&nbsp; &mdash;&nbsp; Summary",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T02:08:08.404477+00:00",
+    "details": {}
+  },
+  {
+    "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China -- \"I think you have a lot of negative forces that are...bringing up things that won’t happen...whoever wins with AI wins\"",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wfm3v4/trump_downplays_the_need_to_check_ai_development/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/infieldmitt [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T02:08:08.425527+00:00",
+    "details": {}
+  },
+  {
+    "title": "Six in 10 Cyberattacks in Colombia Target Hospitals",
+    "link": "https://databreaches.net/2026/09/13/six-in-10-cyberattacks-in-colombia-target-hospitals/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Joseph Freixes reports: Six in 10 cyberattacks recorded in Colombia target health sector institutions, a figure that highlights the growing exposure of hospitals and clinics to digital threats. The figure, included in a Biofile report based on a measurement analyzed from IBM’s X-Force Index, shows that medical information has become one of the main targets... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T02:08:08.432348+00:00",
+    "details": {}
   }
 ]

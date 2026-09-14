@@ -790,5 +790,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 177,
     "telegram_message_url": "https://t.me/Eng_limitless/177"
+  },
+  {
+    "title": "Source: Anthropic signed a $13.7B, six-year deal to lease compute from Rum Group's upcoming Georgia data center; Rum operates Rumble and hosts Truth Social (The Information)",
+    "link": "https://www.techmeme.com/260913/p16#a260913p16",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصدر مطلع أن شركة Anthropic أبرمت صفقة بقيمة 13.7 مليار دولار تمتد لست سنوات لاستئجار قدرات حوسبة من مركز البيانات الجديد التابع لمجموعة Rum Group في ولاية جورجيا الأمريكية، لتأمين البنية التحتية اللازمة لتدريب وتوصيل نماذج الذكاء الاصطناعي.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "anthropic-rum-group-13b-compute-deal",
+    "event_key": "anthropic|2026 09|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Anthropic",
+    "event_year_month": "2026-09",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Anthropic",
+      "Rum Group",
+      "Rumble",
+      "حوسبة سحابية",
+      "ذكاء اصطناعي"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-14T02:08:08.390260+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 178,
+    "telegram_message_url": "https://t.me/Eng_limitless/178"
   }
 ]
