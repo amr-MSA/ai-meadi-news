@@ -13067,5 +13067,81 @@
     },
     "rejected_at": "2026-09-14T18:21:41.574904+00:00",
     "details": {}
+  },
+  {
+    "title": "Nuance Labs, which builds low-latency AI avatars that can have face-to-face conversations, raised a $50M Series A led by Lightspeed, with Nvidia participating (Shubhangi Goel/Business Insider)",
+    "link": "https://www.techmeme.com/260914/p36#a260914p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Shubhangi Goel / Business Insider : Nuance Labs, which builds low-latency AI avatars that can have face-to-face conversations, raised a $50M Series A led by Lightspeed, with Nvidia participating &nbsp; &mdash;&nbsp; A startup that's trying to make AI models better conversationalists with more emotional intelligence has just raised $50 million.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T21:10:30.144920+00:00",
+    "details": {}
+  },
+  {
+    "title": "[Bi-Weekly Megathread] Project Showcase",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wgcpww/biweekly_megathread_project_showcase/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Do you have something you'd like to share with the r/LocalLLaMA community. This is the place for it! Recommendation on presentation: Please share plain english description of what your project does and why people should care about it How does it compare to existing options and why should people switch to your option? How have you tested and validated it? (i.e. can you show evidence that it wasn't",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T21:10:30.152078+00:00",
+    "details": {}
+  },
+  {
+    "title": "UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hi everybody, we post-trained Qwen 3.8 27B to be more efficient by figuring out which tokens were linked to overthinking and penalizing them without &quot;attacking&quot; the reasoning length directly then fixed the accuracy with a bit of secret sauce (hint On-Policy Distillation) and achieved great results ( -58% thinking tokens, 1.95x speed up, &lt;1% accuracy loss ) so we wanted to open-source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T21:10:30.161617+00:00",
+    "details": {}
+  },
+  {
+    "title": "Possible cyber incident disrupts Monroe schools in Wisconsin",
+    "link": "https://databreaches.net/2026/09/14/possible-cyber-incident-disrupts-monroe-schools-in-wisconsin/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Joseph Topping reports an incident at the School District of Monroe in Wisconsin has resulted in the district pulling the plug on internet connections: Students powered down computers, school phone service failed and a scheduled ACT session was canceled after a possible network security issue disrupted the School District of Monroe in Wisconsin. Classes continued... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T21:10:30.168941+00:00",
+    "details": {}
   }
 ]
