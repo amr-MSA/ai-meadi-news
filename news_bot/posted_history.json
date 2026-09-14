@@ -817,5 +817,33 @@
     "reliability_level": "🟡",
     "telegram_message_id": 178,
     "telegram_message_url": "https://t.me/Eng_limitless/178"
+  },
+  {
+    "title": "Nvidia and Booz Allen Hamilton restrict their use of Fable due to a lack of ZDR assurances; source: Palantir hasn't made Fable available via its own software (The Information)",
+    "link": "https://www.techmeme.com/260914/p24#a260914p24",
+    "summary": "كشفت تقارير صحفية أن شركتي إنفيديا وبوز ألن هاميلتون فرضتا قيودًا على استخدام أداة الذكاء الاصطناعي Fable، نتيجة غياب ضمانات عدم الاحتفاظ بالبيانات (ZDR) ومخاوف تسريب الملكية الفكرية، فيما لم تقم بالانتير بتوفير الأداة عبر منصتها البرمجية.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "nvidia-booz-allen-fable-zdr-restrictions",
+    "event_key": "nvidia|2026 09|ذكاء اصطناعي|fable|أمريكا الشمالية",
+    "company_name": "Nvidia",
+    "event_year_month": "2026-09",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "Fable",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Nvidia",
+      "Fable",
+      "Palantir",
+      "Booz Allen Hamilton",
+      "ZDR",
+      "خصوصية البيانات"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-14T16:02:26.851675+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 181,
+    "telegram_message_url": "https://t.me/Eng_limitless/181"
   }
 ]

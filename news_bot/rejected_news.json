@@ -12725,5 +12725,81 @@
     },
     "rejected_at": "2026-09-14T09:20:50.956744+00:00",
     "details": {}
+  },
+  {
+    "title": "Riyadh-based BNPL company Tabby raised a $233M Series F led by Blue Pool Capital at a $6.5B valuation, up from $4.5B in October 2025 after a share sale (Federico Maccioni/Reuters)",
+    "link": "https://www.techmeme.com/260914/p23#a260914p23",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Federico Maccioni / Reuters : Riyadh-based BNPL company Tabby raised a $233M Series F led by Blue Pool Capital at a $6.5B valuation, up from $4.5B in October 2025 after a share sale &nbsp; &mdash;&nbsp; Saudi Arabia-headquartered fintech Tabby has raised $233 million from existing investors at a valuation of $6.5 billion, it said on Monday &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T16:02:26.869779+00:00",
+    "details": {}
+  },
+  {
+    "title": "RTX PRO 5500 Blackwell (84GB) released",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wfxi36/rtx_pro_5500_blackwell_84gb_released/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/TechNerd10191 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T16:02:26.876807+00:00",
+    "details": {}
+  },
+  {
+    "title": "Xi promotes open source AI zone among BRICS countries",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wg4kpu/xi_promotes_open_source_ai_zone_among_brics/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Xi emphasised the need to step up cooperation. https://www.hindustantimes.com/india-news/china-will-lead-creation-of-open-source-ai-for-brics-xi-jinping-101789300908632.html https://www.msn.com/en-xl/news/other/xi-jinping-proposes-ai-open-source-zone-for-brics-nations/ar-AA2c94HH https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html https://www.yahoo.com/news/world/articles/xi-pushes-china-o",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T16:02:26.883878+00:00",
+    "details": {}
+  },
+  {
+    "title": "Silent Ransom Group Hacked Greenberg Traurig; Who notifies the 126k Affected?",
+    "link": "https://databreaches.net/2026/09/14/silent-ransom-group-hacked-greenberg-traurig-who-notifies-the-126k-affected/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Silent Ransom Group added Greenberg Traurig to its list of prominent law firms it attacked and leaked. DataBreaches.net has exclusive details on the incident. On August 21, when DataBreaches reported on a data breach affecting Troutman Pepper Locke, the firm was one of 64 law firm listings on Silent Ransom Group&#8217;s (SRG&#8217;s) leak site. As... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-14T16:02:26.891649+00:00",
+    "details": {}
   }
 ]
