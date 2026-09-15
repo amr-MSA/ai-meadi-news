@@ -13637,5 +13637,81 @@
     },
     "rejected_at": "2026-09-15T17:49:13.961019+00:00",
     "details": {}
+  },
+  {
+    "title": "During a Salesforce event, Jensen Huang says the AI industry doesn't need any new laws or regulations and market forces will help companies safely innovate (Brody Ford/Bloomberg)",
+    "link": "https://www.techmeme.com/260915/p45#a260915p45",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Brody Ford / Bloomberg : During a Salesforce event, Jensen Huang says the AI industry doesn't need any new laws or regulations and market forces will help companies safely innovate &nbsp; &mdash;&nbsp; Nvidia Corp. Chief Executive Officer Jensen Huang dismissed the need for new artificial intelligence security regulations on Tuesday &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T20:35:14.118105+00:00",
+    "details": {}
+  },
+  {
+    "title": "Crypto exchange CoinEx says it is closing, citing a lengthy downturn and rising compliance costs; a report said it moved $3B+ for Iran-linked wallets since 2019 (Dylan Tokar/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260915/p44#a260915p44",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dylan Tokar / Wall Street Journal : Crypto exchange CoinEx says it is closing, citing a lengthy downturn and rising compliance costs; a report said it moved $3B+ for Iran-linked wallets since 2019 &nbsp; &mdash;&nbsp; CoinEx says it is ceasing operations less than three months after a Wall Street Journal article spotlighted its use in Iran",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T20:35:14.130765+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Inkling – ask Claude Code for a doc, get HTML instead of Markdown",
+    "link": "https://github.com/MeetVys/inkling",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/MeetVys/inkling Comments URL: https://news.ycombinator.com/item?id=49718056 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T20:35:14.139725+00:00",
+    "details": {}
+  },
+  {
+    "title": "Code of Conduct for MAI Models",
+    "link": "https://microsoft.ai/news/mai-code-of-conduct/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://microsoft.ai/news/mai-code-of-conduct/ Comments URL: https://news.ycombinator.com/item?id=49717533 Points: 3 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T20:35:14.146537+00:00",
+    "details": {}
   }
 ]
