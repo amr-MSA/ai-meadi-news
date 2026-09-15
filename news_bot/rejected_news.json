@@ -13713,5 +13713,81 @@
     },
     "rejected_at": "2026-09-15T20:35:14.146537+00:00",
     "details": {}
+  },
+  {
+    "title": "Q&A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more (New York Times)",
+    "link": "https://www.techmeme.com/260915/p54#a260915p54",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : Q&amp;A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more &nbsp; &mdash;&nbsp; This is an edited transcript of &ldquo;The Ezra Klein Show.&rdquo;&nbsp; You can listen to the episode wherever you get your podcasts.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T23:48:28.147107+00:00",
+    "details": {}
+  },
+  {
+    "title": "Mark Zuckerberg says AI labs have the responsibility and incentive to train models safely and that any lab that doesn't focus on alignment will fall behind (Mark Zuckerberg/@finkd)",
+    "link": "https://www.techmeme.com/260915/p53#a260915p53",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mark Zuckerberg / @finkd : Mark Zuckerberg says AI labs have the responsibility and incentive to train models safely and that any lab that doesn't focus on alignment will fall behind &nbsp; &mdash;&nbsp; Last month I wrote about how we can build a positive and safe future for everyone: https://meta.com/... Every lab has the responsibility and incentive to move at the pace required to train its mod",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T23:48:28.158966+00:00",
+    "details": {}
+  },
+  {
+    "title": "Don’t buy a $9K RTX 5090.... instead.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1whf7ov/dont_buy_a_9k_rtx_5090_instead/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Fly to Taipei. Round-trip from Orlando: $1,081. Go to the largest retailer in Taiwan to Spend NT$129,990 ≈ US$4,093. Hang out in Taiwan for two weeks. Eat good food. Touch international grass. Fly home and flex on r/LocalLLaMA **.** https://preview.redd.it/vtve8s6wgrph1.png?width=287&amp;format=png&amp;auto=webp&amp;s=fcc391187f458d2ca023a929e554b880bf425560 https://preview.redd.it/guffjq55hrph1.p",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T23:48:28.173913+00:00",
+    "details": {}
+  },
+  {
+    "title": "Payroll system of mosques, madrasahs hit by ransomware; staff details potentially compromised",
+    "link": "https://databreaches.net/2026/09/15/payroll-system-of-mosques-madrasahs-hit-by-ransomware-staff-details-potentially-compromised/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "David Sun reports: The payroll system of mosques and madrasahs overseen by the Islamic Religious Council of Singapore (MUIS) has been hacked and held for ransom, The Straits Times has learnt. The SmartHRMS human resources (HR) system is supplied by Singapore-based software vendor Avelogic. The latest cybersecurity incident notice on Avelogic’s website, which was last... Source",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T23:48:28.182593+00:00",
+    "details": {}
   }
 ]
