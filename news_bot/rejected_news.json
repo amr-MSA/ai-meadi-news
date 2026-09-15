@@ -13542,5 +13542,100 @@
     },
     "rejected_at": "2026-09-15T12:58:22.492410+00:00",
     "details": {}
+  },
+  {
+    "title": "Some developers are using the Claude Code harness to access cheaper non-Anthropic models, including GPT-5.6 Sol, via proxies and services like OpenRouter (Alix Coutures/The Information)",
+    "link": "https://www.techmeme.com/260915/p40#a260915p40",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Alix Coutures / The Information : Some developers are using the Claude Code harness to access cheaper non-Anthropic models, including GPT-5.6 Sol, via proxies and services like OpenRouter &nbsp; &mdash;&nbsp; Boris Cherney, the head of Anthropic's coding tool Claude Code, last month found himself in the middle of an online spat that highlighted &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T17:49:13.916410+00:00",
+    "details": {}
+  },
+  {
+    "title": "Thatch, a healthcare plan marketplace where employers set a fixed budget that employees can use for individual plans, raised a $108M Series C at a $1B valuation (Marina Temkin/TechCrunch)",
+    "link": "https://www.techmeme.com/260915/p39#a260915p39",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Marina Temkin / TechCrunch : Thatch, a healthcare plan marketplace where employers set a fixed budget that employees can use for individual plans, raised a $108M Series C at a $1B valuation &nbsp; &mdash;&nbsp; Thatch, a platform that lowers healthcare costs for employers while expanding plan choices for workers, has raised $108 million &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T17:49:13.929407+00:00",
+    "details": {}
+  },
+  {
+    "title": "Revolut data breach affected nearly 700 clients",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/revolut-data-breach-affected-nearly-210459839.html",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://finance.yahoo.com/markets/crypto/articles/revolut-data-breach-affected-nearly-210459839.html Comments URL: https://news.ycombinator.com/item?id=49715944 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T17:49:13.937054+00:00",
+    "details": {}
+  },
+  {
+    "title": "Does Code Matter Anymore?",
+    "link": "https://jimmyislive.dev/posts/does-code-matter-anymore/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://jimmyislive.dev/posts/does-code-matter-anymore/ Comments URL: https://news.ycombinator.com/item?id=49715580 Points: 3 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T17:49:13.944279+00:00",
+    "details": {}
+  },
+  {
+    "title": "Got it unopened off Craigslist for $4k. Excited to start hosting my own models!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wh2cga/got_it_unopened_off_craigslist_for_4k_excited_to/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I’ve been tempted to get a spark for a few months now but the prices were climbing. A new one can go for anywhere from $5k-$6k. I was lucky enough to be scrolling through Craigslist when I stumbled upon this. The owner won it in a raffle and was trying to unload it quickly while they were in town. Felt sketchy, but glad I jumped on it! Edit: could’ve worded that better. To clarify, I was also conc",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T17:49:13.961019+00:00",
+    "details": {}
   }
 ]
