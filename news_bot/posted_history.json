@@ -1,32 +1,5 @@
 [
   {
-    "title": "Mistral raised a €3B Series D led by Samsung at a €21B valuation, up from €11.7B a year ago, as it expands into data centers beyond developing AI models (Adam Satariano/New York Times)",
-    "link": "https://www.techmeme.com/260908/p4#a260908p4",
-    "summary": "كشفت تقارير صحفية أن شركة مسترال الفرنسية للذكاء الاصطناعي جمعت 3 مليارات يورو في جولة تمويلية من الفئة D بقيادة شركة سامسونغ، ليرتفع تقييمها إلى 21 مليار يورو مقارنة بـ 11.7 مليار يورو العام الماضي. وتأتي هذه الجولة لمساعدة الشركة على التوسع في إنشاء مراكز البيانات وتطوير نماذجها لتقديم بديل أوروبي منافس للشركات الأمريكية والصينية.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "mistral-3b-series-d-samsung-valuation",
-    "event_key": "mistral|2026 09|أعمال وتقنية|غير محدد|أوروبا",
-    "company_name": "Mistral",
-    "event_year_month": "2026-09",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "أوروبا",
-    "keywords": [
-      "Mistral",
-      "Samsung",
-      "Series D",
-      "Funding",
-      "AI"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-08T06:41:14.866998+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 159,
-    "telegram_message_url": "https://t.me/Eng_limitless/159"
-  },
-  {
     "title": "Forus, which uses AI to help patients get prescribed drugs more quickly by navigating steps like insurance coverage, raised a $150M Series C at a $3B valuation (Micah Barkley/Bloomberg)",
     "link": "https://www.techmeme.com/260908/p12#a260908p12",
     "summary": "جمعت شركة Forus الناشئة المتخصصة في أتمتة الإجراءات الطبية بواسطة الذكاء الاصطناعي 150 مليون دولار في جولة تمويلية من الفئة C، ليصل تقييمها إلى 3 مليارات دولار. وتأتي هذه الجولة لدعم توسع المنصة في تسريع حصول المرضى على الأدوية والتعامل مع إجراءات التغطية التأمينية.",
@@ -844,5 +817,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 183,
     "telegram_message_url": "https://t.me/Eng_limitless/183"
+  },
+  {
+    "title": "Sources: Tokyo-based memory maker Kioxia is considering raising $10B+ through a 2027 US ADR listing as it seeks liquidity after billions in share buybacks (Bloomberg)",
+    "link": "https://www.techmeme.com/260915/p2#a260915p2",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة كيوكسيا (Kioxia) المتخصصة في صناعة رقائق الذاكرة تدرس جمع أكثر من 10 مليارات دولار من خلال طرح إيصالات إيداع أمريكية (ADR) بحلول عام 2027، وذلك لتأمين السيولة المالية اللازمة عقب إنفاق مليارات الدولارات في عمليات إعادة شراء الأسهم.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "kioxia-10b-us-adr-listing-talks",
+    "event_key": "kioxia|2026 09|أعمال وتقنية|غير محدد|آسيا",
+    "company_name": "Kioxia",
+    "event_year_month": "2026-09",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "آسيا",
+    "keywords": [
+      "كيوكسيا",
+      "Kioxia",
+      "رقائق الذاكرة",
+      "إدراج أمريكي",
+      "أسواق المال"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-15T06:54:35.119848+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 184,
+    "telegram_message_url": "https://t.me/Eng_limitless/184"
   }
 ]

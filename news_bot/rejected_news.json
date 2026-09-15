@@ -13200,5 +13200,252 @@
     },
     "rejected_at": "2026-09-15T00:04:01.127179+00:00",
     "details": {}
+  },
+  {
+    "title": "666ghj/MiroFish",
+    "link": "https://github.com/666ghj/MiroFish",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 https://mirofish.ai 简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English | 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.271701+00:00",
+    "details": {}
+  },
+  {
+    "title": "Panniantong/Agent-Reach",
+    "link": "https://github.com/Panniantong/Agent-Reach",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. 👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 · 设计理念 ❤️赞助商 想出现在这里？ 点击折叠 BrowserAct 支持从 Amazon、LinkedIn、X、Google Maps 等复杂网站提取你需要的任意数据。你只需用自然语言描述抓取需求，Agent 就会基于真实浏览器自动探索并测试页面流程，生成可靠、可复用的数据采集",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.279227+00:00",
+    "details": {}
+  },
+  {
+    "title": "rlaope/oh-my-hermes",
+    "link": "https://github.com/rlaope/oh-my-hermes",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages https://rlaope.github.io/oh-my-hermes/ oh-my-hermes English | 한국어 | 日本語 | 中文 Install once. Keep Hermes. Add a stronger operating layer. Planning, research, creation, coding handoffs, operations, and project memory with explicit evidence boundaries. oh-my-hermes (OMH) turns",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.293983+00:00",
+    "details": {}
+  },
+  {
+    "title": "localsend/localsend",
+    "link": "https://github.com/localsend/localsend",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "An open-source cross-platform alternative to AirDrop https://localsend.org LocalSend Homepage • Discord • GitHub • Codeberg English (Default) • 中文 LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. About Sponsors Screenshots Download How It Works Dependency Hierarchy Getting S",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.300866+00:00",
+    "details": {}
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "link": "https://github.com/dani-garcia/vaultwarden",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients [ disclaimer ], perfect for self-hosted deployment where running the official resource-heavy service might not be ideal. Important When using this server, please report any bugs or sug",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.307796+00:00",
+    "details": {}
+  },
+  {
+    "title": "ruvnet/RuView",
+    "link": "https://github.com/ruvnet/RuView",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. https://Cognitum.One/RuView π RuView See through walls with WiFi Turn ordinary WiFi into a spatial intelligence / sensing system. Detect people, measure breathing and heart rate, track movement, and monitor rooms — through walls, in the dar",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.322760+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenBMB/VoxCPM",
+    "link": "https://github.com/OpenBMB/VoxCPM",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning https://voxcpm.com VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English | 中文 👋 Join our community for discussion and support! Feishu &nbsp;|&nbsp; Discord &nbsp;|&nbsp; 📚 MiniCPM Wiki VoxCPM is a tokenizer-free Text-to-Sp",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.337879+00:00",
+    "details": {}
+  },
+  {
+    "title": "Crosstalk-Solutions/project-nomad",
+    "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. https://www.projectnomad.us Project NOMAD Knowledge That Never Goes Offline Project NOMAD is a self-contained, offline-first knowledge and education server packed with critical tools, knowledge, and AI to k",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.359849+00:00",
+    "details": {}
+  },
+  {
+    "title": "reconurge/flowsint",
+    "link": "https://github.com/reconurge/flowsint",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. https://flowsint.io Flowsint Flowsint is an open-source OSINT graph exploration tool designed for ethical investigation, transparency, and verification. Ethics: Please read ETHICS.md for responsible use guidelines. https://github.com/user-attachments/assets/eaabfa81-d7b3",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.366795+00:00",
+    "details": {}
+  },
+  {
+    "title": "peetzweg/opendisplay",
+    "link": "https://github.com/peetzweg/opendisplay",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input. https://opendisplay.app OpenDisplay Turn your spare Apple devices into second monitors for your Mac — free, open source, no subscription. iPhone, iPad, and spare Macs. A self-hosted alternative to Apple Sidecar, Duet Display, and",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:19.374281+00:00",
+    "details": {}
+  },
+  {
+    "title": "Rome-based Exein, which offers cybersecurity tools for connected devices including cars and home routers, raised $270M led by Headline at a $1.7B valuation (Tom Wilson/Financial Times)",
+    "link": "https://www.techmeme.com/260915/p1#a260915p1",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tom Wilson / Financial Times : Rome-based Exein, which offers cybersecurity tools for connected devices including cars and home routers, raised $270M led by Headline at a $1.7B valuation &nbsp; &mdash;&nbsp; Rome-based company is developing a foundation model to protect billions of internet-connected devices, from robots to lightbulbs",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:35.138983+00:00",
+    "details": {}
+  },
+  {
+    "title": "NASA and IBM open source lunar mapping tools",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/10/nasa-and-ibm-open-source-lunar-mapping-tools/5295633",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/10/nasa-and-ibm-open-source-lunar-mapping-tools/5295633 Comments URL: https://news.ycombinator.com/item?id=49708440 Points: 2 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:35.146101+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Chronicle – Local-first, open-source authoring software for writers",
+    "link": "https://pazvanti.github.io/Chronicle/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "About a year and a half ago I started my writing journey by beginning to work on my first novella. During this time, I felt the need for different tools, like a timeline editor, a character sheet and so on, features that were not available on normal text editors. Later I discovered that I needed an Epub exporter, cover designer and more. I also wanted something AI-free, something private. It is im",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-15T06:54:35.154924+00:00",
+    "details": {}
   }
 ]
