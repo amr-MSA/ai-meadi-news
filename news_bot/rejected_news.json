@@ -14321,5 +14321,24 @@
     },
     "rejected_at": "2026-09-16T19:11:22.903902+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: drone delivery startup Zipline is in talks to raise around $1B at a roughly $20B valuation, up from a $7.6B valuation in January (Bloomberg)",
+    "link": "https://www.techmeme.com/260916/p46#a260916p46",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: drone delivery startup Zipline is in talks to raise around $1B at a roughly $20B valuation, up from a $7.6B valuation in January &nbsp; &mdash;&nbsp; Zipline is in talks to raise around $1 billion in a funding round that would value the drone delivery and logistics startup at roughly $20 billion, nearly tripling its previous valuation.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T22:28:02.201771+00:00",
+    "details": {}
   }
 ]
