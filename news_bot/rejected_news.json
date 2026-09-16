@@ -14017,5 +14017,271 @@
     },
     "rejected_at": "2026-09-16T14:26:35.841914+00:00",
     "details": {}
+  },
+  {
+    "title": "Spain reports first alleged AI-powered data theft attack",
+    "link": "https://www.bleepingcomputer.com/news/security/spain-reports-first-alleged-ai-powered-data-theft-attack/",
+    "source_name": "BleepingComputer",
+    "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.198962+00:00",
+    "details": {}
+  },
+  {
+    "title": "The true cost of a ransomware attack, with and without BCDR",
+    "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+    "source_name": "BleepingComputer",
+    "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a faster, more predictable path to recovery. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.206740+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.214159+00:00",
+    "details": {}
+  },
+  {
+    "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+    "source_name": "BleepingComputer",
+    "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.222044+00:00",
+    "details": {}
+  },
+  {
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+    "source_name": "BleepingComputer",
+    "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.229378+00:00",
+    "details": {}
+  },
+  {
+    "title": "Windows Server 2022 reaches end of mainstream support next month",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.236900+00:00",
+    "details": {}
+  },
+  {
+    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+    "source_name": "BleepingComputer",
+    "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.244675+00:00",
+    "details": {}
+  },
+  {
+    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+    "source_name": "BleepingComputer",
+    "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.252541+00:00",
+    "details": {}
+  },
+  {
+    "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+    "source_name": "BleepingComputer",
+    "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.259903+00:00",
+    "details": {}
+  },
+  {
+    "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+    "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+    "source_name": "BleepingComputer",
+    "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.267373+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+    "source_name": "BleepingComputer",
+    "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.275041+00:00",
+    "details": {}
+  },
+  {
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+    "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+    "source_name": "BleepingComputer",
+    "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attacke",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.282810+00:00",
+    "details": {}
+  },
+  {
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+    "source_name": "BleepingComputer",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.290571+00:00",
+    "details": {}
+  },
+  {
+    "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+    "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+    "source_name": "BleepingComputer",
+    "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T17:27:56.298398+00:00",
+    "details": {}
   }
 ]
