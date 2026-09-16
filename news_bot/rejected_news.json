@@ -13998,5 +13998,24 @@
     },
     "rejected_at": "2026-09-16T08:54:48.722415+00:00",
     "details": {}
+  },
+  {
+    "title": "The iPhone Duo's squat, tablet-like outer display is a compromise, and a book-shaped foldable may lack wide appeal; its right-side UI bias is akin to a book (John Gruber/Daring Fireball)",
+    "link": "https://www.techmeme.com/260916/p28#a260916p28",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "John Gruber / Daring Fireball : The iPhone Duo's squat, tablet-like outer display is a compromise, and a book-shaped foldable may lack wide appeal; its right-side UI bias is akin to a book &nbsp; &mdash;&nbsp; Apple started with a title card that said &ldquo;The following was shot on iPhone&rdquo;, but the whole keynote &mdash; including the fun fake-movie openings &mdash; was shot on iPhone 18 Pr",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T14:26:35.841914+00:00",
+    "details": {}
   }
 ]
