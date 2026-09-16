@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: Anthropic declined to submit Mythos 5.1 to the UK AISI for pre-release testing, prompting UK fears that US AI labs are aligning with US protectionism (Financial Times)",
-    "link": "https://www.techmeme.com/260909/p4#a260909p4",
-    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة Anthropic رفضت تقديم نموذجها المرتقب Mythos 5.1 إلى معهد أمان الذكاء الاصطناعي البريطاني (UK AISI) لإجراء اختبارات التقييم قبل الإطلاق، مما أثار مخاوف لدى الحكومة البريطانية من توجه معامل الذكاء الاصطناعي الأمريكية نحو السياسات الحمائية والتكتل.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "anthropic-mythos-uk-aisi-refusal",
-    "event_key": "anthropic|2026 09|ذكاء اصطناعي|mythos 5 1|عالمي",
-    "company_name": "Anthropic",
-    "event_year_month": "2026-09",
-    "news_type": "ذكاء اصطناعي",
-    "product_name": "Mythos 5.1",
-    "region": "عالمي",
-    "keywords": [
-      "Anthropic",
-      "Mythos 5.1",
-      "UK AISI",
-      "الذكاء الاصطناعي",
-      "اختبارات السلامة"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-09T06:55:24.471494+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 163,
-    "telegram_message_url": "https://t.me/Eng_limitless/163"
-  },
-  {
     "title": "Legal AI startup Harvey raised $550M co-led by Lightspeed and Diffusion at a $15.6B valuation, up from an $11B valuation when it raised $200M in March (Rebecca Torrence/Bloomberg)",
     "link": "https://www.techmeme.com/260909/p10#a260909p10",
     "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة Harvey الناشئة والمتخصصة في الذكاء الاصطناعي للقطاع القانوني أغلقت جولة تمويلية ضخمة بقيمة 550 مليون دولار بقيادة شركتي Lightspeed وDiffusion، مما رفع تقييمها إلى 15.6 مليار دولار مقارنة بـ 11 مليار دولار في مارس الماضي، وذلك لدعم تطوير نماذج الذكاء الاصطناعي الخاصة بالشركة.",
@@ -709,5 +682,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 184,
     "telegram_message_url": "https://t.me/Eng_limitless/184"
+  },
+  {
+    "title": "Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation (Kane Wu/Reuters)",
+    "link": "https://www.techmeme.com/260916/p7#a260916p7",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة Anew Labs الناشئة المتخصصة في اكتشاف الأدوية باستخدام الذكاء الاصطناعي، والمنفصلة حديثاً عن شركة بايت دانس (ByteDance)، جمعت تمويلاً بقيمة 290 مليون دولار من مستثمرين بينهم HSG وIDG Capital، ما يقفز بتقييم الشركة إلى 1.5 مليار دولار.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "anew-labs-bytedance-290m-funding",
+    "event_key": "bytedance|2026 09|ذكاء اصطناعي|غير محدد|آسيا",
+    "company_name": "ByteDance",
+    "event_year_month": "2026-09",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "آسيا",
+    "keywords": [
+      "ByteDance",
+      "Anew Labs",
+      "AI",
+      "Funding"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-16T08:54:48.698336+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 185,
+    "telegram_message_url": "https://t.me/Eng_limitless/185"
   }
 ]

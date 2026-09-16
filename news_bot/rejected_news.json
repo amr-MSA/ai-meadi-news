@@ -13865,5 +13865,138 @@
     },
     "rejected_at": "2026-09-16T02:07:44.171579+00:00",
     "details": {}
+  },
+  {
+    "title": "Homebrew/BrewUI",
+    "link": "https://github.com/Homebrew/BrewUI",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, update, and manage Homebrew packages through a native SwiftUI interface that never hid",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T08:54:33.108103+00:00",
+    "details": {}
+  },
+  {
+    "title": "danny-avila/LibreChat",
+    "link": "https://github.com/danny-avila/LibreChat",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active https://librechat.ai/ LibreChat English · 中文 🚀 Wh",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T08:54:33.123476+00:00",
+    "details": {}
+  },
+  {
+    "title": "MG1937/ASC",
+    "link": "https://github.com/MG1937/ASC",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers. Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the standard procedure is to wait. We wait for tools to eat gigabytes of RAM, fully inf",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T08:54:33.130681+00:00",
+    "details": {}
+  },
+  {
+    "title": "earendil-works/pi",
+    "link": "https://github.com/earendil-works/pi",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md . Pi Agent Harness This is the home of the Pi agent harness project including our self extensible coding agent. @earendil-works/pi-coding-agent : Interactive coding agent CLI @earendil-works/pi-age",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T08:54:33.143625+00:00",
+    "details": {}
+  },
+  {
+    "title": "A viral social media post from a Chinese math teacher sparks debate over making English optional in schools across China especially as AI translation improves (New York Times)",
+    "link": "https://www.techmeme.com/260916/p8#a260916p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : A viral social media post from a Chinese math teacher sparks debate over making English optional in schools across China especially as AI translation improves &nbsp; &mdash;&nbsp; A math teacher's viral post prompted a debate over the language, which some see as an optional skill &mdash; and a symbol of Western dominance.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T08:54:48.709362+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: An open-source Socratic coach for competitive programming",
+    "link": "https://chromewebstore.google.com/detail/socratic-algo-coach/inppdfdpenccjiggnlfaomfnckadoaoi",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://chromewebstore.google.com/detail/socratic-algo-coach/inppdfdpenccjiggnlfaomfnckadoaoi Comments URL: https://news.ycombinator.com/item?id=49722567 Points: 1 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T08:54:48.715724+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Check an NPM package or MCP server for malicious code before install",
+    "link": "https://bouncer.run/check",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://bouncer.run/check Comments URL: https://news.ycombinator.com/item?id=49722560 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T08:54:48.722415+00:00",
+    "details": {}
   }
 ]
