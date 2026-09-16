@@ -13789,5 +13789,81 @@
     },
     "rejected_at": "2026-09-15T23:48:28.182593+00:00",
     "details": {}
+  },
+  {
+    "title": "Analysis: only ~2.3 GW of planned data center capacity is delayed by direct project-level policies like local moratoriums and New York's data center EO (SemiAnalysis)",
+    "link": "https://www.techmeme.com/260915/p57#a260915p57",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "SemiAnalysis : Analysis: only ~2.3 GW of planned data center capacity is delayed by direct project-level policies like local moratoriums and New York's data center EO &nbsp; &mdash;&nbsp; 300+ moratoriums mapped, 20GW sits inside a restricted local boundary, 1,525MW actually slips, 2.3GW nationwide including New York",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T02:07:44.150096+00:00",
+    "details": {}
+  },
+  {
+    "title": "Zuckerberg says \"Meta delayed shipping Muse for several months to focus on safety and security\" and didn't call on other AI labs to do the same before acting (Tom Giles/Bloomberg)",
+    "link": "https://www.techmeme.com/260915/p56#a260915p56",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tom Giles / Bloomberg : Zuckerberg says &ldquo;Meta delayed shipping Muse for several months to focus on safety and security&rdquo; and didn't call on other AI labs to do the same before acting &nbsp; &mdash;&nbsp; Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg said artificial intelligence labs should rely &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T02:07:44.159199+00:00",
+    "details": {}
+  },
+  {
+    "title": "Nvidia Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+    "link": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing Comments URL: https://news.ycombinator.com/item?id=49720966 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T02:07:44.165448+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Open-source tool to sell your Claude Code and Codex sessions",
+    "link": "https://github.com/cookiy-ai/sell-sessions-skill",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/cookiy-ai/sell-sessions-skill Comments URL: https://news.ycombinator.com/item?id=49720176 Points: 1 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-16T02:07:44.171579+00:00",
+    "details": {}
   }
 ]
