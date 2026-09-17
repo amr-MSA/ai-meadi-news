@@ -14340,5 +14340,62 @@
     },
     "rejected_at": "2026-09-16T22:28:02.201771+00:00",
     "details": {}
+  },
+  {
+    "title": "AWS says it can't restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring (Omar Abdel-Baqui/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260916/p53#a260916p53",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Omar Abdel-Baqui / Wall Street Journal : AWS says it can't restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring &nbsp; &mdash;&nbsp; Amazon's announcement is the first indication that some data stored exclusively in Bahrain and the U.A.E could be gone forever",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-17T02:13:15.281126+00:00",
+    "details": {}
+  },
+  {
+    "title": "Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake (Michelle Ma/Bloomberg)",
+    "link": "https://www.techmeme.com/260916/p52#a260916p52",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Michelle Ma / Bloomberg : Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake &nbsp; &mdash;&nbsp; Generac Holdings Inc. agreed to supply up to $8 billion worth of generators for Amazon.com Inc.'s data centers and issued a warrant &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-17T02:13:15.295094+00:00",
+    "details": {}
+  },
+  {
+    "title": "Canada: Nipigon hospital hit by ransomware attack",
+    "link": "https://databreaches.net/2026/09/16/canada-nipigon-hospital-hit-by-ransomware-attack/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Mike Stimpson reports: Some patient services may be affected as the general hospital in Nipigon responds to what it describes as a “cyber security incident.” An incident involving ransomware affected information technology systems, Nipigon District Memorial Hospital stated in a post on social media. [&#8230;] Nipigon Mayor Suzanne Kukko told CFNO’s Al Cresswell “the hospital... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-17T02:13:15.324173+00:00",
+    "details": {}
   }
 ]
