@@ -14859,5 +14859,62 @@
     },
     "rejected_at": "2026-09-17T19:23:06.688014+00:00",
     "details": {}
+  },
+  {
+    "title": "Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code (Claude)",
+    "link": "https://www.techmeme.com/260917/p40#a260917p40",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Claude : Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code &nbsp; &mdash;&nbsp; A new experience for Claude projects, now available in beta in Claude Code&nbsp; &mdash;&nbsp; https://claude.com/blog/projects- redesigned",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-17T22:31:13.552263+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms (OpenAI)",
+    "link": "https://www.techmeme.com/260917/p39#a260917p39",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "OpenAI : OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms &nbsp; &mdash;&nbsp; Our most powerful model, configured into a new AI foundation for law.&nbsp; &mdash;&nbsp; Explore solutions for law Contact Legal sales",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-17T22:31:13.564612+00:00",
+    "details": {}
+  },
+  {
+    "title": "Thank you :) Swift Qwen 3.8 27B now has 100k+ downloads, is #1 finetune and #9 model on HuggingFace Trending",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wj3s31/thank_you_swift_qwen_38_27b_now_has_100k/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hey everyone, Jovan from UkisAI here, a small lab building the tech to make tiny frontier LLMs possible (and doing it open-source!) The purpose of this post is simply to thank the community for all the amazing finetunes, quantizations and overall improvements over our original release which made our model get attention and the support for us to continue building in this direction! If it weren't fo",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-17T22:31:13.582162+00:00",
+    "details": {}
   }
 ]
