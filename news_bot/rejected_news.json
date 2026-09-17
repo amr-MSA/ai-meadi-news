@@ -14644,5 +14644,62 @@
     },
     "rejected_at": "2026-09-17T08:59:15.281588+00:00",
     "details": {}
+  },
+  {
+    "title": "King Charles III hosts tech leaders, including Jensen Huang, Demis Hassabis, and OpenAI CFO Sarah Friar, to discuss AI risks; Huang calls for AI safety tests (Bloomberg)",
+    "link": "https://www.techmeme.com/260917/p28#a260917p28",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : King Charles III hosts tech leaders, including Jensen Huang, Demis Hassabis, and OpenAI CFO Sarah Friar, to discuss AI risks; Huang calls for AI safety tests &nbsp; &mdash;&nbsp; Titans of the artificial intelligence industry gathered in Scotland to hear Britain's monarch challenge them to control their inventions.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-17T14:31:14.603392+00:00",
+    "details": {}
+  },
+  {
+    "title": "Navigate360 may soon release a public notice about its horrific breach, but will any individuals be notified?",
+    "link": "https://databreaches.net/2026/09/17/navigate360-may-soon-release-a-public-notice-about-its-horrific-breach-but-will-any-individuals-be-notified/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Six months ago, a hacktivist announced that they had accessed and acquired 8.3 million tips submitted on supposedly anonymous tip lines and platforms used by schools, communities, Crime Stoppers organizations, law enforcement, and the military. Six months later, individuals affected by the breach STILL haven&#8217;t been notified. Since April, DataBreaches has reported Navigate360&#8217;s lack of",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-17T14:31:14.624505+00:00",
+    "details": {}
+  },
+  {
+    "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+    "link": "https://databreaches.net/2026/09/17/gyazo-breach-exposes-23-62-million-user-records-and-490-million-image-metadata-records/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Swati Khandelwal reports: A security breach at Gyazo, Helpfeel&#8217;s image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly for images from January 2019 or earlier, including the IDs that make up... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-17T14:31:14.631634+00:00",
+    "details": {}
   }
 ]
