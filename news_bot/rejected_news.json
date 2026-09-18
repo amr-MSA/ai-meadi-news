@@ -15264,5 +15264,100 @@
     },
     "rejected_at": "2026-09-18T16:57:15.527156+00:00",
     "details": {}
+  },
+  {
+    "title": "Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model (Corbin Bolies/Variety)",
+    "link": "https://www.techmeme.com/260918/p20#a260918p20",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Corbin Bolies / Variety : Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model &nbsp; &mdash;&nbsp; Sony Music Entertainment and Universal Music Group aren't done with Suno in federal court.&nbsp; &mdash;&nbsp; The two labels filed a new &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T17:21:48.924069+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree (Andy Greenberg/Wired)",
+    "link": "https://www.techmeme.com/260918/p19#a260918p19",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Andy Greenberg / Wired : Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree &nbsp; &mdash;&nbsp; TeamPCP pulled off the worst-ever software supply chain hacking spree and breached thousands of companies.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T17:21:48.937375+00:00",
+    "details": {}
+  },
+  {
+    "title": "768gb vram for less than the price of one RTX 6000",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wjr59t/768gb_vram_for_less_than_the_price_of_one_rtx_6000/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I have always posted about budget builds on here, and often asked how we are going to run the next big models. Often Plenty of downvotes too or folks telling me that it's not running if I'm getting 5tk/sec. But whatever, the hunger and desire to go big has always kept me on the edge and looking for deals. Here's my latest build, 12x64gb cmp170hx. For less than 1 RTX 6000 pro costs. I also have it",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T17:21:48.953235+00:00",
+    "details": {}
+  },
+  {
+    "title": "Raon data leak: Insider leak of 1,894 cases went undetected for 4 years",
+    "link": "https://databreaches.net/2026/09/18/raon-data-leak-insider-leak-of-1894-cases-went-undetected-for-4-years/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Choi Won-woo reports: Internal data amounting to 1,894 cases from the Korean-type heavy ion accelerator ‘Raon,’ built with a state budget of 1.5 trillion Korean won [USD $1,080,038,017.50 at today&#8217;s rates] was confirmed to have been leaked externally. The estimated time of the leak is 2022, and the Institute for Basic Science (IBS) Heavy Ion... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T17:21:48.963062+00:00",
+    "details": {}
+  },
+  {
+    "title": "International Meteor Organization says cyberattack dealt ‘critical blow’ to website",
+    "link": "https://databreaches.net/2026/09/18/international-meteor-organization-says-cyberattack-dealt-critical-blow-to-website/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Jonathan Greig reports: A cyberattack has shut down the website of the premier international organization responsible for tracking meteors. The International Meteor Organization (IMO) has continued tracking asteroids and meteor through its Facebook page, but its website now carries a static page notifying visitors of the cyberattack. “We recently suffered a cyberattack that dealt a... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T17:21:48.973298+00:00",
+    "details": {}
   }
 ]
