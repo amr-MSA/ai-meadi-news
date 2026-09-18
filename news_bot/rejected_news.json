@@ -15011,5 +15011,176 @@
     },
     "rejected_at": "2026-09-18T01:57:57.189634+00:00",
     "details": {}
+  },
+  {
+    "title": "Tencent/BrowserSkill",
+    "link": "https://github.com/Tencent/BrowserSkill",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logg",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T06:58:44.806597+00:00",
+    "details": {}
+  },
+  {
+    "title": "cilium/cilium",
+    "link": "https://github.com/cilium/cilium",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "eBPF-based Networking, Security, and Observability https://cilium.io .. raw:: html |cii| |go-report| |clomonitor| |artifacthub| |slack| |go-doc| |rtd| |apache| |bsd| |gpl| |fossa| |gateway-api| |codespaces| Cilium is a networking, observability, and security solution with an eBPF-based dataplane. It provides a simple flat Layer 3 network with the ability to span multiple clusters in either a nativ",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T06:58:44.833763+00:00",
+    "details": {}
+  },
+  {
+    "title": "TencentCloud/Octop",
+    "link": "https://github.com/TencentCloud/Octop",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A smarter, self-hosted AI assistant — multi-user, multi-agent. https://octop.cloud A smarter, self-hosted AI assistant — multi-user, multi-agent. Highlights · Overview · Core Technology · Features · Roadmap · Quick Start · Contents English · 中文 Octop is an open-source, self-hosted AI assistant. It's not just a tool — it's a digital life form that can operate in parallel. Through its multi-agent ar",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T06:58:44.854882+00:00",
+    "details": {}
+  },
+  {
+    "title": "coder/coder",
+    "link": "https://github.com/coder/coder",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Secure environments for developers and their agents https://coder.com Self-Hosted Cloud Development Environments and AI Agents Quickstart | Docs | Why Coder | Premium Coder is a self-hosted platform for cloud development environments and AI coding agents. Workspaces are defined with Terraform, connected through a secure Wireguard® tunnel, and automatically shut down when not used. Coder Agents run",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T06:58:44.867725+00:00",
+    "details": {}
+  },
+  {
+    "title": "n8n-io/n8n",
+    "link": "https://github.com/n8n-io/n8n",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. https://n8n.io n8n – The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the cloud , and connect to 1500+ integrations. A",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T06:58:44.872104+00:00",
+    "details": {}
+  },
+  {
+    "title": "The US CFTC exempts \"passive software\" providers from broker registration if they never hold user assets, expanding crypto and prediction market online trading (Lydia Beyoud/Bloomberg)",
+    "link": "https://www.techmeme.com/260918/p5#a260918p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Lydia Beyoud / Bloomberg : The US CFTC exempts &ldquo;passive software&rdquo; providers from broker registration if they never hold user assets, expanding crypto and prediction market online trading &nbsp; &mdash;&nbsp; The Commodity Futures Trading Commission moved to expand crypto and prediction market trading via online platforms &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T06:59:12.061132+00:00",
+    "details": {}
+  },
+  {
+    "title": "World rolls out World Money, a self-custodial financial \"super app\" in 150+ countries that combines stablecoin payments, trading, earning, and virtual accounts (Jason Shubnell/The Block)",
+    "link": "https://www.techmeme.com/260918/p4#a260918p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jason Shubnell / The Block : World rolls out World Money, a self-custodial financial &ldquo;super app&rdquo; in 150+ countries that combines stablecoin payments, trading, earning, and virtual accounts &nbsp; &mdash;&nbsp; - World is rolling out World Money, a financial &ldquo;super app&rdquo; spanning stablecoins, investing, yield, and global payments in more than 150 countries.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T06:59:12.069510+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Open-Source Alternative to TypeSafe.ai",
+    "link": "https://github.com/TitovDigital/kbai-skill",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/TitovDigital/kbai-skill Comments URL: https://news.ycombinator.com/item?id=49750649 Points: 1 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T06:59:12.074809+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality",
+    "link": "https://github.com/marketplace/actions/vigil-pr-scanner",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "I watched a video recently on malicious code injection into OSS repo PRs and how they can go undetected because of how well they're hidden and decided to do a project for this. This tool is essentially used in unison with ai code review bots like greptile. While tools like greptile reason because they run with LLMs, this is a deterministic step before greptile that scans for malicious code (comman",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T06:59:12.080600+00:00",
+    "details": {}
   }
 ]
