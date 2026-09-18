@@ -1,33 +1,5 @@
 [
   {
-    "title": "Sources: the Pentagon is in talks to lend roughly $5B to neocloud Fluidstack; Fluidstack is being advised on its loan application by Palmer Luckey's Erebor Bank (Wall Street Journal)",
-    "link": "https://www.techmeme.com/260910/p39#a260910p39",
-    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن وزارة الدفاع الأمريكية (البنتاغون) تجري محادثات لإقراض شركة البنية التحتية السحابية للذكاء الاصطناعي Fluidstack نحو 5 مليارات دولار. وأفادت المصادر بأن بنك Erebor الذي أسسه بالمر لاكي يتولى تقديم الاستشارات للشركة بشأن تقديم طلب القرض.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "pentagon-fluidstack-5b-loan-talks",
-    "event_key": "fluidstack|2026 09|سحابة ومراكز بيانات|غير محدد|أمريكا الشمالية",
-    "company_name": "Fluidstack",
-    "event_year_month": "2026-09",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Fluidstack",
-      "Pentagon",
-      "Erebor Bank",
-      "البنتاغون",
-      "حوسبة سحابية",
-      "ذكاء اصطناعي"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-10T23:31:33.462766+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 169,
-    "telegram_message_url": "https://t.me/Eng_limitless/169"
-  },
-  {
     "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
     "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
     "summary": "كشف تقرير أمني عن شن حملة اختراق سيبراني واسعة النطاق استهدفت خوادم PaperCut NG/MF في 395 مؤسسة حول العالم، حيث استخدم المهاجمون مئات من وكلاء الذكاء الاصطناعي المستقلين لأتمتة وتطوير عمليات استغلال الثغرات البرمجية وتنفيذ الهجمات بسرعة فائقة.",

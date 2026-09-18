@@ -14916,5 +14916,100 @@
     },
     "rejected_at": "2026-09-17T22:31:13.582162+00:00",
     "details": {}
+  },
+  {
+    "title": "An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+    "link": "https://www.techmeme.com/260917/p43#a260917p43",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dwarkesh Patel / Dwarkesh Podcast : An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more &nbsp; &mdash;&nbsp; &ldquo;We never want to be in a situation again where we underestimate the AI.&rdquo;&nbsp; &mdash;&nbsp; New episode with Noam Brown.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T01:57:57.143202+00:00",
+    "details": {}
+  },
+  {
+    "title": "The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries (Jagmeet Singh/TechCrunch)",
+    "link": "https://www.techmeme.com/260917/p42#a260917p42",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jagmeet Singh / TechCrunch : The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries &nbsp; &mdash;&nbsp; The United Nations on Thursday announced that it is working with Google to make its vast collection of global statistics easier for AI systems to access and use.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T01:57:57.156049+00:00",
+    "details": {}
+  },
+  {
+    "title": "Claude Code from Source",
+    "link": "https://claude-code-from-source.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://claude-code-from-source.com/ Comments URL: https://news.ycombinator.com/item?id=49749019 Points: 13 # Comments: 2",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T01:57:57.163114+00:00",
+    "details": {}
+  },
+  {
+    "title": "PPPlayer – An open-source music player built with Flutter",
+    "link": "https://ppplayer.com",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://ppplayer.com Comments URL: https://news.ycombinator.com/item?id=49748159 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T01:57:57.171772+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ternary Bonsai 2 (27B) just released on Hugging Face. At <6GB in size, it can even run locally in-browser on WebGPU.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "The model is derived from Qwen3.8-27B, a 27B hybrid-attention causal language model (architecture unchanged), but uses ternary weights to shrink model size down to &lt;6GB in size. According to the model card, it's 9x smaller than FP16 while retaining 98.2% of the intelligence. - Collection: https://huggingface.co/collections/prism-ml/bonsai-2 - Demo: https://huggingface.co/spaces/webml-community/",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T01:57:57.189634+00:00",
+    "details": {}
   }
 ]
