@@ -15239,5 +15239,30 @@
     },
     "rejected_at": "2026-09-18T12:26:39.232777+00:00",
     "details": {}
+  },
+  {
+    "title": "New RatHat Android malware uses AI to automate device control",
+    "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+    "source_name": "BleepingComputer",
+    "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "2026-09",
+      "news_type": "أمن سيبراني",
+      "product_name": "Android",
+      "region": "عالمي",
+      "topic_key": "rathat-android-malware-ai-automation",
+      "keywords": [
+        "RatHat",
+        "Android",
+        "Malware",
+        "AI Automation",
+        "Cybersecurity"
+      ]
+    },
+    "rejected_at": "2026-09-18T16:57:15.527156+00:00",
+    "details": {}
   }
 ]
