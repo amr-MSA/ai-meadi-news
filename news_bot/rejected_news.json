@@ -15182,5 +15182,62 @@
     },
     "rejected_at": "2026-09-18T06:59:12.080600+00:00",
     "details": {}
+  },
+  {
+    "title": "SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its corporate investment scope into AI computing, data centers, and optical interconnect tech (Jie Ye-eun/The Korea Herald)",
+    "link": "https://www.techmeme.com/260918/p13#a260918p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jie Ye-eun / The Korea Herald : SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its corporate investment scope into AI computing, data centers, and optical interconnect tech &nbsp; &mdash;&nbsp; Since 2018, I have covered South Korea's economic and financial landscape, with experience spanning the economy, banking, financial markets and securities industry.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T12:26:39.200249+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: SK Hynix subsidiary Solidigm weighs building a NAND flash memory factory in the US; SK Hynix is also in talks with Intel for a separate project in Ohio (Reuters)",
+    "link": "https://www.techmeme.com/260918/p12#a260918p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Sources: SK Hynix subsidiary Solidigm weighs building a NAND flash memory factory in the US; SK Hynix is also in talks with Intel for a separate project in Ohio &nbsp; &mdash;&nbsp; Chipmaker SK Hynix's (000660.KS) subsidiary Solidigm is considering building a NAND flash memory chip factory in the US &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T12:26:39.213569+00:00",
+    "details": {}
+  },
+  {
+    "title": "Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Thanks for the exceptional support ( https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/ ) and for the dozens of requests to make a generic model, run benchmarks, and create an HF space so anyone can test it. So here you go, guys. I trained an improved model on a large data corpus, its now called Laya. It is trained on a single RTX 6000 Pro (96 GB",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T12:26:39.232777+00:00",
+    "details": {}
   }
 ]
