@@ -15359,5 +15359,43 @@
     },
     "rejected_at": "2026-09-18T17:21:48.973298+00:00",
     "details": {}
+  },
+  {
+    "title": "Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A (CoinDesk)",
+    "link": "https://www.techmeme.com/260918/p24#a260918p24",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "CoinDesk : Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A &nbsp; &mdash;&nbsp; Stablecoin payments firm dtcpay announced today the formal completion of its $25 million Series A funding round, securing a strategic investment from Japan's financial giant, the SBI Group.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T20:06:34.448603+00:00",
+    "details": {}
+  },
+  {
+    "title": "Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)",
+    "link": "https://www.techmeme.com/260918/p23#a260918p23",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Lauren Feiner / The Verge : Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more &nbsp; &mdash;&nbsp; Gov. Abigail Spanberger (D) signed an executive order addressing data canters and AI risks. &hellip; Virginia Gov. Abigail Spanberger (D) &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-18T20:06:34.462607+00:00",
+    "details": {}
   }
 ]
