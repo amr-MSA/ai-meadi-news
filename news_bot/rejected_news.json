@@ -15536,5 +15536,214 @@
     },
     "rejected_at": "2026-09-19T02:02:52.825623+00:00",
     "details": {}
+  },
+  {
+    "title": "Fission-AI/OpenSpec",
+    "link": "https://github.com/Fission-AI/OpenSpec",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Spec-driven development (SDD) for AI coding assistants. https://openspec.dev/ The most loved spec framework. Our philosophy: → fluid not rigid → iterative not waterfall → easy not complex → built for brownfield not just greenfield → scalable from personal projects to enterprises Tip New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:21:09.907961+00:00",
+    "details": {}
+  },
+  {
+    "title": "supermemoryai/supermemory",
+    "link": "https://github.com/supermemoryai/supermemory",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. https://supermemory.ai/docs State-of-the-art memory and context engine for AI. Docs · Quickstart · Self-host · Dashboard · Discord English · 简体中文 #1 on every major AI memory benchmark — LongMemEval , LoCoMo , and ConvoMem . 95% Recall@15 with a 99.4% context reduction · ~5",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:21:09.929091+00:00",
+    "details": {}
+  },
+  {
+    "title": "tradesdontlie/tradingview-mcp",
+    "link": "https://github.com/tradesdontlie/tradingview-mcp",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation TradingView MCP Bridge Personal AI assistant for your TradingView Desktop charts. Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation. Warning This tool is not",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:21:09.937048+00:00",
+    "details": {}
+  },
+  {
+    "title": "rustfs/rustfs",
+    "link": "https://github.com/rustfs/rustfs",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. https://rustfs.com/download/ RustFS is a high-performance, distributed object storage system built in Rust. Getting Started · Docs · Bug reports · Discussions English | 简体中文 | Deutsch | Español | français | 日本語 | 한국어 | Portug",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:21:09.944986+00:00",
+    "details": {}
+  },
+  {
+    "title": "ahmedkhaleel2004/gitdiagram",
+    "link": "https://github.com/ahmedkhaleel2004/gitdiagram",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Free, simple, fast interactive diagrams for any GitHub repository https://gitdiagram.com GitDiagram Turn any public or private GitHub repository into an interactive architecture diagram in seconds. You can also replace hub with diagram in a GitHub URL to open its diagram. Sponsor slot: Reach developers while they are actively exploring codebases. Sponsor GitDiagram . Features Architecture-first di",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:21:09.965883+00:00",
+    "details": {}
+  },
+  {
+    "title": "asciimoo/hister",
+    "link": "https://github.com/asciimoo/hister",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Your own search engine https://hister.org/ Hister Your own search engine Hister is a private search engine for the pages you visit and the files you keep. It indexes their full contents so you can find information again from the web interface, terminal, or an AI assistant connected through MCP. Try the demo · Download Hister · Read the quickstart · Documentation Quickstart Download the binary for",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:21:09.972696+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)",
+    "link": "https://www.techmeme.com/260919/p5#a260919p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Hayden Field / The Verge : A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight &nbsp; &mdash;&nbsp; On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:22:05.646683+00:00",
+    "details": {}
+  },
+  {
+    "title": "EU Commissioner Wopke Hoekstra rebuffs calls for an EU-wide digital services tax until \"all possibilities\" for taxation at the global level are exhausted (Financial Times)",
+    "link": "https://www.techmeme.com/260919/p4#a260919p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : EU Commissioner Wopke Hoekstra rebuffs calls for an EU-wide digital services tax until &ldquo;all possibilities&rdquo; for taxation at the global level are exhausted &nbsp; &mdash;&nbsp; Global efforts towards tech levy must be exhausted first, says European commissioner Wopke Hoekstra",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:22:05.659493+00:00",
+    "details": {}
+  },
+  {
+    "title": "The original Linux distro source",
+    "link": "https://www.kernel.org/pub/linux/kernel/v1.0/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.kernel.org/pub/linux/kernel/v1.0/ Comments URL: https://news.ycombinator.com/item?id=49763503 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:22:05.674679+00:00",
+    "details": {}
+  },
+  {
+    "title": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Fusseldieb [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:22:05.692531+00:00",
+    "details": {}
+  },
+  {
+    "title": "HHS’ Office for Civil Rights Settles HIPAA Investigation of Ambry Genetics for Security Rule Violations",
+    "link": "https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "WASHINGTON — September 17, 2026 — The U.S. Department of Health and Human Services (HHS) Oﬃce for Civil Rights (OCR) today announced a settlement with Ambry Genetics Corporation (Ambry) concerning potential violations of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) Security Rule. Ambry, headquartered in Aliso Viejo, California, is a covered entity... Source",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T08:22:05.703056+00:00",
+    "details": {}
   }
 ]
