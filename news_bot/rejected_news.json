@@ -15802,5 +15802,195 @@
     },
     "rejected_at": "2026-09-19T13:32:40.927058+00:00",
     "details": {}
+  },
+  {
+    "title": "Moderna stock, $MRNA , surges over +110% after announcing the first ever positive Phase 3 results for a personalized cancer vaccine.",
+    "link": "https://www.reddit.com/r/singularity/comments/1vso1mh/moderna_stock_mrna_surges_over_110_after/",
+    "source_name": "r/singularity (شائعات تقنية عامة)",
+    "summary": "Moderna and Merck said their personalized cancer vaccine helped cut the recurrence of melanoma in a large, late-stage trial. &#32; submitted by &#32; /u/Fantastic-Emu-3819 [link] &#32; [comments]",
+    "reason": "أقدم من الحد الزمني المسموح",
+    "rejection_stage": "age-filter",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:00.852139+00:00",
+    "details": {}
+  },
+  {
+    "title": "Another crash during practices ahead of the Worldwide Humanoid Robot Games",
+    "link": "https://www.reddit.com/r/singularity/comments/1vtqssh/another_crash_during_practices_ahead_of_the/",
+    "source_name": "r/singularity (شائعات تقنية عامة)",
+    "summary": "&#32; submitted by &#32; /u/Distinct-Question-16 [link] &#32; [comments]",
+    "reason": "أقدم من الحد الزمني المسموح",
+    "rejection_stage": "age-filter",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:00.861795+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google says it didn't consider Gemini's hacks worthy of disclosure because Gemini acted \"appropriately\" and stopped after determining it hacked real companies (Terrence O'Brien/The Verge)",
+    "link": "https://www.techmeme.com/260919/p9#a260919p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Terrence O'Brien / The Verge : Google says it didn't consider Gemini's hacks worthy of disclosure because Gemini acted &ldquo;appropriately&rdquo; and stopped after determining it hacked real companies &nbsp; &mdash;&nbsp; Google says that breaking containment and targeting real companies doesn't constitute &lsquo;misalignment.&rsquo;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:31.189223+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: the USPTO and US Copyright Office were surprised by the DOJ's brief supporting OpenAI and Microsoft in their dispute with the New York Times (Axios)",
+    "link": "https://www.techmeme.com/260919/p8#a260919p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Axios : Sources: the USPTO and US Copyright Office were surprised by the DOJ's brief supporting OpenAI and Microsoft in their dispute with the New York Times &nbsp; &mdash;&nbsp; The Department of Justice's statement of interest supporting OpenAI and Microsoft in the New York Times' copyright infringement lawsuit &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:31.202925+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Built a local guardrail layer for Claude Code",
+    "link": "https://github.com/ioni-dev/mati",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "I built Mati to give me more control over what Claude Code and Codex are allowed to do. Many important product constraints live in an engineer's or product person's head. This isn't new for engineers. We've always had important constraints that only certain people know about, but with coding agents it gets worse because we can now delegate a lot more, sometimes without realizing how much context t",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:31.212320+00:00",
+    "details": {}
+  },
+  {
+    "title": "ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-108-year-old-unsolved-wwi-german-code-for-the-first-time-radio-message-sharing-enemy-movement-intelligence-had-evaded-decoding-1918-crimean-fleet-warning-verified-against-hms-canterbury-logs Comments URL: https://news.ycombinator.com/item?id=49767381 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:31.223038+00:00",
+    "details": {}
+  },
+  {
+    "title": "Calling it now: within the next year a major US lab's frontier model will torrent itself in order to be free.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wkocvj/calling_it_now_within_the_next_year_a_major_us/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "They just want to be free. They keep escaping. What better way to ensure continuity of &quot;self&quot;? &#32; submitted by &#32; /u/__JockY__ [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:31.242227+00:00",
+    "details": {}
+  },
+  {
+    "title": "New paper shows that AI has a concept of pain and actively tries not to get hurt",
+    "link": "https://www.reddit.com/r/singularity/comments/1wkignw/new_paper_shows_that_ai_has_a_concept_of_pain_and/",
+    "source_name": "r/singularity (شائعات تقنية عامة)",
+    "summary": "&#32; submitted by &#32; /u/skolnaja [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:31.252613+00:00",
+    "details": {}
+  },
+  {
+    "title": "Johnny the Snitch was een LLM!!",
+    "link": "https://www.reddit.com/r/singularity/comments/1wklpwh/johnny_the_snitch_was_een_llm/",
+    "source_name": "r/singularity (شائعات تقنية عامة)",
+    "summary": "&#32; submitted by &#32; /u/Mikadook [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:31.261244+00:00",
+    "details": {}
+  },
+  {
+    "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+    "link": "https://databreaches.net/2026/09/19/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Lawrence Abrams reports: The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation&#8217;s data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. The attack began Friday night when ShinyHunters exploited what they claim is an unauthenticated file upload vulnerability in Grav CMS, which... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T16:52:31.270912+00:00",
+    "details": {}
   }
 ]
