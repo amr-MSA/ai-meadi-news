@@ -15511,5 +15511,30 @@
     },
     "rejected_at": "2026-09-18T23:44:06.180188+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown (Reuters)",
+    "link": "https://www.techmeme.com/260918/p38#a260918p38",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown &nbsp; &mdash;&nbsp; Anthropic is considering rolling out a new AI model to counter OpenAI's momentum since its launch of GPT-6 Astra &hellip;",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "Anthropic",
+      "event_year_month": "2026-09",
+      "news_type": "ذكاء اصطناعي",
+      "product_name": "غير محدد",
+      "region": "أمريكا الشمالية",
+      "topic_key": "anthropic-new-model-counter-openai-astra",
+      "keywords": [
+        "Anthropic",
+        "OpenAI",
+        "Astra",
+        "IPO",
+        "AI Model"
+      ]
+    },
+    "rejected_at": "2026-09-19T02:02:52.825623+00:00",
+    "details": {}
   }
 ]
