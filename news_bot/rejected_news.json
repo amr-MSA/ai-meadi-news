@@ -15992,5 +15992,62 @@
     },
     "rejected_at": "2026-09-19T16:52:31.270912+00:00",
     "details": {}
+  },
+  {
+    "title": "Trump says he will appoint an AI czar and form an \"AI Force\", in a Truth Social post that rejects AI safety concerns as a \"hoax\" (María Paula Mijares Torres/Bloomberg)",
+    "link": "https://www.techmeme.com/260919/p11#a260919p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mar&iacute;a Paula Mijares Torres / Bloomberg : Trump says he will appoint an AI czar and form an &ldquo;AI Force&rdquo;, in a Truth Social post that rejects AI safety concerns as a &ldquo;hoax&rdquo; &nbsp; &mdash;&nbsp; President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T19:45:00.582856+00:00",
+    "details": {}
+  },
+  {
+    "title": "Former DraftKings employees detail how it uses ML to target likely losers with promotions, while efforts to flag problem gamblers were shelved or squashed (New York Times)",
+    "link": "https://www.techmeme.com/260919/p10#a260919p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : Former DraftKings employees detail how it uses ML to target likely losers with promotions, while efforts to flag problem gamblers were shelved or squashed &nbsp; &mdash;&nbsp; About a year into his job as a data analyst at DraftKings, Jayden Butts received a new assignment.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T19:45:00.590107+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open Weights Are Good. Open Source Is Better",
+    "link": "https://opensource.org/blog/open-weights-are-good-open-source-is-better",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://opensource.org/blog/open-weights-are-good-open-source-is-better Comments URL: https://news.ycombinator.com/item?id=49769183 Points: 6 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T19:45:00.594859+00:00",
+    "details": {}
   }
 ]
