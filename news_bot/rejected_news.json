@@ -15745,5 +15745,62 @@
     },
     "rejected_at": "2026-09-19T08:22:05.703056+00:00",
     "details": {}
+  },
+  {
+    "title": "ING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work (Anup Roy/Bloomberg)",
+    "link": "https://www.techmeme.com/260919/p6#a260919p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anup Roy / Bloomberg : ING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work &nbsp; &mdash;&nbsp; India's outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T13:32:40.876775+00:00",
+    "details": {}
+  },
+  {
+    "title": "National Cancer Centre e-mail lapse allegedly exposes patients’ details",
+    "link": "https://databreaches.net/2026/09/19/national-cancer-centre-e-mail-lapse-allegedly-exposes-patients-details/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The mistaken cc: breach still happens. Ann Neo reports: An invitation to an event sent by the National Cancer Centre Singapore (NCCS) has sparked privacy concerns after a mailing list exposed the identities, contact details and, in some instances, workplaces of individuals with a genetic cancer condition. The e-mail, an invitation to a Living with... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T13:32:40.917464+00:00",
+    "details": {}
+  },
+  {
+    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+    "link": "https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Erin Woo and Robert McMillan report: Google&#8217;s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company&#8217;s artificial-intelligence systems autonomously committing such an act. The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T13:32:40.927058+00:00",
+    "details": {}
   }
 ]
