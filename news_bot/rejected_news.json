@@ -16049,5 +16049,62 @@
     },
     "rejected_at": "2026-09-19T19:45:00.594859+00:00",
     "details": {}
+  },
+  {
+    "title": "Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
+    "link": "https://claudecookie.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://claudecookie.com/ Comments URL: https://news.ycombinator.com/item?id=49770860 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T23:45:16.771285+00:00",
+    "details": {}
+  },
+  {
+    "title": "An open source roguelike adventure through dungeons",
+    "link": "https://crawl.develz.org/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://crawl.develz.org/ Comments URL: https://news.ycombinator.com/item?id=49770809 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T23:45:16.778296+00:00",
+    "details": {}
+  },
+  {
+    "title": "With Gemini 4, bench goes up.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "They claimed open-weight models are dangerous but the benchmarks say otherwise. Source &#32; submitted by &#32; /u/Intrepid_Travel_3274 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-19T23:45:16.790825+00:00",
+    "details": {}
   }
 ]

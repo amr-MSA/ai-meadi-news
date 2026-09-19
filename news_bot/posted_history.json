@@ -1,32 +1,5 @@
 [
   {
-    "title": "Not just Korea: Google leaked identifying info for sex crime victims across the world",
-    "link": "https://databreaches.net/2026/09/12/not-just-korea-google-leaked-identifying-info-for-sex-crime-victims-across-the-world/",
-    "summary": "كشف تحقيق صحفي استقصائي عن تسريب شركة غوغل معلومات شخصية وتفاصيل هوية تعود لضحايا الجرائم الجنسية عبر عدة دول حول العالم. وأفاد التقرير بأن التسريب حدث عقب إرسال الضحايا طلبات رسمية لإزالة صور ومقاطع غير قانونية، حيث أسفر خلل في التعامل مع الطلبات عن إتاحة بيانتهم الشخصية علنًا على شبكة الإنترنت.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "google-privacy-leak-victims-identifying-data",
-    "event_key": "google|2026 09|خصوصية وبيانات|google search|عالمي",
-    "company_name": "Google",
-    "event_year_month": "2026-09",
-    "news_type": "خصوصية وبيانات",
-    "product_name": "Google Search",
-    "region": "عالمي",
-    "keywords": [
-      "Google",
-      "privacy",
-      "leak",
-      "data protection",
-      "investigation"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-12T23:33:34.055927+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 175,
-    "telegram_message_url": "https://t.me/Eng_limitless/175"
-  },
-  {
     "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
     "summary": "استغلت مجموعة تجسس سيبراني ثغرة أمنية حرجة تحمل الرمز CVE-2026-51990 في برنامج أدوات الإدخال Sogou Input Method التابع لشركة تينسنت على نظام ويندوز، لتثبيت باب خلفي خبيث يُدعى GrayRabbit على الأجهزة المستهدفة.",
