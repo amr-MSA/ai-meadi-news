@@ -16676,5 +16676,43 @@
     },
     "rejected_at": "2026-09-20T19:55:14.659322+00:00",
     "details": {}
+  },
+  {
+    "title": "Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images (Qwen)",
+    "link": "https://www.techmeme.com/260920/p13#a260920p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Qwen : Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images &nbsp; &mdash;&nbsp; &middot; QwenTeam&#20008;Translations:.&#20307;&#20013;&#25991;&nbsp; &mdash;&nbsp; We are excited to open-source Qwen-Image-2.1 &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T22:01:27.450188+00:00",
+    "details": {}
+  },
+  {
+    "title": "Jensen Huang says AI leaders calling for regulation don't want new legislation, but to be \"relieved of the laws we do have\" because of \"ulterior reasons\" (Truman Dickerson/Business Insider)",
+    "link": "https://www.techmeme.com/260920/p12#a260920p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Truman Dickerson / Business Insider : Jensen Huang says AI leaders calling for regulation don't want new legislation, but to be &ldquo;relieved of the laws we do have&rdquo; because of &ldquo;ulterior reasons&rdquo; &nbsp; &mdash;&nbsp; Don't let the black leather jacket fool you, Jensen Huang isn't a doomer.&nbsp; &mdash;&nbsp; Nvidia's CEO said as much in an interview with CBS News aired on Sund",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T22:01:27.467480+00:00",
+    "details": {}
   }
 ]
