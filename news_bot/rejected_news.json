@@ -16600,5 +16600,43 @@
     },
     "rejected_at": "2026-09-20T16:41:12.281490+00:00",
     "details": {}
+  },
+  {
+    "title": "Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)",
+    "link": "https://www.techmeme.com/260920/p9#a260920p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Josipa Majic Predin / Forbes : Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals &nbsp; &mdash;&nbsp; Most of what an AI agent asks a frontier model to do is not writing.&nbsp; It is choosing.&nbsp; Which tool to call next, whether to retry, whether a command is safe to run.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T17:05:44.963055+00:00",
+    "details": {}
+  },
+  {
+    "title": "A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple's strategy for the home; sources: Apple started cutting Fitness+ staff (Mark Gurman/Bloomberg)",
+    "link": "https://www.techmeme.com/260920/p8#a260920p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mark Gurman / Bloomberg : A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple's strategy for the home; sources: Apple started cutting Fitness+ staff &nbsp; &mdash;&nbsp; Also: What happened with the iPhone Duo Pencil and layoffs at Fitness+.&nbsp; &mdash;&nbsp; Apple's new &ldquo;intelligent personal hub&rdquo; strategy is about much more than the iPhone.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T17:05:44.979053+00:00",
+    "details": {}
   }
 ]
