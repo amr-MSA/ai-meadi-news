@@ -16106,5 +16106,214 @@
     },
     "rejected_at": "2026-09-19T23:45:16.790825+00:00",
     "details": {}
+  },
+  {
+    "title": "trycua/cua",
+    "link": "https://github.com/trycua/cua",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. https://cua.ai Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for evaluating computer-use agents. Try Cua Fleets now at run.cua.ai Choose your path Cu",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:05.963802+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open-Dev-Society/OpenStock",
+    "link": "https://github.com/Open-Dev-Society/OpenStock",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. https://openstock-ods.vercel.app New from Open Dev Society: kitbash . Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. © Open Dev Society.",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:05.982644+00:00",
+    "details": {}
+  },
+  {
+    "title": "higgsfield-ai/higgsfield",
+    "link": "https://github.com/higgsfield-ai/higgsfield",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters higgsfield - multi node training without crying Higgsfield is an open-source, fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters, such as Large",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:05.988640+00:00",
+    "details": {}
+  },
+  {
+    "title": "docling-project/docling",
+    "link": "https://github.com/docling-project/docling",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Get your documents ready for gen AI https://docling-project.github.io/docling Docling What is Docling ? Docling simplifies document processing by parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the generative AI ecosystem. Features 🗂️ Parsing of multiple document formats including PDF, DOCX, PPTX, XLSX, HTML, EPUB, Apple Pages, WAV, MP3, We",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:05.994783+00:00",
+    "details": {}
+  },
+  {
+    "title": "cloudflare/quiche",
+    "link": "https://github.com/cloudflare/quiche",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 https://docs.quic.tech/quiche/ quiche is an implementation of the QUIC transport protocol and HTTP/3 as specified by the IETF . It provides a low level API for processing QUIC packets and handling connection state. The application is responsible for providing I/O (e.g. sockets handling) as well as an event loop with support for tim",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:06.000674+00:00",
+    "details": {}
+  },
+  {
+    "title": "ruanyf/weekly",
+    "link": "https://github.com/ruanyf/weekly",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "科技爱好者周刊，每周五发布 科技爱好者周刊 记录每周值得分享的科技内容，周五发布。 欢迎投稿文章/软件/资源，请 提交 issue 。 P.S. 讨论区的 《谁在招人》 ，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。 2026 九月 第 413 期： 再见了，React Native 第 412 期： 禁止 issue，只用 PR 第 411 期： OpenClaw 2.0 是一个缩影 八月 第 410 期： 你需要知道的 AI 三种机制 第 409 期： 程序员的职业未来 第 408 期： 你需要知道的 AI 缓存知识 第 407 期： 国家为什么需要开源软件？ 七月 第 406 期： 道可，道非，常道 第 405 期： 资源，社会公平与算力 第 404 期： 你需要知道的 AI 内存知识 第 403 期： 为什么 Dropbox 不成功 第 402 期： 我在智",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:06.012055+00:00",
+    "details": {}
+  },
+  {
+    "title": "ZuodaoTech/everyone-can-use-english",
+    "link": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "人人都能用英语 https://1000h.org AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。 网页版 Enjoy 全新版本已经上线，可访问 https://enjoy.bot 直接使用。 浏览器插件 Enjoy 浏览器插件已经上线，支持 YouTube 和 Netflix。可访问 Chrome Web Store 安装使用。 桌面版 新版桌面版将会是对网页版的套壳和增强，即将发布。 相关阅读 一千小时（2024） 简要说明 训练任务 语音塑造 大脑内部 自我训练 人人都能用英语（2010） 简介 第一章：起点 第二章：口语 第三章：语音 第四章：朗读 第五章：词典 第六章：语法 第七章：精读 第八章：叮嘱 后记 常见问题 请查询 文档 FAQ 。",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:06.018358+00:00",
+    "details": {}
+  },
+  {
+    "title": "cactus-compute/needle",
+    "link": "https://github.com/cactus-compute/needle",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers. https://cactuscompute.com A foundation model for mobiles, wearables, robots, smart home, automotive and microcontrollers. The whole model is a single 8-29 MB binary built on our Simple Attention Network, and we trade ge",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:06.029857+00:00",
+    "details": {}
+  },
+  {
+    "title": "yynxxxxx/Codex-X",
+    "link": "https://github.com/yynxxxxx/Codex-X",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。 https://codex-x.site Codex-X Codex 可视化提示词注入 · Provider · 会话 · Skills / MCP 管理工具 一款面向 OpenAI Codex 桌面端 / Codex CLI 的跨平台桌面工具。把提示词模板、自定义 Prompt、第三方 API 供应商、会话同步、Skills / MCP 和 TOML 配置都放进可视化界面里，不用反复手改文件。 Codex-X 是什么？ 当你同时使用 Codex 桌面端、CLI、第三方 API、Skills / MCP 和多套提示词时，配置很容易散落在不同文件里。Codex-X 把这些高频操作集中到一个桌面界面中，让当前状态看",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:06.035905+00:00",
+    "details": {}
+  },
+  {
+    "title": "Clinicians raise concerns over medical AI adoption beyond diagnostics and imaging, citing limited clinical and performance data on its broader effectiveness (Sarah Neville/Financial Times)",
+    "link": "https://www.techmeme.com/260920/p5#a260920p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sarah Neville / Financial Times : Clinicians raise concerns over medical AI adoption beyond diagnostics and imaging, citing limited clinical and performance data on its broader effectiveness &nbsp; &mdash;&nbsp; The technology's advances have not yet translated into big improvements in real-life care.&nbsp; Kayla Secrest was a newly fledged doctor beginning &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:36.240704+00:00",
+    "details": {}
+  },
+  {
+    "title": "Alibaba's Damo Academy open sources RADAR, a medical vision-language model it says can read CT scans and identify ~150 abdominal conditions, including cancers (Ann Cao/South China Morning Post)",
+    "link": "https://www.techmeme.com/260920/p4#a260920p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ann Cao / South China Morning Post : Alibaba's Damo Academy open sources RADAR, a medical vision-language model it says can read CT scans and identify ~150 abdominal conditions, including cancers &nbsp; &mdash;&nbsp; Tested on nearly 40,000 real-world exams, the model outperformed most radiologists, according to a new study published in Science",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T08:53:36.253574+00:00",
+    "details": {}
   }
 ]
