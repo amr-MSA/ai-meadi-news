@@ -16638,5 +16638,43 @@
     },
     "rejected_at": "2026-09-20T17:05:44.979053+00:00",
     "details": {}
+  },
+  {
+    "title": "AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)",
+    "link": "https://www.techmeme.com/260920/p11#a260920p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Owen Walker / Financial Times : AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures &nbsp; &mdash;&nbsp; Anthropic and OpenAI taking more space in city's already squeezed prime property market&nbsp; &mdash;&nbsp; AI heavyweights including Anthropic &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T19:55:14.649438+00:00",
+    "details": {}
+  },
+  {
+    "title": "Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses (Owen Tucker-Smith/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260920/p10#a260920p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Owen Tucker-Smith / Wall Street Journal : Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses &nbsp; &mdash;&nbsp; Powering the nation's massive AI build-out requires lots of walking, checking for burning smells and monitoring for bird damage",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-20T19:55:14.659322+00:00",
+    "details": {}
   }
 ]
