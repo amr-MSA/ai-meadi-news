@@ -16752,5 +16752,195 @@
     },
     "rejected_at": "2026-09-21T02:08:16.815707+00:00",
     "details": {}
+  },
+  {
+    "title": "BuilderIO/agent-native",
+    "link": "https://github.com/BuilderIO/agent-native",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A framework for building agentic apps https://www.agent-native.com Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action : the agent uses it as a tool, and the UI calls it from code. Quick start npx --yes @agent-native/core@latest create my-agent --standalone --template chat F",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:43.150545+00:00",
+    "details": {}
+  },
+  {
+    "title": "anthropics/financial-services",
+    "link": "https://github.com/anthropics/financial-services",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is available two ways from one source : install it as a Claude Cowork plugin, or deploy it through the Claude Managed Agents API behind your own workflow engine. Same system prompt,",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:43.176701+00:00",
+    "details": {}
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "link": "https://github.com/paperless-ngx/paperless-ngx",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A community-supported supercharged document management system: scan, index and archive all your documents http://docs.paperless-ngx.com/ Paperless-ngx Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper . Paperless-ngx is the official successor to the original Paperless &amp; Paperless-ng projects",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:43.186049+00:00",
+    "details": {}
+  },
+  {
+    "title": "mihail911/modern-software-dev-assignments",
+    "link": "https://github.com/mihail911/modern-software-dev-assignments",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) https://themodernsoftware.dev Assignments for CS146S: The Modern Software Developer This is the home of the assignments for CS146S: The Modern Software Developer , taught at Stanford University fall 2025. Repo Setup These steps work with Python 3.12. Install Anaconda Download and install: Anaconda Individual Editi",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:43.203301+00:00",
+    "details": {}
+  },
+  {
+    "title": "vercel-labs/json-render",
+    "link": "https://github.com/vercel-labs/json-render",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The Generative UI framework https://json-render.dev json-render The Generative UI framework. Generate dynamic, personalized UIs from prompts without sacrificing reliability. Predefined components and actions for safe, predictable output. # for React npm install @json-render/core @json-render/react # for React with pre-built shadcn/ui components npm install @json-render/shadcn # or for React Native",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:43.238771+00:00",
+    "details": {}
+  },
+  {
+    "title": "IFR: ~7,000 autonomous humanoids were sold globally in 2025 for industrial and professional use, with many bought for research instead of doing productive work (Toby Sterling/Reuters)",
+    "link": "https://www.techmeme.com/260921/p12#a260921p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Toby Sterling / Reuters : IFR: ~7,000 autonomous humanoids were sold globally in 2025 for industrial and professional use, with many bought for research instead of doing productive work &nbsp; &mdash;&nbsp; Around 7,000 humanoid robots were sold worldwide last year for industrial and professional service use, figures compiled by the International Federation of Robotics showed.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:56.957300+00:00",
+    "details": {}
+  },
+  {
+    "title": "iPhone 18 Pro teardown: its SoC now sits outside the logic board for better cooling, the variable aperture is thoughtfully designed but hard to repair, and more (Elizabeth Chamberlain/iFixit News)",
+    "link": "https://www.techmeme.com/260921/p11#a260921p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Elizabeth Chamberlain / iFixit News : iPhone 18 Pro teardown: its SoC now sits outside the logic board for better cooling, the variable aperture is thoughtfully designed but hard to repair, and more &nbsp; &mdash;&nbsp; The iPhone 18 Pro's little mechanical pupil is irresistible.&nbsp; A bunch of moving parts make for a good excuse to put our brand new camera under the microscope.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:56.972468+00:00",
+    "details": {}
+  },
+  {
+    "title": "A Conversation with Arthur Whitney: Can code ever be too terse? (2009)",
+    "link": "https://queue.acm.org/doi/10.1145/1515964.1531242",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://queue.acm.org/doi/10.1145/1515964.1531242 Comments URL: https://news.ycombinator.com/item?id=49784708 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:56.982987+00:00",
+    "details": {}
+  },
+  {
+    "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+    "link": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://twitter.com/LundukeJournal/status/2101841277432070210 Comments URL: https://news.ycombinator.com/item?id=49784366 Points: 24 # Comments: 48",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:56.993895+00:00",
+    "details": {}
+  },
+  {
+    "title": "Clarification on the Qwen-image-2.1 license",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://x.com/QwenDevs/status/2101917379785838660 &#32; submitted by &#32; /u/Bestlife73 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T09:22:57.010322+00:00",
+    "details": {}
   }
 ]
