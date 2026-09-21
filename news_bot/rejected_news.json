@@ -16942,5 +16942,62 @@
     },
     "rejected_at": "2026-09-21T09:22:57.010322+00:00",
     "details": {}
+  },
+  {
+    "title": "SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens (xAI)",
+    "link": "https://www.techmeme.com/260921/p40#a260921p40",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "xAI : SpaceXAI releases Grok 4.7, which it says is better at verifying its own work and managing longer context, available for $2/1M input and $6/1M output tokens &nbsp; &mdash;&nbsp; SpaceXAI's most powerful model for coding and knowledge work.&nbsp; Twice as fast, at half the price of comparable models.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T16:04:39.691699+00:00",
+    "details": {}
+  },
+  {
+    "title": "Review of Mac Studio (M5 Ultra) with 256 GB of RAM: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation (Federico Viticci/MacStories)",
+    "link": "https://www.techmeme.com/260921/p39#a260921p39",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Federico Viticci / MacStories : Review of Mac Studio (M5 Ultra) with 256 GB of RAM: a dream machine to run local AI agents and a massive leap over M3 Ultra for prompt processing and generation &nbsp; &mdash;&nbsp; For the past few days, I've been testing the (currently) top-of-the-line M5 Ultra Mac Studio with 256 GB of RAM.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T16:04:39.708426+00:00",
+    "details": {}
+  },
+  {
+    "title": "16GB (and in many cases 12GB) is the max vram most people will ever reasonably have",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb875/16gb_and_in_many_cases_12gb_is_the_max_vram_most/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "This sub is, needless to say very niche and skewed towards the high end. There are tons of extremely high end setups here with multiple gpu's etc. Even 24GB is out of reach of most people financially, forget about the 3x3090 or 5090 or even higher setups. Macs/Strix Halo/dgspark etc are all similarly expensive. 16GB is pretty much the high end for most. And this completely changes in most of the r",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T16:04:39.727497+00:00",
+    "details": {}
   }
 ]
