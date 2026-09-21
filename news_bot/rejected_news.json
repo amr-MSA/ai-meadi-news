@@ -17018,5 +17018,119 @@
     },
     "rejected_at": "2026-09-21T18:27:53.351346+00:00",
     "details": {}
+  },
+  {
+    "title": "Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)",
+    "link": "https://www.techmeme.com/260921/p51#a260921p51",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs &nbsp; &mdash;&nbsp; The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI's GPT-4 to do specialized work for lawyers.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T21:20:17.294233+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ (Maureen Farrell/New York Times)",
+    "link": "https://www.techmeme.com/260921/p50#a260921p50",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Maureen Farrell / New York Times : Sources: SoftBank's SB Energy has delayed its IPO, originally planned for this month, as investors question the company's sought-after valuation of $50B+ &nbsp; &mdash;&nbsp; Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T21:20:17.304190+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: MoA – Attention kernel proven minimal before code was written",
+    "link": "https://github.com/womenflyplanes/moa-attention-verified-mullin",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/womenflyplanes/moa-attention-verified-mullin Comments URL: https://news.ycombinator.com/item?id=49793313 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T21:20:17.311124+00:00",
+    "details": {}
+  },
+  {
+    "title": "What Does This Assembly Code Do?",
+    "link": "https://www.pagetable.com/301",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.pagetable.com/301 Comments URL: https://news.ycombinator.com/item?id=49792395 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T21:20:17.316882+00:00",
+    "details": {}
+  },
+  {
+    "title": "How it feels watching prices go up",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wmga1r/how_it_feels_watching_prices_go_up/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Hyacin75 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T21:20:17.322575+00:00",
+    "details": {}
+  },
+  {
+    "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wmnw89/xiaomimimomimov26flashrl_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Bestlife73 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-21T21:20:17.329093+00:00",
+    "details": {}
   }
 ]
