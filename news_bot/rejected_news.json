@@ -17379,5 +17379,100 @@
     },
     "rejected_at": "2026-09-22T12:55:14.369122+00:00",
     "details": {}
+  },
+  {
+    "title": "Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset (David Gewirtz/ZDNET)",
+    "link": "https://www.techmeme.com/260922/p41#a260922p41",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "David Gewirtz / ZDNET : Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset &nbsp; &mdash;&nbsp; Anthropic's newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T17:49:14.962438+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI says it plans to let third-party groups conduct technical safety evaluations of its AI models during the training, evaluation, and deployment phases (Rachel Metz/Bloomberg)",
+    "link": "https://www.techmeme.com/260922/p40#a260922p40",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Rachel Metz / Bloomberg : OpenAI says it plans to let third-party groups conduct technical safety evaluations of its AI models during the training, evaluation, and deployment phases &nbsp; &mdash;&nbsp; OpenAI plans to let third-party groups vet its artificial intelligence models for safety risks in earlier phases of the development cycle &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T17:49:14.971564+00:00",
+    "details": {}
+  },
+  {
+    "title": "AI will be renamed ‘super intelligence’ in all US documents",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wnfo3b/ai_will_be_renamed_super_intelligence_in_all_us/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "For everyone’s situational awareness. This was announced at the UN assembly just a few minutes ago. Lots of search-and-replace scripts incoming. &#32; submitted by &#32; /u/Porespellar [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T17:49:14.983105+00:00",
+    "details": {}
+  },
+  {
+    "title": "Israeli cyber manager accused of remotely accessing cameras, stealing passwords and infiltrating 26 companies",
+    "link": "https://databreaches.net/2026/09/22/israeli-cyber-manager-accused-of-remotely-accessing-cameras-stealing-passwords-and-infiltrating-26-companies/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Amir Kurz recently reported: Three weeks after his arrest, the State Attorney’s Office’s Cyber Department on Thursday filed a major indictment against Michael “Miki” Bar, a 43-year-old hacker from Ashkelon who served as Chief Information Security Officer for the Hamat Group. The group itself has no connection to the charges. According to the indictment, Bar... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T17:49:14.990089+00:00",
+    "details": {}
+  },
+  {
+    "title": "Spokane Public Schools takes some systems offline after ‘network security incident’",
+    "link": "https://databreaches.net/2026/09/22/spokane-public-schools-takes-some-systems-offline-after-network-security-incident/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Shannon Moudy reports: Some systems are offline Monday after Spokane Public Schools says it experienced an overnight &#8216;network security incident.&#8217; In an email sent to families Monday, the district says the situation is being investigated. &#8220;Out of an abundance of caution, we have chosen to take several of our systems offline. As a result, families... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T17:49:14.996953+00:00",
+    "details": {}
   }
 ]
