@@ -17474,5 +17474,81 @@
     },
     "rejected_at": "2026-09-22T17:49:14.996953+00:00",
     "details": {}
+  },
+  {
+    "title": "Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores (Axel Metz/TechRadar)",
+    "link": "https://www.techmeme.com/260922/p51#a260922p51",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Axel Metz / TechRadar : Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores &nbsp; &mdash;&nbsp; Extreme by name, extreme by nature&nbsp; &mdash;&nbsp; Qualcomm has announced not one, but two new flagship mobile chipsets at its annual Snapdragon Summit &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T20:37:30.531581+00:00",
+    "details": {}
+  },
+  {
+    "title": "San Francisco sues Trump Media & Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market (Heather Knight/New York Times)",
+    "link": "https://www.techmeme.com/260922/p50#a260922p50",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Heather Knight / New York Times : San Francisco sues Trump Media &amp; Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market &nbsp; &mdash;&nbsp; The city attorney argued that the service, available for up to $100,000 a month, could allow wealthy traders to manipulate the market &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T20:37:30.548379+00:00",
+    "details": {}
+  },
+  {
+    "title": "New 6B image model coming, AntLing just open sourced the Ming-Image-0.1-Design family",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wnipcz/new_6b_image_model_coming_antling_just_open/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "• Ming-Image-0.1-Design, 6B • Ming-Image-0.1-Design-Layer, 6B • Two open-source Agent Skills: the Ling UI Design Skill and the Image-to-Editable-PPT Skill Ming-Image-0.1-Design ranks #1 among open-weight models on Artificial Analysis’s UI/UX Design leaderboard. https://huggingface.co/inclusionAI/Ming-Image-0.1-Design https://huggingface.co/inclusionAI/Ming-Image-0.1-Design-Layer &#32; submitted by",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T20:37:30.561118+00:00",
+    "details": {}
+  },
+  {
+    "title": "ShinyHunters escalates dispute with FBI; claims to have seized job applicants’ site and acquired data",
+    "link": "https://databreaches.net/2026/09/22/shinyhunters-escalates-dispute-with-fbi-claims-to-have-seized-job-applicants-site-and-acquired-data/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Joseph Cox reports: A high profile hacking group claims it has breached multiple FBI-related services and stolen data “on all FBI employees and applicants.” A representative of the group, called ShinyHunters, told 404 Media the data includes FBI agents’ names, home addresses, phone number, and information on their spouse. The data breach could be massively... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T20:37:30.583758+00:00",
+    "details": {}
   }
 ]
