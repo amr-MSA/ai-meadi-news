@@ -17170,5 +17170,176 @@
     },
     "rejected_at": "2026-09-22T00:21:27.585046+00:00",
     "details": {}
+  },
+  {
+    "title": "akitaonrails/ai-memory",
+    "link": "https://github.com/akitaonrails/ai-memory",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding agent already has a memory feature. Claude Code takes its own",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T06:59:24.452245+00:00",
+    "details": {}
+  },
+  {
+    "title": "mvt-project/mvt",
+    "link": "https://github.com/mvt-project/mvt",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. https://mvt.re Mobile Verification Toolkit Important We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757 Mobile Verific",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T06:59:24.485139+00:00",
+    "details": {}
+  },
+  {
+    "title": "zhouxiaoka/autoclip",
+    "link": "https://github.com/zhouxiaoka/autoclip",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 https://zhouxiaoka.github.io/autoclip_intro/ AutoClip 把长视频变成值得分享的精彩片段。 简体中文 · English · 日本語 · 한국어 · Español · Português · Русский · Français 项目网站 · 反馈问题 桌面安装包: macOS · Apple Silicon · Windows · x64 安装与第一次出片 · 完整排错指南 自 v1.3.1 起，产品界面、官网和 README 均支持中、英、日、韩、西、葡、俄、法。顶栏可切换界面语言或跟随系统；用户素材和生成内容保留原文。 AutoClip 用 AI 分析视频字幕、定位高光、生",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T06:59:24.493532+00:00",
+    "details": {}
+  },
+  {
+    "title": "Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components (TechCrunch)",
+    "link": "https://www.techmeme.com/260922/p5#a260922p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "TechCrunch : Dutch nanoimprint lithography startup Morphotonics raised &euro;40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components &nbsp; &mdash;&nbsp; The Netherlands' ASML is possibly the biggest name in lithography, using its machines to etch patterns onto silicon wafers inside &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T06:59:51.729292+00:00",
+    "details": {}
+  },
+  {
+    "title": "Belgium-based AI recruitment platform Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, bringing total funding to $24M (Chris Metinko/Axios)",
+    "link": "https://www.techmeme.com/260922/p4#a260922p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Chris Metinko / Axios : Belgium-based AI recruitment platform Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, bringing total funding to $24M &nbsp; &mdash;&nbsp; Spott, a recruitment management platform, raised a $21 million Series A led by Balderton Capital, CEO Lander Degreve tells Axios Pro exclusively.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T06:59:51.746338+00:00",
+    "details": {}
+  },
+  {
+    "title": "Be the first human to review your own code",
+    "link": "https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/ Comments URL: https://news.ycombinator.com/item?id=49797464 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T06:59:51.756483+00:00",
+    "details": {}
+  },
+  {
+    "title": "Rust code faster than SOTA libraries by asking agents to make the code faster",
+    "link": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://minimaxir.com/2026/09/agentic-iteration/ Comments URL: https://news.ycombinator.com/item?id=49797248 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T06:59:51.768151+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen 4 Announced at Apsara Conference",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://preview.redd.it/bpbc9i6hizqh1.png?width=1270&amp;format=png&amp;auto=webp&amp;s=e8aa8301895735a05c3c61a5e793018a23d1cac5 I wanted to share a quick update: Alibaba has officially announced Qwen 4 at the Apsara Conference, &#32; submitted by &#32; /u/Salah_H_Hasan [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T06:59:51.777911+00:00",
+    "details": {}
+  },
+  {
+    "title": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wmyh9z/alibaba_plans_ai_model_with_5_trillion_to_10/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/tengo_harambe [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T06:59:51.790005+00:00",
+    "details": {}
   }
 ]
