@@ -17341,5 +17341,43 @@
     },
     "rejected_at": "2026-09-22T06:59:51.790005+00:00",
     "details": {}
+  },
+  {
+    "title": "Alphabet-owned robotics software company Intrinsic open-sources Intrinsic Core under Apache 2.0, giving developers building blocks for physical AI systems (Mike Wheatley/SiliconANGLE)",
+    "link": "https://www.techmeme.com/260922/p24#a260922p24",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mike Wheatley / SiliconANGLE : Alphabet-owned robotics software company Intrinsic open-sources Intrinsic Core under Apache 2.0, giving developers building blocks for physical AI systems &nbsp; &mdash;&nbsp; Intrinsic Innovation LLC, the intelligent robotics software company owned by Google LLC's parent Alphabet Inc. &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T12:55:14.353032+00:00",
+    "details": {}
+  },
+  {
+    "title": "Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)",
+    "link": "https://www.techmeme.com/260922/p23#a260922p23",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Olivia Poh / Bloomberg : Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ &nbsp; &mdash;&nbsp; Heidi, an artificial intelligence startup which helps doctors automate clinical notes and other administrative work &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T12:55:14.369122+00:00",
+    "details": {}
   }
 ]
