@@ -17550,5 +17550,119 @@
     },
     "rejected_at": "2026-09-22T20:37:30.583758+00:00",
     "details": {}
+  },
+  {
+    "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)",
+    "link": "https://www.techmeme.com/260922/p57#a260922p57",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Maria Deutscher / SiliconANGLE : Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital &nbsp; &mdash;&nbsp; Firecrawl Inc., a provider of web scraping tools for artificial intelligence agents, today announced that it has raised $75 million in funding.&nbsp; &mdash;&nbsp; Los Angeles-based venture capital firm Smash Ventures led the Series B round.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T23:54:27.238132+00:00",
+    "details": {}
+  },
+  {
+    "title": "Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device (Julian Chokkattu/Wired)",
+    "link": "https://www.techmeme.com/260922/p56#a260922p56",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Julian Chokkattu / Wired : Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device &nbsp; &mdash;&nbsp; Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T23:54:27.247169+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Open-source Express-like HTTP server in C++",
+    "link": "https://amsozzer.com/projects/plusweb",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hey guys, I made an open-source Express like non blocking HTTP Server library in C++. Starting a new web server is as simple as initiating the app with the desired port (8080 default) and start registering routes. #include HttpServer.h> int main() { HttpServer app(3000); app.GET(\"users/:id\", [](HttpRequest& req, HttpResponse& res) { res.status(200).send(nlohmann::json{ {\"id\", req.params[\"id\"]}, {\"",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T23:54:27.253017+00:00",
+    "details": {}
+  },
+  {
+    "title": "My Claude Code setup (11 commands, 3 agents) + shared Meta \"design third brain\"",
+    "link": "https://johnmaartifacts.substack.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://johnmaartifacts.substack.com/ Comments URL: https://news.ycombinator.com/item?id=49808554 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T23:54:27.259402+00:00",
+    "details": {}
+  },
+  {
+    "title": "My local llm when I tell it to do any changes to my vLLM service",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "better make no mistakes I've been running Qwen 3.8 Flash Next and it's a great driver for Hermes and Pi. I told it to add CUDA_DISABLE_PERF_BOOST=1 to reduce my server's idle power draw &#32; submitted by &#32; /u/ZaltyDog [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T23:54:27.265299+00:00",
+    "details": {}
+  },
+  {
+    "title": "Elsevier Evolve, ClinicalPharmacology, and GSDD APIs Hijacked: LAPSUS$ Redirect Campaign",
+    "link": "https://databreaches.net/2026/09/22/elsevier-evolve-clinicalpharmacology-and-gsdd-apis-hijacked-lapsus-redirect-campaign/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Sorami Consulting reports: Users and systems trying to connect to Elsevier Evolve, Sherpath, and ClinicalPharmacology are being redirected to extortion splash pages tied to LAPSUS$ (pointing to domains including lapsus[.]ar[.]io and lapsus[.]bz). While public discussion on Reddit is dominated by nursing and medical students locked out of exams and simulation charting, the real blast radius... Sour",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T23:54:27.277993+00:00",
+    "details": {}
   }
 ]
