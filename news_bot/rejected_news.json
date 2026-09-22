@@ -17132,5 +17132,43 @@
     },
     "rejected_at": "2026-09-21T21:20:17.329093+00:00",
     "details": {}
+  },
+  {
+    "title": "Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260921/p55#a260921p55",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Kelly Cloonan / Wall Street Journal : Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay &nbsp; &mdash;&nbsp; Shopify plans to allow Meta's personal AI agent to complete purchases on behalf of users with the e-commerce platform's roster of stores",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T00:21:27.572094+00:00",
+    "details": {}
+  },
+  {
+    "title": "A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)",
+    "link": "https://www.techmeme.com/260921/p54#a260921p54",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dan Goodin / Ars Technica : A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account &nbsp; &mdash;&nbsp; Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-22T00:21:27.585046+00:00",
+    "details": {}
   }
 ]
