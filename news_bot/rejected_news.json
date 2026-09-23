@@ -17664,5 +17664,100 @@
     },
     "rejected_at": "2026-09-22T23:54:27.277993+00:00",
     "details": {}
+  },
+  {
+    "title": "Xbox has become a shell of its former self, weighed down by job cuts and studio closures, as it focuses on franchises like Halo and reaching \"a billion people\" (Andrew Webster/The Verge)",
+    "link": "https://www.techmeme.com/260922/p60#a260922p60",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Andrew Webster / The Verge : Xbox has become a shell of its former self, weighed down by job cuts and studio closures, as it focuses on franchises like Halo and reaching &ldquo;a billion people&rdquo; &nbsp; &mdash;&nbsp; &#65279;The latest changes at Microsoft's gaming division signal a further retreat from the Xbox brand.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T02:13:29.899013+00:00",
+    "details": {}
+  },
+  {
+    "title": "Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more (Anna Washenko/Engadget)",
+    "link": "https://www.techmeme.com/260922/p59#a260922p59",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anna Washenko / Engadget : Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more &nbsp; &mdash;&nbsp; It will offer several privacy-focused options for users who aren't automatically confirmed as adults.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T02:13:29.912337+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open-source social media scheduler",
+    "link": "https://cogsend.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://cogsend.com/ Comments URL: https://news.ycombinator.com/item?id=49810515 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T02:13:29.919980+00:00",
+    "details": {}
+  },
+  {
+    "title": "Z.ai uploading local code repos to overseas cloud without consent",
+    "link": "https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue-2026-09-21/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue-2026-09-21/ Comments URL: https://news.ycombinator.com/item?id=49810164 Points: 1 # Comments: 3",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T02:13:29.928728+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen image 2.1 (Fast FP8) generates premium quality images",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhq8d/qwen_image_21_fast_fp8_generates_premium_quality/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Don't know how they did it, but for under 10GB model, the results are astonishing. I am running it on Unsloth Studio. They just released the update, so if you are not seeing the option, I recommend updating your Unsloth Studio. Cheers! &#32; submitted by &#32; /u/108er [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T02:13:29.947464+00:00",
+    "details": {}
   }
 ]
