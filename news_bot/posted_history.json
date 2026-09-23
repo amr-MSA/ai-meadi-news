@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: a group of 10 banks is providing a $22B loan to Blackstone and Alphabet's venture Crux AI, which provides compute for AI labs, to fund TPU purchases (Bloomberg)",
-    "link": "https://www.techmeme.com/260916/p47#a260916p47",
-    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن مجموعة تضم 10 بنوك تستعد لتقديم تمويل بقيمة 22 مليار دولار للمشروع السحابي Crux AI، التابع لشركتي Alphabet وBlackstone، بهدف تمويل شراء وحدات معالجة الموتر (TPU) وتوفير البنية التحتية الحوسبية لمختبرات الذكاء الاصطناعي.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "crux-ai-alphabet-blackstone-22b-loan",
-    "event_key": "alphabet|2026 09|سحابة ومراكز بيانات|tpu|أمريكا الشمالية",
-    "company_name": "Alphabet",
-    "event_year_month": "2026-09",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "TPU",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Crux AI",
-      "Alphabet",
-      "Blackstone",
-      "TPU",
-      "AI Compute"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-16T22:28:02.186284+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 189,
-    "telegram_message_url": "https://t.me/Eng_limitless/189"
-  },
-  {
     "title": "Lucid and Bolt sign an initial agreement to deploy a fleet of 25K+ robotaxis in Europe built on Lucid's affordable EV platform, set to launch as soon as 2028 (Financial Times)",
     "link": "https://www.techmeme.com/260917/p27#a260917p27",
     "summary": "كشفت تقارير صحفية أن شركتي لوسيد (Lucid) وبولت (Bolt) وقعتا اتفاقاً أولياً لنشر أسطول يضم أكثر من 25 ألف سيارة أجرة ذاتية القيادة (Robotaxi) في أوروبا، بالاعتماد على منصة لوسيد للسيارات الكهربائية الاقتصادية، مع استهداف البدء في إطلاق الخدمة بحلول عام 2028.",

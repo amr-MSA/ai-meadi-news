@@ -18139,5 +18139,62 @@
     },
     "rejected_at": "2026-09-23T19:18:31.204067+00:00",
     "details": {}
+  },
+  {
+    "title": "Microsoft plans to invest more than $10B through 2030 in Saudi Arabia, Kuwait, Qatar, and the UAE, including a $7.9B UAE investment it announced last year (Mark Bergen/Bloomberg)",
+    "link": "https://www.techmeme.com/260923/p42#a260923p42",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mark Bergen / Bloomberg : Microsoft plans to invest more than $10B through 2030 in Saudi Arabia, Kuwait, Qatar, and the UAE, including a $7.9B UAE investment it announced last year &nbsp; &mdash;&nbsp; Microsoft Corp. pledged about $2 billion in additional spending in the Middle East, providing the first significant update on its business &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T22:32:50.975162+00:00",
+    "details": {}
+  },
+  {
+    "title": "Colorado-based Enveda, which uses AI to discover new drugs in the natural world, raised a $311M Series E at a $2B valuation, double its valuation a year ago (Marina Temkin/TechCrunch)",
+    "link": "https://www.techmeme.com/260923/p41#a260923p41",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Marina Temkin / TechCrunch : Colorado-based Enveda, which uses AI to discover new drugs in the natural world, raised a $311M Series E at a $2B valuation, double its valuation a year ago &nbsp; &mdash;&nbsp; Enveda, a biotech startup that uses AI to discover new drugs in the natural world, has raised a $311 million Series E at a $2 billion valuation.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T22:32:50.992862+00:00",
+    "details": {}
+  },
+  {
+    "title": "Canva hacked via vendor’s Salesforce instance; Other customers affected as well",
+    "link": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "A new dedicated leak site by threat actors calling themselves &#8220;The Seven Deadly Sins&#8221; lists Canva Pty Ltd among the sites that haven&#8217;t paid them. DataBreaches obtained additional details on the incident and this new group. Attack on Canva A spokesperson for The Seven Deadly Sins (TSDS) informed DataBreaches that on August 28, TSDS attacked... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T22:32:51.030463+00:00",
+    "details": {}
   }
 ]
