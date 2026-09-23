@@ -17759,5 +17759,176 @@
     },
     "rejected_at": "2026-09-23T02:13:29.947464+00:00",
     "details": {}
+  },
+  {
+    "title": "agent-substrate/substrate",
+    "link": "https://github.com/agent-substrate/substrate",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Agent Substrate: the core system Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program . What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-bu",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T08:54:06.912849+00:00",
+    "details": {}
+  },
+  {
+    "title": "dream-num/univer",
+    "link": "https://github.com/dream-num/univer",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. https://docs.univer.ai The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T08:54:06.922582+00:00",
+    "details": {}
+  },
+  {
+    "title": "davila7/claude-code-templates",
+    "link": "https://github.com/davila7/claude-code-templates",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "CLI tool for configuring and monitoring Claude Code https://aitmpl.com &nbsp;&nbsp; &nbsp;&nbsp; Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. # Install the Bright Data Skills + MCP for Claude Code npx claude-code-templates@latest --skill web-data/search,web-d",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T08:54:06.932241+00:00",
+    "details": {}
+  },
+  {
+    "title": "google/ax",
+    "link": "https://github.com/google/ax",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Google's open agentic orchestration runtime https://agentexecutor.io AX Warning We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway specifications. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale. A",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T08:54:06.940974+00:00",
+    "details": {}
+  },
+  {
+    "title": "superdesigndev/treg",
+    "link": "https://github.com/superdesigndev/treg",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn https://treg.to Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and trends, people and company enrichment, ads, scraping, image and video genera",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T08:54:06.959451+00:00",
+    "details": {}
+  },
+  {
+    "title": "Chinese chip foundry CanSemi, focused on automotive, industrial, and IoT chips, files for an IPO on Shenzhen stock exchange's ChiNext, seeking to raise ~$919M (Sangmi Cha/Bloomberg)",
+    "link": "https://www.techmeme.com/260923/p9#a260923p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sangmi Cha / Bloomberg : Chinese chip foundry CanSemi, focused on automotive, industrial, and IoT chips, files for an IPO on Shenzhen stock exchange's ChiNext, seeking to raise ~$919M &nbsp; &mdash;&nbsp; Chinese chip foundry CanSemi Technology Inc. is seeking to raise about 6.16 billion yuan ($919 million) in an initial public offering &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T08:55:02.731869+00:00",
+    "details": {}
+  },
+  {
+    "title": "NADI, a new DARPA-like Dutch government agency, launches a €40M challenge to accelerate chip design with AI in collaboration with its German counterpart SPRIND (Toby Sterling/Reuters)",
+    "link": "https://www.techmeme.com/260923/p8#a260923p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Toby Sterling / Reuters : NADI, a new DARPA-like Dutch government agency, launches a &euro;40M challenge to accelerate chip design with AI in collaboration with its German counterpart SPRIND &nbsp; &mdash;&nbsp; A new Dutch government agency set up to achieve strategic innovation will work with its German counterpart to pursue breakthroughs &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T08:55:02.750040+00:00",
+    "details": {}
+  },
+  {
+    "title": "Pirate Face - pirate bay for LLMs",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "The title says for itself In case someone desides to censor huggingface, we'll have an alternative &#32; submitted by &#32; /u/Atagor [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T08:55:02.759965+00:00",
+    "details": {}
+  },
+  {
+    "title": "GGUFs in transformers natively!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxm0r/ggufs_in_transformers_natively/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hey there folks! Aritra here from Hugging Face. I wanted to update you all about the latest changes in `transformers`. We now natively support GGUFs (llama cpp quants). You can use it like so: from transformers import AutoModelForCausalLM, AutoTokenizer model_id = &quot;unsloth/Qwen3.5-4B-GGUF&quot; filename = &quot;Qwen3.5-4B-Q4_K_M.gguf&quot; model = AutoModelForCausalLM.from_pretrained( model_i",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T08:55:02.769535+00:00",
+    "details": {}
   }
 ]
