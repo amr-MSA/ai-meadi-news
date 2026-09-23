@@ -18044,5 +18044,100 @@
     },
     "rejected_at": "2026-09-23T14:30:44.127175+00:00",
     "details": {}
+  },
+  {
+    "title": "OpenAI says ChatGPT Voice can now be powered by GPT-6 Astra, Sol, and Luna, use plugins like email and calendar, and be used in ChatGPT Work on web and mobile (@openai)",
+    "link": "https://www.techmeme.com/260923/p35#a260923p35",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "@openai : OpenAI says ChatGPT Voice can now be powered by GPT-6 Astra, Sol, and Luna, use plugins like email and calendar, and be used in ChatGPT Work on web and mobile &nbsp; &mdash;&nbsp; We heard you loud and clear. ChatGPT Voice can now: - Use plugins like your email, calendar, and Slack. - Be powered by GPT-6 Astra, Sol, and Luna. - Be used in ChatGPT Work on web and mobile, so you can create",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T19:18:31.138923+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab (Robert Hart/The Verge)",
+    "link": "https://www.techmeme.com/260923/p34#a260923p34",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Robert Hart / The Verge : Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab &nbsp; &mdash;&nbsp; It took nearly 1,000 Claude agents 21 hours and 210 million tokens to uncover the &lsquo;novel enzyme system.&rsquo;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T19:18:31.155986+00:00",
+    "details": {}
+  },
+  {
+    "title": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I keep seeing Jev presented as some new class of decision model, but most of what’s being advertised is just normal classifier behavior with modern zero-shot capabilities. It outputs probabilities over constrained choices, doesn’t generate autoregressively, can’t output an invalid class, and can use labels defined at inference time. None of that is new. Zero-shot/NLI classifiers, embedding models,",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T19:18:31.182632+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ryuk Ransomware Operator Sentenced to 24 Months in Prison",
+    "link": "https://databreaches.net/2026/09/23/ryuk-ransomware-operator-sentenced-to-24-months-in-prison/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Abinaya reports: An Armenian national extradited from Ukraine to the United States has been sentenced to federal prison for his role in Ryuk ransomware attacks that targeted organizations worldwide, including a company in Oregon. Karen Vardanyan, 35, received a 24-month federal prison sentence followed by 3 years of supervised release, according to the U.S. Attorney’s... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T19:18:31.193234+00:00",
+    "details": {}
+  },
+  {
+    "title": "Latvia arrests suspected hacker for electronics repair company breach",
+    "link": "https://databreaches.net/2026/09/23/latvia-arrests-suspected-hacker-for-electronics-repair-company-breach/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Daryna Antoniuk reports: Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims, authorities said Wednesday. The first attack was detected in February, while a second — using similar methods — was discovered in early September at TSC, an electronics repair... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T19:18:31.204067+00:00",
+    "details": {}
   }
 ]
