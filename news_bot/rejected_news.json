@@ -17930,5 +17930,119 @@
     },
     "rejected_at": "2026-09-23T08:55:02.769535+00:00",
     "details": {}
+  },
+  {
+    "title": "Seattle-based satellite startup Hubble, which is working to enable global Bluetooth connectivity, raised $200M at a $1.6B valuation, for $300M in total funding (Sana Pashankar/Bloomberg)",
+    "link": "https://www.techmeme.com/260923/p25#a260923p25",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sana Pashankar / Bloomberg : Seattle-based satellite startup Hubble, which is working to enable global Bluetooth connectivity, raised $200M at a $1.6B valuation, for $300M in total funding &nbsp; &mdash;&nbsp; Satellite startup Hubble Network raised $200 million in a new funding round, taking the company's valuation to $1.6 billion &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T14:30:44.050603+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sony Music becomes the first music company to join ARIAM, which advocates for responsible AI adoption in the creative industry and includes the NYT and Disney (Corbin Bolies/Variety)",
+    "link": "https://www.techmeme.com/260923/p24#a260923p24",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Corbin Bolies / Variety : Sony Music becomes the first music company to join ARIAM, which advocates for responsible AI adoption in the creative industry and includes the NYT and Disney &nbsp; &mdash;&nbsp; Sony Music Group has joined the Alliance for Responsible Innovation in the Arts &amp; Media (ARIAM), becoming the first music company &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T14:30:44.067309+00:00",
+    "details": {}
+  },
+  {
+    "title": "Laya-mlx and 12 more trending open-source AI repos · week 39, 2026",
+    "link": "https://news.ycombinator.com/item?id=49816729",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "https://thezakulo.com/weekly/2026-w39/ This week's trending open-source AI on GitHub — laya-mlx, awesome-jev, awesome-jev-tools, and more Comments URL: https://news.ycombinator.com/item?id=49816729 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T14:30:44.080077+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: UsageBar – A Windows tray app for monitoring Claude Code usage",
+    "link": "https://github.com/hsnsdt/usagebar",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/hsnsdt/usagebar Comments URL: https://news.ycombinator.com/item?id=49816102 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T14:30:44.092245+00:00",
+    "details": {}
+  },
+  {
+    "title": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Jev is a paid product that dumped a lot of venture capitol money into shill their product here and in other subreddits. Obvious shill posts are obvious. &#32; submitted by &#32; /u/Acrobatic_Stress1388 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T14:30:44.105228+00:00",
+    "details": {}
+  },
+  {
+    "title": "The EU spent billions on a cyberattack shield — nobody checked if it worked",
+    "link": "https://databreaches.net/2026/09/23/the-eu-spent-billions-on-a-cyberattack-shield-nobody-checked-if-it-worked/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The EU built an early-warning system to catch the next major cyberattack before it spreads. Roughly 20 months later, auditors have found it still is not fully switched on. Jonathan Bent reports: Brussels has allocated €1.4 billion to defending Europe from cyberattacks. Its own auditors found that when that funding is passed on to third... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-23T14:30:44.127175+00:00",
+    "details": {}
   }
 ]
