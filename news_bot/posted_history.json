@@ -146,5 +146,31 @@
     "reliability_level": "🟢",
     "telegram_message_id": 193,
     "telegram_message_url": "https://t.me/Eng_limitless/193"
+  },
+  {
+    "title": "Sources: Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes (The Information)",
+    "link": "https://www.techmeme.com/260924/p50#a260924p50",
+    "summary": "كشفت تقارير صحفية استناداً إلى مصادر مطلعة أن شركة أنثروبيك طلبت من المساهمين الاعتماد لهيكل حوكمة جديد يمنح المؤسسين السبعة 50.1% من القوة التصويتية بشرط احتفاظ ثلاثة منهم بالحد الأدنى من الأسهم، وذلك لضمان التحكم في القرارات الاستراتيجية للشركة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "anthropic-voting-structure-founders-control",
+    "event_key": "anthropic|2026 09|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "company_name": "Anthropic",
+    "event_year_month": "2026-09",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Anthropic",
+      "Dario Amodei",
+      "حقوق التصويت",
+      "حوكمة الشركات"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-24T22:48:38.144782+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 194,
+    "telegram_message_url": "https://t.me/Eng_limitless/194"
   }
 ]
