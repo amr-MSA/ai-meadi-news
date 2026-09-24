@@ -18196,5 +18196,62 @@
     },
     "rejected_at": "2026-09-23T22:32:51.030463+00:00",
     "details": {}
+  },
+  {
+    "title": "YouTube CEO Neal Mohan dismisses the idea of joining Meta's multistate child safety settlement, saying YouTube already has measures to protect young users (Clare Duffy/CNN)",
+    "link": "https://www.techmeme.com/260923/p59#a260923p59",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Clare Duffy / CNN : YouTube CEO Neal Mohan dismisses the idea of joining Meta's multistate child safety settlement, saying YouTube already has measures to protect young users &nbsp; &mdash;&nbsp; YouTube CEO Neal Mohan dismissed the idea of joining Meta's multistate settlement agreement around child safety &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T02:00:10.489304+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: the Trump administration is considering an initiative to promote use of dollar-denominated stablecoins overseas, including via JVs with private firms (Bloomberg)",
+    "link": "https://www.techmeme.com/260923/p58#a260923p58",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: the Trump administration is considering an initiative to promote use of dollar-denominated stablecoins overseas, including via JVs with private firms &nbsp; &mdash;&nbsp; The Trump administration is considering an initiative to promote the use of dollar-denominated stablecoins overseas &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T02:00:10.505643+00:00",
+    "details": {}
+  },
+  {
+    "title": "FBI Hack Exposed FBI’s Own Hacking Unit",
+    "link": "https://databreaches.net/2026/09/23/fbi-hack-exposed-fbis-own-hacking-unit/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Joseph Cox reports: The catastrophic hack of at least thousands of FBI officials’ personal data, including their addresses, phone numbers, and even their spouses, includes members of the FBI’s secretive hacking team, potentially revealing who exactly is in that unit, 404 Media has found. The findings further highlight how sensitive the stolen data is, and... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T02:00:10.542114+00:00",
+    "details": {}
   }
 ]
