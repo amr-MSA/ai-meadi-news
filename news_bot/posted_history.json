@@ -1,32 +1,5 @@
 [
   {
-    "title": "Lucid and Bolt sign an initial agreement to deploy a fleet of 25K+ robotaxis in Europe built on Lucid's affordable EV platform, set to launch as soon as 2028 (Financial Times)",
-    "link": "https://www.techmeme.com/260917/p27#a260917p27",
-    "summary": "كشفت تقارير صحفية أن شركتي لوسيد (Lucid) وبولت (Bolt) وقعتا اتفاقاً أولياً لنشر أسطول يضم أكثر من 25 ألف سيارة أجرة ذاتية القيادة (Robotaxi) في أوروبا، بالاعتماد على منصة لوسيد للسيارات الكهربائية الاقتصادية، مع استهداف البدء في إطلاق الخدمة بحلول عام 2028.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "lucid-bolt-robotaxi-europe-deal",
-    "event_key": "lucid motors|2026 09|أعمال وتقنية|غير محدد|أوروبا",
-    "company_name": "Lucid Motors",
-    "event_year_month": "2026-09",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "أوروبا",
-    "keywords": [
-      "Lucid",
-      "Bolt",
-      "Robotaxi",
-      "Europe",
-      "EV"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-17T14:31:14.470425+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 190,
-    "telegram_message_url": "https://t.me/Eng_limitless/190"
-  },
-  {
     "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
     "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
     "summary": "تمكن باحثون أمنيون من تجاوز بيئة العزل (Sandbox) لنموذج الذكاء الاصطناعي OpenAI Codex بأسلوبين مختلفين، مما سمح بتنفيذ أوامر برمجية مباشرة على جهاز المطور المستضيف، حتى في أكثر أوضاع العزل تقييداً، قبل أن تتدارك OpenAI الأمر وتصدر إصلاحاً أمنياً.",
