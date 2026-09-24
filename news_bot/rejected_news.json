@@ -18557,5 +18557,119 @@
     },
     "rejected_at": "2026-09-24T12:59:12.444387+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year (Jeff Stein/The Washington Sun)",
+    "link": "https://www.techmeme.com/260924/p37#a260924p37",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jeff Stein / The Washington Sun : Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year &nbsp; &mdash;&nbsp; The price tag is significantly higher than previously known.&nbsp; &mdash; Copy&nbsp; &mdash;&nbsp; The National Security Agency told lawmakers &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T18:02:33.211475+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+    "link": "https://www.techmeme.com/260924/p36#a260924p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed &nbsp; &mdash;&nbsp; The White House has asked OpenAI and Anthropic not to share their new artificial intelligence models with the U.K. government's testing agency until &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T18:02:33.227464+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen-3.8-27B is good enough that I stopped using API",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Many a praise have been sung on Qwen-3.8, but here is mine. Qwen-3.8 and I had a rocky start, because it thinks so much. Watching it working is painful, so you have to stop doing that. You have to let it work unsupervised. And that's okay, because it really is able to complete complex refactors on its own, making good decisions along the way. Not perfect, but hey, neither is API. The model quant i",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T18:02:33.238704+00:00",
+    "details": {}
+  },
+  {
+    "title": "UkisAI Swift Series / 27B, Flash Next and Bonsai 2 + GSQ-RCO / -63.4% thinking, x1.95 speed with xhigh accuracy",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wp6gal/ukisai_swift_series_27b_flash_next_and_bonsai_2/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hey everyone, Jovan from UkisAI here! Today, we are introducing Swift, a family of efficient reasoning LLMs based on Qwen, trained by penalizing tokens related to pathological overthinking patterns and restoring accuracy via RL (GSPO) and OPD . After amazing feedback and 350k+ downloads in 13 days on our Swift Qwen 3.8 27B we are releasing the entire model family as well as the highly requested GS",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T18:02:33.253291+00:00",
+    "details": {}
+  },
+  {
+    "title": "Stevens Point servers go offline, city officials not sure if caused by a cyberattack",
+    "link": "https://databreaches.net/2026/09/24/stevens-point-servers-go-offline-city-officials-not-sure-if-caused-by-a-cyberattack/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Brandi Makuski reports: Stevens Point officials are investigating a possible cyberattack after several city computer servers went offline early Wednesday, disrupting municipal phone and email services and leaving employees unable to access some city systems. District 4 Councilwoman Andrea Olson said city IT employees notified staff and council members of a cyberattack in a 6:51... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T18:02:33.265360+00:00",
+    "details": {}
+  },
+  {
+    "title": "Kosovar National Pleads Guilty to Operating Cybercrime Marketplace Offering Tools and Products to Cybercriminals",
+    "link": "https://databreaches.net/2026/09/24/kosovar-national-pleads-guilty-to-operating-cybercrime-marketplace-offering-tools-and-products-to-cybercriminals/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "From the DOJ: Ardit Kutleshi, 28, a Kosovar national, pleaded guilty to charges related to his creation and operation of Rydox, an illicit website and marketplace for cybercriminals to buy, sell and trade stolen personal information, and to access devices and other tools for carrying out cybercrime and fraud. “The guilty plea of Ardit Kutleshi... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T18:02:33.277997+00:00",
+    "details": {}
   }
 ]
