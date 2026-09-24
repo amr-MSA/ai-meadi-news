@@ -18443,5 +18443,119 @@
     },
     "rejected_at": "2026-09-24T07:16:33.427775+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 (Bloomberg)",
+    "link": "https://www.techmeme.com/260924/p25#a260924p25",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 &nbsp; &mdash;&nbsp; Oracle Corp. is moving to shield itself from racking up expenses on a massive data center being built in New Mexico &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T12:59:12.392183+00:00",
+    "details": {}
+  },
+  {
+    "title": "ASML's European revenue share dropped to 0% in Q1 and Q2 2026, down from 1% in 2025 and 5% in 2024; ASML is urging EU authorities to create demand for EU chips (Anton Shilov/Tom's Hardware)",
+    "link": "https://www.techmeme.com/260924/p24#a260924p24",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anton Shilov / Tom's Hardware : ASML's European revenue share dropped to 0% in Q1 and Q2 2026, down from 1% in 2025 and 5% in 2024; ASML is urging EU authorities to create demand for EU chips &nbsp; &mdash;&nbsp; Subsidies for fabs do not help. &hellip; As the world's only supplier of EUV lithography systems, ASML is Europe's largest company &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T12:59:12.406595+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Link proof assistant Lean to Claude, fix your code's hidden assumptions",
+    "link": "https://github.com/savarin/lean-agent",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/savarin/lean-agent Comments URL: https://news.ycombinator.com/item?id=49829771 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T12:59:12.416156+00:00",
+    "details": {}
+  },
+  {
+    "title": "Mistral Vibe Shell Permission Bypass Leading to Arbitrary Code Execution",
+    "link": "https://blog.secmate.dev/posts/mistral-vibe-cve-2026-87987-cve-2026-87984/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://blog.secmate.dev/posts/mistral-vibe-cve-2026-87987-cve-2026-87984/ Comments URL: https://news.ycombinator.com/item?id=49829487 Points: 1 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T12:59:12.424918+00:00",
+    "details": {}
+  },
+  {
+    "title": "JEV almost dead: CLM vs JEV",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wouby6/jev_almost_dead_clm_vs_jev/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Original post: https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models/ (sorry I felt it wasn't giving CLM the highlight it deserves) What it is: a new projection head for Qwen3-8B. github: https://github.com/Contrastive-LM/CLM hf: https://huggingface.co/Contrastive-LM At the API and functional interface level, CLM supports everything Jev does—it is not a subset. However,",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T12:59:12.432633+00:00",
+    "details": {}
+  },
+  {
+    "title": "Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wovkw5/folks_have_you_purchased_the_mac_m5_ultra_with/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Ok, so the Mac M5 Ultra (256GB) hit the market, but the only publicly available benchmarks material are flashy YouTube &quot;clown influencers&quot; videos. We need serious numbers to evaluate whether Apple’s silicon can actually compete with Nvidia’s current GPU‑centric workflows or not. Every damn video I watched, it was from somebody who only know the bare basics and use 8b models, like wtf. I",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-24T12:59:12.444387+00:00",
+    "details": {}
   }
 ]
