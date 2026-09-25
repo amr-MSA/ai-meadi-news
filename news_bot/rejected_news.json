@@ -18842,5 +18842,157 @@
     },
     "rejected_at": "2026-09-25T02:16:39.224993+00:00",
     "details": {}
+  },
+  {
+    "title": "vectorize-io/hindsight",
+    "link": "https://github.com/vectorize-io/hindsight",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Hindsight: Agent Memory That Learns https://hindsight.vectorize.io/ Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud What is Hindsight? Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on recalling conversation history. Hindsight is focused on making agents that learn, not just remember. It elimi",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T09:10:26.892525+00:00",
+    "details": {}
+  },
+  {
+    "title": "NVIDIA/Model-Optimizer",
+    "link": "https://github.com/NVIDIA/Model-Optimizer",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. https://nvidia.github.io/Model-Optimizer/ NVIDIA Model Optimizer Documentation | Roadmap | Announcement Bl",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T09:10:26.916613+00:00",
+    "details": {}
+  },
+  {
+    "title": "FxEmbed/FxEmbed",
+    "link": "https://github.com/FxEmbed/FxEmbed",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others https://docs.fxembed.com FxEmbed Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, &amp; more on Discord, Telegram, and others! twitter.com : Add fx before your twitter.com link x.com : Add fixup before your x.com link bsky.app : Add fx befor",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T09:10:26.924442+00:00",
+    "details": {}
+  },
+  {
+    "title": "julyx10/lap",
+    "link": "https://github.com/julyx10/lap",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "An offline-first photo manager for large local libraries https://julyx10.github.io/lap/ Lap - Private Local Photo Manager Open-source desktop photo manager for macOS, Windows, and Linux. English | Deutsch | Français | Español | Português | Русский | 简体中文 | 日本語 | 한국어 Lap is an open-source, local-first photo manager for browsing family albums, finding old photos quickly, and managing large personal",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T09:10:26.969286+00:00",
+    "details": {}
+  },
+  {
+    "title": "leejet/stable-diffusion.cpp",
+    "link": "https://github.com/leejet/stable-diffusion.cpp",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++ stable-diffusion.cpp Diffusion model(SD,Flux,Wan,...) inference in pure C/C++ Note that this project is under active development. API and command-line option may change frequently. 🔥Important News 2026/09/20 🚀 stable-diffusion.cpp adds Day-0 support for Qwen-Image-2.1 2026/08/20 🚀 stable-diffusion.cpp now supports LTX-2.5",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T09:10:26.986300+00:00",
+    "details": {}
+  },
+  {
+    "title": "Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)",
+    "link": "https://www.techmeme.com/260925/p2#a260925p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Louise Lucas / Financial Times : Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT &nbsp; &mdash;&nbsp; It is true that these numbers can hide some sleight of hand&nbsp; &mdash;&nbsp; It would be a brave or foolhardy investor who set out today to build a new Walmart, Uber or Amazon.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T09:10:42.138784+00:00",
+    "details": {}
+  },
+  {
+    "title": "Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push (Reuters)",
+    "link": "https://www.techmeme.com/260925/p1#a260925p1",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push &nbsp; &mdash;&nbsp; When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T09:10:42.152433+00:00",
+    "details": {}
+  },
+  {
+    "title": "M5 Ultra 80Core GLM-5.3-Flash on DwarfStar Speeds",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wpkz0o/m5_ultra_80core_glm53flash_on_dwarfstar_speeds/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I've been playing around with various models on the M5 Ultra 256GB 80-core Mac Studio. These are the results over many rounds of agentic inferencing. I'm happy with the performance. Glad to have the large amount of RAM. But it does feel like the GPU is underpowered for this amount of RAM. I'm wondering if a 512GB unit for AI inference makes sense at all - because the GPU will be the clear bottlene",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T09:10:42.170476+00:00",
+    "details": {}
   }
 ]
