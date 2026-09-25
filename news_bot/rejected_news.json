@@ -18747,5 +18747,100 @@
     },
     "rejected_at": "2026-09-24T22:48:38.221175+00:00",
     "details": {}
+  },
+  {
+    "title": "Massachusetts' gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation (New York Times)",
+    "link": "https://www.techmeme.com/260924/p54#a260924p54",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : Massachusetts' gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation &nbsp; &mdash;&nbsp; In response to a New York Times report on DraftKings, the state's gaming commission said it would evaluate how each company deployed the technology.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T02:16:39.177425+00:00",
+    "details": {}
+  },
+  {
+    "title": "Report: insurers claim hospitals' AI use was responsible for ~$1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims (New York Times)",
+    "link": "https://www.techmeme.com/260924/p53#a260924p53",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : Report: insurers claim hospitals' AI use was responsible for ~$1B in extra expenses in 2024-25, as hospitals collect more patient data and submit larger claims &nbsp; &mdash;&nbsp; The use of artificial intelligence by hospitals and health insurers is escalating their longstanding feud over paying for medical care.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T02:16:39.194182+00:00",
+    "details": {}
+  },
+  {
+    "title": "Zuse: Open-Source Cloud Agents",
+    "link": "https://github.com/swarajbachu/zuse",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/swarajbachu/zuse Comments URL: https://news.ycombinator.com/item?id=49837957 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T02:16:39.204012+00:00",
+    "details": {}
+  },
+  {
+    "title": "It's called Luxir, it's open source from Yonik Seeley",
+    "link": "https://yonik.com/blog/introducing-luxir/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://yonik.com/blog/introducing-luxir/ Comments URL: https://news.ycombinator.com/item?id=49837836 Points: 1 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T02:16:39.215099+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen 3.8 27b be like...",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wpdho8/qwen_38_27b_be_like/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "The user is frustrated — I rambled too much and didn't act. Let's just run the test suite and move on. No more forensics. One command, execute, then report. (Original memo is a casual internal monologue in English. Translating faithfully while preserving the informal, stream-of-consciousness register.) Got it. No more analysis. Running the suite now: &lt;br&gt; (Casual English internal memo, strea",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-25T02:16:39.224993+00:00",
+    "details": {}
   }
 ]
