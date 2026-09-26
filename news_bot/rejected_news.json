@@ -18956,5 +18956,62 @@
     },
     "rejected_at": "2026-09-25T22:55:21.283119+00:00",
     "details": {}
+  },
+  {
+    "title": "A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers (Alexandra Alper/Reuters)",
+    "link": "https://www.techmeme.com/260925/p26#a260925p26",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Alexandra Alper / Reuters : A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers &nbsp; &mdash;&nbsp; A bipartisan group of US lawmakers introduced legislation on Friday to bar the federal government from equipping sensitive government systems &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T02:22:24.995596+00:00",
+    "details": {}
+  },
+  {
+    "title": "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
+    "link": "https://www.techmeme.com/260925/p25#a260925p25",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site &nbsp; &mdash;&nbsp; The company did not learn until recently that its technology had meddled with websites for the Education Department &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T02:22:25.006723+00:00",
+    "details": {}
+  },
+  {
+    "title": "I ran the actual break-even math on buying vs renting an H200 box, and it is not where I expected",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wq672b/i_ran_the_actual_breakeven_math_on_buying_vs/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Every rent-vs-buy thread I read has confident people on both sides, but not many actually show the numbers. So I finally ran the numbers for our own decision. Posting the working here in case it is useful, or feel free to point it out in case someone thinks it's wrong. An 8-GPU HGX H200 server lands somewhere near $320k-$420k, with roughly $370k being a reasonable midpoint. On the rental side, the",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T02:22:25.023374+00:00",
+    "details": {}
   }
 ]
