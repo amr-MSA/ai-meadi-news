@@ -19013,5 +19013,195 @@
     },
     "rejected_at": "2026-09-26T02:22:25.023374+00:00",
     "details": {}
+  },
+  {
+    "title": "paperclipai/paperclip",
+    "link": "https://github.com/paperclipai/paperclip",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The open-source app everyone uses to manage agents at work https://paperclip.ing Quickstart · Docs · GitHub · Discord · Twitter · Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee , Paperclip is the company . Paperclip is a Node.js server and React UI that orchestrates a team of AI agents to run a busi",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:54:05.921412+00:00",
+    "details": {}
+  },
+  {
+    "title": "androoAGI/starnet",
+    "link": "https://github.com/androoAGI/starnet",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. https://github.com/androoAGI/starnet-releases/releases/latest A living pixel-art station where real AI agents do real work. Download · Install guide · Run from source · Docs · Contributing StarNet is a local-first desktop harness where you create AI ag",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:54:05.950345+00:00",
+    "details": {}
+  },
+  {
+    "title": "derv82/wifit3",
+    "link": "https://github.com/derv82/wifit3",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Wifite but USB-only & cross-platform. wifit3 A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. At least one of the supported USB adapters is required . Why? Cross-Platform: Runs identically on Linux, macOS, and Windows. Wireless Driver Heaven: Built-in wireless stack avoids kernel driver versioning hell and Windows' NDIS. Zero Runtime Dependencies: No aircrack-ng or reaver , just pure",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:54:05.957399+00:00",
+    "details": {}
+  },
+  {
+    "title": "kelseyhightower/kubernetes-the-hard-way",
+    "link": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Bootstrap Kubernetes the hard way. No scripts. Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:54:05.965280+00:00",
+    "details": {}
+  },
+  {
+    "title": "shy3130/tick-stock-panel",
+    "link": "https://github.com/shy3130/tick-stock-panel",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 📈 TSP · A股智能量化工作台 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 多数据源能力路由 · 分钟级策略执行 · 全时段异动监控 · AI 对话助手 ✨ 核心功能 · 📸 界面预览 · 🏗️ 技术架构 · 🚀 快速开始 · ⚙️ 配置 · 📚 完整文档 本项目由 RunningHub 提供支持 · 单一接口直连 400+ 主流大模型 · 免费测试 Important 本项目以 个人开源 为主进行开发维护，数据源插件化，可任意接入第三方数据源。仅供学习研究使用。 ⚠️ 本项目谨作为本地量化提供解决思路与方案， 不作为投资软件或者看盘软件 。 明确不做 ：不对标同花顺 / 通达信，不内置「AI 荐股",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:54:05.976027+00:00",
+    "details": {}
+  },
+  {
+    "title": "openbao/openbao",
+    "link": "https://github.com/openbao/openbao",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. https://openbao.org/ OpenBao Please note : We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao-security@lists.openssf.org . Website Mailing List GitHub",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:54:06.004033+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs (Bloomberg)",
+    "link": "https://www.techmeme.com/260926/p6#a260926p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs &nbsp; &mdash;&nbsp; When a group of 15 Google DeepMind employees and alumni met for a breakfast this month in central London, the conversation quickly turned &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:55:03.742233+00:00",
+    "details": {}
+  },
+  {
+    "title": "NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)",
+    "link": "https://www.techmeme.com/260926/p5#a260926p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "AlleyWatch : NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners &nbsp; &mdash;&nbsp; Consumer packaged goods brands operate on razor-thin margins, yet the finance, accounting, trade spend, and operations work that protects &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:55:03.754953+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ling Tiny 3.0 is a glimpse of the future",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I've been playing around with Ling 3.0 Tiny, which is an 8 billion parameter model (MoE, 1B active). And I've had a lot of poignant thoughts as a result. Just for fun, I got it running with llama.cpp on an old laptop. This is a laptop from 2017 with a 7th gen i5 and 8 gigs of RAM, like barely even usable for modern tasks. No VRAM, no GPU. Well, I got Pi running on it and asked it to make a script",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:55:03.763108+00:00",
+    "details": {}
+  },
+  {
+    "title": "Swift 1.5 27b: Swift Qwen just got faster",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wqkb3v/swift_15_27b_swift_qwen_just_got_faster/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Enjoy! Fucking loving it. &#32; submitted by &#32; /u/sleight42 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T08:55:03.771395+00:00",
+    "details": {}
   }
 ]
