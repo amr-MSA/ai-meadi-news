@@ -19564,5 +19564,62 @@
     },
     "rejected_at": "2026-09-26T16:52:59.323523+00:00",
     "details": {}
+  },
+  {
+    "title": "Brazil's Lula da Silva signs an EO banning online betting; app stores and telecom providers must block platforms on Oct. 6; Congress has 120 days to approve it (Reuters)",
+    "link": "https://www.techmeme.com/260926/p13#a260926p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Brazil's Lula da Silva signs an EO banning online betting; app stores and telecom providers must block platforms on Oct. 6; Congress has 120 days to approve it &nbsp; &mdash;&nbsp; Brazil's President Luiz Inacio Lula da Silva on Friday announced a ban on online betting operations in Latin America's largest economy &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T17:31:19.036484+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: YouTube, TikTok, and Meta's Instagram and Facebook decline to run paid ads for Alex Gibney's Musk documentary, citing \"political content\" (Steven Zeitchik/The Hollywood Reporter)",
+    "link": "https://www.techmeme.com/260926/p12#a260926p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Steven Zeitchik / The Hollywood Reporter : Sources: YouTube, TikTok, and Meta's Instagram and Facebook decline to run paid ads for Alex Gibney's Musk documentary, citing &ldquo;political content&rdquo; &nbsp; &mdash;&nbsp; YouTube, TikTok and Meta have all turned down the trailer for the Oct. 9 doc, citing &ldquo;political&rdquo; content.&nbsp; X won't even take Bleecker Street's calls.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T17:31:19.055427+00:00",
+    "details": {}
+  },
+  {
+    "title": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Today I present a fine piece of engineering, carefully assembled inside a custom chipboard chassis: the 2400cc Inference Racer , a.k.a. my winter heater. Power comes from two second-hand AORUS RTX 3090 XTREME WATERFORCE cards. One glows a beautiful teal, the other red. I have no idea why, nor how to change it, so apparently this is now the official color scheme. The whole thing is managed by an in",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-26T17:31:19.069768+00:00",
+    "details": {}
   }
 ]
