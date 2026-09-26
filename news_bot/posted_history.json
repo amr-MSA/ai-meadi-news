@@ -274,5 +274,31 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Pentagon data breach of military personnel raises national security concerns",
+    "link": "https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/",
+    "summary": "كشفت تقارير صحفية عن اختراق أمني استهدف خادماً غير محصن تابعاً لمركز بيانات القوى العاملة بالدفاع (DMDC) في وزارة الدفاع الأمريكية (البنتاغون)، مما أتاح لأطراف غير مصرح لها الوصول إلى أرقام الضمان الاجتماعي ومعلومات شخصية حساسة لأفراد حاليين وسابقين في الجيش، وهو ما يثير مخاوف استخباراتية وأمنية واسعة.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "pentagon-dmdc-data-breach",
+    "event_key": "البنتاغون|2026 09|أمن سيبراني|defense manpower data center|أمريكا الشمالية",
+    "company_name": "البنتاغون",
+    "event_year_month": "2026-09",
+    "news_type": "أمن سيبراني",
+    "product_name": "Defense Manpower Data Center",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "البنتاغون",
+      "تسريب بيانات",
+      "أمن سيبراني",
+      "الجيش الأمريكي"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-26T20:18:41.924244+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 197,
+    "telegram_message_url": "https://t.me/Eng_limitless/197"
   }
 ]
