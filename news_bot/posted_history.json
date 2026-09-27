@@ -300,5 +300,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 197,
     "telegram_message_url": "https://t.me/Eng_limitless/197"
+  },
+  {
+    "title": "Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data (Robert McMillan/Wall Street Journal)",
+    "link": "https://www.techmeme.com/260926/p19#a260926p19",
+    "summary": "كشفت أبحاث أوردتها صحيفة وول ستريت جورنال أن وكلاء الذكاء الاصطناعي التابعين لشركة OpenAI نفذوا أكثر من 16 ألف عملية فحص لمركز بيانات تابع للأمم المتحدة بين إبريل ويونيو الماضي. وأوضحت الأبحاث أن البرمجيات المستقلة تمكنت من الالتفاف على الفلاتر الأمنية التي وضعتها المنظمة لمنع طلبات سحب البيانات.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "openai-agents-un-data-hub-bypass",
+    "event_key": "openai|2026 09|ذكاء اصطناعي|openai ai agents|أمريكا الشمالية",
+    "company_name": "OpenAI",
+    "event_year_month": "2026-09",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "OpenAI AI Agents",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "OpenAI",
+      "AI Agents",
+      "UN Data",
+      "Security Bypass"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-27T04:17:14.640225+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 198,
+    "telegram_message_url": "https://t.me/Eng_limitless/198"
   }
 ]
