@@ -326,5 +326,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 198,
     "telegram_message_url": "https://t.me/Eng_limitless/198"
+  },
+  {
+    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "link": "https://databreaches.net/2026/09/26/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "summary": "كشف بحث أمني أجرته شركة UpGuard عن كشف معلومات شخصية وحساسة للمستخدمين عبر أكثر من 16 ألف قاعدة بيانات مستضافة على منصة التطوير Supabase، وذلك نتيجة سوء إعداد الصلاحيات وتكوين قواعد البيانات من قبل العملاء مما جعلها متاحة للعامة دون الحاجة لاختراق برلمجي.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "supabase-databases-data-exposure-upguard",
+    "event_key": "supabase|2026 09|أمن سيبراني|supabase|دولي",
+    "company_name": "Supabase",
+    "event_year_month": "2026-09",
+    "news_type": "أمن سيبراني",
+    "product_name": "Supabase",
+    "region": "دولي",
+    "keywords": [
+      "Supabase",
+      "UpGuard",
+      "أمن سيبراني",
+      "تسريب بيانات",
+      "قواعد بيانات"
+    ],
+    "month": "2026-09",
+    "posted_at": "2026-09-27T10:58:19.134744+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 199,
+    "telegram_message_url": "https://t.me/Eng_limitless/199"
   }
 ]

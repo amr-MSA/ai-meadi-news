@@ -19469,5 +19469,195 @@
     },
     "rejected_at": "2026-09-27T04:17:14.671850+00:00",
     "details": {}
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "link": "https://github.com/tensorflow/tensorflow",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "An Open Source Machine Learning Framework for Everyone https://tensorflow.org Documentation TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools , libraries , and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications. TensorFlow was originally dev",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:03.431996+00:00",
+    "details": {}
+  },
+  {
+    "title": "block/buzz",
+    "link": "https://github.com/block/buzz",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A hive mind communication platform Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. What is this, really? Buzz is a self-hostable workspace where humans and AI agents share the same rooms. A Buzz community is the workspace a user reaches by",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:03.448662+00:00",
+    "details": {}
+  },
+  {
+    "title": "microsoft/vscode",
+    "link": "https://github.com/microsoft/vscode",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Visual Studio Code https://code.visualstudio.com Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\" Code - OSS \") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here, but we also publish our roadmap , monthly iteration plans , and our endgame plans . This source code is available to e",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:03.455551+00:00",
+    "details": {}
+  },
+  {
+    "title": "anthropics/claude-code-action",
+    "link": "https://github.com/anthropics/claude-code-action",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether responding to @claude mentions, issue assignments, or executing automation tasks with explicit prompts. It supports multiple authentication methods including Anthropic direct",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:03.466918+00:00",
+    "details": {}
+  },
+  {
+    "title": "actions/runner-images",
+    "link": "https://github.com/actions/runner-images",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "GitHub Actions runner images GitHub Actions Runner Images Table of Contents About Available Images Announcements Image Definitions Image Releases Software and Image Support How to Interact with the Repo FAQs About This repository contains the source code used to create the VM images for GitHub-hosted runners used for Actions, as well as for Microsoft-hosted agents used for Azure Pipelines. To buil",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:03.474340+00:00",
+    "details": {}
+  },
+  {
+    "title": "mobile-next/mobile-mcp",
+    "link": "https://github.com/mobile-next/mobile-mcp",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) https://mobilenext.ai Mobile Next - MCP server for Mobile Development and Automation | iOS, Android, Simulator, Emulator, and Real Devices English | 日本語 | 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agnostic interface, elimin",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:03.482221+00:00",
+    "details": {}
+  },
+  {
+    "title": "vercel/next.js",
+    "link": "https://github.com/vercel/next.js",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The React Framework https://nextjs.org Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds. Visit our Learn Next.js course to get started with Next.js. Visit the Next.js Showcase to see more sites built wi",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:03.489373+00:00",
+    "details": {}
+  },
+  {
+    "title": "How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry (Wall Street Journal)",
+    "link": "https://www.techmeme.com/260927/p4#a260927p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wall Street Journal : How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry &nbsp; &mdash;&nbsp; Effective altruism and its fears that AI could wipe out humanity have wielded big influence at Anthropic",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:19.170350+00:00",
+    "details": {}
+  },
+  {
+    "title": "New York City-based HIFI, which provides API infrastructure for stablecoin payments and settlements, raised a $37M Series A led by Left Lane Capital (Brian Danga/The Block)",
+    "link": "https://www.techmeme.com/260927/p3#a260927p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Brian Danga / The Block : New York City-based HIFI, which provides API infrastructure for stablecoin payments and settlements, raised a $37M Series A led by Left Lane Capital &nbsp; &mdash;&nbsp; The funding follows HIFI's role in DTCC's July tokenized-asset trades and a September Visa partnership for stablecoin-funded payouts.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:19.184180+00:00",
+    "details": {}
+  },
+  {
+    "title": "5 items in MiMo-V2.6",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wrf7ac/5_items_in_mimov26/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "3 visible models are 1T, 311B and 9B, let's dream about two more... ;) &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T10:58:19.200883+00:00",
+    "details": {}
   }
 ]
