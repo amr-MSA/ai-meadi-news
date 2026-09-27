@@ -19754,5 +19754,24 @@
     },
     "rejected_at": "2026-09-27T15:56:38.960635+00:00",
     "details": {}
+  },
+  {
+    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+    "source_name": "BleepingComputer",
+    "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T17:28:43.674827+00:00",
+    "details": {}
   }
 ]
