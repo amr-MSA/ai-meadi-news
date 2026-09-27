@@ -19659,5 +19659,100 @@
     },
     "rejected_at": "2026-09-27T10:58:19.200883+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei (Axios)",
+    "link": "https://www.techmeme.com/260927/p7#a260927p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Axios : Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei &nbsp; &mdash;&nbsp; President Trump plans to host Anthropic CEO Dario Amodei at a private White House dinner on Sunday evening, sources familiar told Axios.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T15:56:38.892530+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meta VR Glasses is the product Vision Pro should have been; sources: Apple Vision team is working on a revamped headset, but the work is still on \"life support\" (Mark Gurman/Bloomberg)",
+    "link": "https://www.techmeme.com/260927/p6#a260927p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mark Gurman / Bloomberg : Meta VR Glasses is the product Vision Pro should have been; sources: Apple Vision team is working on a revamped headset, but the work is still on &ldquo;life support&rdquo; &nbsp; &mdash;&nbsp; Apple weighs what to do next with its headset.&nbsp; &mdash;&nbsp; Meta's new VR Glasses are what Apple should have created for its Vision Pro line.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T15:56:38.911840+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Opus 5.5 posts about motion graphics are cool but Qwen 27B made this on a 4090",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Saw the hundreds of tweets where people just keep asking Opus 5.5 for motion graphic videos. Decided to ask qwen to look at them and make its own. Quite amazing what local can achieve. **EDIT** It looks laggy because of reddits .gif limit btw the full high res version (with sound) is here: https://x.com/mkultraware/status/2104192428664127555 Promted and built in: https://github.com/mkultraware/acc",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T15:56:38.925410+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI’s Systems Meddled With U.S. Government Sites",
+    "link": "https://databreaches.net/2026/09/27/openais-systems-meddled-with-u-s-government-sites/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Kate Conger, Ana Swanson, and Cecilia Kang report that OpenAI was behaving somewhat badly again- unless you just view it as a curious child exploring without evil intent? OpenAI’s artificial intelligence went rogue and meddled with the websites for the Education Department, the Commerce Department and the Securities and Exchange Commission this summer without the... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T15:56:38.948813+00:00",
+    "details": {}
+  },
+  {
+    "title": "UK: Ten NHS staff removed over Noah Woods data breach",
+    "link": "https://databreaches.net/2026/09/27/uk-ten-nhs-staff-removed-over-noah-woods-data-breach/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Tom McArthur and Louise Parry report: Ten NHS staff have been removed from duty or suspended after a data breach involving the digital medical records of three-year-old Noah Woods. Launching an &#8220;urgent&#8221; investigation, Dr Martin Mansfield, deputy chief medical officer at East Suffolk and North Essex NHS Foundation Trust, said that any unauthorised access of... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-27T15:56:38.960635+00:00",
+    "details": {}
   }
 ]
