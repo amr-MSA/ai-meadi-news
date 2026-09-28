@@ -1,119 +1,5 @@
 [
   {
-    "title": "[Megathread] GLM-5.3-Flash - former ox-alpha",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vyzzxu/megathread_glm53flash_former_oxalpha/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Megathread for discussing the release of GLM-5.3-Flash. Quants Fine-Tunes &amp; Abliterations Chat Templates Inference Server Support &amp; Configuration Experiences, Benchmarks &amp; Model Comparisons We'll try to clean up future duplicates around the release and point them here. Highlights GLM-5.3-Flash is the first natively multimodal model in the GLM-5 series, and the first open-weight release",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T18:58:32.856432+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic will \"permanently\" raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost (@claudedevs)",
-    "link": "https://www.techmeme.com/260829/p13#a260829p13",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "@claudedevs : Anthropic will &ldquo;permanently&rdquo; raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost &nbsp; &mdash;&nbsp; Starting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will be",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T18:59:17.061403+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources detail how Meta's $17.1B settlement with state AGs came together as Meta wanted to avoid going to trial following losses in cases in LA and New Mexico (New York Times)",
-    "link": "https://www.techmeme.com/260829/p12#a260829p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "New York Times : Sources detail how Meta's $17.1B settlement with state AGs came together as Meta wanted to avoid going to trial following losses in cases in LA and New Mexico &nbsp; &mdash;&nbsp; State attorneys general spent months in negotiations.&nbsp; Then, as its legal losses mounted, the social media giant's new top lawyer brought a huge settlement to the table.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T18:59:17.062900+00:00",
-    "details": {}
-  },
-  {
-    "title": "The signal went up. The code got worse",
-    "link": "https://github.com/olesxg/flap-findings/blob/master/writing/the-signal-went-up.md",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/olesxg/flap-findings/blob/master/writing/the-signal-went-up.md Comments URL: https://news.ycombinator.com/item?id=49492129 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T18:59:17.063770+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Open-Source Local Whisper Flow Alternative",
-    "link": "https://www.cloudless.so/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.cloudless.so/ Comments URL: https://news.ycombinator.com/item?id=49491918 Points: 2 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T18:59:17.064675+00:00",
-    "details": {}
-  },
-  {
-    "title": "Tencent compressed Hy4-preview from 1.5TB to about 200GB GGUF and kept about 98% performance.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w1o324/tencent_compressed_hy4preview_from_15tb_to_about/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/RedditUsr2 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T18:59:17.066364+00:00",
-    "details": {}
-  },
-  {
     "title": "Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions (Sheena Meng/Bloomberg)",
     "link": "https://www.techmeme.com/260829/p15#a260829p15",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -19126,6 +19012,253 @@
       "keywords": []
     },
     "rejected_at": "2026-09-28T18:53:37.103480+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "source_name": "TechCrunch",
+    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "reason": "مكرر داخل دفعة RSS الحالية",
+    "rejection_stage": "batch-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T19:59:14.392923+00:00",
+    "details": {}
+  },
+  {
+    "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+    "source_name": "BleepingComputer",
+    "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:48.905882+00:00",
+    "details": {}
+  },
+  {
+    "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
+    "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+    "source_name": "BleepingComputer",
+    "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:48.916716+00:00",
+    "details": {}
+  },
+  {
+    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+    "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+    "source_name": "BleepingComputer",
+    "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:48.928010+00:00",
+    "details": {}
+  },
+  {
+    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+    "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+    "source_name": "BleepingComputer",
+    "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:48.938846+00:00",
+    "details": {}
+  },
+  {
+    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+    "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+    "source_name": "BleepingComputer",
+    "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:48.949998+00:00",
+    "details": {}
+  },
+  {
+    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+    "source_name": "BleepingComputer",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:48.960409+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+    "source_name": "BleepingComputer",
+    "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:48.972570+00:00",
+    "details": {}
+  },
+  {
+    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+    "source_name": "BleepingComputer",
+    "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:48.983148+00:00",
+    "details": {}
+  },
+  {
+    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+    "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+    "source_name": "BleepingComputer",
+    "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:48.993736+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+    "source_name": "BleepingComputer",
+    "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:49.005298+00:00",
+    "details": {}
+  },
+  {
+    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+    "source_name": "BleepingComputer",
+    "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:49.015580+00:00",
+    "details": {}
+  },
+  {
+    "title": "Pirating the Pirates",
+    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T20:00:49.045153+00:00",
     "details": {}
   }
 ]
