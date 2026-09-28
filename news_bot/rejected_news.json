@@ -1,290 +1,5 @@
 [
   {
-    "title": "swoole/typephp",
-    "link": "https://github.com/swoole/typephp",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Compile PHP to Native Binaries https://swoole.com/aot/ English | 简体中文 TypePHP A native AOT compiler for PHP Compile PHP source code into native machine code ahead of time — producing native executables, PHP extensions, and shared libraries — while keeping the PHP syntax you already know. What is TypePHP? TypePHP is an Ahead-Of-Time (AOT) compiler that translates PHP source code into C++ and then i",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T11:54:30.822344+00:00",
-    "details": {}
-  },
-  {
-    "title": "New AI-powered video tools have accelerated the surge in AI dramas in China; DataEye: 89 of the top 100 animated dramas on Douyin in May were AI productions (Financial Times)",
-    "link": "https://www.techmeme.com/260829/p9#a260829p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : New AI-powered video tools have accelerated the surge in AI dramas in China; DataEye: 89 of the top 100 animated dramas on Douyin in May were AI productions &nbsp; &mdash;&nbsp; Online performers left jobless as new video-generation programmes sweep industry&nbsp; &mdash;&nbsp; Chinese actors and online influencers have a new rival &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T11:56:07.656992+00:00",
-    "details": {}
-  },
-  {
-    "title": "Trade unions threaten to withhold support for politicians opposing data center projects, warning that blocking the projects endangers building-related jobs (Wall Street Journal)",
-    "link": "https://www.techmeme.com/260829/p8#a260829p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Wall Street Journal : Trade unions threaten to withhold support for politicians opposing data center projects, warning that blocking the projects endangers building-related jobs &nbsp; &mdash;&nbsp; Trade unions threaten to withhold support for politicians, joining the building backlash&nbsp; &mdash;&nbsp; Much of the public outcry &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T11:56:07.658077+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide)",
-    "link": "https://www.techmeme.com/260829/p11#a260829p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tim Ingham / Music Business Worldwide : Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs &nbsp; &mdash;&nbsp; Sony Music Publishing and Warner Chappell Music have joined forces to sue Anthropic, home of Claude, over what the publishers call &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T15:55:26.421980+00:00",
-    "details": {}
-  },
-  {
-    "title": "Cursor co-founder Michael Truell says OpenAI represents just 5% of Cursor's traffic and Cursor trusted OpenAI to be \"neutral\"; Musk says he \"couldn't care less\" (Amir Efrati/The Information)",
-    "link": "https://www.techmeme.com/260829/p10#a260829p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Amir Efrati / The Information : Cursor co-founder Michael Truell says OpenAI represents just 5% of Cursor's traffic and Cursor trusted OpenAI to be &ldquo;neutral&rdquo;; Musk says he &ldquo;couldn't care less&rdquo; &nbsp; &mdash;&nbsp; OpenAI said Friday night that it will terminate its contract to provide its AI models &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T15:55:26.423468+00:00",
-    "details": {}
-  },
-  {
-    "title": "Manchester Airports breach exposes data on 8.7M customers",
-    "link": "https://forgeeks.net/manchester-airports-data-breach-8-7-million/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://forgeeks.net/manchester-airports-data-breach-8-7-million/ Comments URL: https://news.ycombinator.com/item?id=49490806 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T15:55:26.424339+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Seedeep – I couldn't see what Claude Code was doing, so I drew it",
-    "link": "https://github.com/duqaXxX/seedeep",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/duqaXxX/seedeep Comments URL: https://news.ycombinator.com/item?id=49490770 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T15:55:26.425259+00:00",
-    "details": {}
-  },
-  {
-    "title": "De: Hackers demand 30 bitcoin from Berlin as sensitive data breach widens",
-    "link": "https://databreaches.net/2026/08/29/de-hackers-demand-30-bitcoin-from-berlin-as-sensitive-data-breach-widens/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "DPA reports: The Berlin state government has declined to comment on the demands made by hackers who targeted the city&#8217;s administrative data network two weeks ago, a spokeswoman said on Saturday. The government is also withholding information about which data the attackers accessed and exactly who is behind the cyberattack. &#8220;For reasons of investigative tactics,... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T15:55:26.426604+00:00",
-    "details": {}
-  },
-  {
-    "title": "US officials backpedal on claims that government agencies were hacked by Chinese",
-    "link": "https://databreaches.net/2026/08/29/us-officials-backpedal-on-claims-that-government-agencies-were-hacked-by-chinese/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "AJ Vicens and Raphael Satter report: U.S. officials are backpedaling on claims that several government agencies were hacked by Chinese spies, now saying that the organizations were among the hackers&#8217; targets. In a freshly edited statement, the Justice Department said Friday that the U.S. Senate, the Federal Reserve, NASA, and others were &#8220;among the targets... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T15:55:26.427375+00:00",
-    "details": {}
-  },
-  {
-    "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-    "source_name": "BleepingComputer",
-    "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T16:57:50.246944+00:00",
-    "details": {}
-  },
-  {
-    "title": "Debian votes to allow \"responsible use of generative AI\"",
-    "link": "https://lwn.net/Articles/1091231/",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T16:58:24.853809+00:00",
-    "details": {}
-  },
-  {
-    "title": "SQLite as a Document Database (2020)",
-    "link": "https://dgl.cx/2020/06/sqlite-json-support",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T16:58:24.854519+00:00",
-    "details": {}
-  },
-  {
-    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-    "link": "https://uecker.codeberg.page/2026-08-29.html",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T16:58:24.855293+00:00",
-    "details": {}
-  },
-  {
-    "title": "Tether: iMessage, SMS, etc. on Linux",
-    "link": "https://zackbartel.com/blog/2026/08/tether/",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T16:58:24.856020+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-    "link": "https://typebase.io",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T16:58:24.856898+00:00",
-    "details": {}
-  },
-  {
     "title": "[Megathread] GLM-5.3-Flash - former ox-alpha",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vyzzxu/megathread_glm53flash_former_oxalpha/",
     "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
@@ -19297,6 +19012,120 @@
       "keywords": []
     },
     "rejected_at": "2026-09-28T10:16:13.511715+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)",
+    "link": "https://www.techmeme.com/260928/p32#a260928p32",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anthropic : Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon &nbsp; &mdash;&nbsp; Sonnet 5.5 is a faster, lower-cost complement to Claude Opus 5.5.&nbsp; Where Opus 5.5 is built for complex work requiring careful judgment &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T18:53:37.027697+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google says it will migrate Gems, which let users create custom versions of Gemini, to \"skills\", starting Nov. 17; Google introduced skills with Gemini Spark (Abner Li/9to5Google)",
+    "link": "https://www.techmeme.com/260928/p31#a260928p31",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Abner Li / 9to5Google : Google says it will migrate Gems, which let users create custom versions of Gemini, to &ldquo;skills&rdquo;, starting Nov. 17; Google introduced skills with Gemini Spark &nbsp; &mdash;&nbsp; In 2024, Google introduced Gems as &ldquo;custom versions of Gemini.&rdquo;&nbsp; The Gemini app will soon replace Gems with &ldquo;skills.&rdquo;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T18:53:37.045841+00:00",
+    "details": {}
+  },
+  {
+    "title": "Finally found a model my hardware can run at full precision: me",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Was getting bored trying to squeeze every last t/s out of my local model on my hardware, so I made a tps counter for my fingers instead (with real tokenizers, of course). My best is around 2 t/s. According to the page, that beats a 70B on a laptop CPU and is roughly 76x slower than an 8B on a 4090. So yeah. If you want something to do while waiting for your LLM to answer, give it a try! https://ho",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T18:53:37.057904+00:00",
+    "details": {}
+  },
+  {
+    "title": "NVIDIA shipped OpenShell, an open source sandbox that gives local and open agents real runtime limits instead of prompt rules. Over 100 firms joined the safety stack. OpenAI did not.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ws9ydg/nvidia_shipped_openshell_an_open_source_sandbox/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://x.com/JensenHuang/status/2104499465055023424 &#32; submitted by &#32; /u/InternationalGap3698 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T18:53:37.075568+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay",
+    "link": "https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Numerous major law firms have fallen prey to the Silent Ransom Group this year. Now DataBreaches provides exclusive details on SRG&#8217;s recent attacks on Hogan Lovells Cadwalader. Yes, that&#8217;s &#8220;attacks,&#8221; plural. When New York City&#8217;s oldest law firm, Cadwalader, Wickersham &#38; Taft, merged with Hogan Lovells in 2022, it combined two powerhouse firms. Yet despite... Sourc",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T18:53:37.089704+00:00",
+    "details": {}
+  },
+  {
+    "title": "Still on probation from previous arrest for hacking and extortion, Dutch national is arrested again (1)",
+    "link": "https://databreaches.net/2026/09/28/still-on-probation-from-previous-arrest-for-hacking-and-extortion-dutch-national-is-arrested-again/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "In June 2023, DataBreaches reported on the arrest of a young Dutch national who was a highly respected &#8220;white hat&#8221; by day but also a prolific &#8220;black hat.&#8221; History seems to have repeated itself. Pepijn van der S. has been arrested once again for criminal activities. The Past Predicted the Present Pepijn van der Stap,... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-28T18:53:37.103480+00:00",
     "details": {}
   }
 ]
