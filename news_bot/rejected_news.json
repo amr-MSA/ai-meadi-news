@@ -1,43 +1,5 @@
 [
   {
-    "title": "Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions (Sheena Meng/Bloomberg)",
-    "link": "https://www.techmeme.com/260829/p15#a260829p15",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Sheena Meng / Bloomberg : Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions &nbsp; &mdash;&nbsp; The sprawling facilities get a lot of attention for their water and energy usage, but it's the threat of constant noise emission that has nearby residents up in arms.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T22:07:02.704647+00:00",
-    "details": {}
-  },
-  {
-    "title": "PEAR leaks data allegedly exfiltrated from South Plains Rural Health Services while SPRHS remains silent",
-    "link": "https://databreaches.net/2026/08/29/pear-leaks-data-allegedly-exfiltrated-from-south-plains-rural-health-services-while-sprhs-remains-silent/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "SuspectFile reports: A cyberattack against a Texas healthcare organization allegedly resulted in the exfiltration of approximately 1.4 TB of data, according to claims made by the ransomware group PEAR. The alleged victim is South Plains Rural Health Services, Inc. (SPRHS), a nonprofit healthcare organization that has provided services to rural communities across West Texas for decades. The informa",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-29T22:07:02.706973+00:00",
-    "details": {}
-  },
-  {
     "title": "Music producers are calling out tracks suspected of using AI tools like Suno, as the internet becomes increasingly filled with AI-generated music (Charles Pulliam-Moore/The Verge)",
     "link": "https://www.techmeme.com/260829/p17#a260829p17",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -19259,6 +19221,63 @@
       "keywords": []
     },
     "rejected_at": "2026-09-28T20:00:49.045153+00:00",
+    "details": {}
+  },
+  {
+    "title": "Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June (Wall Street Journal)",
+    "link": "https://www.techmeme.com/260928/p42#a260928p42",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wall Street Journal : Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June &nbsp; &mdash;&nbsp; Helix expects to leverage Samsung's capabilities to support AI infrastructure development at scale",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T00:02:04.217577+00:00",
+    "details": {}
+  },
+  {
+    "title": "Rep. Ro Khanna will introduce the Human Control Over AI Act, with strict liability and a ban on recursive self-improving AI until government safeguards exist (Garrett Downs/CNBC)",
+    "link": "https://www.techmeme.com/260928/p41#a260928p41",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Garrett Downs / CNBC : Rep. Ro Khanna will introduce the Human Control Over AI Act, with strict liability and a ban on recursive self-improving AI until government safeguards exist &nbsp; &mdash;&nbsp; Silicon Valley Democratic Rep. Ro Khanna will introduce a bill to regulate artificial intelligence, which includes strict liability standards &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T00:02:04.230992+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen next 3.8 and 3.8 27b Vs Sonnet 5.5 low and Sonnet 5.5 medium.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wsq6r5/qwen_next_38_and_38_27b_vs_sonnet_55_low_and/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Six months ago, a result like this was unthinkable. But now we can say it loud and clear: local models are at the cutting edge, and the gap of just a few months has been confirmed. Personally, I use Qwen-Next 3.8 for complex tasks; today, GPT-Sol-6-High was messing up a project, but Qwen-Next got it back on track. I consider it a reliable benchmark. What’s your take? &#32; submitted by &#32; /u/Le",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T00:02:04.250108+00:00",
     "details": {}
   }
 ]
