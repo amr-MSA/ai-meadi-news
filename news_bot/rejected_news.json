@@ -1,81 +1,5 @@
 [
   {
-    "title": "Music producers are calling out tracks suspected of using AI tools like Suno, as the internet becomes increasingly filled with AI-generated music (Charles Pulliam-Moore/The Verge)",
-    "link": "https://www.techmeme.com/260829/p17#a260829p17",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Charles Pulliam-Moore / The Verge : Music producers are calling out tracks suspected of using AI tools like Suno, as the internet becomes increasingly filled with AI-generated music &nbsp; &mdash;&nbsp; As AI infiltrates the electronic dance music scene, a callout culture is brewing.&#65279; &hellip; For musicians &mdash; especially those creating art &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T02:10:26.248339+00:00",
-    "details": {}
-  },
-  {
-    "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
-    "link": "https://www.techmeme.com/260829/p16#a260829p16",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Luke James / Tom's Hardware : California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope &nbsp; &mdash;&nbsp; AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T02:10:26.249998+00:00",
-    "details": {}
-  },
-  {
-    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-    "link": "https://github.com/mk6i/open-oscar-server",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/mk6i/open-oscar-server Comments URL: https://news.ycombinator.com/item?id=49494571 Points: 2 # Comments: 2",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T02:10:26.251063+00:00",
-    "details": {}
-  },
-  {
-    "title": "OSSBeacon – explainable PR risk for open-source maintainers",
-    "link": "https://github.com/closedfiles23-web/ossbeacon",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/closedfiles23-web/ossbeacon Comments URL: https://news.ycombinator.com/item?id=49494537 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T02:10:26.252086+00:00",
-    "details": {}
-  },
-  {
     "title": "THU-MAIC/OpenMAIC",
     "link": "https://github.com/THU-MAIC/OpenMAIC",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -19278,6 +19202,139 @@
       "keywords": []
     },
     "rejected_at": "2026-09-29T00:02:04.250108+00:00",
+    "details": {}
+  },
+  {
+    "title": "NawfalMotii79/PLFM_RADAR",
+    "link": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar AERIS-10 is an open-source, low-cost 10.5 GHz phased array radar system featuring Pulse Linear Frequency Modulated (LFM) modulation. Available in two versions (3km and 20km range), it's designed for researchers, drone developers, and serious SDR enthusiasts who wa",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T07:37:34.554814+00:00",
+    "details": {}
+  },
+  {
+    "title": "cs341-illinois/coursebook",
+    "link": "https://github.com/cs341-illinois/coursebook",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open Source Introductory Systems Programming Textbook for the University of Illinois https://cs341.cs.illinois.edu/coursebook Coursebook Welcome to the systems programming coursebook! This repository houses a high-quality, open-source introductory systems programming textbook used by the CS 341: System Programming course at the University of Illinois Urbana-Champaign The book assumes that you have",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T07:37:34.560521+00:00",
+    "details": {}
+  },
+  {
+    "title": "byoungd/up",
+    "link": "https://github.com/byoungd/up",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 https://biezou.com title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026-09-02 人生进阶指南 中文 | English 韩先凯 著（笔名：离谱） 副标题： AI 时代终身学习指南 。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。 持续更新书稿 下载中文 EPUB Download Engli",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T07:37:34.565943+00:00",
+    "details": {}
+  },
+  {
+    "title": "An interview with Atlassian CEO Mike Cannon-Brookes on the SaaSpocalypse, enterprise AI, Atlassian's reorg, why chatbots aren't the future of work, and more (Nilay Patel/The Verge)",
+    "link": "https://www.techmeme.com/260929/p3#a260929p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Nilay Patel / The Verge : An interview with Atlassian CEO Mike Cannon-Brookes on the SaaSpocalypse, enterprise AI, Atlassian's reorg, why chatbots aren't the future of work, and more &nbsp; &mdash;&nbsp; Today, I'm talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.&nbsp; &mdash;&nbsp; Atlassian is one of those companies &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T07:38:56.095023+00:00",
+    "details": {}
+  },
+  {
+    "title": "Coinbase gets CFTC approval for Coinbase Clearing, completing its derivatives stack, letting it list, broker, and clear fully collateralized products in-house (Danny Park/The Block)",
+    "link": "https://www.techmeme.com/260929/p2#a260929p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Danny Park / The Block : Coinbase gets CFTC approval for Coinbase Clearing, completing its derivatives stack, letting it list, broker, and clear fully collateralized products in-house &nbsp; &mdash;&nbsp; This completes Coinbase's derivatives infrastructure, allowing it to list, broker, and clear fully collateralized products in-house.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T07:38:56.104997+00:00",
+    "details": {}
+  },
+  {
+    "title": "nvidia/NVIDIA-Nemotron-Labs-3-Competitive-Coding-550B-A55B-NVFP4 · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wsuqmb/nvidianvidianemotronlabs3competitivecoding550ba55b/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Model Developer: NVIDIA Corporation Model Development: Fine-tuned from NVIDIA-Nemotron-3-Ultra-550B-A55B What is Nemotron? NVIDIA Nemotron™ is a family of open models with open weights, training data, and recipes, delivering leading efficiency and accuracy for building specialized AI agents. Description Nemotron-Labs-3-Competitive-Coding is a competitive-programming specialist model based on Nemot",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T07:38:56.112994+00:00",
+    "details": {}
+  },
+  {
+    "title": "Speculative reward hacking in coding agents",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wsuag0/speculative_reward_hacking_in_coding_agents/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I audited thousands of agent rollouts in DeepSWE-1.1. Over 80% contained reasoning about an imagined grader. Yet no grader/verifier is mentioned in prompts nor accessible to the agents. Agents reasoned things like: &quot; Let me look at the problem from the grader's perspective &quot; and referred to &quot; hidden tests &quot;, &quot; test authors &quot;, and &quot; the checker &quot;. I found thi",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T07:38:56.119016+00:00",
     "details": {}
   }
 ]
