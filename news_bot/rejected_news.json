@@ -1,252 +1,5 @@
 [
   {
-    "title": "THU-MAIC/OpenMAIC",
-    "link": "https://github.com/THU-MAIC/OpenMAIC",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click Get an immersive, multi-agent learning experience in just one click &nbsp;&nbsp; &nbsp; English | Simplified Chinese Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw 🎉 OpenMAIC v1.0.0 — Build courses with an agent One prompt in, a whole course out — and now you",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.526641+00:00",
-    "details": {}
-  },
-  {
-    "title": "p-e-w/heretic",
-    "link": "https://github.com/p-e-w/heretic",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Fully automatic censorship removal for language models https://heretic-project.org Heretic: Fully automatic censorship removal for language models Heretic is a tool that removes censorship (aka \"safety alignment\") from transformer-based language models without expensive post-training. It combines an advanced implementation of directional ablation, also known as \"abliteration\" ( Arditi et al. 2024",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.528121+00:00",
-    "details": {}
-  },
-  {
-    "title": "bigskysoftware/htmx",
-    "link": "https://github.com/bigskysoftware/htmx",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "htmx - high power tools for HTML https://htmx.org high power tools for HTML introduction htmx allows you to access AJAX , CSS Transitions , WebSockets and Server Sent Events directly in HTML, using attributes , so you can build modern user interfaces with the simplicity and power of hypertext htmx is small ( ~14k min.gz'd ), dependency-free &amp; extendable motivation Why should only &lt;a&gt; and",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.529066+00:00",
-    "details": {}
-  },
-  {
-    "title": "ComposioHQ/awesome-claude-skills",
-    "link": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai , Claude Code, but also across coding agents like Codex, Cursor, Gemini CLI, Antigravity and more. Give your skills",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.531936+00:00",
-    "details": {}
-  },
-  {
-    "title": "every-app/open-seo",
-    "link": "https://github.com/every-app/open-seo",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Open source alternative to Semrush and Ahrefs https://openseo.so OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We ha",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.534967+00:00",
-    "details": {}
-  },
-  {
-    "title": "Osmantic/ODS",
-    "link": "https://github.com/Osmantic/ODS",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. https://discord.gg/qGVygYada3 ODS Osmantic Deployment System Turn your PC, Mac, or Linux box into a private AI server. AI server and homelab setup is rapidly becoming a solved problem. It should feel that way for everyone. ODS installs and wires together everything you ne",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.536811+00:00",
-    "details": {}
-  },
-  {
-    "title": "actions/checkout",
-    "link": "https://github.com/actions/checkout",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Action for checking out a repo https://github.com/features/actions Checkout v7 What's new Safer fork pull request handling: checkout now refuses to check out fork pull request code by default when the workflow is triggered by pull_request_target or workflow_run . These triggers run with the base repository's GITHUB_TOKEN , secrets, and runner access, where executing a fork's code commonly leads to",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.539831+00:00",
-    "details": {}
-  },
-  {
-    "title": "kaifcodec/user-scanner",
-    "link": "https://github.com/kaifcodec/user-scanner",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting. User Scanner A powerful 2-in-1 OSINT suite engineered for deep Email and Username Intelligence . With 455+ total scan vectors —including 175+ email-integra",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.541169+00:00",
-    "details": {}
-  },
-  {
-    "title": "addyosmani/agent-skills",
-    "link": "https://github.com/addyosmani/agent-skills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Production-grade engineering skills for AI coding agents. https://skills.addy.ie Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE PLAN BUILD VERIFY REVIEW SHIP ┌",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.542892+00:00",
-    "details": {}
-  },
-  {
-    "title": "workweave/router",
-    "link": "https://github.com/workweave/router",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Model router for agentic systems. Routes every prompt to the right model in https://weaveos.com/products/router One endpoint. Every model. Always the right one. A drop-in proxy for Anthropic, OpenAI, and Gemini that picks the best model for every request: using a tiny on-box embedder, not a vibes-based prompt. Built by Weave : The #1 engineering intelligence platform, loved by Robinhood, PostHog,",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:32:19.544251+00:00",
-    "details": {}
-  },
-  {
-    "title": "Faro, which develops data models and AI tools to speed up clinical trials, raised a $37.3M Series B co-led by Merck Global Health Innovation Fund and S32 (Dealroom.co)",
-    "link": "https://www.techmeme.com/260830/p3#a260830p3",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dealroom.co : Faro, which develops data models and AI tools to speed up clinical trials, raised a $37.3M Series B co-led by Merck Global Health Innovation Fund and S32 &nbsp; &mdash;&nbsp; What's the deal?&nbsp; Faro has raised a $37 million Series B round to develop AI tools aimed at speeding up clinical trials.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:34:15.838183+00:00",
-    "details": {}
-  },
-  {
-    "title": "It's official! 192GB Framework",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w28x8u/its_official_192gb_framework/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Just noticed this on the website. At their current price tiers for the memory SKUs (32, 64, 128) I'd expect this to be ~ 4.5k for the motherboard. The PCIe slot will be open at the back as well - that's what I've heard. Maybe they make it capable of delivering 75W as well? New board revisions for the smaller SKUs?. &#32; submitted by &#32; /u/reto-wyss [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:34:15.839767+00:00",
-    "details": {}
-  },
-  {
-    "title": "SCOOP: Some Click2Mail customers will soon be receiving notification of a data security incident",
-    "link": "https://databreaches.net/2026/08/29/scoop-some-click2mail-customers-will-soon-be-receiving-notification-of-a-data-security-incident/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "On August 27, DataBreaches woke up to a message request on Signal that read, &#8220;Click2mail.com checkout with a debit card, website is actively hijacked. Card gets sold to fraudsters. It’s happened twice.&#8221; DataBreaches accepted the request, and learned that the customer who contacted us first experienced a problem on June 2, and then again the... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T09:34:15.841852+00:00",
-    "details": {}
-  },
-  {
     "title": "A look at the race to build quantum computers, as the tech becomes a geopolitical battleground with potential to transform cybersecurity, finance, and more (Mark Bergen/Bloomberg)",
     "link": "https://www.techmeme.com/260830/p6#a260830p6",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -19335,6 +19088,120 @@
       "keywords": []
     },
     "rejected_at": "2026-09-29T07:38:56.119016+00:00",
+    "details": {}
+  },
+  {
+    "title": "In a July letter to Rep. Jamie Raskin, Apple explained it removed ICEBlock and similar ICE-tracking apps in 2025 due to agent and detainee safety concerns (Clare Duffy/CNN)",
+    "link": "https://www.techmeme.com/260929/p21#a260929p21",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Clare Duffy / CNN : In a July letter to Rep. Jamie Raskin, Apple explained it removed ICEBlock and similar ICE-tracking apps in 2025 due to agent and detainee safety concerns &nbsp; &mdash;&nbsp; Tech giants Federal agencies Immigration&nbsp; &mdash;&nbsp; Apple says its decision to remove ICEBlock and similar platforms from the app store &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T14:26:14.064044+00:00",
+    "details": {}
+  },
+  {
+    "title": "IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
+    "link": "https://www.techmeme.com/260929/p20#a260929p20",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage &nbsp; &mdash;&nbsp; Anthropic said it expects to spend at least $518 billion over a decade building AI infrastructure with six partners &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T14:26:14.075069+00:00",
+    "details": {}
+  },
+  {
+    "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Norwood_Reaper_ [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T14:26:14.086998+00:00",
+    "details": {}
+  },
+  {
+    "title": "Reflection 70B was released two years ago (September 2024)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wt7e94/reflection_70b_was_released_two_years_ago/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "You may think that jev, OpenClaw or TurboQuant are super cool , but actually the coolest LLM invention happened two years ago As we all know, the best source of reliable information about LLMs is YouTube: https://preview.redd.it/4tv0ctbwyfsh1.png?width=2544&amp;format=png&amp;auto=webp&amp;s=46d5e37a8f69372cbbb55d6d4ab22021e94ca285 Back in September 2024, Reflection 70B appeared out of nowhere and",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T14:26:14.094336+00:00",
+    "details": {}
+  },
+  {
+    "title": "FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data",
+    "link": "https://databreaches.net/2026/09/29/fbi-hackers-say-they-wont-publish-massive-trove-of-fbi-employee-data/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Joseph Cox reports: The hackers behind the massive FBI breach told 404 Media on Monday they do not intend to publish the data. The breach, in which the hackers stole personal information on “all FBI employees and applicants” including physical addresses, job roles, names of spouses, and medical records, represents a significant national security and... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T14:26:14.102298+00:00",
+    "details": {}
+  },
+  {
+    "title": "Russian pizza restaurant chain confirms cyberattack: Hackers claim 68 million users exposed",
+    "link": "https://databreaches.net/2026/09/29/russian-pizza-restaurant-chain-confirms-cyberattack-hackers-claim-68-million-users-exposed/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Andrey Mihayloff reports: Dodo Pizza has confirmed a cyberattack on its IT systems, admitting that attackers may have accessed personal data of a portion of its customer base. The company reported the breach to Roskomnadzor and stated that access to the system has since been blocked. According to the company, the exposed data may include:... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-29T14:26:14.110227+00:00",
     "details": {}
   }
 ]
