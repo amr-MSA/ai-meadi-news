@@ -1,81 +1,5 @@
 [
   {
-    "title": "Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on their PCs hijacked sessions to drain usage (Mayank Parmar/BleepingComputer)",
-    "link": "https://www.techmeme.com/260830/p10#a260830p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Mayank Parmar / BleepingComputer : Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on their PCs hijacked sessions to drain usage &nbsp; &mdash;&nbsp; Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T22:13:36.355017+00:00",
-    "details": {}
-  },
-  {
-    "title": "Analysis: AI chatbots challenged or didn't respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time (Huo Jingnan/NPR)",
-    "link": "https://www.techmeme.com/260830/p9#a260830p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Huo Jingnan / NPR : Analysis: AI chatbots challenged or didn't respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time &nbsp; &mdash;&nbsp; Since AI chatbots exploded in popularity and Google started offering AI-generated answers, people who research foreign influence campaigns &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T22:13:36.357304+00:00",
-    "details": {}
-  },
-  {
-    "title": "I Use Claude Code on an Unfamiliar Codebase",
-    "link": "https://thetechbuffet.substack.com/p/claude-code-on-an-unfamiliar-codebase",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://thetechbuffet.substack.com/p/claude-code-on-an-unfamiliar-codebase Comments URL: https://news.ycombinator.com/item?id=49502328 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T22:13:36.358607+00:00",
-    "details": {}
-  },
-  {
-    "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
-    "link": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/ Comments URL: https://news.ycombinator.com/item?id=49502101 Points: 18 # Comments: 36",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-30T22:13:36.360135+00:00",
-    "details": {}
-  },
-  {
     "title": "The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth (Jason Douglas/Wall Street Journal)",
     "link": "https://www.techmeme.com/260830/p13#a260830p13",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -18917,6 +18841,82 @@
       "keywords": []
     },
     "rejected_at": "2026-09-29T20:19:19.665859+00:00",
+    "details": {}
+  },
+  {
+    "title": "AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range (Bloomberg)",
+    "link": "https://www.techmeme.com/260929/p57#a260929p57",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &nbsp; &mdash;&nbsp; Accelevation Holdings Corp., a data center infrastructure company, and backer Olympus Partners raised $540 million &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T00:50:12.713653+00:00",
+    "details": {}
+  },
+  {
+    "title": "Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures (Reuters)",
+    "link": "https://www.techmeme.com/260929/p56#a260929p56",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures &nbsp; &mdash;&nbsp; Robinhood said on Tuesday it will let users trade some US stocks round-the-clock during weekends, marking its latest effort to keep &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T00:50:12.722603+00:00",
+    "details": {}
+  },
+  {
+    "title": "Inspect: An open-source framework for large language model evaluations",
+    "link": "https://inspect.aisi.org.uk/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://inspect.aisi.org.uk/ Comments URL: https://news.ycombinator.com/item?id=49902367 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T00:50:12.729005+00:00",
+    "details": {}
+  },
+  {
+    "title": "CodeCrab – Local-first desktop app for AI code reviews",
+    "link": "https://www.codecrab.ai/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.codecrab.ai/ Comments URL: https://news.ycombinator.com/item?id=49900868 Points: 4 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T00:50:12.735420+00:00",
     "details": {}
   }
 ]
