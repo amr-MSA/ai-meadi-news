@@ -1,100 +1,5 @@
 [
   {
-    "title": "The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth (Jason Douglas/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260830/p13#a260830p13",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jason Douglas / Wall Street Journal : The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth &nbsp; &mdash;&nbsp; Growth is holding up despite renewed tensions over trade, geopolitics and bond markets, though the AI boom's outsize role is a growing concern",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T02:05:20.544473+00:00",
-    "details": {}
-  },
-  {
-    "title": "Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek (Chris Metinko/Axios)",
-    "link": "https://www.techmeme.com/260830/p12#a260830p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Chris Metinko / Axios : Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek &nbsp; &mdash;&nbsp; Agentrys, a Nvidia alum-led chip design startup, raised $24.5 million in funding, CEO Mark Ren tells Axios Pro exclusively. &hellip; - The platform allows users to create their own agents &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T02:05:20.546416+00:00",
-    "details": {}
-  },
-  {
-    "title": "Copilot code review: Resolution reasons and expanded capabilities",
-    "link": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities/ Comments URL: https://news.ycombinator.com/item?id=49504720 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T02:05:20.547762+00:00",
-    "details": {}
-  },
-  {
-    "title": "Clips Kitty Open-source local AI video clipping and editing",
-    "link": "https://github.com/ColinGPT9/clips-studio",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/ColinGPT9/clips-studio Comments URL: https://news.ycombinator.com/item?id=49504646 Points: 1 # Comments: 1",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T02:05:20.549122+00:00",
-    "details": {}
-  },
-  {
-    "title": "Cybercriminals build fake school websites as education attacks hit record high",
-    "link": "https://databreaches.net/2026/08/30/cybercriminals-build-fake-school-websites-as-education-attacks-hit-record-high/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Joy Agwunobi reports: Cybercriminals are ramping up preparations for the new academic year by creating thousands of education-themed websites and phishing campaigns designed to steal personal and financial information from students, parents and educators, as the education sector remains the world’s most targeted industry for cyberattacks. New research by Check Point Research, the threat intelligen",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T02:05:20.553256+00:00",
-    "details": {}
-  },
-  {
     "title": "Lakr233/vphone-cli",
     "link": "https://github.com/Lakr233/vphone-cli",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -18917,6 +18822,158 @@
       "keywords": []
     },
     "rejected_at": "2026-09-30T00:50:12.735420+00:00",
+    "details": {}
+  },
+  {
+    "title": "NVIDIA/OpenShell",
+    "link": "https://github.com/NVIDIA/OpenShell",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets of autonomous AI agents. Agents are most useful when they can read files, install",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T07:39:08.013700+00:00",
+    "details": {}
+  },
+  {
+    "title": "t8y2/dbx",
+    "link": "https://github.com/t8y2/dbx",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 https://dbxio.com 100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MC",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T07:39:08.035876+00:00",
+    "details": {}
+  },
+  {
+    "title": "oblien/openship",
+    "link": "https://github.com/oblien/openship",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Self-hosted deployment platform https://openship.io Openship Open-source, self-hostable deployment platform with built-in CI/CD. Point it at a repo — it builds, ships, routes, and TLS-terminates your app. Drive it from a desktop app, web dashboard, or CLI. Quick Start · How It Works · Interfaces · Docs · Contributing Quick Start There's one decision to make first: how you run Openship itself (the",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T07:39:08.051094+00:00",
+    "details": {}
+  },
+  {
+    "title": "VectifyAI/PageIndex",
+    "link": "https://github.com/VectifyAI/PageIndex",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG https://pageindex.ai PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 Docs &nbsp; • &nbsp; 📝 Blog &nbsp; • &nbsp; ✉️ Contact &nbsp; Updates [Aug '26] 🔥 PageIn",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T07:39:08.077039+00:00",
+    "details": {}
+  },
+  {
+    "title": "rakyll/hey",
+    "link": "https://github.com/rakyll/hey",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "HTTP load generator, ApacheBench (ab) replacement hey is a tiny program that sends some load to a web application. hey was originally called boom and was influenced from Tarek Ziade's tool at tarekziade/boom . Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion. To preserve the name for its original owner, we renamed this project to hey. Installa",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T07:39:08.097667+00:00",
+    "details": {}
+  },
+  {
+    "title": "Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions (Owen Walker/Financial Times)",
+    "link": "https://www.techmeme.com/260930/p8#a260930p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Owen Walker / Financial Times : Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions &nbsp; &mdash;&nbsp; City-state's economy is getting an AI uplift but costs and labour are constraints to its industrial growth",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T07:39:45.984269+00:00",
+    "details": {}
+  },
+  {
+    "title": "Alibaba's ModelScope and OSChina's MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K (Viola Zhou/Rest of World)",
+    "link": "https://www.techmeme.com/260930/p7#a260930p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Viola Zhou / Rest of World : Alibaba's ModelScope and OSChina's MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K &nbsp; &mdash;&nbsp; AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T07:39:45.998629+00:00",
+    "details": {}
+  },
+  {
+    "title": "Data breach incident targets prisoner medical records at 2 Mass. jails",
+    "link": "https://databreaches.net/2026/09/29/data-breach-incident-targets-prisoner-medical-records-at-2-mass-jails/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Hadley Barndollar of masslive.com reports: A “cybersecurity incident” has occurred involving the electronic health record system for Suffolk County’s two jails, the system provider confirmed Thursday. Computer Systems Integrated Inc., which runs the EHRs-C platform containing prisoner health data and medical records, said it is aware of and investigating an incident involving the Suffolk County...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-09-30T07:39:46.027180+00:00",
     "details": {}
   }
 ]
