@@ -1,43 +1,5 @@
 [
   {
-    "title": "Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M (Sam Sabin/Axios)",
-    "link": "https://www.techmeme.com/260901/p37#a260901p37",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Sam Sabin / Axios : Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M &nbsp; &mdash;&nbsp; Aslan, a startup building AI agents that act as operatives in national security missions, is publicly launching today after raising $20.8 million &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-01T18:57:26.792584+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers (Ashley Capoot/CNBC)",
-    "link": "https://www.techmeme.com/260901/p36#a260901p36",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ashley Capoot / CNBC : Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers &nbsp; &mdash;&nbsp; Anthropic on Tuesday announced it will walk back a controversial data retention policy after &ldquo;a lot of feedback&rdquo; from its business customers &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-01T18:57:26.795965+00:00",
-    "details": {}
-  },
-  {
     "title": "Google rolls out its September Android Drop, with remembered items in Find Hub, Guided vision in Gemini Live, Motion Assist to reduce motion sickness, and more (Ryan Whitwam/Ars Technica)",
     "link": "https://www.techmeme.com/260901/p53#a260901p53",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -18651,6 +18613,158 @@
       "keywords": []
     },
     "rejected_at": "2026-10-01T18:41:16.891594+00:00",
+    "details": {}
+  },
+  {
+    "title": "DoorDash pulls support for a GOP bill that would have limited DC's ability to write its own tax laws after widespread calls for locals to boycott the service (Martin Austermuhle/The Washington Sun)",
+    "link": "https://www.techmeme.com/261001/p36#a261001p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Martin Austermuhle / The Washington Sun : DoorDash pulls support for a GOP bill that would have limited DC's ability to write its own tax laws after widespread calls for locals to boycott the service &nbsp; &mdash;&nbsp; The company still wants the D.C. Council to make changes to a new delivery fee taking effect Thursday.&nbsp; &mdash; Copy",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T20:38:24.484014+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out (Josh Butler/The Guardian)",
+    "link": "https://www.techmeme.com/261001/p35#a261001p35",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Josh Butler / The Guardian : Anthropic urges Australia to consider &ldquo;conditional approval&rdquo; for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out &nbsp; &mdash;&nbsp; Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T20:38:24.501405+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Rhun, an open-source code editor written in assembly",
+    "link": "https://rhun.app/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "I found that I'm not using even 1/3 of vim/vscode features anymore. That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions. The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with se",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T20:38:24.513384+00:00",
+    "details": {}
+  },
+  {
+    "title": "The failure modes of Claude Code in a guided 60h project",
+    "link": "https://hmijail.substack.com/p/building-a-semantic-fuzzer-for-obsidian-sync-in-spite-of-claude-2",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://hmijail.substack.com/p/building-a-semantic-fuzzer-for-obsidian-sync-in-spite-of-claude-2 Comments URL: https://news.ycombinator.com/item?id=49926497 Points: 1 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T20:38:24.524533+00:00",
+    "details": {}
+  },
+  {
+    "title": "Clef: Open Weights decision model by Cloudflare",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4zzi/clef_open_weights_decision_model_by_cloudflare/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/paf1138 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T20:38:24.535249+00:00",
+    "details": {}
+  },
+  {
+    "title": "Heretic is on PewDiePie!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4vot/heretic_is_on_pewdiepie/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "So I haven’t played a computer game in 20 years, and I know nothing about Minecraft, and I definitely prefer classical literature over YouTube culture, but even I have heard about the individual called PewDiePie, for two reasons: His monicker starts with the initials of my own name I remember a recurring Internet meme a few years ago where he was competing for the most subscribers with an Indian f",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T20:38:24.545071+00:00",
+    "details": {}
+  },
+  {
+    "title": "Teenagers suspected of leading KillSec ransom group arrested during international operation",
+    "link": "https://databreaches.net/2026/10/01/teenagers-suspected-of-leading-killsec-ransom-group-arrested-during-international-operation/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "DataBreaches has reported on a group known as KillSec for almost two years. This time, we get to report on their arrest. The European Union Agency for Criminal Justice Cooperation issued this press release today: An international group of authorities from nine countries, coordinated by Eurojust and Europol, has successfully shut down a ransomware group... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T20:38:24.557286+00:00",
+    "details": {}
+  },
+  {
+    "title": "‘A treasure trove of information:’ Cybersecurity specialist says sensitive McMinnville records exposed online",
+    "link": "https://databreaches.net/2026/10/01/a-treasure-trove-of-information-cybersecurity-specialist-says-sensitive-mcminnville-records-exposed-online/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "KOIN in Oregon reports: Three clicks. That&#8217;s all Chuck Dornon said it took to reach private McMinnville records that should never have been public on the dark web. &#8220;Anything and everything that the city&#8217;s done is out there,&#8221; Dornon said. &#8220;This is probably the easiest form of information I&#8217;ve come across in a breach.&#8221; The... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T20:38:24.571452+00:00",
     "details": {}
   }
 ]
