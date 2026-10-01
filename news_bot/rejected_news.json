@@ -1,24 +1,5 @@
 [
   {
-    "title": "Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking (Anthropic)",
-    "link": "https://www.techmeme.com/260831/p43#a260831p43",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anthropic : Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking &nbsp; &mdash;&nbsp; On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-01T02:26:05.638857+00:00",
-    "details": {}
-  },
-  {
     "title": "k1tbyte/Wand-Enhancer",
     "link": "https://github.com/k1tbyte/Wand-Enhancer",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -18860,6 +18841,215 @@
       "keywords": []
     },
     "rejected_at": "2026-10-01T00:54:29.845456+00:00",
+    "details": {}
+  },
+  {
+    "title": "DietrichGebert/ponytail",
+    "link": "https://github.com/DietrichGebert/ponytail",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is the mean a",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:06.777746+00:00",
+    "details": {}
+  },
+  {
+    "title": "harry0703/MoneyPrinterTurbo",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 日本語 | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:06.787885+00:00",
+    "details": {}
+  },
+  {
+    "title": "openclaw/openclaw",
+    "link": "https://github.com/openclaw/openclaw",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 https://openclaw.ai OpenClaw 🦞 — Your assistant, on your devices, in your chats OpenClaw is an open-source AI assistant that runs on your own computer and meets you in the channels you already use: Discord, iMessage, Slack, Teams, Telegram, WhatsApp, and 20+ more, plus native apps for macOS, iOS, Android, Windows, and Linux.",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:06.797568+00:00",
+    "details": {}
+  },
+  {
+    "title": "ComposioHQ/awesome-claude-skills",
+    "link": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai , Claude Code, but also across coding agents like Codex, Cursor, Gemini CLI, Antigravity and more. Give your skills",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:06.808925+00:00",
+    "details": {}
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "link": "https://github.com/firebase/firebase-ios-sdk",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Firebase SDK for Apple App Development https://firebase.google.com Warning CocoaPods: New versions of the Firebase Apple SDK will no longer be published to CocoaPods after October 2026 . Existing CocoaPods versions will remain available and installations will remain functional. See the migration guide for more information. Tip Preview Release: Firebase AI Logic's Gemini Foundation Models framework",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:06.823563+00:00",
+    "details": {}
+  },
+  {
+    "title": "modelcontextprotocol/servers",
+    "link": "https://github.com/modelcontextprotocol/servers",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Model Context Protocol Servers https://modelcontextprotocol.io Model Context Protocol servers This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community-built servers and additional resources. Important If you are looking for a list of MCP servers, you can browse published servers on the MCP Registry . The repository served",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:06.833332+00:00",
+    "details": {}
+  },
+  {
+    "title": "colbymchenry/codegraph",
+    "link": "https://github.com/colbymchenry/codegraph",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local https://colbymchenry.github.io/codegraph/ CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Ge",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:06.854562+00:00",
+    "details": {}
+  },
+  {
+    "title": "A profile of Xbox CEO Asha Sharma, who insists that \"Xbox is not for sale\" despite mass layoffs and divested studios since inheriting the flailing division (Zachary Small/New York Times)",
+    "link": "https://www.techmeme.com/261001/p10#a261001p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Zachary Small / New York Times : A profile of Xbox CEO Asha Sharma, who insists that &ldquo;Xbox is not for sale&rdquo; despite mass layoffs and divested studios since inheriting the flailing division &nbsp; &mdash;&nbsp; Asha Sharma didn't have any experience in video games when she became the chief executive of Xbox this year.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:47.490582+00:00",
+    "details": {}
+  },
+  {
+    "title": "SemiAnalysis estimates ~90% of Anthropic's business comes from agentic AI, while sources say nearly 25% of its revenue in 2025 came from just two clients (Financial Times)",
+    "link": "https://www.techmeme.com/261001/p9#a261001p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : SemiAnalysis estimates ~90% of Anthropic's business comes from agentic AI, while sources say nearly 25% of its revenue in 2025 came from just two clients &nbsp; &mdash;&nbsp; Powerful AI tools burn through budgets, prompting a rethink of how the technology is priced ahead of frontier lab IPOs.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:47.508627+00:00",
+    "details": {}
+  },
+  {
+    "title": "Least to most expensive (Somewhat modern) GPU's with 32gb of vram (Under $1600) Based on ebay listings",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wuk9so/least_to_most_expensive_somewhat_modern_gpus_with/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I was researching prices on ebay and fed claude a bunch of images of listings. I had it make a chart and thought it would be useful to share. &#32; submitted by &#32; /u/Rombodawg [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:47.523514+00:00",
+    "details": {}
+  },
+  {
+    "title": "Finally got my 4th card in (64gb total)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wupsay/finally_got_my_4th_card_in_64gb_total/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I was waiting on the blowers for the T4s and posted this before it was finished, other than some braided cable sleeves for the fan wires its pretty much good, I was going to upgrade the CPU, but I'm getting great speeds comparatively to a CPU in my old box that had way more cores, so I don't think it's going to make a difference. Fractal Design Torrent Mid-Tower Case w/Tinted Glass SuperMicro X11S",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T07:56:47.534910+00:00",
     "details": {}
   }
 ]
