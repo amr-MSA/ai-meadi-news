@@ -1,100 +1,5 @@
 [
   {
-    "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data.",
-    "link": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "On August 6, DataBreaches reported that Cardiology Associates of Port Huron (CAPH), a Michigan medical practice with 9 locations, appeared to have been breached by a group called Orova. As reported at the time, the listing included screenshots with personally identifiable and protected health information. Orova&#8217;s listing, posted on its leak site on August 4,... Source",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T23:29:04.069850+00:00",
-    "details": {}
-  },
-  {
-    "title": "Florida says it is revoking permits for Flock cameras and similar license-plate readers on state roads and no longer intends to issue such permits (Ryan Gillespie/Orlando Sentinel)",
-    "link": "https://www.techmeme.com/260831/p41#a260831p41",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ryan Gillespie / Orlando Sentinel : Florida says it is revoking permits for Flock cameras and similar license-plate readers on state roads and no longer intends to issue such permits &nbsp; &mdash;&nbsp; Florida is revoking permits for Flock cameras and similar license-plate readers on state roads, dealing a blow to local law enforcement agencies &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T23:29:20.216487+00:00",
-    "details": {}
-  },
-  {
-    "title": "Callscript: Code Mode, Without the Sandbox",
-    "link": "https://www.callscript.dev/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.callscript.dev/ Comments URL: https://news.ycombinator.com/item?id=49515936 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T23:29:20.218182+00:00",
-    "details": {}
-  },
-  {
-    "title": "Claude Code now appends a link to a Claude session in every commit",
-    "link": "https://news.ycombinator.com/item?id=49515667",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Claude code now appends every commit with this line, everyone is opted in automatically. This link is only accessible to the user so it doesn't make sense to be put in a commit. Claude-Session: https://claude.ai/code/session_... There is a new setting that allows you to disable it. \"attribution\": { \"sessionUrl\": false } Comments URL: https://news.ycombinator.com/item?id=49515667 Points: 4 # Commen",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T23:29:20.220042+00:00",
-    "details": {}
-  },
-  {
-    "title": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I keep seeing demos of AI agents building scenes in Blender through BlenderMCP, so I tried it myself. I ran both models locally for this and picked the GLM 5.3 family(Q4 quant) because videos of it doing 3D work kept showing up in my twitter feed (out of curiosity, I ran the same prompt through the full GLM 5.3, also locally with a Q4 quant) these aren't small models, obviously, a 4-bit quantized",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-08-31T23:29:20.222808+00:00",
-    "details": {}
-  },
-  {
     "title": "Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking (Anthropic)",
     "link": "https://www.techmeme.com/260831/p43#a260831p43",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -18860,6 +18765,101 @@
       "keywords": []
     },
     "rejected_at": "2026-09-30T20:23:34.843224+00:00",
+    "details": {}
+  },
+  {
+    "title": "Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra (Artificial Analysis)",
+    "link": "https://www.techmeme.com/260930/p53#a260930p53",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Artificial Analysis : Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra &nbsp; &mdash;&nbsp; Google's new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T00:54:29.781548+00:00",
+    "details": {}
+  },
+  {
+    "title": "California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers (Paxton Honerkamp/CNBC)",
+    "link": "https://www.techmeme.com/260930/p52#a260930p52",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Paxton Honerkamp / CNBC : California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers &nbsp; &mdash;&nbsp; California Governor Gavin Newsom has signed a landmark AI law banning Golden State employers from relying solely on artificial intelligence to fire or discipline workers.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T00:54:29.797982+00:00",
+    "details": {}
+  },
+  {
+    "title": "EDG C++ Compiler is open source",
+    "link": "https://github.com/edgcpp/compiler",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/edgcpp/compiler Comments URL: https://news.ycombinator.com/item?id=49915484 Points: 25 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T00:54:29.808079+00:00",
+    "details": {}
+  },
+  {
+    "title": "Growth.engineer – Vetted, open-source growth workflows for AI agents",
+    "link": "https://www.growth.engineer",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.growth.engineer Comments URL: https://news.ycombinator.com/item?id=49915329 Points: 1 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T00:54:29.820303+00:00",
+    "details": {}
+  },
+  {
+    "title": "Preorder for new AMD Ryzen™ AI Max 400 Series 192GB from framework just started",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Framework Desktop Framework Desktop DIY Edition (AMD Ryzen™ AI Max 400 Series) 192GB &#32; submitted by &#32; /u/Educational_Sun_8813 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-01T00:54:29.845456+00:00",
     "details": {}
   }
 ]
