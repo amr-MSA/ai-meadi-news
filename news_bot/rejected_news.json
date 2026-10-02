@@ -18519,5 +18519,119 @@
     },
     "rejected_at": "2026-10-02T14:17:15.572740+00:00",
     "details": {}
+  },
+  {
+    "title": "Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects (Colin Demarest/Axios)",
+    "link": "https://www.techmeme.com/261002/p22#a261002p22",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Colin Demarest / Axios : Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects &nbsp; &mdash;&nbsp; The U.S. Army is creating a new autonomous systems command and appointing an acquisition executive to prioritize buying &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-02T20:14:07.913364+00:00",
+    "details": {}
+  },
+  {
+    "title": "TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and \"we were at a trillion tokens per day about a week ago\" (Elias Schisgall/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261002/p21#a261002p21",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Elias Schisgall / Wall Street Journal : TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and &ldquo;we were at a trillion tokens per day about a week ago&rdquo; &nbsp; &mdash;&nbsp; The Jev model, which TypeSafe's CEO considers at the forefront of a &lsquo;new class of AI,&rsquo; has set Silicon Valley circles abuzz",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-02T20:14:07.927738+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "link": "https://github.com/anteloc/ldraw-nova",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language. This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time. When executed by specific tools, like e.g. LDView,",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-02T20:14:07.936943+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Open-source Git server that runs on Cloudflare Workers",
+    "link": "https://github.com/choyiny/gitorange",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Cloudflare announced Artifacts yesterday and it's about time someone created a serverless Github clone Comments URL: https://news.ycombinator.com/item?id=49937592 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-02T20:14:07.946550+00:00",
+    "details": {}
+  },
+  {
+    "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "**DISCLAIMER** THE PREFILLING TPS SHOWN ON THE PHONE IS COMPUTED ONLY FOR THE LAYERS IT HOLDS. ALREADY FIXING IT TO SHOW END-TO-END PREFILL RATE. NUMBERS BELOW ARE ACCURATE FOR E2E PREFILL RATE. Every file or tool result my agent reads on a 24 GB M4 Pro MacBook is a wait, and 64k of 8-bit context is all that fits next to Qwen 3.8 27B (IQ4_XS), even with the wired limit raised to 20480. An iPhone 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-02T20:14:07.959625+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Last month I posted a Qwen3.8-27B LoRA that makes it talk like a person instead of an assistant. It got a lot more attention than I expected: 700+ upvotes, 248 comments and 44k downloads since. I read every comment. People really don't like assistant speak, so its tone of voice resonated. The rest got roasted, very fairly: incapable of producing more than a few words at a time. single default pers",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-02T20:14:07.971010+00:00",
+    "details": {}
   }
 ]
