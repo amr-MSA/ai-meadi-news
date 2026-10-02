@@ -1,43 +1,5 @@
 [
   {
-    "title": "The EU General Court dismisses Opera's challenge against the European Commission's decision to exempt Microsoft Edge from DMA gatekeeper regulations in 2024 (Reuters)",
-    "link": "https://www.techmeme.com/260902/p16#a260902p16",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Reuters : The EU General Court dismisses Opera's challenge against the European Commission's decision to exempt Microsoft Edge from DMA gatekeeper regulations in 2024 &nbsp; &mdash;&nbsp; Norwegian browser maker Opera (OPRA.O) on Wednesday lost its court challenge against EU antitrust regulators' decision to exempt Microsoft's &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T12:32:01.484433+00:00",
-    "details": {}
-  },
-  {
-    "title": "Survey: 53% of US adults say they spend too much time on their smartphone and 36% say about the right amount; 70% of ages 18 to 29 report spending too much time (Pew Research Center)",
-    "link": "https://www.techmeme.com/260902/p15#a260902p15",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Pew Research Center : Survey: 53% of US adults say they spend too much time on their smartphone and 36% say about the right amount; 70% of ages 18 to 29 report spending too much time &nbsp; &mdash;&nbsp; Between scrolling, notifications, and messages, smartphones can be hard to put down.&nbsp; Just over half of U.S. adults say they spend &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T12:32:01.488575+00:00",
-    "details": {}
-  },
-  {
     "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
     "source_name": "BleepingComputer",
@@ -18556,6 +18518,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-02T07:41:34.563560+00:00",
+    "details": {}
+  },
+  {
+    "title": "Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits (Jess Weatherbed/The Verge)",
+    "link": "https://www.techmeme.com/261002/p11#a261002p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jess Weatherbed / The Verge : Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits &nbsp; &mdash;&nbsp; &#65279;The new Speech feature provides synthetic voiceovers embellished with AI background music.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-02T14:17:15.538601+00:00",
+    "details": {}
+  },
+  {
+    "title": "Does anyone know if any new releases from Mistral are planned?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "It’s been a long time since the last models came out. I notice they are selling GLM on the site, and I wonder if they are developing something, given the long silence. &#32; submitted by &#32; /u/LegacyRemaster [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-02T14:17:15.550027+00:00",
+    "details": {}
+  },
+  {
+    "title": "City of Vicksburg, Mississippi, shuts down computers after cyberattack",
+    "link": "https://databreaches.net/2026/10/02/city-of-vicksburg-mississippi-shuts-down-computers-after-cyberattack/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Joseph Topping reports: The City of Vicksburg, Mississippi, has shut down its computer systems after a ransomware attack, potentially delaying in-person utility payments while emergency response and utility service continue. Mayor Willis Thompson told The Vicksburg Post that the city had disconnected its internet operations. “We had to bring our internet operations down, just for... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-02T14:17:15.572740+00:00",
     "details": {}
   }
 ]
