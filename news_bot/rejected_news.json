@@ -1,176 +1,5 @@
 [
   {
-    "title": "Mark Zuckerberg says Meta's Watermelon model and Muse Spark open weights are \"coming soon\" (Mark Zuckerberg/@finkd)",
-    "link": "https://www.techmeme.com/260902/p37#a260902p37",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Mark Zuckerberg / @finkd : Mark Zuckerberg says Meta's Watermelon model and Muse Spark open weights are &ldquo;coming soon&rdquo; &nbsp; &mdash;&nbsp; Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter. This is the biggest jump we've made so far on coding and agentic work. Try it in Muse Code and our API. Next up &#127817; and Muse Spark open weights releases c",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T20:17:43.564916+00:00",
-    "details": {}
-  },
-  {
-    "title": "Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it significantly improves coding and agentic performance, at the same price as Spark 1.2 (Ina Fried/Axios)",
-    "link": "https://www.techmeme.com/260902/p36#a260902p36",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ina Fried / Axios : Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it significantly improves coding and agentic performance, at the same price as Spark 1.2 &nbsp; &mdash;&nbsp; Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T20:17:43.569022+00:00",
-    "details": {}
-  },
-  {
-    "title": "Uber launches London's first commercial robotaxi service; the vehicles use Wayve's autonomous driving tech and will initially have human safety drivers (Andrew J. Hawkins/The Verge)",
-    "link": "https://www.techmeme.com/260902/p45#a260902p45",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Andrew J. Hawkins / The Verge : Uber launches London's first commercial robotaxi service; the vehicles use Wayve's autonomous driving tech and will initially have human safety drivers &nbsp; &mdash;&nbsp; The cars have no lidar and no geofence, but still will have human safety drivers for the initial launch.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T23:41:48.199964+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale (Marina Temkin/TechCrunch)",
-    "link": "https://www.techmeme.com/260902/p44#a260902p44",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Marina Temkin / TechCrunch : Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale &nbsp; &mdash;&nbsp; Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents to automate routine &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T23:41:48.204169+00:00",
-    "details": {}
-  },
-  {
-    "title": "Habab Discord Quest Extension – Open-source browser extension",
-    "link": "https://github.com/xloqia03/Habab-Discord-Quest-Extension",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/xloqia03/Habab-Discord-Quest-Extension Comments URL: https://news.ycombinator.com/item?id=49543942 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T23:41:48.206895+00:00",
-    "details": {}
-  },
-  {
-    "title": "Goroutine Leak Profiles",
-    "link": "https://go.dev/blog/goroutine-leak-profiles",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://go.dev/blog/goroutine-leak-profiles Comments URL: https://news.ycombinator.com/item?id=49543564 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T23:41:48.209028+00:00",
-    "details": {}
-  },
-  {
-    "title": "Muse Spark open weights coming soon",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w5l8bw/muse_spark_open_weights_coming_soon/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I am still waiting for Llama 5, because Muse Spark will be too big for me, or just something between Glimmer and Spark https://x.com/finkd/status/2095232032896946311 &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T23:41:48.211971+00:00",
-    "details": {}
-  },
-  {
-    "title": "DoD confirms ‘refrigeration disruption’ at military commissaries",
-    "link": "https://databreaches.net/2026/09/02/dod-confirms-refrigeration-disruption-at-military-commissaries/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "DysruptionHub raised the suspicion flag yesterday, but couldn&#8217;t get a straight answer from DOD as to whether refrigeration outages at 14 commissaries represented a cyberattack. The Military Times fared no better: With more than a half-dozen commissaries on military bases in the continental U.S. reporting refrigeration outages this week, the Pentagon is acknowledging the problem... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T23:41:48.214701+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
-    "link": "https://databreaches.net/2026/09/02/hackers-expose-donor-data-from-russian-fundraisers-for-ukrainians-political-prisoners/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Daryna Antoniuk reports: Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information. The unknown threat actor targeted Davayte, which raises money for civilians in Ukraine affected by Russia’s invasion, and You Are Not Alone, a project supporting...",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-02T23:41:48.217527+00:00",
-    "details": {}
-  },
-  {
     "title": "Best Local Vision Language Models - August 2026",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/",
     "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
@@ -18632,6 +18461,44 @@
       "keywords": []
     },
     "rejected_at": "2026-10-02T20:14:07.971010+00:00",
+    "details": {}
+  },
+  {
+    "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week (Stephen Council/Business Insider)",
+    "link": "https://www.techmeme.com/261002/p29#a261002p29",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Stephen Council / Business Insider : David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week &nbsp; &mdash;&nbsp; David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company.&nbsp; &mdash;&nbsp; An OpenAI spokesperson told Business Insider on Friday that Robinson left last week &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T00:48:25.054572+00:00",
+    "details": {}
+  },
+  {
+    "title": "Buying RTX 5090 At Micro Center Reportedly Now Requires Paperwork, Including A No-Export Declaration",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Boomfrag [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T00:48:25.076932+00:00",
     "details": {}
   }
 ]
