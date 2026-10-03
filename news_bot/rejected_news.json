@@ -1,138 +1,5 @@
 [
   {
-    "title": "Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year (Ari Levy/CNBC)",
-    "link": "https://www.techmeme.com/260903/p18#a260903p18",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ari Levy / CNBC : Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year &nbsp; &mdash;&nbsp; Nvidia has officially agreed to buy open-source artificial intelligence platform Hugging Face for $12.9 billion, as the chipmaker moves beyond hardware and further up the AI stack.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T12:22:02.070191+00:00",
-    "details": {}
-  },
-  {
-    "title": "PlusAI, which is operating autonomous freight routes in Texas with trucking company Ryder, plans to go public in a SPAC deal at an $800M pre-money valuation (Pragyan Kalita/Reuters)",
-    "link": "https://www.techmeme.com/260903/p17#a260903p17",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Pragyan Kalita / Reuters : PlusAI, which is operating autonomous freight routes in Texas with trucking company Ryder, plans to go public in a SPAC deal at an $800M pre-money valuation &nbsp; &mdash;&nbsp; PlusAI has agreed to go public through a merger with blank-check firm Texas Ventures Acquisition III Corp (TVA.O) &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T12:22:02.073639+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Outfund.me – an open-source platform for alternative startup funding",
-    "link": "https://outfund.me/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://outfund.me/ Comments URL: https://news.ycombinator.com/item?id=49548826 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T12:22:02.076155+00:00",
-    "details": {}
-  },
-  {
-    "title": "He built Russia's FSB surveillance system, then fled with its source code",
-    "link": "https://istories.media/stories/2026/09/03/vines-sorm-iz-izbi/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://istories.media/stories/2026/09/03/vines-sorm-iz-izbi/ Comments URL: https://news.ycombinator.com/item?id=49548758 Points: 2 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T12:22:02.078524+00:00",
-    "details": {}
-  },
-  {
-    "title": "My RULE of Thumb of choosing a models",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w5zdx4/my_rule_of_thumb_of_choosing_a_models/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "This is mostly for setting up for expectation, since personally without LLM i could take 3 days (15 hours of active programming) to debug or implement a feature, but with Qwen 27B (even before Qwen 3.8) it take 4 hours. And yes 0.5 tok/s is human, not accounting of deletion and pausing, that's also the reason i am fine leaving overnight code base wide analysis or fin tech and deep research. &#32;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T12:22:02.080496+00:00",
-    "details": {}
-  },
-  {
-    "title": "Russian National Indicted For Exploiting Online Platform Used For Freelance Employment And Distributing Malware To Thousands Of Victims",
-    "link": "https://databreaches.net/2026/09/03/russian-national-indicted-for-exploiting-online-platform-used-for-freelance-employment-and-distributing-malware-to-thousands-of-victims/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "SAN FRANCISCO – A federal grand jury has indicted Searzhudin Tamirlanovich Aktulaev on charges of Conspiracy, Transmission of a Program, Information, Code, and Command to Cause Damage to a Protected Computer, and Aggravated Identity Theft, among other offenses. Defendant was arrested in Cyprus in May 2025 and has been extradited to the United States. Yesterday,... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T12:22:02.084931+00:00",
-    "details": {}
-  },
-  {
-    "title": "North Dakota Supreme Court impacted by third-party data breach that has affected dozens of states",
-    "link": "https://databreaches.net/2026/09/03/north-dakota-supreme-court-impacted-by-third-party-data-breach-that-has-affected-dozens-of-states/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Joe Kurzewski reports: A criminal investigation is underway after data associated with the North Dakota Supreme Court was affected by a breach of a third-party vendor used by the court. According to a news release, the North Dakota Court System was informed in late July that C-Track experienced a data breach that may have involved... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T12:22:02.087456+00:00",
-    "details": {}
-  },
-  {
     "title": "OpenAI’s new reasoning technique alarms AI safety experts",
     "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
     "source_name": "TechCrunch",
@@ -18233,6 +18100,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-03T07:13:29.660504+00:00",
+    "details": {}
+  },
+  {
+    "title": "Center for Technology & Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM (Howard Liu/South China Morning Post)",
+    "link": "https://www.techmeme.com/261003/p7#a261003p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Howard Liu / South China Morning Post : Center for Technology &amp; Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM &nbsp; &mdash;&nbsp; DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T12:49:24.552529+00:00",
+    "details": {}
+  },
+  {
+    "title": "Customize Claude Code with Mods in TypeScript",
+    "link": "https://claude.com/blog/claude-code-mods",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://claude.com/blog/claude-code-mods Comments URL: https://news.ycombinator.com/item?id=49943177 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T12:49:24.580738+00:00",
+    "details": {}
+  },
+  {
+    "title": "Terminal Velocity for Claude Code. Session Orchestrator. Live Action",
+    "link": "https://www.youtube.com/watch?v=9tfGn3isfZU",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.youtube.com/watch?v=9tfGn3isfZU Comments URL: https://news.ycombinator.com/item?id=49942970 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T12:49:24.592227+00:00",
+    "details": {}
+  },
+  {
+    "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "From Aleph Alpha on 𝕏: https://x.com/Aleph__Alpha/status/2106306840657297814 Tech report: https://aleph-alpha.com/downloads/tech-report.pdf &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T12:49:24.607833+00:00",
+    "details": {}
+  },
+  {
+    "title": "I'm pretty close to the middle thanks to you all",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wwbcdt/im_pretty_close_to_the_middle_thanks_to_you_all/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "It's been a blast and learning a ton. But seriously, you all have me down a rabbit hole that my wallet and hours of sleep need to be pulled out of. &#32; submitted by &#32; /u/pmarsh [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T12:49:24.618919+00:00",
     "details": {}
   }
 ]
