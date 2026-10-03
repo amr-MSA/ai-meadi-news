@@ -1,29 +1,5 @@
 [
   {
-    "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
-    "link": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Roger Satterfield reports: An attacker handed an unknown corporate victim a comprehensive, 80-page security audit on Wednesday — not as a service, but as a postscript to the ransomware attack that had just consumed the victim&#8217;s enterprise. According to Palo Alto Networks&#8217; threat intelligence unit Unit 42, whose researchers documented the September 2 incident, the... Source",
-    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "2026-09",
-      "news_type": "أمن سيبراني",
-      "product_name": "غير محدد",
-      "region": "عالمي",
-      "topic_key": "agentic-ransomware-enterprise-attack-unit42",
-      "keywords": [
-        "أمن سيبراني",
-        "ذكاء اصطناعي",
-        "برمجيات فدية",
-        "Unit 42"
-      ]
-    },
-    "rejected_at": "2026-09-03T17:27:33.388307+00:00",
-    "details": {}
-  },
-  {
     "title": "GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% (Greg Kamradt/ARC Prize)",
     "link": "https://www.techmeme.com/260903/p40#a260903p40",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -18442,6 +18418,139 @@
       "keywords": []
     },
     "rejected_at": "2026-10-03T16:59:23.050998+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: ShinyHunters member Saif al-Din Khader, aka \"Rey,\" was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach (Reuters)",
+    "link": "https://www.techmeme.com/261003/p11#a261003p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Sources: ShinyHunters member Saif al-Din Khader, aka &ldquo;Rey,&rdquo; was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach &nbsp; &mdash;&nbsp; A key member of the ShinyHunters hacking group, which claims to have stolen data on every FBI employee &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T17:40:55.384959+00:00",
+    "details": {}
+  },
+  {
+    "title": "YouTube says it is adjusting its Shorts recommendations to prioritize \"original content\" and reduce the reach of channels re-uploading others' content (Andrew Romero/9to5Google)",
+    "link": "https://www.techmeme.com/261003/p10#a261003p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Andrew Romero / 9to5Google : YouTube says it is adjusting its Shorts recommendations to prioritize &ldquo;original content&rdquo; and reduce the reach of channels re-uploading others' content &nbsp; &mdash;&nbsp; YouTube says it wants to &lsquo;focus on originality&rsquo; in a push to surface better Shorts recommendations for users.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T17:40:55.399416+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open Source Rust clean-room replacements for 7 of Adobe's apps",
+    "link": "https://www.reddit.com/r/SaaS/comments/1wwnhbt/ive_created_open_source_100_rust_cleanroom/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.reddit.com/r/SaaS/comments/1wwnhbt/ive_created_open_source_100_rust_cleanroom/ Comments URL: https://news.ycombinator.com/item?id=49946004 Points: 1 # Comments: 2",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T17:40:55.409346+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: I made a MMO-style citybuilder using the Micropolis open source assets",
+    "link": "https://globalcity.evertpot.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://globalcity.evertpot.com/ Comments URL: https://news.ycombinator.com/item?id=49945950 Points: 3 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T17:40:55.419871+00:00",
+    "details": {}
+  },
+  {
+    "title": "Yes bots we get it, Strata is good now please stop",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "It's like the entire sub has become that scene from Konosuba where the cult keeps making up fake scenarios saying the only solution is to join their religion &#32; submitted by &#32; /u/Mayion [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T17:40:55.429345+00:00",
+    "details": {}
+  },
+  {
+    "title": "ShinyHunters hacker “Rey,” allegedly involved in FBI data theft, detained in Jordan",
+    "link": "https://databreaches.net/2026/10/03/shinyhunters-hacker-rey-allegedly-involved-in-fbi-data-theft-detained-in-jordan/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Jana Winter, Raphael Satter, and A.J. Vicens report: A key member of the ShinyHunters hacking group, ‌which claims to have stolen data on every FBI employee, was detained this week in Jordan, three people familiar with the matter told Reuters. Two of ​the sources said he was cooperating with the FBI to identify ​his fellow... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T17:40:55.453229+00:00",
+    "details": {}
+  },
+  {
+    "title": "DHS readies major cyber contract",
+    "link": "https://databreaches.net/2026/10/03/dhs-readies-major-cyber-contract/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Justin Doubleday reports: The Department of Homeland Security is preparing this year to award a major cloud, cybersecurity and network services contract aimed at further centralizing the management of IT services across DHS. In a notice posted to Sam.gov last month, DHS laid out the notional timeline for award of the Network, Cloud and Cybersecurity... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-03T17:40:55.461502+00:00",
     "details": {}
   }
 ]
