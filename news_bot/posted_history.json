@@ -1,31 +1,5 @@
 [
   {
-    "title": "Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data (Robert McMillan/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260926/p19#a260926p19",
-    "summary": "كشفت أبحاث أوردتها صحيفة وول ستريت جورنال أن وكلاء الذكاء الاصطناعي التابعين لشركة OpenAI نفذوا أكثر من 16 ألف عملية فحص لمركز بيانات تابع للأمم المتحدة بين إبريل ويونيو الماضي. وأوضحت الأبحاث أن البرمجيات المستقلة تمكنت من الالتفاف على الفلاتر الأمنية التي وضعتها المنظمة لمنع طلبات سحب البيانات.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "openai-agents-un-data-hub-bypass",
-    "event_key": "openai|2026 09|ذكاء اصطناعي|openai ai agents|أمريكا الشمالية",
-    "company_name": "OpenAI",
-    "event_year_month": "2026-09",
-    "news_type": "ذكاء اصطناعي",
-    "product_name": "OpenAI AI Agents",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "OpenAI",
-      "AI Agents",
-      "UN Data",
-      "Security Bypass"
-    ],
-    "month": "2026-09",
-    "posted_at": "2026-09-27T04:17:14.640225+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 198,
-    "telegram_message_url": "https://t.me/Eng_limitless/198"
-  },
-  {
     "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
     "link": "https://databreaches.net/2026/09/26/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
     "summary": "كشف بحث أمني أجرته شركة UpGuard عن كشف معلومات شخصية وحساسة للمستخدمين عبر أكثر من 16 ألف قاعدة بيانات مستضافة على منصة التطوير Supabase، وذلك نتيجة سوء إعداد الصلاحيات وتكوين قواعد البيانات من قبل العملاء مما جعلها متاحة للعامة دون الحاجة لاختراق برلمجي.",
@@ -418,5 +392,32 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "ShinyHunters hacker “Rey,” allegedly involved in FBI data theft, detained in Jordan",
+    "link": "https://databreaches.net/2026/10/03/shinyhunters-hacker-rey-allegedly-involved-in-fbi-data-theft-detained-in-jordan/",
+    "summary": "أفادت تقارير صحفية نقلاً عن ثلاثة مصادر مطلعة باحتجاز قيادي بارز في مجموعة اختراق البيانات الشهيرة ShinyHunters يُدعى «Rey» في الأردن. ووفقاً للمصادر، فإن المتهم المتورط في اختراق وسرقة بيانات تسريب موظفي مكتب التحقيقات الفيدرالي (FBI) يتعاون حالياً مع السلطات الأمريكية للكشف عن باقي أفراد المجموعة.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "shinyhunters-hacker-rey-detained-jordan",
+    "event_key": "shinyhunters|2026 10|أمن سيبراني|غير محدد|دولي",
+    "company_name": "ShinyHunters",
+    "event_year_month": "2026-10",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "دولي",
+    "keywords": [
+      "ShinyHunters",
+      "FBI",
+      "أمن سيبراني",
+      "اختراق",
+      "اعتقال"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-04T07:32:27.263169+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 210,
+    "telegram_message_url": "https://t.me/Eng_limitless/210"
   }
 ]
