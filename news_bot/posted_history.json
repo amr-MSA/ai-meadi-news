@@ -392,5 +392,32 @@
     "reliability_level": "🟢",
     "telegram_message_id": 210,
     "telegram_message_url": "https://t.me/Eng_limitless/210"
+  },
+  {
+    "title": "Sources: John Ternus has effectively become Apple's design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter (Mark Gurman/Bloomberg)",
+    "link": "https://www.techmeme.com/261004/p12#a261004p12",
+    "summary": "أفادت تقارير صحفية نقلاً عن مصادر مطلعة بأن جون تيرنوس، رئيس هندسة العتاد بشركة أبل، بات يشرف عملياً على قيادة التصميم بشقيه البرمجي والعتادي. كما كشفت التسريبات أن جهاز MacBook Pro القادم بشاشة OLED تعمل باللمس سياتي بوزن أخف بكثير من الأجيال السابقة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "apple-john-ternus-design-chief-oled-macbook-pro",
+    "event_key": "apple|2026 10|أجهزة وعتاد|macbook pro|أمريكا الشمالية",
+    "company_name": "Apple",
+    "event_year_month": "2026-10",
+    "news_type": "أجهزة وعتاد",
+    "product_name": "MacBook Pro",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Apple",
+      "MacBook Pro",
+      "John Ternus",
+      "OLED",
+      "تسريبات"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-04T17:54:27.761850+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 211,
+    "telegram_message_url": "https://t.me/Eng_limitless/211"
   }
 ]

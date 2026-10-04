@@ -18115,5 +18115,81 @@
     },
     "rejected_at": "2026-10-04T17:17:55.910023+00:00",
     "details": {}
+  },
+  {
+    "title": "DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's \"third-party infrastructure arm\" after SoftBank's ~$4B takeover closed (Financial Times)",
+    "link": "https://www.techmeme.com/261004/p13#a261004p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's &ldquo;third-party infrastructure arm&rdquo; after SoftBank's ~$4B takeover closed &nbsp; &mdash;&nbsp; DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank's &lsquo;third-party infrastructure arm&rsquo; after $4bn takeover",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T17:54:27.783785+00:00",
+    "details": {}
+  },
+  {
+    "title": "Building a RAG Pipeline for Semantic Code Search",
+    "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/ Comments URL: https://news.ycombinator.com/item?id=49956148 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T17:54:27.789248+00:00",
+    "details": {}
+  },
+  {
+    "title": "Just Dashboard – open-source dashboard for everything",
+    "link": "https://github.com/JustDashboard/Just-Dashboard",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/JustDashboard/Just-Dashboard Comments URL: https://news.ycombinator.com/item?id=49956017 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T17:54:27.795115+00:00",
+    "details": {}
+  },
+  {
+    "title": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#x200b; From the first LLaMA 33B I knew I wanted that magic-like intelligence locally, mine, so nobody could take it away when I needed it. I bought a 3090 for my home PC. Then LLaMA 65B appeared and I was dazzled, it looked like it had all the knowledge in the world. I made two copies, one local and one on my Synology NAS RAID, so I'd never lose it, and bought a second 3090 to run it. I was happ",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T17:54:27.801205+00:00",
+    "details": {}
   }
 ]
