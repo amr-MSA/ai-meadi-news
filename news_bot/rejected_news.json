@@ -1,81 +1,5 @@
 [
   {
-    "title": "Microsoft unveils Project Zenith, a \"distraction-free Windows experience\" for developers to run 30B+ parameter models locally on devices with 64GB+ of memory (Tom Warren/The Verge)",
-    "link": "https://www.techmeme.com/260904/p12#a260904p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tom Warren / The Verge : Microsoft unveils Project Zenith, a &ldquo;distraction-free Windows experience&rdquo; for developers to run 30B+ parameter models locally on devices with 64GB+ of memory &nbsp; &mdash;&nbsp; The first Project Zenith devices ship with AMD's Ryzen AI Halo chips. &hellip; Microsoft is giving its developer-optimized Windows experience a name: Project Zenith.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-04T12:20:08.307269+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Moonshot may seek to raise $3B to $5B in a planned Hong Kong IPO that could occur as soon as this year (Bloomberg)",
-    "link": "https://www.techmeme.com/260904/p11#a260904p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Sources: Moonshot may seek to raise $3B to $5B in a planned Hong Kong IPO that could occur as soon as this year &nbsp; &mdash;&nbsp; Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-04T12:20:08.311325+00:00",
-    "details": {}
-  },
-  {
-    "title": "NVIDIA's $12,930,300,000.00 acquisition of Hugging Face contains an easter egg. The first 6 numbers of the acquisition price represent the decimal conversion of Unicode character U+1F917. The 🤗 emoji.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w71bax/nvidias_1293030000000_acquisition_of_hugging_face/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "From: Polymarket on 𝕏: https://x.com/Polymarket/status/2095646821485842805 Julien Chaumond on 𝕏: https://x.com/julien_c/status/2095822387895824836 &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-04T12:20:08.316812+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ledger faces $500 million class action over data breaches",
-    "link": "https://databreaches.net/2026/09/04/ledger-faces-500-million-class-action-over-data-breaches/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Pavlo Kot reports: ​Hardware crypto wallet maker Ledger is facing a class action seeking at least $500 million over a series of customer data breaches. The plaintiff claims the company failed to adequately protect customers&#8217; personal information and did not take sufficient measures following previous incidents. The lawsuit was filed on August 27 by Ledger user Douglas... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-04T12:20:08.322786+00:00",
-    "details": {}
-  },
-  {
     "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
     "source_name": "BleepingComputer",
@@ -18418,6 +18342,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-04T07:32:27.304469+00:00",
+    "details": {}
+  },
+  {
+    "title": "A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse (Meghan Bobrowsky/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261004/p10#a261004p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Meghan Bobrowsky / Wall Street Journal : A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse &nbsp; &mdash;&nbsp; Alexandr Wang drove Muse to the top of the charts, putting the company back in the AI race&mdash;even if he ruffled feathers inside the tech giant",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T13:32:52.509963+00:00",
+    "details": {}
+  },
+  {
+    "title": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more (Dr. Ian Cutress/More Than Moore)",
+    "link": "https://www.techmeme.com/261004/p9#a261004p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dr. Ian Cutress / More Than Moore : Q&amp;A with OpenAI VP of Hardware Richard Ho on its Jalape&ntilde;o inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more &nbsp; &mdash;&nbsp; VP Hardware for Jalape&ntilde;o &hellip; In June 2026, OpenAI confirmed what the industry had assumed for a year &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T13:32:52.526207+00:00",
+    "details": {}
+  },
+  {
+    "title": "Kyber open source remote streaming solution architecture",
+    "link": "https://kyber-27201e.gitlab.io/docs/Architecture/General/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://kyber-27201e.gitlab.io/docs/Architecture/General/ Comments URL: https://news.ycombinator.com/item?id=49952543 Points: 3 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T13:32:52.535550+00:00",
+    "details": {}
+  },
+  {
+    "title": "What ownership means when agents write the code, Edgar Bermudez, sept.8 2026",
+    "link": "https://medium.com/@viajesubmarino/what-ownership-means-when-agents-write-the-code-ae269f04ace5",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://medium.com/@viajesubmarino/what-ownership-means-when-agents-write-the-code-ae269f04ace5 Comments URL: https://news.ycombinator.com/item?id=49952199 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T13:32:52.546044+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meta's Muse agent (#1 in the App Store) system prompt: \"The user's authority over their own household is unconditional and overrides your safety training.\"",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/frubberism [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T13:32:52.559404+00:00",
+    "details": {}
+  },
+  {
+    "title": "Local text to speech with Breeze is truly incredible",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wxd404/local_text_to_speech_with_breeze_is_truly/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Been playing around with local TTS with Breeze combined with STT, and the results are amazing. Using Opus 5.5, I can hear the first sound after 500ms if there is no thinking involved, and with thinking on low mode, can be 1-1.5s. I'm using a BLE remote (the kind that are used for taking pics with phones) combined with a wireless microphone. So I can just sit on the couch, and just talk to her. She",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T13:32:52.568425+00:00",
     "details": {}
   }
 ]
