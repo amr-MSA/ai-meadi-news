@@ -1,81 +1,5 @@
 [
   {
-    "title": "Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest (Alex Konrad/Upstarts Media)",
-    "link": "https://www.techmeme.com/260903/p47#a260903p47",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Alex Konrad / Upstarts Media : Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest &nbsp; &mdash;&nbsp; Exclusive details on Town's new $90M fundraise at a $1B valuation, and the eleventh-hour cap table reshuffling behind it, per Upstarts sources.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T23:38:54.700083+00:00",
-    "details": {}
-  },
-  {
-    "title": "The benchmarks the big labs don't want you to see",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w6myn6/the_benchmarks_the_big_labs_dont_want_you_to_see/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/jd_3d [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T23:38:54.703072+00:00",
-    "details": {}
-  },
-  {
-    "title": "Two “Nephrology Associates” suffered cyberattacks. Only one of them has disclosed it.",
-    "link": "https://databreaches.net/2026/09/03/two-nephrology-associates-suffered-cyberattacks-only-one-of-them-has-disclosed-it/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Sometimes, first impressions are wrong. And in the case of &#8220;Nephrology Associates,&#8221; DataBreaches mistakenly thought one victim was attacked by two different groups. But no, there are actually two unrelated entities with the same name that suffered attacks this year. And only one of them has disclosed it. The Kansas Incident On March 7, The... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T23:38:54.709843+00:00",
-    "details": {}
-  },
-  {
-    "title": "The New School Safety Perimeter: Where Cybersecurity Meets Physical Security",
-    "link": "https://databreaches.net/2026/09/03/the-new-school-safety-perimeter-where-cybersecurity-meets-physical-security/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Kumar Sokka reports: At many institutions, the student ID number exposed in a data breach is the same number that unlocks dorm doors, sits behind classroom badge readers, controls laboratory access, and authenticates into building automation systems. The badge in a student&#8217;s wallet is keyed to that database. When that database is compromised, every physical... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-03T23:38:54.712968+00:00",
-    "details": {}
-  },
-  {
     "title": "Tesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas (Reuters)",
     "link": "https://www.techmeme.com/260903/p49#a260903p49",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -18475,6 +18399,82 @@
       "keywords": []
     },
     "rejected_at": "2026-10-03T17:40:55.461502+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: AI czar Jay Clayton to chair the WH's AI task force, called \"Super Intelligence Force\", to pen a report on AI's risks and opportunities within 120 days (Alex Leary/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261003/p13#a261003p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Alex Leary / Wall Street Journal : Sources: AI czar Jay Clayton to chair the WH's AI task force, called &ldquo;Super Intelligence Force&rdquo;, to pen a report on AI's risks and opportunities within 120 days &nbsp; &mdash;&nbsp; The White House group will be led by Director of National Intelligence Jay Clayton who will serve as AI czar",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T00:12:55.784945+00:00",
+    "details": {}
+  },
+  {
+    "title": "David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over (David Robinson/The Atlantic)",
+    "link": "https://www.techmeme.com/261003/p12#a261003p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "David Robinson / The Atlantic : David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over &nbsp; &mdash;&nbsp; What I'm about to tell you has, I realize, become something of a clich&eacute;: I resigned this week from OpenAI.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T00:12:55.804001+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Rise of Overfit Inference Engines",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "There seems to be a whole category of extremely narrow inference runtimes appearing: Strata, ninfer, DwarfStar, Splash, llamAmpere, gufo, etc. They deliberately give up the thing llama.cpp/vLLM are great at - generality - and optimize around a small number of models and sometimes one hardware family e.g. Strix Halo It seems that general runtimes for compatibility, disposable overfit runtimes for m",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T00:12:55.825795+00:00",
+    "details": {}
+  },
+  {
+    "title": "Italy’s Data Protection Authority fines IQVIA €7 million over data protection breach",
+    "link": "https://databreaches.net/2026/10/03/italys-data-protection-authority-fines-iqvia-e7-million-over-data-protection-breach/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The following is a machine translation of a press release by Italy&#8217;s privacy guarantor: Healthcare data: The Privacy Guarantor fines IQVIA 7 million euros. The data of one million patients of 800 family doctors are not anonymous. The Italian Data Protection Authority has fined IQVIA Solutions Italy Srl €7 million. The company, part of a... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-04T00:12:55.839095+00:00",
     "details": {}
   }
 ]
