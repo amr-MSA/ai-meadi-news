@@ -1,157 +1,5 @@
 [
   {
-    "title": "In response to the \"wiki incident\", OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment (@openai)",
-    "link": "https://www.techmeme.com/260905/p7#a260905p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "@openai : In response to the &ldquo;wiki incident&rdquo;, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment &nbsp; &mdash;&nbsp; How we think about the &ldquo;wiki incident,&rdquo; where our agents wrote to several internet sites: it's past time for us &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T11:27:44.321678+00:00",
-    "details": {}
-  },
-  {
-    "title": "Q&A with Kai-Fu Lee on China's open-model advantage, AI's impact on jobs, US export restrictions on chips, Chinese AI's role in developing countries, and more (Mishal Husain/Bloomberg)",
-    "link": "https://www.techmeme.com/260905/p6#a260905p6",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Mishal Husain / Bloomberg : Q&amp;A with Kai-Fu Lee on China's open-model advantage, AI's impact on jobs, US export restrictions on chips, Chinese AI's role in developing countries, and more &nbsp; &mdash;&nbsp; Chinese AI companies are rapidly closing the gap with US rivals, even after years of restrictions on their access to advanced chips.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T11:27:44.327637+00:00",
-    "details": {}
-  },
-  {
-    "title": "Qwen3.8-27B beat the Wikipedia game in 6 clicks.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Used qwen3.8-27b in Opencode to make this silly mini-game because I'm not sober: ``` We are going to play a game, it will be the Wikipedia game. The Wikipedia game has the following rules: You will have a Wikipedia article set as a starting point. You will have a Wikipedia article set as an ending point. Your objective is to reach the the end point, which is an article completely separate from the",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T11:27:44.331172+00:00",
-    "details": {}
-  },
-  {
-    "title": "I've found myself using Local LLM's like 3D printers.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Anyone who has a 3D printer and get use of it finds it incredibly useful for those odd jobs around the house, a missing bracket, a cable router, steam deck holder and so on. In the past if I was missing an app or useful software, a game I'd do the lazy thing, even though I can and have coded in the past, its &quot;effort&quot; I'll just go and buy or download the latest and greatest. Earlier in th",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T11:27:44.334795+00:00",
-    "details": {}
-  },
-  {
-    "title": "Businesses in China are experimenting with ways to package and market AI tokens to ordinary consumers, including as credit card rewards and telecom plan bundles (Kinling Lo/Rest of World)",
-    "link": "https://www.techmeme.com/260905/p8#a260905p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Kinling Lo / Rest of World : Businesses in China are experimenting with ways to package and market AI tokens to ordinary consumers, including as credit card rewards and telecom plan bundles &nbsp; &mdash;&nbsp; Five unexpected ways computing power is entering everyday life in the country.&nbsp; &mdash;&nbsp; Artificial intelligence tokens &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T14:09:43.979578+00:00",
-    "details": {}
-  },
-  {
-    "title": "AA Update! Here's how the Frontier ranks.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y261/aa_update_heres_how_the_frontier_ranks/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Along with everyone's favorite here, qwen3.8-27B &#32; submitted by &#32; /u/Tall_Abrocoma_3533 [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T14:09:43.987672+00:00",
-    "details": {}
-  },
-  {
-    "title": "AA Update! Here's how the small models score.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Ling 3.0 Tiny still seems to be leading the pack despite only having 1.3B active &#32; submitted by &#32; /u/Tall_Abrocoma_3533 [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T14:09:43.991055+00:00",
-    "details": {}
-  },
-  {
-    "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-    "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-    "source_name": "BleepingComputer",
-    "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T15:46:18.427478+00:00",
-    "details": {}
-  },
-  {
     "title": "Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)",
     "link": "https://www.techmeme.com/260905/p9#a260905p9",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -18133,6 +17981,234 @@
       "keywords": []
     },
     "rejected_at": "2026-10-05T07:51:10.200779+00:00",
+    "details": {}
+  },
+  {
+    "title": "tester-army/e2e",
+    "link": "https://github.com/tester-army/e2e",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Next generation e2e testing framework for web and mobile apps. https://tester.army/e2e e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. // tests/checkout.e2e.ts import { test, expect } from 'e2e'; test('a member upgrades to Pro', async ({ a",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:31:52.356724+00:00",
+    "details": {}
+  },
+  {
+    "title": "calesthio/OpenMontage",
+    "link": "https://github.com/calesthio/OpenMontage",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. https://www.openmontage.video/ Monty the Clapper — the official mascot of OpenMontage OpenMontage The first open-source, agentic video production system. Paste A Video &nbsp;·&nbsp; Quick",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:31:52.395519+00:00",
+    "details": {}
+  },
+  {
+    "title": "caddyserver/caddy",
+    "link": "https://github.com/caddyserver/caddy",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS https://caddyserver.com a project Every site on HTTPS Caddy is an extensible server platform that uses TLS by default. Releases · Documentation · Get Help &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Powered by Special thanks to: Warp, built for coding with multiple AI agents Available for MacOS, Linux, &amp; Windows Menu Features",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:31:52.412285+00:00",
+    "details": {}
+  },
+  {
+    "title": "michael-denyer/pstack-claude",
+    "link": "https://github.com/michael-denyer/pstack-claude",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. pstack Lauren Tan's pstack is an opinionated Cursor skill stack that improves agent outcomes. This is a port for Claude Code, Codex, Pi and other agent harnesses. It tracks upstream and also carries named policy forks, each declared",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:31:52.421388+00:00",
+    "details": {}
+  },
+  {
+    "title": "garrytan/gstack",
+    "link": "https://github.com/garrytan/gstack",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA gstack \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — Andrej Karpathy , No Priors podcast, March 2026 When I heard Karpathy say this, I wanted to find out how. How does one person ship",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:31:52.450914+00:00",
+    "details": {}
+  },
+  {
+    "title": "antirez/ds4",
+    "link": "https://github.com/antirez/ds4",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm DwarfStar aims to be the best way to run a few excellent large language models on consumer hardware (that is, hardware that people can actually own). To reach this goal, we are building a small native inference engine optimized first for DeepSeek V4 Flash (including the experimental vision model), DeepSeek V4.1 Flash (Metal,",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:31:52.467756+00:00",
+    "details": {}
+  },
+  {
+    "title": "An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran (BBC)",
+    "link": "https://www.techmeme.com/261005/p25#a261005p25",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "BBC : An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran &nbsp; &mdash;&nbsp; Technology reporter in San Francisco and&nbsp; &mdash;&nbsp; The US Department of Defence is no longer using Anthropic's AI tools &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:32:59.604949+00:00",
+    "details": {}
+  },
+  {
+    "title": "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally (OpenAI)",
+    "link": "https://www.techmeme.com/261005/p24#a261005p24",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "OpenAI : To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally &nbsp; &mdash;&nbsp; - Starting today, API customers globally will be able to opt in to text watermarking for select models.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:32:59.620013+00:00",
+    "details": {}
+  },
+  {
+    "title": "Agens Volundr 32B Preview: our small team's first model on our own hybrid architecture. Only 18 of 72 layers keep a KV cache (Apache-2.0)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wy7wn0/agens_volundr_32b_preview_our_small_teams_first/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hi r/LocalLLaMA . I'm on the team at Blockway, a small team in Hong Kong (disclosure: this is our model). Today we released Agens Volundr 32B Preview, the first model built on our own hybrid architecture. We trained it on limited compute, it isn't perfect, and we'd rather tell you where it falls short up front. WHY WE BUILT IT Our customers run models on their own machines. At long context, the KV",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:32:59.634330+00:00",
+    "details": {}
+  },
+  {
+    "title": "M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wy8k3m/m5_ultra_256_running_glm_53_flash_688_toks/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Running oQ4e+MTP on oMLX 0.7.0, with still more to optimize. Prefill is 1,878 toks. I saw some other benchmarks below what id expect so i figured I would share. &#32; submitted by &#32; /u/cryotic [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:32:59.644739+00:00",
+    "details": {}
+  },
+  {
+    "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked (1)",
+    "link": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Colombia&#8217;s largest health-promoting entity, Nueva EPS, has allegedly been hacked by an individual demanding $15 million not to leak the data. Colombia&#8217;s healthcare system includes Entidad Promotora de Salud (EPS), regional health-promoting entities responsible for implementing objectives set by the Ministry of Health, developing guidelines and protocols, and overseeing healthcare deliv",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:32:59.657212+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers Breached Propulsion System of U.S.-Bound Oil Tanker",
+    "link": "https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Seen on Homeland Security Today: FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that highlights the growing physical risks from cyberattacks. The cyberattack resulted... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T16:32:59.667612+00:00",
     "details": {}
   }
 ]
