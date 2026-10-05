@@ -1,233 +1,5 @@
 [
   {
-    "title": "Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack (Robert Hart/The Verge)",
-    "link": "https://www.techmeme.com/260905/p9#a260905p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Robert Hart / The Verge : Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack &nbsp; &mdash;&nbsp; The internet fights over anthropomorphism around the Hugging Face hack. &hellip; Depending on who you ask, developer platform Hugging Face &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T17:47:15.017334+00:00",
-    "details": {}
-  },
-  {
-    "title": "Praetor – Privacy-first open-source system prompt for CV self-assessment",
-    "link": "https://github.com/simonesan-afk/CV-Praetorian-Guard",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/simonesan-afk/CV-Praetorian-Guard Comments URL: https://news.ycombinator.com/item?id=49578562 Points: 2 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T17:47:15.021779+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ask HN: Source Code of Emerald Editor",
-    "link": "https://news.ycombinator.com/item?id=49578407",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Do you know where I can find the source code of emerald Editor (formerly Crimson Editor)? Comments URL: https://news.ycombinator.com/item?id=49578407 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T17:47:15.025443+00:00",
-    "details": {}
-  },
-  {
-    "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor",
-    "link": "https://databreaches.net/2026/09/05/falconflank-zero-day-hits-crowdstrike-falcon-sensor/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "CyberKendra reports: A security researcher known as Chaotic Eclipse has released FalconFlank, a proof-of-concept zero-day that escalates privileges on fully patched Windows machines running CrowdStrike Falcon. The researcher — who also uses the aliases Nightmare-Eclipse, MSNightmare, and INFINITE NIGHTMARE — published working exploit code to GitHub on September 3, 2026, without giving CrowdStrike",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T17:47:15.036443+00:00",
-    "details": {}
-  },
-  {
-    "title": "Berlin is reviewing Rhysida's 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans (Miranda Murray/Reuters)",
-    "link": "https://www.techmeme.com/260905/p10#a260905p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Miranda Murray / Reuters : Berlin is reviewing Rhysida's 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans &nbsp; &mdash;&nbsp; Berlin's state government said on Saturday it was reviewing with the highest intensity a trove of stolen data published by a ransomware group &hellip;",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T19:39:33.427231+00:00",
-    "details": {}
-  },
-  {
-    "title": "Benzi – A harness reading LESS source code to write better quality code",
-    "link": "https://github.com/oooscoos/Benzi",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/oooscoos/Benzi Comments URL: https://news.ycombinator.com/item?id=49579769 Points: 1 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T19:40:03.055515+00:00",
-    "details": {}
-  },
-  {
-    "title": "Take-Two's Leak-Burying DMCA Attempts Snared GameStop and Gaming Journalist",
-    "link": "https://www.techdirt.com/2026/09/04/take-twos-leak-burying-dmca-attempts-snared-gamestop-gaming-journalist-that-did-nothing-wrong/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.techdirt.com/2026/09/04/take-twos-leak-burying-dmca-attempts-snared-gamestop-gaming-journalist-that-did-nothing-wrong/ Comments URL: https://news.ycombinator.com/item?id=49579011 Points: 2 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T19:40:03.059665+00:00",
-    "details": {}
-  },
-  {
-    "title": "French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft",
-    "link": "https://databreaches.net/2026/09/05/french-police-arrest-suspected-zerobytes-hacker-over-tax-data-theft/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Waqas reports: French authorities have detained an 18-year-old man suspected of belonging to ZeroBytes, a hacking group that claimed responsibility for several attacks targeting French government services and companies. The Paris prosecutor’s office disclosed the case on September 4, according to reports from French media. However, the suspect was arrested on August 18, formally placed... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T19:40:03.071419+00:00",
-    "details": {}
-  },
-  {
-    "title": "The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)",
-    "link": "https://www.techmeme.com/260905/p13#a260905p13",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Todd Bishop / GeekWire : The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times &nbsp; &mdash;&nbsp; Microsoft was sued Friday by the parent company of its hometown daily newspaper, The Seattle Times Co., which joined with Newsday &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T21:45:59.728087+00:00",
-    "details": {}
-  },
-  {
-    "title": "Trump admin debuts arcade.gov with a deportation-themed Snake clone and a Tetris-like wall-building clone; Tetris says it takes IP infringement \"very seriously\" (ABC News)",
-    "link": "https://www.techmeme.com/260905/p12#a260905p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "ABC News : Trump admin debuts arcade.gov with a deportation-themed Snake clone and a Tetris-like wall-building clone; Tetris says it takes IP infringement &ldquo;very seriously&rdquo; &nbsp; &mdash;&nbsp; In &ldquo;Build the Wall,&rdquo; players aim to &ldquo;protect the border&rdquo; from zombies.&nbsp; &mdash;&nbsp; Isabella Murray, Nicholas Kerr, and Michelle Stoddart",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T21:45:59.733785+00:00",
-    "details": {}
-  },
-  {
-    "title": "OSHintosh – an open source hardware 68000 Macintosh with a Bootable ROM Disk",
-    "link": "https://github.com/DosFox1/OSHintosh",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/DosFox1/OSHintosh Comments URL: https://news.ycombinator.com/item?id=49580210 Points: 3 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T21:45:59.737913+00:00",
-    "details": {}
-  },
-  {
-    "title": "Warmbly: Open-Source Cold Email",
-    "link": "https://github.com/warmbly/warmbly",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/warmbly/warmbly Comments URL: https://news.ycombinator.com/item?id=49580177 Points: 2 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T21:45:59.741256+00:00",
-    "details": {}
-  },
-  {
     "title": "The gap has closed, open source will win",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win/",
     "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
@@ -18209,6 +17981,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-05T16:32:59.667612+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)",
+    "link": "https://www.techmeme.com/261005/p34#a261005p34",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Marina Temkin / TechCrunch : Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August &nbsp; &mdash;&nbsp; Although it's only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T23:26:57.194955+00:00",
+    "details": {}
+  },
+  {
+    "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+    "link": "https://www.techmeme.com/261005/p33#a261005p33",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "SemiAnalysis : Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol &nbsp; &mdash;&nbsp; Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXAI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T23:26:57.211037+00:00",
+    "details": {}
+  },
+  {
+    "title": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Picture from a post in r/amodei . People were praising qwen and I'm just wondering, what kind of new technologies are at play here? Does qwen just have &quot;better&quot; pre training data? That's more high quality? &#32; submitted by &#32; /u/SignificantZebra5883 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T23:26:57.223815+00:00",
+    "details": {}
+  },
+  {
+    "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "So PewDiePie decides to fine-tune a local AI model called Ajax on his own computer. Pretty normal stuff for local model fans. To make his dataset, he uses OpenAI's API. OpenAI catches him using their outputs to train another model, flags his account for breaking their terms, and bans him. He files an appeal, gets unbanned, goes right back to pulling data from the API, and immediately gets banned a",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T23:26:57.236491+00:00",
+    "details": {}
+  },
+  {
+    "title": "CISA to keep cyber pay incentives, but less staff will qualify",
+    "link": "https://databreaches.net/2026/10/05/cisa-to-keep-cyber-pay-incentives-but-less-staff-will-qualify/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Justin Doubleday reports: The Cybersecurity and Infrastructure Security Agency is continuing to offer cyber pay incentives to retain skilled technical staff, but less employees will qualify for the program under revised criteria that ties eligibility to job series and performance ratings. The revised policy has sparked some concern that CISA could lose more staff after... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T23:26:57.247398+00:00",
     "details": {}
   }
 ]
