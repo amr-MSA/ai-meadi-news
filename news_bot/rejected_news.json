@@ -1,62 +1,5 @@
 [
   {
-    "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-    "link": "https://www.techmeme.com/260904/p29#a260904p29",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jonathan Randles / Bloomberg : Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google &nbsp; &mdash;&nbsp; An artificial intelligence startup is attempting to wrest away a vast trove of Spirit Aviation Holdings Inc.'s business records from Google LLC.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-04T22:09:43.661622+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Fast rust-based repository launcher for your code projects",
-    "link": "https://santiagodevelopment.com/p/2026/9/4/repo-zoo",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://santiagodevelopment.com/p/2026/9/4/repo-zoo Comments URL: https://news.ycombinator.com/item?id=49570623 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-04T22:09:43.664478+00:00",
-    "details": {}
-  },
-  {
-    "title": "15h.org – Open-Source Firmware and Support for AMD's Family 15h CPU's/MB's, etc.",
-    "link": "https://15h.org/index.php/Home",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://15h.org/index.php/Home Comments URL: https://news.ycombinator.com/item?id=49570520 Points: 2 # Comments: 1",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-04T22:09:43.667890+00:00",
-    "details": {}
-  },
-  {
     "title": "Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome's sandboxed renderer process (Bill Toulas/BleepingComputer)",
     "link": "https://www.techmeme.com/260904/p36#a260904p36",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -18247,6 +18190,82 @@
       "keywords": []
     },
     "rejected_at": "2026-10-04T20:36:43.293210+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)",
+    "link": "https://www.techmeme.com/261004/p20#a261004p20",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Laith Al-Khalaf / Financial Times : Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~&pound;10B valuation Monzo sought &nbsp; &mdash;&nbsp; Eleven-year-old UK fintech searching for growth capital after bruising year of boardroom tussles",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T00:18:18.423097+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)",
+    "link": "https://www.techmeme.com/261004/p19#a261004p19",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Politico : Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks &nbsp; &mdash;&nbsp; OpenAI CEO Sam Altman said there remains a fundamental difference in worldview between his company and rival Anthropic &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T00:18:18.439102+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open Source Instinct",
+    "link": "https://github.com/mariagorskikh/open-instinct",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/mariagorskikh/open-instinct Comments URL: https://news.ycombinator.com/item?id=49959159 Points: 1 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T00:18:18.448373+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
+    "link": "https://redactpdf.ai",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://redactpdf.ai Comments URL: https://news.ycombinator.com/item?id=49958950 Points: 2 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-05T00:18:18.460353+00:00",
     "details": {}
   }
 ]
