@@ -1,100 +1,5 @@
 [
   {
-    "title": "OpenAI says it hit its \"automated research intern\" goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens (OpenAI)",
-    "link": "https://www.techmeme.com/260906/p6#a260906p6",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "OpenAI : OpenAI says it hit its &ldquo;automated research intern&rdquo; goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens &nbsp; &mdash;&nbsp; For AGI to benefit all of humanity, we believe it must be democratically governed.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T19:42:42.900553+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Local audit trail for Claude Code tool calls",
-    "link": "https://github.com/zaghaghi/toolog",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "A dead simple local audit trail for Claude Code tool calls. Energized by a rule-based risk analyser. Give it a llama-cpp compatible GGUF model and it will give you a second opinion on risk locally. Comments URL: https://news.ycombinator.com/item?id=49589526 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T19:42:42.904520+00:00",
-    "details": {}
-  },
-  {
-    "title": "Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade (Valida Pau/The Information)",
-    "link": "https://www.techmeme.com/260906/p7#a260906p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Valida Pau / The Information : Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade &nbsp; &mdash;&nbsp; Anthropic in the last year has scrambled to line up cloud computing deals with SpaceX, Google and others to meet the skyrocketing demand &hellip;",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T21:48:42.955799+00:00",
-    "details": {}
-  },
-  {
-    "title": "OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace (OpenAI)",
-    "link": "https://www.techmeme.com/260906/p8#a260906p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "OpenAI : OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace &nbsp; &mdash;&nbsp; Author: Jakub Pachocki, Chief Scientist at OpenAI&nbsp; &mdash;&nbsp; In mid-2023, within the &ldquo;RLSlow&rdquo; research project &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T21:49:43.130080+00:00",
-    "details": {}
-  },
-  {
-    "title": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I've been tinkering with local LLMs since the beginning of the year when I had an Intel Arc B580 and 32 GB of DDR5. Curiosity got the best of me and I bought the first R9700 about half a year ago, also because I wanted to upgrade my gaming graphics for 4k. As the 5090 was about 3 times as expensive, I had a &quot;sweet spot&quot;, kind of. On the last prime days, I found a X870E mainboard for ~150",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T21:49:43.146540+00:00",
-    "details": {}
-  },
-  {
     "title": "IrisFlow – open-source Mac overlay dictation (hold Left-Ctrl)",
     "link": "https://github.com/joyboy5477/IrisFlow",
     "source_name": "Hacker News - بحث leak/breach",
@@ -17734,6 +17639,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-06T17:32:39.908788+00:00",
+    "details": {}
+  },
+  {
+    "title": "Gurman: Apple's upcoming smart home products co-developed with LG are \"at least a few more months\" away; LG is handling manufacturing and product support (Marcus Mendes/9to5Mac)",
+    "link": "https://www.techmeme.com/261006/p41#a261006p41",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Marcus Mendes / 9to5Mac : Gurman: Apple's upcoming smart home products co-developed with LG are &ldquo;at least a few more months&rdquo; away; LG is handling manufacturing and product support &nbsp; &mdash;&nbsp; Bloomberg reports that Apple's plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T21:58:42.292124+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Singapore-based data center operator DayOne seeks to raise up to $5B in a US IPO and plans to list its American depositary shares by the end of 2026 (Wall Street Journal)",
+    "link": "https://www.techmeme.com/261006/p40#a261006p40",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wall Street Journal : Sources: Singapore-based data center operator DayOne seeks to raise up to $5B in a US IPO and plans to list its American depositary shares by the end of 2026 &nbsp; &mdash;&nbsp; The data-center operator is also backed by Coatue Management, Hillhouse and Citadel&nbsp; &mdash;&nbsp; A SoftBank-backed data-center company &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T21:58:42.309714+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link Comments URL: https://news.ycombinator.com/item?id=49984547 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T21:58:42.320741+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Vibeconferencing, Bring Claude Code or Codex into Your Google Meet",
+    "link": "https://github.com/wanderingstan/vibeconf-app",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "A friend and I built this for our own calls and are sharing it as is. The itch: we kept copy-pasting Granola transcripts into Claude mid-call, and wondered what would happen if the agent just joined. Two-minute demo: https://youtu.be/XhCSRiiL67A How it works: a local Electron app joins the Meet in its own browser as a participant. Your agent drives it over MCP (or HTTP): tools to listen, speak, an",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T21:58:42.332779+00:00",
+    "details": {}
+  },
+  {
+    "title": "Woman used claude as her diary - and got reported to the police for contents of her diary",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wz5b30/woman_used_claude_as_her_diary_and_got_reported/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Timely_Impression_92 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T21:58:42.355100+00:00",
     "details": {}
   }
 ]
