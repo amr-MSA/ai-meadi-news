@@ -1,100 +1,5 @@
 [
   {
-    "title": "The gap has closed, open source will win",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I've been trying the latest models from the frontier labs and honestly, after extensive testing I can not tell the difference between the best open source options. I think the differences are now marginal but the labs are doing heavy marketing to convince the public into paying more for tokens as they prepare to go public. Can't help but see the similarities between the dot com bubble and AI in te",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-05T23:26:46.699171+00:00",
-    "details": {}
-  },
-  {
-    "title": "As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals (Morgan Meaker/Bloomberg)",
-    "link": "https://www.techmeme.com/260905/p14#a260905p14",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Morgan Meaker / Bloomberg : As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals &nbsp; &mdash;&nbsp; AI could transform our understanding of other species.&nbsp; It also risks giving humans powerful new ways to manipulate, exploit and harm them.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T01:42:06.322795+00:00",
-    "details": {}
-  },
-  {
-    "title": "When Code Is Abundant",
-    "link": "https://about.gitlab.com/blog/when-code-is-abundant/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://about.gitlab.com/blog/when-code-is-abundant/ Comments URL: https://news.ycombinator.com/item?id=49582295 Points: 3 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T01:42:06.331434+00:00",
-    "details": {}
-  },
-  {
-    "title": "GitHub Status – Disruption with Copilot Code Review",
-    "link": "https://www.githubstatus.com/incidents/zw1hbx2yyhvr",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.githubstatus.com/incidents/zw1hbx2yyhvr Comments URL: https://news.ycombinator.com/item?id=49582076 Points: 2 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T01:42:06.335113+00:00",
-    "details": {}
-  },
-  {
-    "title": "Which agent harness do you use and why?",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I see a new one being launched every few days... How do these new harnesses compare to claude code, pi etc. has anyone switched from these? which harness to prefer and why &#32; submitted by &#32; /u/Background-Job-862 [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T01:42:06.341933+00:00",
-    "details": {}
-  },
-  {
     "title": "ruvnet/ruflo",
     "link": "https://github.com/ruvnet/ruflo",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -18076,6 +17981,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-05T23:26:57.247398+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B (Bloomberg)",
+    "link": "https://www.techmeme.com/261005/p35#a261005p35",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B &nbsp; &mdash;&nbsp; Moonshot AI has closed the final round of private fundraising at a valuation of about $50 billion and is heading toward an initial public offering &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T03:39:43.066338+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open Source as We Know It Is Dead",
+    "link": "https://jross.me/open-source-as-we-know-it-is-dead/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://jross.me/open-source-as-we-know-it-is-dead/ Comments URL: https://news.ycombinator.com/item?id=49973839 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T03:39:43.092837+00:00",
+    "details": {}
+  },
+  {
+    "title": "SovereignLab, a Public-Source Intel Digest",
+    "link": "https://github.com/paulpdelancy-spec/SovereignLab-Intake-Registry-Public/blob/main/README.md",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/paulpdelancy-spec/SovereignLab-Intake-Registry-Public/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49973510 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T03:39:43.103161+00:00",
     "details": {}
   }
 ]
