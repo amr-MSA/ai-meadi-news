@@ -1,366 +1,5 @@
 [
   {
-    "title": "Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms (Rafe Rosner-Uddin/Financial Times)",
-    "link": "https://www.techmeme.com/260906/p2#a260906p2",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Rafe Rosner-Uddin / Financial Times : Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms &nbsp; &mdash;&nbsp; Atoms gears up for hiring spree and could link with Uber, the company he was ousted from almost a decade ago",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T11:48:22.425314+00:00",
-    "details": {}
-  },
-  {
-    "title": "Stemma – one source of truth for Claude.md, AGENTS.md and Copilot",
-    "link": "https://github.com/alexvinola/stemma-cli",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/alexvinola/stemma-cli Comments URL: https://news.ycombinator.com/item?id=49584898 Points: 2 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T11:48:39.784167+00:00",
-    "details": {}
-  },
-  {
-    "title": "The one source of truth for gamers",
-    "link": "https://videogamescritic.com",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://videogamescritic.com Comments URL: https://news.ycombinator.com/item?id=49584499 Points: 2 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T11:48:39.787592+00:00",
-    "details": {}
-  },
-  {
-    "title": "Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w8r0t9/villager_simulation_game_poc_created_with/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "https://village-sim-one.vercel.app/ - 16GB VRAM RTX 5070 Ti, fully offloaded - Vision on CPU - Windows, not headless - beellama.cpp - latest version with the kvarn performance enhancements making it as fast as qx_x quants. - MTP n-max = 2 - tg up to 75t/s, pp up to 1700t/s - KV = kvarn3/kvarn3 - MTP draft KV = kvarn2/kvarn2 - context = 96256 - tail tokens = 1024 - HTML/Javascript - pi harness with",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T11:48:39.795544+00:00",
-    "details": {}
-  },
-  {
-    "title": "Natural Resources Wales confirms data breach due to human error",
-    "link": "https://databreaches.net/2026/09/06/natural-resources-wales-confirms-data-breach-due-to-human-error/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Nation.Cymru reports: Sensitive personal information relating to current and former Natural Resources Wales employees has been exposed in a data breach. The public body said a spreadsheet containing employee information had been inadvertently published on its website, potentially revealing details including ethnicity, disability status, religion, sexual orientation and caring responsibilities. The",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T11:48:39.799332+00:00",
-    "details": {}
-  },
-  {
-    "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
-    "link": "https://databreaches.net/2026/09/06/us-offers-10-million-for-info-on-iranian-allegedly-behind-cyberattacks-on-critical-infrastructure/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Jonathan Greig reports: A $10 million reward has been posted by the State Department for information on the whereabouts of senior Iranian official Amir Yaryab. Yaryab allegedly leads the Islamic Revolutionary Guard Corps’ (IRGC) Cyber-Electronic Command (CEC). U.S. officials accused Yaryab of directing multiple Iranian hacking groups that have targeted “critical infrastructure sectors including de",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T11:48:39.803661+00:00",
-    "details": {}
-  },
-  {
-    "title": "How AI gutted Kenya's essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students' homework, leaving few paths back to work (New York Times)",
-    "link": "https://www.techmeme.com/260906/p4#a260906p4",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "New York Times : How AI gutted Kenya's essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students' homework, leaving few paths back to work &nbsp; &mdash;&nbsp; Thousands of Kenyans made a living writing essays for overseas students.&nbsp; With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T14:33:10.281402+00:00",
-    "details": {}
-  },
-  {
-    "title": "What are code reviews even for?",
-    "link": "https://newsletter.getdx.com/p/what-are-code-reviews-even-for",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://newsletter.getdx.com/p/what-are-code-reviews-even-for Comments URL: https://news.ycombinator.com/item?id=49586511 Points: 3 # Comments: 1",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T14:33:10.290235+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: MarkFlowy – A open source Markdown editor rebuilt for large documents",
-    "link": "https://github.com/drl990114/MarkFlowy",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "I maintain MarkFlowy, a desktop Markdown editor for Windows, macOS, and Linux. I’ve spent the past two months rebuilding its editor core, mainly to improve performance with larger documents. The changes are part of v0.100.0. In testing, a 2 MB Markdown document opened in about a second. I’d be interested to see how it performs with other people’s documents and hardware. Opening speed was one part",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T14:33:10.294368+00:00",
-    "details": {}
-  },
-  {
-    "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "This comparison was requested by a few people, and certainly we were all eager to see the final results. The comparison had taken 11 days and the GPU was crunching numbers for ~167 hours. We've been comparing different abliterated models from huggingface to see if they really are what they claim to be. So far the results have been interesting. The pipeline includes a weight comparison, KL divergen",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T14:33:10.298363+00:00",
-    "details": {}
-  },
-  {
-    "title": "NYS Comptroller DiNapoli releases more municipal cybersecurity audits",
-    "link": "https://databreaches.net/2026/09/06/nys-comptroller-dinapoli-releases-more-municipal-cybersecurity-audits/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "New York State Comptroller DiNapoli recently released some municipal audits, three of which concerned cybersecurity. The following are excerpts from the public versions of the audits. Town of Wilton – Cybersecurity (2026M-48) Audit Period January 1, 2024 – August 8, 2025 Understanding the Audit Area The Town had 56 full-time and 13 part-time employees during... Source",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T14:33:10.305223+00:00",
-    "details": {}
-  },
-  {
-    "title": "Attackers conceal phishing lures using invisible Unicode characters",
-    "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-    "source_name": "BleepingComputer",
-    "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T15:59:25.492414+00:00",
-    "details": {}
-  },
-  {
-    "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-    "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-    "source_name": "BleepingComputer",
-    "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T15:59:25.496491+00:00",
-    "details": {}
-  },
-  {
-    "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-    "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-    "source_name": "BleepingComputer",
-    "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T15:59:25.500353+00:00",
-    "details": {}
-  },
-  {
-    "title": "Intellectual Fly Is Open (2025)",
-    "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T15:59:25.522368+00:00",
-    "details": {}
-  },
-  {
-    "title": "QBittorrent breaks out of sandbox to commit crimes",
-    "link": "https://beige.party/@intransitivelie/117057396732763183",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T15:59:25.526023+00:00",
-    "details": {}
-  },
-  {
-    "title": "A/I shuts down – Stay human",
-    "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T15:59:25.529582+00:00",
-    "details": {}
-  },
-  {
-    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-    "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T15:59:25.533435+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-    "link": "https://github.com/scastiel/kado",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T15:59:25.538308+00:00",
-    "details": {}
-  },
-  {
     "title": "Show HN: Yume, a desktop workspace for Claude Code sessions",
     "link": "https://aofp.github.io/yume/",
     "source_name": "Hacker News - بحث leak/breach",
@@ -18019,6 +17658,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-06T10:52:29.766123+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO (Robbie Whelan/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261006/p29#a261006p29",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Robbie Whelan / Wall Street Journal : Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO &nbsp; &mdash;&nbsp; Blackstone and Coatue are leading the round, which values the cloud-computing startup at $14.5 billion pre-money",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T17:32:39.846811+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at consumer AI trends: ChatGPT has 3x more US subscribers than Claude or Gemini, the top 1% of spenders drive 19.5% of spend, and AI agents gain traction (Olivia Moore/Andreessen Horowitz)",
+    "link": "https://www.techmeme.com/261006/p28#a261006p28",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Olivia Moore / Andreessen Horowitz : A look at consumer AI trends: ChatGPT has 3x more US subscribers than Claude or Gemini, the top 1% of spenders drive 19.5% of spend, and AI agents gain traction &nbsp; &mdash;&nbsp; Three years into tracking consumer AI, the leaderboard is becoming familiar.&nbsp; This is the seventh edition of our Top 100 AI Consumer Apps &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T17:32:39.864662+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Microsoft confirms on publicly accessible web page that OpenAI has been using Looped Transformers in the GPT-6 series, proving The Information's reporting was correct all along. GPT-6.1 Sol uses 2 inference passes, with a passing mention of &quot;instead of three&quot;. For those confused by &quot;same base model weights as GPT-6 Sol&quot;, I think Microsoft meant 6 &amp; 6.1 are both post-trained",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T17:32:39.876484+00:00",
+    "details": {}
+  },
+  {
+    "title": "54gb vram for 35$",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Bought an old mining farm of a guy on avito (Russian eBay), guy had bought a garage a couple of years ago and it was sitting there for a while, found out it was a mining farm and put it up on there for sale for 5000 rub (~60 USD) since he wasn't sure if it works. I negotiated down to 3000 rub (~35 USD), it turned out to have 9x p106 6gb (gtx 1060 6gb) gpus, with 54gb vram total, all working, the o",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T17:32:39.885790+00:00",
+    "details": {}
+  },
+  {
+    "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
+    "link": "https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Eduard Kovacs reports: The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees, Reuters reported on Tuesday, citing two people familiar with the matter. The FBI has not publicly named the contractor or the organization involved. However, a senior bureau official told Reuters that its... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T17:32:39.896949+00:00",
+    "details": {}
+  },
+  {
+    "title": "Self-described “cybersecurity engineer” arrested after computer case reopened",
+    "link": "https://databreaches.net/2026/10/06/self-described-cybersecurity-engineer-arrested-after-computer-case-reopened/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Natalie Dreier reports: A Florida man who calls himself a “cybersecurity engineer” on TikTok and Twitch was arrested after police reopened an investigation closed earlier this year. Mark Asea was held in the St. Lucie County Jail in Port St. Lucie, Florida, last week on a count of an offense against computer users, WPEC reported.... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-06T17:32:39.908788+00:00",
     "details": {}
   }
 ]
