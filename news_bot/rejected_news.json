@@ -1,43 +1,5 @@
 [
   {
-    "title": "IrisFlow – open-source Mac overlay dictation (hold Left-Ctrl)",
-    "link": "https://github.com/joyboy5477/IrisFlow",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/joyboy5477/IrisFlow Comments URL: https://news.ycombinator.com/item?id=49591599 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T23:19:21.274443+00:00",
-    "details": {}
-  },
-  {
-    "title": "The Story of VS Code (Documentary) [video]",
-    "link": "https://www.youtube.com/watch?v=kHL3XzjpT5w",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.youtube.com/watch?v=kHL3XzjpT5w Comments URL: https://news.ycombinator.com/item?id=49590801 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-06T23:19:21.277774+00:00",
-    "details": {}
-  },
-  {
     "title": "How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners (New York Times)",
     "link": "https://www.techmeme.com/260906/p10#a260906p10",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -17734,6 +17696,82 @@
       "keywords": []
     },
     "rejected_at": "2026-10-06T21:58:42.355100+00:00",
+    "details": {}
+  },
+  {
+    "title": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models (Nathan Lambert/Interconnects AI)",
+    "link": "https://www.techmeme.com/261006/p48#a261006p48",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Nathan Lambert / Interconnects AI : GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models &nbsp; &mdash;&nbsp; Open-weights, ideology, and acknowledging trade-offs. &hellip; Audio playback is not supported on your browser.&nbsp; Please upgrade.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T01:12:15.602840+00:00",
+    "details": {}
+  },
+  {
+    "title": "New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed (Marina Temkin/TechCrunch)",
+    "link": "https://www.techmeme.com/261006/p47#a261006p47",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Marina Temkin / TechCrunch : New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed &nbsp; &mdash;&nbsp; Melius, an AI platform for generating ad campaigns, images, and videos, announced on Tuesday that it raised a total of $25 million in funding &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T01:12:15.620422+00:00",
+    "details": {}
+  },
+  {
+    "title": "GPT-6.1 Sol looped \"leak\" hints at nested models serving architecture",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wzbvu7/gpt61_sol_looped_leak_hints_at_nested_models/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hello llamas. I am posting this because I believe that, despite it being closed source models, the discussion will bring value to the local AI community. As many of you probably heard, GPT-6 Astra is speculated to be a looped transformer architecture that outputs a token after multiple forward passes instead of one. This allows a model to essentially have more effective depth due to recurrence, ma",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T01:12:15.641386+00:00",
+    "details": {}
+  },
+  {
+    "title": "Engineer sentenced for locking over 3,000 devices on employer’s network",
+    "link": "https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Sergiu Gatlan has an update on a case previously noted on this site. A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer&#8217;s network in a ransomware-style attack. 57-year-old Daniel Rhyne from Kansas City, Missouri, pleaded guilty... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T01:12:15.653412+00:00",
     "details": {}
   }
 ]
