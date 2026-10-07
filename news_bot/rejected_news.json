@@ -1,100 +1,5 @@
 [
   {
-    "title": "Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)",
-    "link": "https://www.techmeme.com/260907/p11#a260907p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month &nbsp; &mdash;&nbsp; ByteDance Ltd. is readying an AI model geared for real-time spatial video generation, taking on Meta Platforms Inc. and Alphabet Inc &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T13:46:58.666684+00:00",
-    "details": {}
-  },
-  {
-    "title": "A look at Anthropic's Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products (Stephen Council/Business Insider)",
-    "link": "https://www.techmeme.com/260907/p10#a260907p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Stephen Council / Business Insider : A look at Anthropic's Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products &nbsp; &mdash;&nbsp; Inside Anthropic, an unorthodox group can take a lot of credit for the AI company's meteoric rise.&nbsp; &mdash;&nbsp; The company's Labs team &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T13:46:58.672249+00:00",
-    "details": {}
-  },
-  {
-    "title": "Me trying to keep up with all the new AI models being released",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w9of3u/me_trying_to_keep_up_with_all_the_new_ai_models/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T13:46:58.675803+00:00",
-    "details": {}
-  },
-  {
-    "title": "Japan’s Health Ministry to Strengthen Cybersecurity Measures at Hospitals",
-    "link": "https://databreaches.net/2026/09/07/japans-health-ministry-to-strengthen-cybersecurity-measures-at-hospitals/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "The Yomiuri Shimbun reports: The Health, Labor and Welfare Ministry is set to strengthen cybersecurity measures at hospitals to counter a surging number of cyberattacks on medical institutions. The ministry has included ¥13.7 billion in its budget request for fiscal 2027 to implement the measures for protecting networks and deploying cybersecurity specialists. The request will... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T13:46:58.682385+00:00",
-    "details": {}
-  },
-  {
-    "title": "Personal Data of Approximately 220,000 Domestic and International Gangnam Unni Users Leaked",
-    "link": "https://databreaches.net/2026/09/07/personal-data-of-approximately-220000-domestic-and-international-gangnam-unni-users-leaked/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Lee Seunghyeong reports: Personal information of approximately 220,000 domestic and international users has been leaked from Gangnam Unni, a beauty medical platform operated by Healing Paper. On September 7, Healing Paper announced through a public notice that on September 4, there was abnormal access to the integration feature (API) used to view consultation records, resulting... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T13:46:58.686181+00:00",
-    "details": {}
-  },
-  {
     "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
     "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
     "source_name": "BleepingComputer",
@@ -17582,6 +17487,215 @@
       "keywords": []
     },
     "rejected_at": "2026-10-07T07:51:46.647012+00:00",
+    "details": {}
+  },
+  {
+    "title": "morluto/rea",
+    "link": "https://github.com/morluto/rea",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Reverse engineer anything with agents, from app behavior down to native binaries. English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level. Quick start · Current status · Investigation model · Tool catalog · Roadmap · How it works",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:50:55.905042+00:00",
+    "details": {}
+  },
+  {
+    "title": "deepseek-ai/DeepGEMM",
+    "link": "https://github.com/deepseek-ai/DeepGEMM",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "DeepGEMM: clean and efficient BLAS kernel library on GPU DeepGEMM DeepGEMM is a unified, high-performance tensor core kernel library that brings together the key computation primitives of modern large language models — GEMMs (FP8, FP4, BF16), fused MoE with overlapped communication (Mega MoE), MQA scoring for the lightning indexer, HyperConnection (HC), and more — into a single, cohesive CUDA code",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:50:55.914316+00:00",
+    "details": {}
+  },
+  {
+    "title": "cathrynlavery/diagram-design",
+    "link": "https://github.com/cathrynlavery/diagram-design",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. https://cathrynlavery.github.io/diagram-design/ New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stay",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:50:55.945538+00:00",
+    "details": {}
+  },
+  {
+    "title": "Elon Musk says Grok Bot will use the \"best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno\" (Grace Kay/The Information)",
+    "link": "https://www.techmeme.com/261007/p23#a261007p23",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Grace Kay / The Information : Elon Musk says Grok Bot will use the &ldquo;best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno&rdquo; &nbsp; &mdash;&nbsp; Elon Musk announced on Tuesday night that SpaceX's AI unit will now use some AI models from competitors to power Grok Bot, signaling a shift away &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:51:28.631860+00:00",
+    "details": {}
+  },
+  {
+    "title": "Amazon's Ring unveils the $249 Ring Smart Lock, which uses a physical dial to recharge the battery when turned, set for a Q1 2027 launch, and five new cameras (Chris Welch/Bloomberg)",
+    "link": "https://www.techmeme.com/261007/p22#a261007p22",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Chris Welch / Bloomberg : Amazon's Ring unveils the $249 Ring Smart Lock, which uses a physical dial to recharge the battery when turned, set for a Q1 2027 launch, and five new cameras &nbsp; &mdash;&nbsp; Amazon.com Inc.'s Ring brand unveiled its first smart lock, with an innovative feature that addresses the dreaded scenario of arriving home to a dead battery.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:51:28.648709+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: QuorumFile, free HOTMA decision sheet from your HUD participant code",
+    "link": "https://quorumfile.thecompound.tech",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://quorumfile.thecompound.tech Comments URL: https://news.ycombinator.com/item?id=49993639 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:51:28.660310+00:00",
+    "details": {}
+  },
+  {
+    "title": "Code Is Clay Now",
+    "link": "https://www.albertodenia.com/writing/code-is-clay-now",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.albertodenia.com/writing/code-is-clay-now Comments URL: https://news.ycombinator.com/item?id=49993560 Points: 1 # Comments: 1",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:51:28.669154+00:00",
+    "details": {}
+  },
+  {
+    "title": "New LFM to be released today",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wzuto0/new_lfm_to_be_released_today/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://x.com/ramin_m_h/status/2107780594264600801 What size do you want? https://huggingface.co/LiquidAI &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:51:28.678544+00:00",
+    "details": {}
+  },
+  {
+    "title": "New 35B-A3B model is comming on huggingface",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wzpyzk/new_35ba3b_model_is_comming_on_huggingface/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "MiniCPM-V-4.7-35B-A3B No model card yet &#32; submitted by &#32; /u/BreakfastFriendly728 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:51:28.688700+00:00",
+    "details": {}
+  },
+  {
+    "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
+    "link": "https://databreaches.net/2026/10/07/alleged-atm-malware-creator-appears-in-nebraska-court-after-arrest/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Jonathan Greig reports: The alleged mastermind behind a strain of malware used to empty ATMs of millions of dollars appeared in court for the first time after being apprehended by federal authorities. Anibal Alexander Canelon Aguirre pleaded not guilty to several charges in a Nebraska district court on Friday and will remain in detention pending... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:51:28.699349+00:00",
+    "details": {}
+  },
+  {
+    "title": "De Kalb County, Indiana fell prey to vendor impersonation billing",
+    "link": "https://databreaches.net/2026/10/07/de-kalb-county-indiana-fell-prey-to-vendor-impersonation-billing/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The Star reports that the DeKalb County government fell victim to a cybersecurity incident for the second time in little more than a year. This time, it paid an invoice sent by threat actors impersonating a vendor: “On Thursday, October 1, 2026, DeKalb County Government became aware of a Financial Fraud Cyber Incident that had... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T14:51:28.710273+00:00",
     "details": {}
   }
 ]
