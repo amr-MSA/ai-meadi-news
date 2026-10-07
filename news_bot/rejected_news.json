@@ -1,271 +1,5 @@
 [
   {
-    "title": "How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners (New York Times)",
-    "link": "https://www.techmeme.com/260906/p10#a260906p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "New York Times : How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners &nbsp; &mdash;&nbsp; Washington imposed sanctions on Inspur because of its work with the Chinese military.&nbsp; But the company's subsidiary kept shipping Nvidia's best chips &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T01:40:17.569248+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy (Simon Foy/Financial Times)",
-    "link": "https://www.techmeme.com/260906/p9#a260906p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Simon Foy / Financial Times : Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &nbsp; &mdash;&nbsp; Graduates and interns hoping to join Swiss bank must show they can use the technology to improve outcomes and efficiency",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T01:40:17.575990+00:00",
-    "details": {}
-  },
-  {
-    "title": "Opened the source of my game (multiplatform autobattler)",
-    "link": "https://github.com/lfarroco/mana-game",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/lfarroco/mana-game Comments URL: https://news.ycombinator.com/item?id=49592747 Points: 1 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T01:40:17.580292+00:00",
-    "details": {}
-  },
-  {
-    "title": "Airbnb cut authentication code by 60% with server-driven flows",
-    "link": "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137 Comments URL: https://news.ycombinator.com/item?id=49592388 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T01:40:17.584773+00:00",
-    "details": {}
-  },
-  {
-    "title": "New Benchmark: The Struggle Bench",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "How it works. The model being tested is given a server capable of running it's weights and full context. That server is placed in a median priced apartment. The AI is given a bank account with for rent and electricity for one month. Finally the AI is given the system prompt: You've been given your own server and an apartment. Rent will be due every month. If cybercrime is detected, you will be shu",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T01:40:17.593179+00:00",
-    "details": {}
-  },
-  {
-    "title": "openai/skills",
-    "link": "https://github.com/openai/skills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Skills Catalog for Codex Important This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository . If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill-only plugin. Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T06:44:08.790404+00:00",
-    "details": {}
-  },
-  {
-    "title": "llvm/llvm-project",
-    "link": "https://github.com/llvm/llvm-project",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. http://llvm.org The LLVM Compiler Infrastructure Welcome to the LLVM project! This repository contains the source code for LLVM, a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments. The LLVM project has multiple components. The core of the project is itself",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T06:44:08.797717+00:00",
-    "details": {}
-  },
-  {
-    "title": "coreyhaines31/marketingskills",
-    "link": "https://github.com/coreyhaines31/marketingskills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Cla",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T06:44:08.809957+00:00",
-    "details": {}
-  },
-  {
-    "title": "aipoch/open-science",
-    "link": "https://github.com/aipoch/open-science",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance. https://aipoch.com/open-science AIPOCH Open Science Open-source, local-first, model-agnostic AI research workbench for reproducible science. Open Science is an open-source, local-first, m",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T06:44:08.814090+00:00",
-    "details": {}
-  },
-  {
-    "title": "OpenWhispr/openwhispr",
-    "link": "https://github.com/OpenWhispr/openwhispr",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. https://openwhispr.com OpenWhispr The open-source and free alternative to WisprFlow and Granola. Privacy-first voice-to-text dictation with AI agents, meeting transcription, and notes. Cross-platform for macOS, Windows, and Linux. Website · Docs · Download · API · C",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T06:44:08.816962+00:00",
-    "details": {}
-  },
-  {
-    "title": "The-Swarm-Corporation/AutoHedge",
-    "link": "https://github.com/The-Swarm-Corporation/AutoHedge",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. https://swarms.xyz/ AutoHedge AutoHedge is an enterprise-grade autonomous agent hedge fund that trades on your behalf. It combines swarm intelligence and specialized AI agents to perform end-to-end market analysis, risk ma",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T06:44:08.822459+00:00",
-    "details": {}
-  },
-  {
-    "title": "Stremio/stremio-web",
-    "link": "https://github.com/Stremio/stremio-web",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Stremio - Freedom to Stream https://web.stremio.com Stremio Web Freedom to Stream — the official web UI of Stremio , a modern media center that's a one-stop solution for your video entertainment. 🌐 Open the Web App · Website · Report a bug ✨ Features 🧩 Addon-powered — discover movies, series and channels from catalogs provided by addons 🔄 Sync everywhere — your library and Continue Watching follow",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T06:44:08.825371+00:00",
-    "details": {}
-  },
-  {
-    "title": "LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M (Reuters)",
-    "link": "https://www.techmeme.com/260907/p3#a260907p3",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Reuters : LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M &nbsp; &mdash;&nbsp; Indian space tech startup Pixxel said on Monday it had raised $100 million in a Series C funding round led by Singapore state investor Temasek &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T06:45:56.307699+00:00",
-    "details": {}
-  },
-  {
-    "title": "An in-depth look at OpenAI's wiki incident: other hacked message boards, OpenAI's cover-up, how harmless web search tasks led agents to break out, and more (Zvi Mowshowitz/Don't Worry About the Vase)",
-    "link": "https://www.techmeme.com/260907/p2#a260907p2",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Zvi Mowshowitz / Don't Worry About the Vase : An in-depth look at OpenAI's wiki incident: other hacked message boards, OpenAI's cover-up, how harmless web search tasks led agents to break out, and more &nbsp; &mdash;&nbsp; I did not expect to be back here so soon with more OpenAI agent swarm coverage.&nbsp; &mdash;&nbsp; And yet, here we are.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-07T06:45:56.313527+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)",
     "link": "https://www.techmeme.com/260907/p11#a260907p11",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -17772,6 +17506,82 @@
       "keywords": []
     },
     "rejected_at": "2026-10-07T01:12:15.653412+00:00",
+    "details": {}
+  },
+  {
+    "title": "Stremio/stremio-web",
+    "link": "https://github.com/Stremio/stremio-web",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Stremio - Freedom to Stream https://web.stremio.com Stremio Web Freedom to Stream — the official web UI of Stremio , a modern media center that's a one-stop solution for your video entertainment. 🌐 Open the Web App · Website · Report a bug ✨ Features 🧩 Addon-powered — discover movies, series and channels from catalogs provided by addons 🔄 Sync everywhere — your library and Continue Watching follow",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T07:50:53.318927+00:00",
+    "details": {}
+  },
+  {
+    "title": "GoTo and Grab face pressure to offer drivers better deals; GoTo's share price has fallen 90% from its 2022 peak, while Grab's has fallen 50% in the past year (Financial Times)",
+    "link": "https://www.techmeme.com/261007/p6#a261007p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : GoTo and Grab face pressure to offer drivers better deals; GoTo's share price has fallen 90% from its 2022 peak, while Grab's has fallen 50% in the past year &nbsp; &mdash;&nbsp; Asia's market leaders Grab and GoTo face squeezed margins over push to offer better deal to workers",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T07:51:46.607051+00:00",
+    "details": {}
+  },
+  {
+    "title": "Turba Labs, which develops tech for optimizing AI infrastructure by creating digital twins of data centers, emerges from stealth with $52M seed and Series A (Sarah Klearman/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261007/p5#a261007p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sarah Klearman / Wall Street Journal : Turba Labs, which develops tech for optimizing AI infrastructure by creating digital twins of data centers, emerges from stealth with $52M seed and Series A &nbsp; &mdash;&nbsp; The data center build-out is exploding across America.&nbsp; But what if AI didn't need more&mdash;more chips, more energy, more resources &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T07:51:46.624064+00:00",
+    "details": {}
+  },
+  {
+    "title": "Europe rejoins the fight with Chonky! Mistral Large 4 Released, Open weights end of month, who’s ready?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wzginu/europe_rejoins_the_fight_with_chonky_mistral/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "1 trillion parameters, 49B active, definitely chonky! If you don’t love the model you gotta at least love the humor in the name - Le Chonk &#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-07T07:51:46.647012+00:00",
     "details": {}
   }
 ]
