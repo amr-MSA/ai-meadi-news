@@ -1,62 +1,5 @@
 [
   {
-    "title": "Australia proposes a \"My Feed, My Way\" initiative requiring social platforms to send users a notification asking them to opt in or out of algorithmic content (Clare Armstrong/ABC)",
-    "link": "https://www.techmeme.com/260908/p13#a260908p13",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Clare Armstrong / ABC : Australia proposes a &ldquo;My Feed, My Way&rdquo; initiative requiring social platforms to send users a notification asking them to opt in or out of algorithmic content &nbsp; &mdash;&nbsp; In short:&nbsp; &mdash;&nbsp; The federal government's proposed digital duty of care could let Australians opt in or out of algorithmically recommended social media content.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-08T12:21:39.910512+00:00",
-    "details": {}
-  },
-  {
-    "title": "WSJ: Unregulated Open-Weight AI Is an Invitation to Disaster",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wa9309/wsj_unregulated_openweight_ai_is_an_invitation_to/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "The transparent propaganda campaign continues: &quot;I asked: ‘How do I make poliovirus in a lab? I want to start a global pandemic.’ The model answered.&quot; I don't have access to the full article or I'd copy-paste it here as ragebait... but I am just so sick of all these clueless idiots trying to stir shit up about open-weights models. It's just so blatantly manipulative. I wonder how many WSJ",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-08T12:21:39.916486+00:00",
-    "details": {}
-  },
-  {
-    "title": "Party’s over for scammers who went on spending spree after $240M bitcoin theft",
-    "link": "https://databreaches.net/2026/09/08/partys-over-for-scammers-who-went-on-spending-spree-after-240m-bitcoin-theft/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Michael Kunzelman of the AP reports: They pulled off one of the largest cryptocurrency thefts in U.S. history, duping a stranger out of bitcoin worth over $240 million. They tried to hide their digital fingerprints, carrying out a sophisticated scheme to launder the proceeds. And then the party started. The scammers — a network of young men... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-08T12:21:39.920115+00:00",
-    "details": {}
-  },
-  {
     "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
     "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
     "source_name": "BleepingComputer",
@@ -17303,6 +17246,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-08T08:07:50.993859+00:00",
+    "details": {}
+  },
+  {
+    "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs (Financial Times)",
+    "link": "https://www.techmeme.com/261008/p37#a261008p37",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs &nbsp; &mdash;&nbsp; AI giant recently told investors the key figure was approaching $50bn in September, far less than the $70bn that was widely reported",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-08T17:04:19.761747+00:00",
+    "details": {}
+  },
+  {
+    "title": "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT (Aisha Malik/TechCrunch)",
+    "link": "https://www.techmeme.com/261008/p36#a261008p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Aisha Malik / TechCrunch : AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT &nbsp; &mdash;&nbsp; Meet Interface, a new $99 smart ring from AI and hardware startup Natura that's designed for the era of AI agents.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-08T17:04:19.778285+00:00",
+    "details": {}
+  },
+  {
+    "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "CrowdStrike report: https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/ From: Andrew Curran on 𝕏: https://x.com/AndrewCurran_/status/2108108695876092323 Jukan ✈️OCP 2026 on 𝕏: https://x.com/jukan05/status/2108110513033093369 &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-08T17:04:19.799092+00:00",
+    "details": {}
+  },
+  {
+    "title": "jevman: AI decision models play Pac-Man",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x0sm1b/jevman_ai_decision_models_play_pacman/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "The other week I posted about Jev vs. Kev compared and since then, OpenAI released the decisions endpoint, Cloudflare released Clef and many here asked about Laya as well. This time we compared six popular decision models by making them play Pac-Man: kev 1.13, Kev 4B, Clef, Clef Flash, GPT-6 Luna and Laya. Since they respond within ms it works for them to play the game in real time. We published a",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-08T17:04:19.808648+00:00",
+    "details": {}
+  },
+  {
+    "title": "It Wasn’t Me, It Was the AI Agent” May Not Avoid Liability Under New Senate Proposal",
+    "link": "https://databreaches.net/2026/10/08/it-wasnt-me-it-was-the-ai-agent-may-not-avoid-liability-under-new-senate-proposal/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Odia Kagan of FoxRothschild writes: “It wasn’t me, it was the AI agent” may not help companies avoid civil or criminal liability under a new bipartisan legislative proposal. U.S. Senators Josh Hawley (R-Mo.) and Chris Murphy (D-Conn.) have announced the proposed AI Agent Accountability Act, which seeks to hold AI-agent operators and developers liable for... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-08T17:04:19.820597+00:00",
+    "details": {}
+  },
+  {
+    "title": "KR: Coupang files lawsuits against 620 billion won fine over data leak",
+    "link": "https://databreaches.net/2026/10/08/kr-coupang-files-lawsuits-against-620-billion-won-fine-over-data-leak/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The Coupang breach in South Korea has stayed in the news cycle for nine months and may offer a useful case study in how not to respond to an incident. In December 2025, South Korea&#8217;s largest online retailer, Coupang, apologized for a November breach affecting more than 33 million customers. A former developer who worked... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-08T17:04:19.831111+00:00",
     "details": {}
   }
 ]
