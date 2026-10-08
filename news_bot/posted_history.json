@@ -215,5 +215,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 211,
     "telegram_message_url": "https://t.me/Eng_limitless/211"
+  },
+  {
+    "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can.",
+    "link": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
+    "summary": "كشفت تسريبات لرسائل ومحادثات داخلية منسوبة لمجموعة الابتزاز السيبراني Silent Ransom Group عن تحقيقها أرباحاً تجاوزت 200 مليون دولار خلال ستة أشهر فقط، اعتمدت فيها على سرقة البيانات والابتزاز دون الحاجة إلى تشفير أنظمة الضحايا.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "silent-ransom-group-internal-chat-leak",
+    "event_key": "silent ransom group|2026 10|أمن سيبراني|غير محدد|دولي",
+    "company_name": "Silent Ransom Group",
+    "event_year_month": "2026-10",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "دولي",
+    "keywords": [
+      "تسريبات",
+      "أمن سيبراني",
+      "Silent Ransom Group",
+      "ابتزاز إلكتروني"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-08T08:07:50.940261+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 212,
+    "telegram_message_url": "https://t.me/Eng_limitless/212"
   }
 ]
