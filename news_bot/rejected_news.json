@@ -1,100 +1,5 @@
 [
   {
-    "title": "In an expanded class action lawsuit, a group of Claude subscribers says Anthropic deceptively advertised the limits of its Max subscription tier (Hayden Field/The Verge)",
-    "link": "https://www.techmeme.com/260908/p45#a260908p45",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Hayden Field / The Verge : In an expanded class action lawsuit, a group of Claude subscribers says Anthropic deceptively advertised the limits of its Max subscription tier &nbsp; &mdash;&nbsp; Anthropic says power users are key to its business &mdash; it's prioritized them even when it means cutting off other popular applications, like OpenClaw.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-08T23:44:40.083923+00:00",
-    "details": {}
-  },
-  {
-    "title": "Q&A with Mark Zuckerberg on Muse, the data center backlash, Meta's recent youth-safety settlement, privacy concerns about Meta's smart glasses, and more (Alex Heath/Sources)",
-    "link": "https://www.techmeme.com/260908/p44#a260908p44",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Alex Heath / Sources : Q&amp;A with Mark Zuckerberg on Muse, the data center backlash, Meta's recent youth-safety settlement, privacy concerns about Meta's smart glasses, and more &nbsp; &mdash;&nbsp; Meta's CEO joins me for an in-depth conversation on episode two of the Sources podcast.&nbsp; &mdash;&nbsp; When Mark Zuckerberg laid out his &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-08T23:44:40.092466+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sauron: A free and open source terminal development environment",
-    "link": "https://github.com/mlolson/sauron/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/mlolson/sauron/ Comments URL: https://news.ycombinator.com/item?id=49618248 Points: 2 # Comments: 1",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-08T23:44:40.097827+00:00",
-    "details": {}
-  },
-  {
-    "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
-    "link": "https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/ Comments URL: https://news.ycombinator.com/item?id=49618083 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-08T23:44:40.103649+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260908/p47#a260908p47",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Amrith Ramkumar / Wall Street Journal : Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control &nbsp; &mdash;&nbsp; Concerns are rising inside AI labs that competition is pushing tech companies to race toward self-improving models that risk spiraling out of human control",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T01:56:39.399254+00:00",
-    "details": {}
-  },
-  {
     "title": "ayghri/i-have-adhd",
     "link": "https://github.com/ayghri/i-have-adhd",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -16980,6 +16885,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-08T22:36:55.164889+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)",
+    "link": "https://www.techmeme.com/261008/p55#a261008p55",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Associated Press : Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &nbsp; &mdash;&nbsp; President Donald Trump's administration announced Thursday it was suspending Microsoft and several other firms &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T03:27:47.578692+00:00",
+    "details": {}
+  },
+  {
+    "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)",
+    "link": "https://www.techmeme.com/261008/p54#a261008p54",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sergiu Gatlan / BleepingComputer : A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions &nbsp; &mdash;&nbsp; The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T03:27:47.594334+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Sibuna an open source web application firewall with proof of work",
+    "link": "https://github.com/insanai/sibuna",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hi HN, We are building an open source web application firewall Sibuna to have more control over automated traffic from AI bots and crawlers. Sibuna runs as a reverse proxy or alongside an existing ingress through forward-auth. It includes application inspection, OWASP CRS support and a wasm based management console. Please try it, and give us feedback for improvements. Github Project: https://gith",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T03:27:47.605268+00:00",
+    "details": {}
+  },
+  {
+    "title": "Augment Code's Next Chapter",
+    "link": "https://www.augmentcode.com/blog/augment-code-next-chapter",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.augmentcode.com/blog/augment-code-next-chapter Comments URL: https://news.ycombinator.com/item?id=50015056 Points: 3 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T03:27:47.614478+00:00",
+    "details": {}
+  },
+  {
+    "title": "Strata rewrote their Github history to wipe evidence of Claude-authoring",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x15a8w/strata_rewrote_their_github_history_to_wipe/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Just noticed this today when I went to run the built-in &quot;UPDATE&quot; script and git failed because there was no common ancestor. Looked into why, and apparently every historical commit has been re-written to strip the &quot;Co-Authored by Claude&quot; text from the descriptions. Personally I think that's pretty gross. I'm struggling to think of any reason to do this other than an intention t",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T03:27:47.625122+00:00",
+    "details": {}
+  },
+  {
+    "title": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Post title is slightly misleading, I don't think you can get these for $350 each anymore but they're still pretty cheap all things considered. They're Radeon Pro V620's which are older RDNA2 enterprise cloud gaming cards with 32 GB VRAM. (Ignore the RTX 4090 on the side, it's just used for stuff like image/video gen models, no LLMs) But I bought these cards a couple months ago as a gamble to see i",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T03:27:47.640232+00:00",
     "details": {}
   }
 ]
