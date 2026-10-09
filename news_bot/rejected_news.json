@@ -1,239 +1,5 @@
 [
   {
-    "title": "Savvy Wealth, which provides RIA software for independent financial advisors, raised a $100M Series C led by Halo Fund, taking its total funding to $200M+ (Ryan Lawler/Axios)",
-    "link": "https://www.techmeme.com/260909/p11#a260909p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ryan Lawler / Axios : Savvy Wealth, which provides RIA software for independent financial advisors, raised a $100M Series C led by Halo Fund, taking its total funding to $200M+ &nbsp; &mdash;&nbsp; Savvy Wealth, which provides tech and back-office infrastructure for independent financial advisors, raised $100 million in Series C funding &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T12:33:45.171575+00:00",
-    "details": {}
-  },
-  {
-    "title": "Deepseek Has Soft Retired Deepseek V4 Pro",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wbfrut/deepseek_has_soft_retired_deepseek_v4_pro/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/Few_Painter_5588 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T12:33:45.175100+00:00",
-    "details": {}
-  },
-  {
-    "title": "Now this is a serious local machine",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wbir6v/now_this_is_a_serious_local_machine/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Amd announced this: https://www.amd.com/en/products/workstations/amd-threadripper-halo-station.html &#32; submitted by &#32; /u/Apprehensive_Bar6609 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T12:33:45.178525+00:00",
-    "details": {}
-  },
-  {
-    "title": "“Network outage” disrupts Westfield Public Schools in New Jersey as ransomware group posts samples",
-    "link": "https://databreaches.net/2026/09/09/network-outage-disrupts-westfield-public-schools-in-new-jersey-as-ransomware-group-posts-samples/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Joseph Topping reports: Westfield Public Schools in New Jersey kept classrooms open during a districtwide network outage that disrupted communications and digital instruction throughout the first week of school. The district initially attributed the outage to equipment failure. “We have confirmed that a networking hardware failure caused the disruption across all district schools and offices,”...",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T12:33:45.183167+00:00",
-    "details": {}
-  },
-  {
-    "title": "Russian suspect in bank account takeovers is extradited to US",
-    "link": "https://databreaches.net/2026/09/09/russian-suspect-in-bank-account-takeovers-is-extradited-to-us/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Joe Warminsky reports: A Russian web developer who played a role in a multimillion-dollar bank account takeover scheme has been extradited to the U.S. to face an indictment in the case, federal authorities said Tuesday. Sergei Anatolyevich Filimonov, 36, appeared in an Atlanta federal court on September 4, pleading not guilty to charges of fraud... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T12:33:45.186922+00:00",
-    "details": {}
-  },
-  {
-    "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-    "source_name": "BleepingComputer",
-    "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
-    "reason": "مكرر في السجل: title-similarity",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T17:01:45.707941+00:00",
-    "details": {}
-  },
-  {
-    "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-    "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-    "source_name": "BleepingComputer",
-    "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "2026-09",
-      "news_type": "أمن سيبراني",
-      "product_name": "غير محدد",
-      "region": "عالمي",
-      "topic_key": "us-china-ai-model-distillation-token-extraction",
-      "keywords": [
-        "ذكاء اصطناعي",
-        "أمن سيبراني",
-        "تقطير النماذج",
-        "الولايات المتحدة",
-        "الصين"
-      ]
-    },
-    "rejected_at": "2026-09-09T17:04:03.945930+00:00",
-    "details": {}
-  },
-  {
-    "title": "Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy (Jay Peters/The Verge)",
-    "link": "https://www.techmeme.com/260909/p28#a260909p28",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jay Peters / The Verge : Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy &nbsp; &mdash;&nbsp; Apple has officially revealed its next line of Pro smartphones. &hellip; Apple announced the iPhone 18 Pro and iPhone 18 Pro Max at its event on Wednesday.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T17:24:46.655701+00:00",
-    "details": {}
-  },
-  {
-    "title": "A livestream of Apple's \"Surprise and Shine\" event (Apple on YouTube)",
-    "link": "https://www.techmeme.com/260909/p27#a260909p27",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Apple on YouTube : A livestream of Apple's &ldquo;Surprise and Shine&rdquo; event &nbsp; &mdash;&nbsp; Join us for a special event on September 9 at 10 a.m. PT. Click &ldquo;Notify me&rdquo; and we'll send you a reminder before showtime.&nbsp; #AppleEvent #AppleKeynote",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T17:24:46.661842+00:00",
-    "details": {}
-  },
-  {
-    "title": "An open-source SAS interpreter, written by agents",
-    "link": "https://kirha.com/research/opensas",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://kirha.com/research/opensas Comments URL: https://news.ycombinator.com/item?id=49629605 Points: 2 # Comments: 2",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T17:24:46.667221+00:00",
-    "details": {}
-  },
-  {
-    "title": "I rank the open-source AI agents that launched in the last 30 days",
-    "link": "https://www.theagenticleaderboard.com/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.theagenticleaderboard.com/ Comments URL: https://news.ycombinator.com/item?id=49629432 Points: 8 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T17:24:46.673091+00:00",
-    "details": {}
-  },
-  {
-    "title": "Why the hell is LM Studio making LM Studio so difficult to download?",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wble79/why_the_hell_is_lm_studio_making_lm_studio_so/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Who is the marketing genius at LM Studio that decided that going ALL IN on pushing their new Bionic Agent product meant they are going to make it a giant pain in the ass to find and download actual LM Studio. This is the dumbest marketing decision I’ve ever seen. I used to love LM Studio, it was the middle stepping stone in the logical progression of inference. Most OGs here likely started with Ol",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T17:24:46.683873+00:00",
-    "details": {}
-  },
-  {
     "title": "Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air (Cameron Faulkner/The Verge)",
     "link": "https://www.techmeme.com/260909/p42#a260909p42",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16904,6 +16670,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-09T10:59:25.899195+00:00",
+    "details": {}
+  },
+  {
+    "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
+    "link": "https://www.techmeme.com/261009/p20#a261009p20",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dominic-Madori Davis / TechCrunch : Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M &nbsp; &mdash;&nbsp; Vesta, an AI-native software startup that helps lenders originate mortgages, announced on Thursday that it raised a $30 million round led by Conversion Capital.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T17:40:17.947642+00:00",
+    "details": {}
+  },
+  {
+    "title": "Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)",
+    "link": "https://www.techmeme.com/261009/p19#a261009p19",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Davis Giangiulio / CNBC : Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally &nbsp; &mdash;&nbsp; Blockchain.com, a digital asset platform, wants to get in on the prediction market boom in the U.S.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T17:40:17.961345+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen/Qwen-Image-2.1-Turbo · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/chocofoxy [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T17:40:17.971466+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen-Image-2.1-Turbo released!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x1lclx/qwenimage21turbo_released/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Qwen-Image-2.1-Turbo, create and edit images in just 8 denoising steps! Open weights now available! Built on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. Fewer steps does not mean lower quality: it still generates strong 2K images from text, and supports continued creation through natural-language edits, from adding accessories to changing a sce",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T17:40:17.980686+00:00",
+    "details": {}
+  },
+  {
+    "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
+    "link": "https://databreaches.net/2026/10/09/silent-ransom-group-claims-luna-moth-files-are-fake-the-data-suggest-otherwise/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "On Tuesday, cybersecurity professionals began investigating an onion site that appeared to contain internal chat files from Silent Ransom Group. On Thursday, Silent Ransom Group said the leak was fake, but is it? A bespoke site called &#8220;Luna Moth Files&#8221; appeared Tuesday morning. The identity of the person who published the data is unknown, as... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T17:40:17.992505+00:00",
+    "details": {}
+  },
+  {
+    "title": "Cyberattack at IDC Frontier disrupts services around nation",
+    "link": "https://databreaches.net/2026/10/09/cyberattack-at-idc-frontier-disrupts-services-around-nation/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The Asahi Shimbun reports: IDC Frontier Inc., a SoftBank subsidiary that provides cloud services, said Oct. 7 that a ransomware attack caused a system outage affecting 495 corporate and local government customers. The Tokyo-based company said it is still investigating the scale of the damage and whether any personal information was compromised. The cyberattack has... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T17:40:18.002287+00:00",
     "details": {}
   }
 ]

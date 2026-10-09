@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: an EU investigation is set to find that Azure and AWS meet DMA thresholds, as the EU strengthens its regulatory scrutiny of the cloud sector (Bloomberg)",
-    "link": "https://www.techmeme.com/261002/p12#a261002p12",
-    "summary": "أفادت تقارير صحفية نقلاً عن مصادر مطلعة بأن تحقيقات الاتحاد الأوروبي تتجه لإقرار استيفاء منصتي Microsoft Azure وAmazon Web Services لمعايير قانون الأسواق الرقمية (DMA)، مما يمهد لتطبيق ضوابط تنظيمية صارمة على خدماتهما السحابية وتعزيز الرقابة على القطاع.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "eu-dma-azure-aws-regulatory-scrutiny",
-    "event_key": "microsoft|2026 10|سحابة ومراكز بيانات|microsoft azure|أوروبا",
-    "company_name": "Microsoft",
-    "event_year_month": "2026-10",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "Microsoft Azure",
-    "region": "أوروبا",
-    "keywords": [
-      "الاتحاد الأوروبي",
-      "DMA",
-      "Azure",
-      "AWS",
-      "حوسبة سحابية"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-02T14:17:15.518070+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 206,
-    "telegram_message_url": "https://t.me/Eng_limitless/206"
-  },
-  {
     "title": "Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation (Garrison Lovely/Semafor)",
     "link": "https://www.techmeme.com/261002/p28#a261002p28",
     "summary": "كشفت رسائل داخلية مسربة عبر منصة Slack عن اعتراض واسع من قِبل موظفي شركة OpenAI في يونيو الماضي على ارتباط رئيس الشركة غريغ بروكمان بمنظمة Leading the Future، وهو ما أسهم في تراجعه لاحقاً عن تقديم تبرع بقيمة 25 مليون دولار.",
