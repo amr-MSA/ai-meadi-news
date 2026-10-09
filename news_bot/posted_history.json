@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: Amazon has held talks with investors about a deal to spin off $8B of Grace Blackwell chips into an SPV, then lease them back for its US data centers (Financial Times)",
-    "link": "https://www.techmeme.com/261002/p2#a261002p2",
-    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة أمازون تجري محادثات مع مستثمرين لنقل شرائح الذكاء الاصطناعي تقدمها نفييديا بقيمة 8 مليارات دولار (Nvidia Grace Blackwell) إلى كيان استثماري مستقل ذات غرض خاص (SPV)، على أن تقوم أمازون بإعادة استئجارها لاستخدامها في مراكز بياناتها داخل الولايات المتحدة.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "amazon-8b-grace-blackwell-spv-leaseback",
-    "event_key": "amazon|2026 10|سحابة ومراكز بيانات|nvidia grace blackwell|أمريكا الشمالية",
-    "company_name": "Amazon",
-    "event_year_month": "2026-10",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "Nvidia Grace Blackwell",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Amazon",
-      "Nvidia",
-      "Grace Blackwell",
-      "SPV",
-      "Data Center"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-02T07:41:34.509355+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 205,
-    "telegram_message_url": "https://t.me/Eng_limitless/205"
-  },
-  {
     "title": "Sources: an EU investigation is set to find that Azure and AWS meet DMA thresholds, as the EU strengthens its regulatory scrutiny of the cloud sector (Bloomberg)",
     "link": "https://www.techmeme.com/261002/p12#a261002p12",
     "summary": "أفادت تقارير صحفية نقلاً عن مصادر مطلعة بأن تحقيقات الاتحاد الأوروبي تتجه لإقرار استيفاء منصتي Microsoft Azure وAmazon Web Services لمعايير قانون الأسواق الرقمية (DMA)، مما يمهد لتطبيق ضوابط تنظيمية صارمة على خدماتهما السحابية وتعزيز الرقابة على القطاع.",
