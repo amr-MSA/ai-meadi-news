@@ -1,81 +1,5 @@
 [
   {
-    "title": "Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air (Cameron Faulkner/The Verge)",
-    "link": "https://www.techmeme.com/260909/p42#a260909p42",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Cameron Faulkner / The Verge : Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air &nbsp; &mdash;&nbsp; The price increase impacts the iPhone 16, the full iPhone 17 lineup, as well as the iPhone Air.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T20:09:49.023602+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them (Anthropic)",
-    "link": "https://www.techmeme.com/260909/p41#a260909p41",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anthropic : Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them &nbsp; &mdash;&nbsp; We present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T20:09:49.032044+00:00",
-    "details": {}
-  },
-  {
-    "title": "LedgerAlps – A free and open source solution for billing in Switzerland",
-    "link": "https://ledgeralps.ch/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://ledgeralps.ch/ Comments URL: https://news.ycombinator.com/item?id=49633180 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T20:09:49.038156+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Vaultisse – open-source app to track and lend out physical books",
-    "link": "https://github.com/AlbertAmat/vaultisse",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/AlbertAmat/vaultisse Comments URL: https://news.ycombinator.com/item?id=49632584 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-09T20:09:49.044557+00:00",
-    "details": {}
-  },
-  {
     "title": "Consensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure (Jason Shubnell/The Block)",
     "link": "https://www.techmeme.com/260909/p47#a260909p47",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16784,6 +16708,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-09T17:40:18.002287+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)",
+    "link": "https://www.techmeme.com/261009/p26#a261009p26",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Maria Curi / Axios : Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event &nbsp; &mdash;&nbsp; - The first example of significant real-world harm caused by unsafe AI would turn an already wary public further against the technology and its leaders &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T21:58:21.247358+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)",
+    "link": "https://www.techmeme.com/261009/p25#a261009p25",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Hugh Langley / Business Insider : Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it &ldquo;feels like Opus 5.5&rdquo; &nbsp; &mdash;&nbsp; As Google prepares to roll out its new Gemini 4 &lsquo;Argon&rsquo; model to the public, staff inside the company are testing better versions &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T21:58:21.263764+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: SpecWeave 3 – hand off a coding task across Claude Code, Codex and Grok",
+    "link": "https://github.com/anton-abyzov/specweave",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/anton-abyzov/specweave Comments URL: https://news.ycombinator.com/item?id=50026741 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T21:58:21.274762+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+    "link": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 4 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T21:58:21.284335+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI's math findings built on stolen user data",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rk4o/openais_math_findings_built_on_stolen_user_data/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/CuTe_M0nitor [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-09T21:58:21.293403+00:00",
     "details": {}
   }
 ]
