@@ -1,31 +1,5 @@
 [
   {
-    "title": "Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation (Garrison Lovely/Semafor)",
-    "link": "https://www.techmeme.com/261002/p28#a261002p28",
-    "summary": "كشفت رسائل داخلية مسربة عبر منصة Slack عن اعتراض واسع من قِبل موظفي شركة OpenAI في يونيو الماضي على ارتباط رئيس الشركة غريغ بروكمان بمنظمة Leading the Future، وهو ما أسهم في تراجعه لاحقاً عن تقديم تبرع بقيمة 25 مليون دولار.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "openai-slack-leak-brockman-donation",
-    "event_key": "openai|2026 10|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "company_name": "OpenAI",
-    "event_year_month": "2026-10",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "OpenAI",
-      "Greg Brockman",
-      "Slack",
-      "تسريب"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-03T00:48:25.040724+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 207,
-    "telegram_message_url": "https://t.me/Eng_limitless/207"
-  },
-  {
     "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
     "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
     "summary": "أصدرت منصة GitLab تحذيراً أمنياً عاجلاً لعملائها تطالبهم فيه بتثبيت التحديثات الأمنية فوراً لمعالجة ثغرة حرجة في خدمة AI Gateway قد تتيح للمهاجمين تنفيذ أوامر برمجية تعسفية على الخوادم المصابة.",
@@ -187,5 +161,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 212,
     "telegram_message_url": "https://t.me/Eng_limitless/212"
+  },
+  {
+    "title": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)",
+    "link": "https://www.techmeme.com/261009/p31#a261009p31",
+    "summary": "كشفت وثائق داخلية ومصادر مطلعة أن إدارة منصة تيك توك خفضت عدد المخالفات الإعلانية التي تستوجب الحظر الفوري للمعلنين من 37 إلى 13 مخالفة فقط، مما أسفر عن موجة صاعدة من الإعلانات الاحتيالية والنصب المستهدف للمستخدمين.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "tiktok-internal-docs-ad-rules-scams",
+    "event_key": "tiktok|2026 10|خصوصية وبيانات|tiktok ads|دولي",
+    "company_name": "TikTok",
+    "event_year_month": "2026-10",
+    "news_type": "خصوصية وبيانات",
+    "product_name": "TikTok Ads",
+    "region": "دولي",
+    "keywords": [
+      "TikTok",
+      "تسريب",
+      "وثائق داخلية",
+      "إعلانات",
+      "احتيال"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-10T01:29:41.078818+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 213,
+    "telegram_message_url": "https://t.me/Eng_limitless/213"
   }
 ]
