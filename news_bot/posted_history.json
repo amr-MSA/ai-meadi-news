@@ -188,5 +188,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 213,
     "telegram_message_url": "https://t.me/Eng_limitless/213"
+  },
+  {
+    "title": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
+    "link": "https://www.techmeme.com/261010/p12#a261010p12",
+    "summary": "كشف تقرير لصحيفة وول ستريت جورنال عن نجاح الشريك المؤسس لشركة أنثروبيك، توم براون، في إبرام صفقة حوسبة ضخمة مع شركة SpaceX بقيمة تصل إلى 1.25 مليار دولار شهرياً. ووفقاً للتقرير، ساهمت علاقات براون السياسية في إنهاء الخلافات حول سلامة النماذج وتأمين القدرات الحوسبية اللازمة لتطوير وتدريب نماذج الذكاء الاصطناعي القادمة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "anthropic-spacex-compute-deal-wsj",
+    "event_key": "anthropic|2026 10|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Anthropic",
+    "event_year_month": "2026-10",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Anthropic",
+      "SpaceX",
+      "Tom Brown",
+      "AI Compute",
+      "WSJ"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-10T14:04:21.400873+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 214,
+    "telegram_message_url": "https://t.me/Eng_limitless/214"
   }
 ]

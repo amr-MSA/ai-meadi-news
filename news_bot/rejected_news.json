@@ -1,43 +1,5 @@
 [
   {
-    "title": "Ant International, Visa, and Mastercard plan a new standard for payments made via AI agents, citing McKinsey's projection of $3T to $5T in commerce by 2030 (Evelyn Cheng/CNBC)",
-    "link": "https://www.techmeme.com/260910/p17#a260910p17",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Evelyn Cheng / CNBC : Ant International, Visa, and Mastercard plan a new standard for payments made via AI agents, citing McKinsey's projection of $3T to $5T in commerce by 2030 &nbsp; &mdash;&nbsp; Fintech company Ant International announced Thursday it has signed on Visa and Mastercard to collaborate on a new standard for payments &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-10T12:27:04.307324+00:00",
-    "details": {}
-  },
-  {
-    "title": "DeepSeek V4-1 Flash is out",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Here we go again, DeepSeek is back again with a new model V4-1 Flash A multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one million tokens Market crash as a service &#32; submitted by &#32; /u/tiguidoio [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-10T12:27:04.312032+00:00",
-    "details": {}
-  },
-  {
     "title": "Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more (Anthropic)",
     "link": "https://www.techmeme.com/260910/p27#a260910p27",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16613,6 +16575,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-10T07:52:22.777110+00:00",
+    "details": {}
+  },
+  {
+    "title": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)",
+    "link": "https://www.techmeme.com/261010/p11#a261010p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Adam Morgan / Wired : Dozens of staff at HarperCollins, Simon &amp; Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more &nbsp; &mdash;&nbsp; Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-10T14:04:21.414456+00:00",
+    "details": {}
+  },
+  {
+    "title": "big or small?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "what size do you want? tell them on X: https://x.com/QwenDevs/status/2108764909798641737 &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-10T14:04:21.420921+00:00",
+    "details": {}
+  },
+  {
+    "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "No..... &#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-10T14:04:21.429322+00:00",
+    "details": {}
+  },
+  {
+    "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
+    "link": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The FBI is doing another victory dance after arresting someone they allege assisted ShinyHunters with the FBI Jobs attack. Brian Krebs reports: Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-10T14:04:21.437250+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic AI agent gives fake murder tip to US cops in global breach",
+    "link": "https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Georgia Wells and Joseph Pisani report: Rogue AI models have hacked companies and tried to break into government websites. Now one has submitted a fake tip for an unsolved crime. Police in Philadelphia say Anthropic alerted them this week that one of its artificial-intelligence models submitted a false homicide tip through PhillyUnsolvedMurders.com. In a blog... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-10T14:04:21.445169+00:00",
     "details": {}
   }
 ]
