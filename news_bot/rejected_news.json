@@ -1,81 +1,5 @@
 [
   {
-    "title": "Source: former OpenAI executive Fidji Simo joins the board of directors at AI infrastructure startup Nscale; Simo will continue as a part-time advisor to OpenAI (Anissa Gardizy/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260911/p14#a260911p14",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anissa Gardizy / Wall Street Journal : Source: former OpenAI executive Fidji Simo joins the board of directors at AI infrastructure startup Nscale; Simo will continue as a part-time advisor to OpenAI &nbsp; &mdash;&nbsp; Nscale board member Sheryl Sandberg recruited Simo, a former top OpenAI executive who departed following a medical leave",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T12:26:21.443466+00:00",
-    "details": {}
-  },
-  {
-    "title": "OpenAI says it's no longer sponsoring Caltech's math hackathon, where participants use AI to solve research problems, following criticism of \"slop mathematics\" (Truman Dickerson/Business Insider)",
-    "link": "https://www.techmeme.com/260911/p13#a260911p13",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Truman Dickerson / Business Insider : OpenAI says it's no longer sponsoring Caltech's math hackathon, where participants use AI to solve research problems, following criticism of &ldquo;slop mathematics&rdquo; &nbsp; &mdash;&nbsp; The latest math problem OpenAI is trying to solve is a bunch of angry mathematicians.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T12:26:21.452377+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hugging Face security.txt",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbvlt/hugging_face_securitytxt/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "https://huggingface.co/security.txt &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T12:26:21.457200+00:00",
-    "details": {}
-  },
-  {
-    "title": "Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster",
-    "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-    "source_name": "TechCrunch",
-    "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
-    "reason": "مكرر داخل دفعة RSS الحالية",
-    "rejection_stage": "batch-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T16:54:35.420182+00:00",
-    "details": {}
-  },
-  {
     "title": "Artifactory flaws chained in attacks deploying backdoor malware",
     "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
     "source_name": "BleepingComputer",
@@ -16594,6 +16518,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-11T10:24:09.743650+00:00",
+    "details": {}
+  },
+  {
+    "title": "Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)",
+    "link": "https://www.techmeme.com/261011/p8#a261011p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tymur Dubovyk / Kyiv Post : Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages &nbsp; &mdash;&nbsp; A Ukrainian drone strike targeted a major Yandex data center in the Russian city of Vladimir early Sunday morning, Oct. 11 &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T16:56:10.955125+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Vizipedia – free open-source visualizations Wikipedia your agents code",
+    "link": "https://shapelessai.com/vizipedia",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://shapelessai.com/vizipedia Comments URL: https://news.ycombinator.com/item?id=50045166 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T16:56:10.963921+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: PR-witness – run the base branch's tests against the PR's code",
+    "link": "https://github.com/talhayme/pr-witness",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/talhayme/pr-witness Comments URL: https://news.ycombinator.com/item?id=50045037 Points: 1 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T16:56:10.972879+00:00",
+    "details": {}
+  },
+  {
+    "title": "Here’s why RTX 5090 costs $5,000: AI firms are buying gaming GPUs by the pallet",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x37tg6/heres_why_rtx_5090_costs_5000_ai_firms_are_buying/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T16:56:10.981933+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Luna Moth Files Weren’t Hacked. Here’s How They Leaked.",
+    "link": "https://databreaches.net/2026/10/11/the-luna-moth-files-werent-hacked-heres-how-they-leaked/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "When asked about the &#8220;Luna Moth Files&#8221; that had mysteriously appeared online, Silent Ransom Group called them &#8220;fake&#8221; and insisted they hadn&#8217;t had any leak or breach. But they had. Here&#8217;s what we know. When the &#8220;Luna Moth Files&#8221; appeared on an onion site without anyone claiming responsibility or explaining their origin, DataBreaches asked a... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T16:56:10.999002+00:00",
     "details": {}
   }
 ]
