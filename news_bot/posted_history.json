@@ -158,5 +158,31 @@
     "reliability_level": "🟢",
     "telegram_message_id": 215,
     "telegram_message_url": "https://t.me/Eng_limitless/215"
+  },
+  {
+    "title": "`123456’ password used in massive Danish CPR data breach",
+    "link": "https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "summary": "كشفت تقارير صحفية عن تعرض سجل الأشخاص المركزي في الدنمارك (CPR) لاختراق أمني واسع، إثر تسلل المهاجمين عبر ثلاثة حسابات على الأقل لدى شركة IT المحلية «Pays»، من بينها حساب مسؤول إداري كان يستخدم كلمة المرور البسيطة «123456».",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "denmark-cpr-data-breach-pays-password",
+    "event_key": "pays|2026 10|أمن سيبراني|غير محدد|أوروبا",
+    "company_name": "Pays",
+    "event_year_month": "2026-10",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "أوروبا",
+    "keywords": [
+      "اختراق",
+      "تسريب بيانات",
+      "الدنمارك",
+      "أمن سيبراني"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-11T02:39:38.589744+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 216,
+    "telegram_message_url": "https://t.me/Eng_limitless/216"
   }
 ]

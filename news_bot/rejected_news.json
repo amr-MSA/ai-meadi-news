@@ -1,43 +1,5 @@
 [
   {
-    "title": "Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same (Bloomberg)",
-    "link": "https://www.techmeme.com/260910/p44#a260910p44",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same &nbsp; &mdash;&nbsp; OpenAI is considering slowing down the development of cutting-edge artificial intelligence, and the ChatGPT maker's Chief Executive &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T01:51:53.369775+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: OpenAI asked members of Congress for guidance on whether orchestrating an industry-wide slowdown in AI development would be legal under antitrust law (Maxwell Zeff/Wired)",
-    "link": "https://www.techmeme.com/260910/p43#a260910p43",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Maxwell Zeff / Wired : Sources: OpenAI asked members of Congress for guidance on whether orchestrating an industry-wide slowdown in AI development would be legal under antitrust law &nbsp; &mdash;&nbsp; Substantive coordination on safety between AI labs may risk running afoul of antitrust law, the people say &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T01:51:53.379080+00:00",
-    "details": {}
-  },
-  {
     "title": "alsk1992/CloddsBot",
     "link": "https://github.com/alsk1992/CloddsBot",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -16651,6 +16613,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-10T23:39:33.655204+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
+    "link": "https://littleguys.hervalicio.us",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://littleguys.hervalicio.us Comments URL: https://news.ycombinator.com/item?id=50038883 Points: 13 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T02:39:38.655390+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ocudu 26.10 brings satellite connectivity to open-source 5G",
+    "link": "https://www.linuxfoundation.org/press/ocudu-ecosystem-foundation-announces-ocudu-26.10-and-invites-developers-to-the-ocudu-ecosystem-developer-summit-october-20-22-near-washington-dc-to-learn-m-1791460743158",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.linuxfoundation.org/press/ocudu-ecosystem-foundation-announces-ocudu-26.10-and-invites-developers-to-the-ocudu-ecosystem-developer-summit-october-20-22-near-washington-dc-to-learn-m-1791460743158 Comments URL: https://news.ycombinator.com/item?id=50038805 Points: 7 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T02:39:38.663243+00:00",
+    "details": {}
+  },
+  {
+    "title": "Building a 4x R9700 setup for a 10 person startup",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Just wanted to share a build I am doing for a client. $18k. Specs: Threadripper 9970x 128gb DDR5 ECC 5600 4x AMD Radeon R9700 AI Pro 32gb(128gb total VRAM) 1600W PSU(GPUs are undervolted and under 210w each) Engine : using a fork of Radiance to serve Qwen 3.8 Next flash/27b and DSV4 Flash Results: 16 concurrent sessions Qwen 3.8 27b MXFP4 6.3-6.8k aggregate prefill tok/s 900 t/s - 80t/s aggregate",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T02:39:38.670495+00:00",
     "details": {}
   }
 ]
