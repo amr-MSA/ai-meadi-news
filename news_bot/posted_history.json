@@ -1,32 +1,5 @@
 [
   {
-    "title": "ShinyHunters hacker “Rey,” allegedly involved in FBI data theft, detained in Jordan",
-    "link": "https://databreaches.net/2026/10/03/shinyhunters-hacker-rey-allegedly-involved-in-fbi-data-theft-detained-in-jordan/",
-    "summary": "أفادت تقارير صحفية نقلاً عن ثلاثة مصادر مطلعة باحتجاز قيادي بارز في مجموعة اختراق البيانات الشهيرة ShinyHunters يُدعى «Rey» في الأردن. ووفقاً للمصادر، فإن المتهم المتورط في اختراق وسرقة بيانات تسريب موظفي مكتب التحقيقات الفيدرالي (FBI) يتعاون حالياً مع السلطات الأمريكية للكشف عن باقي أفراد المجموعة.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "shinyhunters-hacker-rey-detained-jordan",
-    "event_key": "shinyhunters|2026 10|أمن سيبراني|غير محدد|دولي",
-    "company_name": "ShinyHunters",
-    "event_year_month": "2026-10",
-    "news_type": "أمن سيبراني",
-    "product_name": "غير محدد",
-    "region": "دولي",
-    "keywords": [
-      "ShinyHunters",
-      "FBI",
-      "أمن سيبراني",
-      "اختراق",
-      "اعتقال"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-04T07:32:27.263169+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 210,
-    "telegram_message_url": "https://t.me/Eng_limitless/210"
-  },
-  {
     "title": "Sources: John Ternus has effectively become Apple's design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter (Mark Gurman/Bloomberg)",
     "link": "https://www.techmeme.com/261004/p12#a261004p12",
     "summary": "أفادت تقارير صحفية نقلاً عن مصادر مطلعة بأن جون تيرنوس، رئيس هندسة العتاد بشركة أبل، بات يشرف عملياً على قيادة التصميم بشقيه البرمجي والعتادي. كما كشفت التسريبات أن جهاز MacBook Pro القادم بشاشة OLED تعمل باللمس سياتي بوزن أخف بكثير من الأجيال السابقة.",
@@ -184,5 +157,40 @@
     "reliability_level": "🟡",
     "telegram_message_id": 216,
     "telegram_message_url": "https://t.me/Eng_limitless/216"
+  },
+  {
+    "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
+    "link": "https://databreaches.net/2026/10/09/silent-ransom-group-claims-luna-moth-files-are-fake-the-data-suggest-otherwise/",
+    "summary": "نفت مجموعة الابتزاز السيبراني Silent Ransom Group صحة التسريبات الأخيرة المنسوبة إليها والمعروفة بملفات «Luna Moth»، واصفة إياها بالمزيفة. في المقابل، أفاد باحثون سيبرانيون يحللون الموقع المخصص للتسريب بأن البيانات والمحادثات المكتشفة تتضمن تفاصيل عملية ترجح أصالتها وصحتها خلافاً لنفي المجموعة.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "silent-ransom-group-internal-chat-leak",
+    "event_key": "silent ransom group|2026 10|أمن سيبراني|غير محدد|دولي",
+    "company_name": "Silent Ransom Group",
+    "event_year_month": "2026-10",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "دولي",
+    "keywords": [
+      "Silent Ransom Group",
+      "Luna Moth",
+      "تسريب",
+      "أمن سيبراني",
+      "محادثات داخلية"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-11T10:24:09.697323+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 217,
+    "telegram_message_url": "https://t.me/Eng_limitless/217",
+    "is_update": true,
+    "updates_event_key": "silent ransom group|2026 10|أمن سيبراني|غير محدد|دولي",
+    "update_summary": "مجموعة Silent Ransom تنفي صحة تسريبات محادثاتها الداخلية، بينما يرجح باحثون أمنيون صحتها بناءً على تحليل البيانات.",
+    "new_facts": [
+      "نفى تنظيم الابتزاز السيبراني Silent Ransom Group صحة تسريبات المحادثات الداخلية الصادرة تحت اسم ملفات لونا موث.",
+      "أكد باحثون أمنيون يحللون البيانات المسربة وجود مؤشرات ودلائل ترجح صحة المحادثات خلافًا لنفي المجموعة."
+    ],
+    "supersedes_posted_at": "2026-10-08T08:07:50.940261+00:00"
   }
 ]
