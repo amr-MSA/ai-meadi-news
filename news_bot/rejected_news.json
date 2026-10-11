@@ -1,100 +1,5 @@
 [
   {
-    "title": "A group of 25 Fields Medal recipients says AI companies' push to solve mathematical problems as a benchmark is detrimental to the science of mathematics (Terence Tao/What's new)",
-    "link": "https://www.techmeme.com/260911/p27#a260911p27",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Terence Tao / What's new : A group of 25 Fields Medal recipients says AI companies' push to solve mathematical problems as a benchmark is detrimental to the science of mathematics &nbsp; &mdash;&nbsp; I am proud to be among the list of 25 initial signatories &mdash; all Fields Medallists &mdash; to the declaration below, which grew out of discussions between ourselves over the last week.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T20:10:30.081880+00:00",
-    "details": {}
-  },
-  {
-    "title": "The UK's Office for National Statistics cites AI as a major driver of the country's summer growth spurt, with GDP growing 0.4% in July, above expectations (Tom Rees/Bloomberg)",
-    "link": "https://www.techmeme.com/260911/p26#a260911p26",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tom Rees / Bloomberg : The UK's Office for National Statistics cites AI as a major driver of the country's summer growth spurt, with GDP growing 0.4% in July, above expectations &nbsp; &mdash;&nbsp; No one in the City of London saw Britain's summer growth spurt coming.&nbsp; &mdash;&nbsp; Even the most optimistic economists' forecasts for July had the economy expanding 0.1%.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T20:10:30.089014+00:00",
-    "details": {}
-  },
-  {
-    "title": "Open source needs to be preserved, not protected",
-    "link": "https://usebottles.com/blog/2026-09-11-release-2021.7.28.md",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://usebottles.com/blog/2026-09-11-release-2021.7.28.md Comments URL: https://news.ycombinator.com/item?id=49664023 Points: 2 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T20:10:30.093399+00:00",
-    "details": {}
-  },
-  {
-    "title": "They Stole Our Code, Now They Want Our Brains (March 2026)",
-    "link": "https://www.jernesto.com/articles/on_ai_tools",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.jernesto.com/articles/on_ai_tools Comments URL: https://news.ycombinator.com/item?id=49663369 Points: 7 # Comments: 3",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T20:10:30.098129+00:00",
-    "details": {}
-  },
-  {
-    "title": "TX: Two Lamesa ISD employees arrested over security breach",
-    "link": "https://databreaches.net/2026/09/11/tx-two-lamesa-isd-employees-arrested-over-security-breach/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Urijah Jaushlin reports: Two Lamesa ISD employees were arrested in connection with a law enforcement investigation involving allegations of a breach of computer security, according to a press release by the Lamesa Independent School District Friday morning. The Lamesa Police Department announced in a press release that authorities, along with the Texas Rangers, arrested 54-year-old... Source",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-11T20:10:30.111760+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B (Reuters)",
     "link": "https://www.techmeme.com/260911/p34#a260911p34",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16518,6 +16423,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-11T17:54:22.949872+00:00",
+    "details": {}
+  },
+  {
+    "title": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)",
+    "link": "https://www.techmeme.com/261011/p10#a261011p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Terrence O'Brien / The Verge : How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &ldquo;super intelligence&rdquo;, as Silicon Valley falls in line with Trump &nbsp; &mdash;&nbsp; Musk, Benioff, Huang, and now Nadella have all capitulated to Trump's &lsquo;super intelligence&rsquo; rebrand.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T21:11:02.315152+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
+    "link": "https://www.techmeme.com/261011/p9#a261011p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ann Davis Vaughan / The Information : A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN &nbsp; &mdash;&nbsp; Why is Anthropic driving its partners to speed up the $530 billion of data center leasing deals it has signed?",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T21:11:02.324475+00:00",
+    "details": {}
+  },
+  {
+    "title": "Every Model That Can Be Run On 10-16GB VRAM Ranked",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "It's been 4 years since c.ai first hallucination model, and yet, we're nowhere good enough at LLMs in terms of spontaneity/interesting hallucination features. Fortunately, last year brought new architecture that allow those within 10-16GB VRAM range to run something usable up to 64k Context Windows via Kobold or LLAMA. Requirements: 10-16GB VRAM - 26-32GB RAM. How I Evaluated: Speed; If tokens per",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-11T21:11:02.336023+00:00",
     "details": {}
   }
 ]
