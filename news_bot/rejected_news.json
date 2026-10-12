@@ -1,290 +1,5 @@
 [
   {
-    "title": "South Korea's espionage laws, broadened for the first time in over seven decades, take effect on Sept. 13 as foreign spies increasingly target its chip sector (Daniel Tudor/Financial Times)",
-    "link": "https://www.techmeme.com/260912/p4#a260912p4",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Daniel Tudor / Financial Times : South Korea's espionage laws, broadened for the first time in over seven decades, take effect on Sept. 13 as foreign spies increasingly target its chip sector &nbsp; &mdash;&nbsp; Seoul broadens its espionage legislation for the first time in more than seven decades&nbsp; &mdash;&nbsp; South Korea is arming itself &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T11:46:36.548273+00:00",
-    "details": {}
-  },
-  {
-    "title": "Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I find this new model at HF: &quot;Built for demanding work. A 262 144-token context window, adjustable reasoning effort, tool calling, and text, image and video understanding. Architecture Agnes-3.0-Flash is a hybrid-attention decoder: three of every four layers run a gated delta rule (recurrent, with per-layer state independent of sequence length), and the fourth runs standard global attention.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T11:46:36.564851+00:00",
-    "details": {}
-  },
-  {
-    "title": "3.8-27B has ruined 3.5/3.6-35B’s for me. It’s just *absurdly* superior.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Applied science work, from workflow design, data pipeline, results analysis, article/reports writing and data publishing online. 5 projects I did in the past replicated from start to finish. 3x to 4x more total wall time. Yes, HUGE toll on how much you can do in a day if this was the only model you could use in your laptop. But oh my…the quality of that thing. The stupid level of attention to deta",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T11:46:36.572692+00:00",
-    "details": {}
-  },
-  {
-    "title": "Dario Amodei says Anthropic is \"unilaterally committing\" to giving third-party evaluators permanent access to verify its adherence to safety measures (Dario Amodei/@darioamodei)",
-    "link": "https://www.techmeme.com/260912/p7#a260912p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dario Amodei / @darioamodei : Dario Amodei says Anthropic is &ldquo;unilaterally committing&rdquo; to giving third-party evaluators permanent access to verify its adherence to safety measures &nbsp; &mdash;&nbsp; We Must Pace the Frontier: I've written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of thes",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T14:33:23.906972+00:00",
-    "details": {}
-  },
-  {
-    "title": "Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments (Dario Amodei)",
-    "link": "https://www.techmeme.com/260912/p6#a260912p6",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dario Amodei : Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments &nbsp; &mdash;&nbsp; I have worked on AI for the last twelve years because I believe it could dramatically raise the quality of human life.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T14:33:23.916429+00:00",
-    "details": {}
-  },
-  {
-    "title": "bartowski/Qwen3.8-27B-GGUF · Hugging Face - Updated (Per-tensor layout)",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1webfsq/bartowskiqwen3827bgguf_hugging_face_updated/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Blog Post : Per-tensor layout maps for GGUF quantization Reddit thread : New tensor type layouts for my GGUF uploads EDIT : Model card has updated things such as Graph, table, text, etc., &#32; submitted by &#32; /u/pmttyji [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T14:33:23.932736+00:00",
-    "details": {}
-  },
-  {
-    "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-    "source_name": "BleepingComputer",
-    "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T15:59:02.451635+00:00",
-    "details": {}
-  },
-  {
-    "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-    "source_name": "BleepingComputer",
-    "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T15:59:28.856053+00:00",
-    "details": {}
-  },
-  {
-    "title": "Florida confirms DMV database breached via stolen police account",
-    "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-    "source_name": "BleepingComputer",
-    "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T15:59:28.862096+00:00",
-    "details": {}
-  },
-  {
-    "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-    "source_name": "BleepingComputer",
-    "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T15:59:28.868310+00:00",
-    "details": {}
-  },
-  {
-    "title": "Nvidia is the central bank of AI",
-    "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T15:59:28.919072+00:00",
-    "details": {}
-  },
-  {
-    "title": "A Mathematical Framework for Transformer Circuits (2021)",
-    "link": "https://transformer-circuits.pub/2021/framework/index.html",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T15:59:28.925058+00:00",
-    "details": {}
-  },
-  {
-    "title": "IKEA made a mod for Skyrim [video]",
-    "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T15:59:28.930724+00:00",
-    "details": {}
-  },
-  {
-    "title": "Elon Musk backs Dario Amodei's arguments about pacing the frontier, saying \"Dario is right\" (Ben Johansen/Politico)",
-    "link": "https://www.techmeme.com/260912/p14#a260912p14",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ben Johansen / Politico : Elon Musk backs Dario Amodei's arguments about pacing the frontier, saying &ldquo;Dario is right&rdquo; &nbsp; &mdash;&nbsp; Anthropic CEO Dario Amodei on Saturday called for the immediate slowdown of artificial intelligence development, warning that recent advances in AI have begun to outpace the industry's ability &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T17:57:01.339510+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks \"to be part of the 'embedded evaluators' program that Amodei\" committed to (Clem/@clementdelangue)",
-    "link": "https://www.techmeme.com/260912/p13#a260912p13",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Clem / @clementdelangue : Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks &ldquo;to be part of the &lsquo;embedded evaluators&rsquo; program that Amodei&rdquo; committed to &nbsp; &mdash;&nbsp; It's now clear that alignment is critical and won't be solved behind the closed doors of a handful of frontier labs. So today we're launching the Open Alignment Initiat",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T17:57:01.349105+00:00",
-    "details": {}
-  },
-  {
     "title": "Sam Altman confirms OpenAI won't go public this year saying \"given everything happening with safety, right now would be an ill-advised moment to go public\" (Jason Ma/Fortune)",
     "link": "https://www.techmeme.com/260912/p16#a260912p16",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16328,6 +16043,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-12T08:14:10.836028+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Bumble is in advanced talks to be taken private at a ~$1B valuation by Ithaca Holdings, founded recently by two Silicon Valley execs; BMBL jumps 45%+ (Cara Lombardo/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261012/p37#a261012p37",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Cara Lombardo / Wall Street Journal : Sources: Bumble is in advanced talks to be taken private at a ~$1B valuation by Ithaca Holdings, founded recently by two Silicon Valley execs; BMBL jumps 45%+ &nbsp; &mdash;&nbsp; Founder Whitney Wolfe Herd expected to stay involved with company as part of deal&nbsp; &mdash;&nbsp; Bumble , the dating app founded by Whitney Wolfe Herd &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-12T19:29:37.636750+00:00",
+    "details": {}
+  },
+  {
+    "title": "Muse Wonder Full (max) outperforms Fable 5.1 (max) on Artificial Analysis' Intelligence Index, matches Sonnet 5.5 (max), and is just shy of Opus 5.5 (max) (@artificialanlys)",
+    "link": "https://www.techmeme.com/261012/p36#a261012p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "@artificialanlys : Muse Wonder Full (max) outperforms Fable 5.1 (max) on Artificial Analysis' Intelligence Index, matches Sonnet 5.5 (max), and is just shy of Opus 5.5 (max) &nbsp; &mdash;&nbsp; Meta has released Muse Wonder and Muse Wonder Full, achieving Artificial Analysis Intelligence Index v4.3 scores of 52 and 56 at max reasoning effort - each a material gain over Muse Spark 1.3 (max) at 48,",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-12T19:29:37.645116+00:00",
+    "details": {}
+  },
+  {
+    "title": "It's been 2 months",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x4akj7/its_been_2_months/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Comfortable-Rock-498 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-12T19:29:37.649651+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. It launches with two core designs: - Elastic Scheduler: reallocates GPUs between rollout &amp; training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async. - Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shar",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-12T19:29:37.655419+00:00",
+    "details": {}
+  },
+  {
+    "title": "Australian patient data compromised in Icon Cancer Centre hack",
+    "link": "https://databreaches.net/2026/10/12/australian-patient-data-compromised-in-icon-cancer-centre-hack/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "David Hollingsworth reports: The operator of a global suite of cancer care providers has confirmed that patient data has been affected by a data breach involving Australia’s largest cancer care provider, the Icon Cancer Centre. “Icon Oncology Group is managing a data breach incident involving unauthorised access to some patient information held on a supplier’s... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-12T19:29:37.660535+00:00",
+    "details": {}
+  },
+  {
+    "title": "French supermarket chains say cyberattack forced refrigerator shutdown (1)",
+    "link": "https://databreaches.net/2026/10/12/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "AFP reports: Major French supermarket chains Intermarche and Cooperative U were hit by a cyberattack that caused their refrigerators to defrost, the two retailers told AFP Monday. Some 150-200 Intermarche shops were targeted, along with almost 100 Cooperative U outlets, in the attack, they said. Paris prosecutors confirmed the attack, which reportedly also hit other... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-12T19:29:37.665947+00:00",
     "details": {}
   }
 ]
