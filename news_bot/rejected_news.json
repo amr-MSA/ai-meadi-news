@@ -1,257 +1,5 @@
 [
   {
-    "title": "Not just Korea: Google leaked identifying info for sex crime victims across the world",
-    "link": "https://databreaches.net/2026/09/12/not-just-korea-google-leaked-identifying-info-for-sex-crime-victims-across-the-world/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Shin Da-eun and Park Kang-su report: Korea was not the only country where victims who sent Google removal requests about illegally obtained sexual images ended up having their private information posted online, the Hankyoreh has confirmed. “Photos of me from when I was a minor were distributed without my consent. They were posted on an... Source",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T01:49:45.760588+00:00",
-    "details": {}
-  },
-  {
-    "title": "A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it (Michael Safi/The Guardian)",
-    "link": "https://www.techmeme.com/260912/p19#a260912p19",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Michael Safi / The Guardian : A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it &nbsp; &mdash;&nbsp; Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds are far from just tools.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T01:49:58.535064+00:00",
-    "details": {}
-  },
-  {
-    "title": "Twenty police forces in England and Wales recorded 163 crimes involving keywords like \"AI-generated\", \"deepfake\", and \"nudify\" by July 2026, up from 10 in 2023 (Mark Tovey/Telegraph)",
-    "link": "https://www.techmeme.com/260912/p18#a260912p18",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Mark Tovey / Telegraph : Twenty police forces in England and Wales recorded 163 crimes involving keywords like &ldquo;AI-generated&rdquo;, &ldquo;deepfake&rdquo;, and &ldquo;nudify&rdquo; by July 2026, up from 10 in 2023 &nbsp; &mdash;&nbsp; Forces see a surge in crimes involving deepfake technology being used to &lsquo;undress women&rsquo;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T01:49:58.546174+00:00",
-    "details": {}
-  },
-  {
-    "title": "It’s official - Anthropic & OpenAI have just hired independent safety auditors!",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wesoz4/its_official_anthropic_openai_have_just_hired/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/One-Replacement-37 [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T01:49:58.554013+00:00",
-    "details": {}
-  },
-  {
-    "title": "asgeirtj/system_prompts_leaks",
-    "link": "https://github.com/asgeirtj/system_prompts_leaks",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. Thanks to Open Source Agent Analytics Understand your agents in production The Washington Post built its interactive story on prompts from this repo: See",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T06:55:41.641609+00:00",
-    "details": {}
-  },
-  {
-    "title": "Flowseal/zapret-discord-youtube",
-    "link": "https://github.com/Flowseal/zapret-discord-youtube",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Flowseal /zapret-discord-youtube NEW : Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут Caution ФЕЙКИ Я не веду никакие другие страницы/группы в телеграм/ютуб каналы Если вы наткнулись на что-то вне этой страницы гитхаба, что распространяется от",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T06:55:41.653919+00:00",
-    "details": {}
-  },
-  {
-    "title": "yuliskov/SmartTube",
-    "link": "https://github.com/yuliskov/SmartTube",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Browse media content with your own rules on Android TV https://smarttubeapp.github.io Important announcement about the app My development environment was infected by unknown malicious software, as a result of which a few builds may have been affected. Once the issue was detected, I secured everything with a full disk wipe, restored a clean setup, and now all builds are scanned with VirusTotal. The",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T06:55:41.678480+00:00",
-    "details": {}
-  },
-  {
-    "title": "Shubhamsaboo/awesome-llm-apps",
-    "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. https://www.theunwindai.com Awesome LLM Apps 100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0. Clone it, ship it, sell it - 100% free and open-source Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source models. Step-by-step tutorials on Unwind AI · Quick start ·",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T06:55:41.685305+00:00",
-    "details": {}
-  },
-  {
-    "title": "SnailSploit/Claude-Red",
-    "link": "https://github.com/SnailSploit/Claude-Red",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red tea",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T06:55:41.702427+00:00",
-    "details": {}
-  },
-  {
-    "title": "multimodal-art-projection/YuE",
-    "link": "https://github.com/multimodal-art-projection/YuE",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. https://map-yue2.github.io/ Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch . YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symbols. Create in sound. 🎧 Demos · 🤗 YuE2 · 🚀 Quick start · 🤖 Agent skill · 📊 Benchm",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T06:55:41.709117+00:00",
-    "details": {}
-  },
-  {
-    "title": "max-sixty/worktrunk",
-    "link": "https://github.com/max-sixty/worktrunk",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows https://worktrunk.dev &nbsp;&nbsp;Worktrunk September 2026 : Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all; I'm intensely focused on continuing to make Worktrunk exc",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T06:55:41.715269+00:00",
-    "details": {}
-  },
-  {
-    "title": "vxcontrol/pentagi",
-    "link": "https://github.com/vxcontrol/pentagi",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks https://pentagi.com PentAGI P enetration testing A rtificial G eneral I ntelligence Join the Community! Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ⠀ Table of Contents Overview Features Archi",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T06:55:41.730225+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Interior Secretary Doug Burgum is quietly meeting with AI hyperscalers to advance Trump's push for data centers on federal lands, despite a backlash (The Washington Sun)",
-    "link": "https://www.techmeme.com/260913/p3#a260913p3",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "The Washington Sun : Sources: Interior Secretary Doug Burgum is quietly meeting with AI hyperscalers to advance Trump's push for data centers on federal lands, despite a backlash &nbsp; &mdash;&nbsp; The Interior secretary is quietly meeting with AI hyperscalers while seeking to accommodate them on his department's land.&nbsp; &mdash; Copy",
-    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "2026-09",
-      "news_type": "سحابة ومراكز بيانات",
-      "product_name": "غير محدد",
-      "region": "أمريكا الشمالية",
-      "topic_key": "us-interior-dept-ai-hyperscalers-data-centers-federal-lands",
-      "keywords": [
-        "مراكز بيانات",
-        "ذكاء اصطناعي",
-        "حوسبة سحابية",
-        "وزارة الداخلية الأمريكية"
-      ]
-    },
-    "rejected_at": "2026-09-13T06:55:54.226679+00:00",
-    "details": {}
-  },
-  {
     "title": "Anthropic and OpenAI are already free to \"pace the frontier\" and should do so for business reasons, instead of first demanding a preferred regulatory framework (David Sacks/@davidsacks)",
     "link": "https://www.techmeme.com/260913/p5#a260913p5",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16043,6 +15791,139 @@
       "keywords": []
     },
     "rejected_at": "2026-10-13T01:42:53.984528+00:00",
+    "details": {}
+  },
+  {
+    "title": "open-webui/open-webui",
+    "link": "https://github.com/open-webui/open-webui",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...) https://openwebui.com Open WebUI 👋 Open WebUI is a home for AI , a self-hosted AI platform that's extensible , feature-rich , user-friendly, and built to run entirely offline . With support for Ollama and OpenAI-compatible APIs , it gives you a powerful, provider-agnostic interface for both local and cloud-based models. Passionate about",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T08:39:05.446919+00:00",
+    "details": {}
+  },
+  {
+    "title": "microsoft/BitNet",
+    "link": "https://github.com/microsoft/BitNet",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Official inference framework for 1-bit LLMs bitnet.cpp 📰 News 07/23/2026: 📣 We released VibeASR.cpp — a real-time multilingual ASR inference engine on CPU using BitNet I2_S quantization, achieving RTF &lt; 1 with very few threads on x86 (AVX2) and ARM (NEON) platforms. [ Code ] [ Models ] [ Report ] 07/20/2026: 📣 We released BitNet-embedding-0.6B and BitNet-embedding-270M on Hugging Face — the fir",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T08:39:05.466262+00:00",
+    "details": {}
+  },
+  {
+    "title": "Alishahryar1/free-claude-code",
+    "link": "https://github.com/Alishahryar1/free-claude-code",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by A",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T08:39:05.473530+00:00",
+    "details": {}
+  },
+  {
+    "title": "IDC: China's Q3 smartphone shipments fell 15.4% YoY to 57.9M units, the sixth straight quarter of decline; Huawei led with a 21% share and Apple had 17.8% (Reuters)",
+    "link": "https://www.techmeme.com/261013/p7#a261013p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : IDC: China's Q3 smartphone shipments fell 15.4% YoY to 57.9M units, the sixth straight quarter of decline; Huawei led with a 21% share and Apple had 17.8% &nbsp; &mdash;&nbsp; China's third-quarter smartphone shipments fell 15.4% from a year earlier to 57.9 million units, research firm IDC said on Tuesday.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T08:40:24.879908+00:00",
+    "details": {}
+  },
+  {
+    "title": "Singapore-based data center developer DayOne raises ~$3.67B, including a ~$2.4B offshore term loan facility, from seven banks to fund its Malaysia expansion (Jasmeen Ara Shaikh/Reuters)",
+    "link": "https://www.techmeme.com/261013/p6#a261013p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jasmeen Ara Shaikh / Reuters : Singapore-based data center developer DayOne raises ~$3.67B, including a ~$2.4B offshore term loan facility, from seven banks to fund its Malaysia expansion &nbsp; &mdash;&nbsp; Singapore-based data centre developer DayOne on Tuesday said it secured an additional 15 billion ringgit ($3.67 billion) &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T08:40:24.891156+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anyone feel like reverse-engineering CUDA?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I've been reading about all these modders using AI to reverse-engineer games and software. I've been trying out photocraft and gridcraft and have just watched a GTA5 mod featuring Sonic. It's pretty damn impressive. As a struggling AMD Radeon owner I'd love to see AI generated open source CUDA implementation. Not only do I dislike NVIDIA, but there's delicious irony in using CUDA cores to do it. A",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T08:40:24.898268+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic is doing free publicity for GLM again",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://www.anthropic.com/research/distillation-defenses &#32; submitted by &#32; /u/No-Point1424 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T08:40:24.905066+00:00",
     "details": {}
   }
 ]
