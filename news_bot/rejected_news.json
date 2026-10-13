@@ -1,347 +1,5 @@
 [
   {
-    "title": "Anthropic and OpenAI are already free to \"pace the frontier\" and should do so for business reasons, instead of first demanding a preferred regulatory framework (David Sacks/@davidsacks)",
-    "link": "https://www.techmeme.com/260913/p5#a260913p5",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "David Sacks / @davidsacks : Anthropic and OpenAI are already free to &ldquo;pace the frontier&rdquo; and should do so for business reasons, instead of first demanding a preferred regulatory framework &nbsp; &mdash;&nbsp; Dario has written that we need to &ldquo;pace the frontier,",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T12:54:20.540896+00:00",
-    "details": {}
-  },
-  {
-    "title": "Filing: Vy Capital owns a 3.4% SpaceX stake; Vy is also the largest outside investor in BoringCo and Neuralink and committed $700M to Musk's Twitter acquisition (Ivan Levingston/Financial Times)",
-    "link": "https://www.techmeme.com/260913/p4#a260913p4",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ivan Levingston / Financial Times : Filing: Vy Capital owns a 3.4% SpaceX stake; Vy is also the largest outside investor in BoringCo and Neuralink and committed $700M to Musk's Twitter acquisition &nbsp; &mdash;&nbsp; Low-profile venture capital firm Vy Capital has emerged as one of the rocket maker's largest shareholders",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T12:54:20.552285+00:00",
-    "details": {}
-  },
-  {
-    "title": "The Local LLM community feels like the golden era of the internet all over again",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Lately because of the current hardware shortage, unfortunately or fortunately, we can’t just throw infinite cloud compute at our problems, but we’re forced to actually care about what’s happening under the hood. We’re tweaking inference engines, learning quantization math, and optimizing architecture just to squeeze as much performance as possible for the lowest possible setups. Fact: Just recentl",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T12:54:20.559852+00:00",
-    "details": {}
-  },
-  {
-    "title": "The Hugging Bay",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "New website to download models in case HF starts censoring or limiting access. &#32; submitted by &#32; /u/Thrumpwart [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T12:54:20.565444+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-    "source_name": "BleepingComputer",
-    "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T16:49:02.164258+00:00",
-    "details": {}
-  },
-  {
-    "title": "Revolut confirms customer data breach through fake government requests",
-    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-    "source_name": "TechCrunch",
-    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-    "reason": "مكرر داخل دفعة RSS الحالية",
-    "rejection_stage": "batch-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T16:49:03.678852+00:00",
-    "details": {}
-  },
-  {
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "source_name": "TechCrunch",
-    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-    "reason": "مكرر داخل دفعة RSS الحالية",
-    "rejection_stage": "batch-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T16:49:03.718999+00:00",
-    "details": {}
-  },
-  {
-    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-    "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T16:49:20.735394+00:00",
-    "details": {}
-  },
-  {
-    "title": "JetKVM Mini",
-    "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T16:49:20.740614+00:00",
-    "details": {}
-  },
-  {
-    "title": "Libraries Run Rust Inside Python (With PyO3)",
-    "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T16:49:20.746950+00:00",
-    "details": {}
-  },
-  {
-    "title": "CUDA for AMD on Windows",
-    "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T16:49:20.752500+00:00",
-    "details": {}
-  },
-  {
-    "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-    "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T16:49:20.759428+00:00",
-    "details": {}
-  },
-  {
-    "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T16:49:20.765909+00:00",
-    "details": {}
-  },
-  {
-    "title": "President Trump dismisses calls for an AI slowdown, saying \"you have a lot of negative forces that are bringing it up that shouldn't be bringing it up\" (Myles McCormick/Financial Times)",
-    "link": "https://www.techmeme.com/260913/p9#a260913p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Myles McCormick / Financial Times : President Trump dismisses calls for an AI slowdown, saying &ldquo;you have a lot of negative forces that are bringing it up that shouldn't be bringing it up&rdquo; &nbsp; &mdash;&nbsp; President denounces demands for regulation as existential fears over technology move to the centre of US politics",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T17:08:59.037152+00:00",
-    "details": {}
-  },
-  {
-    "title": "A fast, free, and open-source local AWS service emulator built for developers",
-    "link": "https://floci.io/floci/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://floci.io/floci/ Comments URL: https://news.ycombinator.com/item?id=49686118 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T17:08:59.043098+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: 1Baton – a no-code tool for chaining API calls",
-    "link": "https://1baton.com",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Hi HN! I've been building a no-code tool for authoring and running API integration tests called 1Baton. I work with APIs on a daily basis, building and testing them. In the services I work on, a single API endpoint often represents only a small action in a larger process, so testing a complete flow usually means calling several endpoints in sequence. When I started testing these flows, I found mys",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T17:08:59.048880+00:00",
-    "details": {}
-  },
-  {
-    "title": "Delaware Consumer Privacy and Data-Breach Law Updates",
-    "link": "https://databreaches.net/2026/09/13/delaware-consumer-privacy-and-data-breach-law-updates/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Joseph J. Lazzarotti of JacksonLewis writes: On September 2, 2026, Delaware’s Governor signed House Bill (HB) 380 and HB 381. HB 380 amends the Delaware Personal Data Privacy Act (DPDPA), which was enacted in 2023 and became effective January 1, 2025. HB 381 separately amends Delaware’s computer security breach notification law. In short, what changes... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T17:08:59.063991+00:00",
-    "details": {}
-  },
-  {
-    "title": "AT&T store worker gets 16 months inside for SIM-swap side hustle",
-    "link": "https://databreaches.net/2026/09/13/att-store-worker-gets-16-months-inside-for-sim-swap-side-hustle/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Connor Jones reports: A former AT&#38;T retail worker who used his system access to hijack customers&#8217; phone numbers for cybercriminals has been sentenced to 16 months in federal prison. Kenneth Carter, 44, carried out the SIM swaps at a store in Portland, Oregon, , allowing the criminals to intercept authentication codes and raid victims&#8217; bank accounts.... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T17:08:59.069704+00:00",
-    "details": {}
-  },
-  {
     "title": "Xi Jinping calls for a \"consensus-based global AI governance framework\" and says China will pioneer the establishment of a BRICS AI open-source community (Joanna Ossinger/CNBC)",
     "link": "https://www.techmeme.com/260913/p11#a260913p11",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15924,6 +15582,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-13T08:40:24.905066+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meta says hackers stole some code and personal data of roughly 1,500 people, most of them employees in the US, after compromising some of its GitHub repos (Eduard Kovacs/SecurityWeek)",
+    "link": "https://www.techmeme.com/261013/p32#a261013p32",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Eduard Kovacs / SecurityWeek : Meta says hackers stole some code and personal data of roughly 1,500 people, most of them employees in the US, after compromising some of its GitHub repos &nbsp; &mdash;&nbsp; Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T17:13:31.876389+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apple says HomeView's facial recognition works only if users have a \"registered personal device\" with Apple Intelligence and Siri AI on the same Wi-Fi network (John Gruber/Daring Fireball)",
+    "link": "https://www.techmeme.com/261013/p31#a261013p31",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "John Gruber / Daring Fireball : Apple says HomeView's facial recognition works only if users have a &ldquo;registered personal device&rdquo; with Apple Intelligence and Siri AI on the same Wi-Fi network &nbsp; &mdash;&nbsp; Apple Newsroom: &hellip; Your first question might be how this facial recognition to identify users works &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T17:13:31.888678+00:00",
+    "details": {}
+  },
+  {
+    "title": "It's been too quiet on the other side of the Pacific",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T17:13:31.896619+00:00",
+    "details": {}
+  },
+  {
+    "title": "Is everyone in here buying up smart TVs now?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x4wcnn/is_everyone_in_here_buying_up_smart_tvs_now/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Anthropic says we can run Gemma4 26b a4b with only 14 smart tvs. &#32; submitted by &#32; /u/SporksInjected [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T17:13:31.904168+00:00",
+    "details": {}
+  },
+  {
+    "title": "UK: Commercial market research and data-gathering firm in the medical space leaked health data",
+    "link": "https://databreaches.net/2026/10/13/uk-commercial-market-research-and-data-gathering-firm-in-the-medical-space-leaked-health-data/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "UpGuard provides another entry for our &#8220;No need to hack when it&#8217;s leaking&#8221; files. This time, it&#8217;s Liberating Research. On August 31, Greg Pollock from UpGuard contacted DataBreaches.net to report a data leak they discovered containing sensitive medical information on almost 100,000 people. By agreement, we both delayed publication to give the responsible firm time... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T17:13:31.913242+00:00",
+    "details": {}
+  },
+  {
+    "title": "ShinyHunters: Six Years of Cybercrime — Expert Analysis and Ransomware Group Perspectives",
+    "link": "https://databreaches.net/2026/10/13/shinyhunters-six-years-of-cybercrime-expert-analysis-and-ransomware-group-perspectives/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Back in the day, when my co-author and I would conduct training workshops on neurobehavioral disorders in children and teens, we would always introduce our presentation with an overhead that said, &#8220;Two Professionals. Three Opinions.&#8221; That remains true for so many controversial or contentious topics. This week, Marco A. De Felice of SuspectFile tackled questions... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T17:13:31.922256+00:00",
     "details": {}
   }
 ]
