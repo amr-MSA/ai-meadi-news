@@ -1,138 +1,5 @@
 [
   {
-    "title": "Xi Jinping calls for a \"consensus-based global AI governance framework\" and says China will pioneer the establishment of a BRICS AI open-source community (Joanna Ossinger/CNBC)",
-    "link": "https://www.techmeme.com/260913/p11#a260913p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Joanna Ossinger / CNBC : Xi Jinping calls for a &ldquo;consensus-based global AI governance framework&rdquo; and says China will pioneer the establishment of a BRICS AI open-source community &nbsp; &mdash;&nbsp; China will take the lead to help foster artificial-intelligence collaboration and development among developing countries &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T19:57:52.661841+00:00",
-    "details": {}
-  },
-  {
-    "title": "Dario Amodei says the \"toughest dilemma\" about his proposal to \"pace the frontier\" is what happens if China does not do the same (Ashley Capoot/CNBC)",
-    "link": "https://www.techmeme.com/260913/p10#a260913p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ashley Capoot / CNBC : Dario Amodei says the &ldquo;toughest dilemma&rdquo; about his proposal to &ldquo;pace the frontier&rdquo; is what happens if China does not do the same &nbsp; &mdash;&nbsp; Anthropic CEO Dario Amodei said Sunday that the &ldquo;toughest dilemma&rdquo; about his proposal to slow the advancement of artificial intelligence &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T19:57:52.672682+00:00",
-    "details": {}
-  },
-  {
-    "title": "3k$ 128GB VRAM + 256GB RAM DDR4 Server",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I finished my home inference server. First I tried Lenovo p620 workstation and while it’s a good value overall it pissed me off with a ton of proprietary Lenovo shit to deal with and I return it in the end. Components: 4xV620 - 1400$ 256GB DDR4 RDIMM 2666 - 610$ Huanandzhi D12D - 410$ EPYC 7452 - 170$ PSU ASRock 1600 - 220$ SSD Samsung 970EVO 1tb - Already had Case//Fans//Misc ~ 200$ Power consump",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T19:57:52.679608+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Anthropic, OpenAI, and Google have held working group meetings since July to discuss creating an industry-led standards body for AI (Leo Schwartz/The Information)",
-    "link": "https://www.techmeme.com/260913/p12#a260913p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Leo Schwartz / The Information : Sources: Anthropic, OpenAI, and Google have held working group meetings since July to discuss creating an industry-led standards body for AI &nbsp; &mdash;&nbsp; Anthropic, OpenAI and Google have been holding discussions about working together to create a standards body for the AI industry &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T22:02:28.997134+00:00",
-    "details": {}
-  },
-  {
-    "title": "Plot twist",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "From ex Qwen leader https://x.com/JustinLin610/status/2098989619576729924 &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T22:02:29.014576+00:00",
-    "details": {}
-  },
-  {
-    "title": "ChatGPT Images 2.5",
-    "link": "https://www.reddit.com/r/singularity/comments/1waxm7z/chatgpt_images_25/",
-    "source_name": "r/singularity (شائعات تقنية عامة)",
-    "summary": "&#32; submitted by &#32; /u/FateOfMuffins [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T22:02:29.027825+00:00",
-    "details": {}
-  },
-  {
-    "title": "Astra is now a certified human",
-    "link": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
-    "source_name": "r/singularity (شائعات تقنية عامة)",
-    "summary": "Source: https://twitter.com/sharifshameem/status/2096847916837314853 The video is very interesting to watch, honestly when the game first came out I thought of it as a mini AGI test and didn't think AI would be able to complete it until 2029. &#32; submitted by &#32; /u/enilea [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-13T22:02:29.034184+00:00",
-    "details": {}
-  },
-  {
     "title": "Current and former officials: the US NSA plans major restructuring to form five new units for AI, China, cybersecurity, warfighting, and global intelligence (Washington Post)",
     "link": "https://www.techmeme.com/260913/p17#a260913p17",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15715,6 +15582,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-13T19:44:32.736826+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)",
+    "link": "https://www.techmeme.com/261013/p45#a261013p45",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "The Information : A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique &nbsp; &mdash;&nbsp; OpenAI is grappling with fallout from its use of a controversial innovation in AI design as it works to get its next unreleased model &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T22:04:01.177139+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents (Annelise Levy/Bloomberg Law)",
+    "link": "https://www.techmeme.com/261013/p44#a261013p44",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Annelise Levy / Bloomberg Law : Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents &nbsp; &mdash;&nbsp; Apple Inc. convinced a federal judge in California to force OpenAI Inc. to expedite turning over documents concerning its alleged theft &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T22:04:01.190166+00:00",
+    "details": {}
+  },
+  {
+    "title": "Nexus-Q: un motor open source de Rust para PQC",
+    "link": "https://nexus-q.link/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://nexus-q.link/ Comments URL: https://news.ycombinator.com/item?id=50079417 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T22:04:01.198165+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open source Scion – Anthropic's Git alternative in open source",
+    "link": "https://github.com/tinyhumansai/openscion",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/tinyhumansai/openscion Comments URL: https://news.ycombinator.com/item?id=50079329 Points: 3 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T22:04:01.206591+00:00",
+    "details": {}
+  },
+  {
+    "title": "LiquidAI/LFM2.5-24B-A2B",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x52kco/liquidailfm2524ba2b/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Gguf's: https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF Free Demo: https://playground.liquid.ai &quot;LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters, built for fast, private agents on-device . It is the largest and final model in the LFM2.5 family, which now spans two orders of magnitude: from LFM2.5-230M to LFM2.5-24B-A2B. Best-in-class agent : Competitive wi",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T22:04:01.222223+00:00",
+    "details": {}
+  },
+  {
+    "title": "Attackers claim to have stolen 80 million South African patient records in massive Ampath Laboratories data breach",
+    "link": "https://databreaches.net/2026/10/13/attackers-claim-to-have-stolen-80-million-south-african-patient-records-in-massive-ampath-laboratories-data-breach/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Luis Monzon reports: Ampath Laboratories, one of South Africa’s largest pathology service providers, has been hit by a cyberattack, with the attacker claiming that more than 80 million patient records have been exfiltrated. Threat actor ByteToBreach, which has attacked other major entities across Africa, including major targets in Nigeria, claimed responsibility for the breach. The... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T22:04:01.231964+00:00",
     "details": {}
   }
 ]
