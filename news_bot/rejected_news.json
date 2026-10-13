@@ -1,119 +1,5 @@
 [
   {
-    "title": "An analysis of Bending Spoons' financials: the company relies on aggressive post-acquisition price hikes, and rising interest rates could crimp its growth (Jonathan Weil/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260912/p17#a260912p17",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jonathan Weil / Wall Street Journal : An analysis of Bending Spoons' financials: the company relies on aggressive post-acquisition price hikes, and rising interest rates could crimp its growth &nbsp; &mdash;&nbsp; The tech roll-up relies on aggressive price hikes and bespoke metrics.&nbsp; Rising interest rates could crimp its growth.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T21:55:58.464073+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Give Claude Code / Cursor a real eng team (tiers, roles, escalation)",
-    "link": "https://github.com/khuynh22/agent-dev-team",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/khuynh22/agent-dev-team Comments URL: https://news.ycombinator.com/item?id=49677601 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T21:55:58.481301+00:00",
-    "details": {}
-  },
-  {
-    "title": "Aaron Swartz and atx: the spec writer open source lost",
-    "link": "https://dev.profullstack.com/~anthony/blog/121-post.html",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://dev.profullstack.com/~anthony/blog/121-post.html Comments URL: https://news.ycombinator.com/item?id=49676976 Points: 2 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T21:55:58.487683+00:00",
-    "details": {}
-  },
-  {
-    "title": "Transferable sessions between Claude Code instances",
-    "link": "https://getcesar.dev/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://getcesar.dev/ Comments URL: https://news.ycombinator.com/item?id=49678247 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T23:33:34.086189+00:00",
-    "details": {}
-  },
-  {
-    "title": "This seems more probable than it was before.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wepx7w/this_seems_more_probable_than_it_was_before/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/pmv143 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T23:33:34.100250+00:00",
-    "details": {}
-  },
-  {
-    "title": "NYS DFS Issues New Cybersecurity Guidance on Risk Assessments for Financial Services Entities",
-    "link": "https://databreaches.net/2026/09/12/nys-dfs-issues-new-cybersecurity-guidance-on-risk-assessments-for-financial-services-entities/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "New York State Department of Financial Services (DFS): September 10, 2026 New York State Department of Financial Services (DFS) Acting Superintendent Kaitlin Asrow today issued new cybersecurity guidance outlining the Department’s expectations for DFS-regulated entities’ on conducting risk assessments sufficient to inform their cybersecurity programs. The guidance outlines requirements regarding s",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-12T23:33:34.114052+00:00",
-    "details": {}
-  },
-  {
     "title": "Not just Korea: Google leaked identifying info for sex crime victims across the world",
     "link": "https://databreaches.net/2026/09/12/not-just-korea-google-leaked-identifying-info-for-sex-crime-victims-across-the-world/",
     "source_name": "DataBreaches.net (تسريبات واختراقات)",
@@ -16100,6 +15986,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-12T21:32:58.283318+00:00",
+    "details": {}
+  },
+  {
+    "title": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)",
+    "link": "https://www.techmeme.com/261012/p43#a261012p43",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anton Bridge / Reuters : Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its &ldquo;physical AI&rdquo; efforts &nbsp; &mdash;&nbsp; Japanese manufacturer Omron (6645.T) will buy US industrial PC firm Onlogic and its parent company, Interlogic, for $675 million, the company said on Tuesday.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T01:42:53.959187+00:00",
+    "details": {}
+  },
+  {
+    "title": "Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math (Chao Kong/South China Morning Post)",
+    "link": "https://www.techmeme.com/261012/p42#a261012p42",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Chao Kong / South China Morning Post : Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math &nbsp; &mdash;&nbsp; Leading China's mathematicians joined forces in Beijing on Sunday to launch an alliance aimed at integrating artificial intelligence into mathematical research.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T01:42:53.974710+00:00",
+    "details": {}
+  },
+  {
+    "title": "Once again anthropic doing free marketing for open weight models",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/kubblegum [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T01:42:53.984528+00:00",
     "details": {}
   }
 ]
