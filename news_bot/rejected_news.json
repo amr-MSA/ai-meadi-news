@@ -15697,5 +15697,24 @@
     },
     "rejected_at": "2026-10-13T17:13:31.922256+00:00",
     "details": {}
+  },
+  {
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "مكرر داخل دفعة RSS الحالية",
+    "rejection_stage": "batch-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-13T19:44:32.736826+00:00",
+    "details": {}
   }
 ]
