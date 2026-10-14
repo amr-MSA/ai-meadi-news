@@ -15697,5 +15697,138 @@
     },
     "rejected_at": "2026-10-14T02:30:47.479504+00:00",
     "details": {}
+  },
+  {
+    "title": "debpalash/VoiceStudio",
+    "link": "https://github.com/debpalash/VoiceStudio",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. https://voicestudio.sh VoiceStudio Open-source voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. Website · Download · Get started · Docs · Discord · 简体中文 · 日本語 Y",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T09:06:43.460990+00:00",
+    "details": {}
+  },
+  {
+    "title": "vercel-labs/skills",
+    "link": "https://github.com/vercel-labs/skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent interactively: npx skills use vercel-labs/agent-skills@web-design-guide",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T09:06:43.478698+00:00",
+    "details": {}
+  },
+  {
+    "title": "xtool-org/xtool",
+    "link": "https://github.com/xtool-org/xtool",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. https://xtool.sh xtool Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, and macOS. Overview xtool is a cross-platform (Linux/WSL/macOS) tool that replicates Xcode functionality with open standards. ✅ Build a SwiftPM package into an iOS app ✅ Sign and install",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T09:06:43.492674+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ukraine says SpaceX has restricted Starlink by cutting military-grade service at speeds exceeding 100mph, disrupting drone missions, and it received no warning (Yuliia Dysa/Reuters)",
+    "link": "https://www.techmeme.com/261014/p7#a261014p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Yuliia Dysa / Reuters : Ukraine says SpaceX has restricted Starlink by cutting military-grade service at speeds exceeding 100mph, disrupting drone missions, and it received no warning &nbsp; &mdash;&nbsp; SpaceX (SPCX.O) has introduced a limit on some Starlink services in Ukraine, disrupting combat drone missions for which the technology &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T09:07:13.344981+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google DeepMind and Google Cloud plan to provide up to 200 European scientific researchers with access to their frontier AI models and $3M in compute credits (Foo Yun Chee/Reuters)",
+    "link": "https://www.techmeme.com/261014/p6#a261014p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Foo Yun Chee / Reuters : Google DeepMind and Google Cloud plan to provide up to 200 European scientific researchers with access to their frontier AI models and $3M in compute credits &nbsp; &mdash;&nbsp; Google DeepMind and Alphabet's (GOOGL.O) cloud service Google Cloud will provide up to 200 European scientific researchers &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T09:07:13.353911+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Omnis Watchtower – a supply-chain tripwire for Claude Code agents",
+    "link": "https://github.com/Fortitude-Group/omnis-watchtower",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/Fortitude-Group/omnis-watchtower Comments URL: https://news.ycombinator.com/item?id=50084271 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T09:07:13.360211+00:00",
+    "details": {}
+  },
+  {
+    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "link": "https://typeof.net/Iosevka/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://typeof.net/Iosevka/ Comments URL: https://news.ycombinator.com/item?id=50084240 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T09:07:13.366230+00:00",
+    "details": {}
   }
 ]
