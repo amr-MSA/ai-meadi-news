@@ -1,62 +1,5 @@
 [
   {
-    "title": "Current and former officials: the US NSA plans major restructuring to form five new units for AI, China, cybersecurity, warfighting, and global intelligence (Washington Post)",
-    "link": "https://www.techmeme.com/260913/p17#a260913p17",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Washington Post : Current and former officials: the US NSA plans major restructuring to form five new units for AI, China, cybersecurity, warfighting, and global intelligence &nbsp; &mdash;&nbsp; Gen. Joshua M. Rudd is retooling the massive spy agency to focus on priorities including AI, China and cybersecurity.&nbsp; &mdash;&nbsp; Summary",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T02:08:08.404477+00:00",
-    "details": {}
-  },
-  {
-    "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China -- \"I think you have a lot of negative forces that are...bringing up things that won’t happen...whoever wins with AI wins\"",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wfm3v4/trump_downplays_the_need_to_check_ai_development/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/infieldmitt [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T02:08:08.425527+00:00",
-    "details": {}
-  },
-  {
-    "title": "Six in 10 Cyberattacks in Colombia Target Hospitals",
-    "link": "https://databreaches.net/2026/09/13/six-in-10-cyberattacks-in-colombia-target-hospitals/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Joseph Freixes reports: Six in 10 cyberattacks recorded in Colombia target health sector institutions, a figure that highlights the growing exposure of hospitals and clinics to digital threats. The figure, included in a Biofile report based on a measurement analyzed from IBM’s X-Force Index, shows that medical information has become one of the main targets... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T02:08:08.432348+00:00",
-    "details": {}
-  },
-  {
     "title": "ever-co/ever-gauzy",
     "link": "https://github.com/ever-co/ever-gauzy",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15696,6 +15639,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-13T22:04:01.231964+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September's record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)",
+    "link": "https://www.techmeme.com/261013/p51#a261013p51",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Brian Krebs / Krebs on Security : Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September's record of 972, which was already ~10x the normal monthly patch load &nbsp; &mdash;&nbsp; Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T02:30:47.448538+00:00",
+    "details": {}
+  },
+  {
+    "title": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains (Bloomberg)",
+    "link": "https://www.techmeme.com/261013/p50#a261013p50",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains &nbsp; &mdash;&nbsp; Advanced humanoid hardware is one of the strategic high-tech fields where China has an early lead over the US.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T02:30:47.460871+00:00",
+    "details": {}
+  },
+  {
+    "title": "Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/LatentSpacer [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T02:30:47.479504+00:00",
     "details": {}
   }
 ]
