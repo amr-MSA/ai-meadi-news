@@ -1,81 +1,5 @@
 [
   {
-    "title": "Nuance Labs, which builds low-latency AI avatars that can have face-to-face conversations, raised a $50M Series A led by Lightspeed, with Nvidia participating (Shubhangi Goel/Business Insider)",
-    "link": "https://www.techmeme.com/260914/p36#a260914p36",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Shubhangi Goel / Business Insider : Nuance Labs, which builds low-latency AI avatars that can have face-to-face conversations, raised a $50M Series A led by Lightspeed, with Nvidia participating &nbsp; &mdash;&nbsp; A startup that's trying to make AI models better conversationalists with more emotional intelligence has just raised $50 million.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T21:10:30.144920+00:00",
-    "details": {}
-  },
-  {
-    "title": "[Bi-Weekly Megathread] Project Showcase",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wgcpww/biweekly_megathread_project_showcase/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Do you have something you'd like to share with the r/LocalLLaMA community. This is the place for it! Recommendation on presentation: Please share plain english description of what your project does and why people should care about it How does it compare to existing options and why should people switch to your option? How have you tested and validated it? (i.e. can you show evidence that it wasn't",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T21:10:30.152078+00:00",
-    "details": {}
-  },
-  {
-    "title": "UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Hi everybody, we post-trained Qwen 3.8 27B to be more efficient by figuring out which tokens were linked to overthinking and penalizing them without &quot;attacking&quot; the reasoning length directly then fixed the accuracy with a bit of secret sauce (hint On-Policy Distillation) and achieved great results ( -58% thinking tokens, 1.95x speed up, &lt;1% accuracy loss ) so we wanted to open-source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T21:10:30.161617+00:00",
-    "details": {}
-  },
-  {
-    "title": "Possible cyber incident disrupts Monroe schools in Wisconsin",
-    "link": "https://databreaches.net/2026/09/14/possible-cyber-incident-disrupts-monroe-schools-in-wisconsin/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Joseph Topping reports an incident at the School District of Monroe in Wisconsin has resulted in the district pulling the plug on internet connections: Students powered down computers, school phone service failed and a scheduled ACT session was canceled after a possible network security issue disrupted the School District of Monroe in Wisconsin. Classes continued... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T21:10:30.168941+00:00",
-    "details": {}
-  },
-  {
     "title": "Apple's H1 2027 plans reportedly include an iPhone 18e, A20 iPhone 18, A20 Pro iPhone Air 2, OLED iPad Air, A19 Pro MacBook Neo, and M6 MacBook Air (Mark Gurman/Bloomberg)",
     "link": "https://www.techmeme.com/260914/p40#a260914p40",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15487,6 +15411,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-14T19:49:06.014430+00:00",
+    "details": {}
+  },
+  {
+    "title": "Shareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance (Todd Spangler/Variety)",
+    "link": "https://www.techmeme.com/261014/p45#a261014p45",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Todd Spangler / Variety : Shareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance &nbsp; &mdash;&nbsp; At separate special meetings of shareholders Wednesday to vote on the deal, the majority of shares owned by Fox Corp. and Roku investors were in favor the deal.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T22:48:00.597023+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)",
+    "link": "https://www.techmeme.com/261014/p44#a261014p44",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 &nbsp; &mdash;&nbsp; AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its anticipated public listing",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T22:48:00.608584+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open source text and image to CAD harness for build123d, OpenSCAD, and smlibpy",
+    "link": "https://github.com/nanassound/mnft",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/nanassound/mnft Comments URL: https://news.ycombinator.com/item?id=50096312 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T22:48:00.617232+00:00",
+    "details": {}
+  },
+  {
+    "title": "Reflex, a TUI that compiles Claude Code and Codex transcripts into agent skills",
+    "link": "https://github.com/sumervaid/reflex-tui",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/sumervaid/reflex-tui Comments URL: https://news.ycombinator.com/item?id=50096217 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T22:48:00.622937+00:00",
+    "details": {}
+  },
+  {
+    "title": "Someone jailbroke a PS5 and got Qwen 3.8 27B running on its GPU at 20 tok/s.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x62uhc/someone_jailbroke_a_ps5_and_got_qwen_38_27b/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/98Saman [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T22:48:00.629089+00:00",
     "details": {}
   }
 ]
