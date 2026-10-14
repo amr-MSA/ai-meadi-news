@@ -1,214 +1,5 @@
 [
   {
-    "title": "ever-co/ever-gauzy",
-    "link": "https://github.com/ever-co/ever-gauzy",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co https://gauzy.co Ever Gauzy Platform 💡 What's New 🔥🔥🔥 we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire businesses, 24/7. Please grab it now from https://github.com/ever-works/ever-works and make it ⭐⭐⭐ on GitHub! if you like Gauzy, you should also",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:40.434897+00:00",
-    "details": {}
-  },
-  {
-    "title": "tech-leads-club/agent-skills",
-    "link": "https://github.com/tech-leads-club/agent-skills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. https://agent-skills.techleads.club 🧠 Agent Skills The secure, validated skill registry for professional AI coding agents In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities , Agent Skills stands apart as a har",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:40.444078+00:00",
-    "details": {}
-  },
-  {
-    "title": "alibaba/open-code-review",
-    "link": "https://github.com/alibaba/open-code-review",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. https://open-codereview.ai OpenCodeReview English | 简体中文 | 日本語 | 한국어 | Русский What is Open Code Review? Open Code Review is an AI-powered c",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:40.511765+00:00",
-    "details": {}
-  },
-  {
-    "title": "tonhowtf/omniget",
-    "link": "https://github.com/tonhowtf/omniget",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer. https://tonho.wtf OmniGet English · Português (BR) · Русский · 简体中文 Download Udemy and Hotmart courses, YouTube, Instagram, X",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:40.525462+00:00",
-    "details": {}
-  },
-  {
-    "title": "jiji262/douyin-downloader",
-    "link": "https://github.com/jiji262/douyin-downloader",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。 Douyin Downloader V2.0 中文文档 (Chinese): [README.zh-CN.md](./README.zh-CN.md) A practical Douyin downloader supporting videos, image-notes, collections, music, favorites collections, and profile batch downl",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:40.532654+00:00",
-    "details": {}
-  },
-  {
-    "title": "Swordfish90/cool-retro-term",
-    "link": "https://github.com/Swordfish90/cool-retro-term",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "A good looking terminal emulator which mimics the old cathode display... cool-retro-term &gt; Default Amber C:\\ IBM DOS $ Default Green Description cool-retro-term is a terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight. It uses the QML port of qtermwidget (Konsole): https://github.com/Swo",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:40.539251+00:00",
-    "details": {}
-  },
-  {
-    "title": "huggingface/transformers",
-    "link": "https://github.com/huggingface/transformers",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. https://huggingface.co/transformers English | 简体中文 | 繁體中文 | 한국어 | Español | 日本語 | हिन्दी | Русский | Português | తెలుగు | Français | Deutsch | Italiano | Tiếng Việt | العربية | اردو | বাংলা | فارسی | Română | Türkçe State-of-the",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:40.545896+00:00",
-    "details": {}
-  },
-  {
-    "title": "How hyperscalers like Amazon, Microsoft, and Google are siding with consumers on data center power costs and sweetening offers for communities to gain support (Ann Davis Vaughan/The Information)",
-    "link": "https://www.techmeme.com/260914/p5#a260914p5",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ann Davis Vaughan / The Information : How hyperscalers like Amazon, Microsoft, and Google are siding with consumers on data center power costs and sweetening offers for communities to gain support &nbsp; &mdash;&nbsp; Amazon, Microsoft, Oracle and other AI data center developers are sweetening financial offers to municipalities and regulators to gain approval for new facilities.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:50.930027+00:00",
-    "details": {}
-  },
-  {
-    "title": "Filing: San Jose-based Chinese optical module maker Ligent seeks ~$727M in a Hong Kong IPO, after its rival Zhongji Innolight's $6.8B Hong Kong debut in July (Sangmi Cha/Bloomberg)",
-    "link": "https://www.techmeme.com/260914/p4#a260914p4",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Sangmi Cha / Bloomberg : Filing: San Jose-based Chinese optical module maker Ligent seeks ~$727M in a Hong Kong IPO, after its rival Zhongji Innolight's $6.8B Hong Kong debut in July &nbsp; &mdash;&nbsp; AI computing networks maker Ligent Technologies Inc. is seeking to raise as much as HK$5.7 billion ($727 million) &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:50.941899+00:00",
-    "details": {}
-  },
-  {
-    "title": "DeepSeek V4.1 Flash beats Astra on AA's new benchmark",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpwhj/deepseek_v41_flash_beats_astra_on_aas_new/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-3 AA shipped a new benchmark last week as part of the Intelligence Index v4.3 update — a brand-new private eval that replaces τ³. Astra was farming a ton of points on it and used those to get even with Fable, but… looks like we have a new king. So they changed the index twice in three days to make Astra look not-quite",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:50.949309+00:00",
-    "details": {}
-  },
-  {
-    "title": "Right to Intelligence. Protect your right to run local AI.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wfqwfh/right_to_intelligence_protect_your_right_to_run/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "With all the recent drama surrounding AI safety. It’s obvious that open source could be caught in the crossfire. &#32; submitted by &#32; /u/Euphoric_Ad9500 [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-14T09:20:50.956744+00:00",
-    "details": {}
-  },
-  {
     "title": "Riyadh-based BNPL company Tabby raised a $233M Series F led by Blue Pool Capital at a $6.5B valuation, up from $4.5B in October 2025 after a share sale (Federico Maccioni/Reuters)",
     "link": "https://www.techmeme.com/260914/p23#a260914p23",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15829,6 +15620,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-14T09:07:13.366230+00:00",
+    "details": {}
+  },
+  {
+    "title": "A profile of Abdulrahman Alfozan, a Saudi national who the FBI arrested after OpenAI discovered a recording device and who has deep connections in Saudi Arabia (Financial Times)",
+    "link": "https://www.techmeme.com/261014/p29#a261014p29",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : A profile of Abdulrahman Alfozan, a Saudi national who the FBI arrested after OpenAI discovered a recording device and who has deep connections in Saudi Arabia &nbsp; &mdash;&nbsp; Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T14:46:27.922313+00:00",
+    "details": {}
+  },
+  {
+    "title": "Epic unveils a refresh of its Epic Games Launcher for PC in preview, saying that the new version is \"vibe coded\" and \"way faster\", and now supports Linux (Jay Peters/The Verge)",
+    "link": "https://www.techmeme.com/261014/p28#a261014p28",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jay Peters / The Verge : Epic unveils a refresh of its Epic Games Launcher for PC in preview, saying that the new version is &ldquo;vibe coded&rdquo; and &ldquo;way faster&rdquo;, and now supports Linux &nbsp; &mdash;&nbsp; Epic is making a big push into AI-assisted development, and that approach includes its work on the new, faster launcher.&#65279;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T14:46:27.936019+00:00",
+    "details": {}
+  },
+  {
+    "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Source: whatmodel.sh , an open source AI leaderboard I built (and launched here yesterday). Every point comes from published benchmark results: 22,113 of them across 987 benchmarks, from 1,011 sources, each one linked to where it was published. This chart uses data for the text models: 18,755 results for 1,211 models on 617 benchmarks. - 14,436 results are independent evaluations: papers whose aut",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T14:46:27.946168+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk https://www.business-standard.com/technology/artificial-intelligence/open-source-ai-models-carry-more-cybersecurity-risks-anthropic-executive-126101400731_1.html &#32; submitted by &#32; /u/External_Mood4719 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T14:46:27.955260+00:00",
+    "details": {}
+  },
+  {
+    "title": "Shipping firms and ports caught in mass cyber extortion claim",
+    "link": "https://databreaches.net/2026/10/14/shipping-firms-and-ports-caught-in-mass-cyber-extortion-claim/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Bojan Lepic reports: A cyber extortion group has threatened to publish data it claims it stole from 38 shipping, port, and logistics companies unless they pay multimillion-dollar ransoms by October 19. Cybersecurity firm SOCRadar said the group, known as n0n, added the 38 organisations to its dark web leak site in a single batch on... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-14T14:46:27.964146+00:00",
     "details": {}
   }
 ]
