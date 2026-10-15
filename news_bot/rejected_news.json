@@ -1,62 +1,5 @@
 [
   {
-    "title": "Apple's H1 2027 plans reportedly include an iPhone 18e, A20 iPhone 18, A20 Pro iPhone Air 2, OLED iPad Air, A19 Pro MacBook Neo, and M6 MacBook Air (Mark Gurman/Bloomberg)",
-    "link": "https://www.techmeme.com/260914/p40#a260914p40",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Mark Gurman / Bloomberg : Apple's H1 2027 plans reportedly include an iPhone 18e, A20 iPhone 18, A20 Pro iPhone Air 2, OLED iPad Air, A19 Pro MacBook Neo, and M6 MacBook Air &nbsp; &mdash;&nbsp; Apple Inc. just launched some major new products, including the iPhone Duo, the iPhone 18 Pro line, AirPods 5 earbuds and fresh smartwatches.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T00:04:01.102618+00:00",
-    "details": {}
-  },
-  {
-    "title": "London-based Jack & Jill, which offers Jack, an AI agent for job seekers, and Jill, an agent for companies, raised a $40M Series A, after raising $20M in 2025 (Chris Metinko/Axios)",
-    "link": "https://www.techmeme.com/260914/p39#a260914p39",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Chris Metinko / Axios : London-based Jack &amp; Jill, which offers Jack, an AI agent for job seekers, and Jill, an agent for companies, raised a $40M Series A, after raising $20M in 2025 &nbsp; &mdash;&nbsp; Jack &amp; Jill, a London-based agentic job-finding platform, raised a $40 million Series A led by Air Street Capital, CEO Matt Wilson tells Axios Pro exclusively.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T00:04:01.112642+00:00",
-    "details": {}
-  },
-  {
-    "title": "Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/Norwood_Reaper_ [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T00:04:01.127179+00:00",
-    "details": {}
-  },
-  {
     "title": "666ghj/MiroFish",
     "link": "https://github.com/666ghj/MiroFish",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15506,6 +15449,82 @@
       "keywords": []
     },
     "rejected_at": "2026-10-14T22:48:00.629089+00:00",
+    "details": {}
+  },
+  {
+    "title": "Flock CEO Garrett Langley defends his company's cameras, arguing that reducing crime means sacrificing privacy in return and that \"we shouldn't pause progress\" (Sarah Perez/TechCrunch)",
+    "link": "https://www.techmeme.com/261014/p52#a261014p52",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sarah Perez / TechCrunch : Flock CEO Garrett Langley defends his company's cameras, arguing that reducing crime means sacrificing privacy in return and that &ldquo;we shouldn't pause progress&rdquo; &nbsp; &mdash;&nbsp; Flock's founder and CEO Garrett Langley doesn't think the risks of introducing surveillance technology at scale outweigh the rewards.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T02:11:36.777616+00:00",
+    "details": {}
+  },
+  {
+    "title": "Mexican President Claudia Sheinbaum signs a decree banning digital platforms from exposing minors to sexual and violent content, giving them one month to comply (Reuters)",
+    "link": "https://www.techmeme.com/261014/p51#a261014p51",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Mexican President Claudia Sheinbaum signs a decree banning digital platforms from exposing minors to sexual and violent content, giving them one month to comply &nbsp; &mdash;&nbsp; Mexican President Claudia Sheinbaum said she will sign a presidential decree on Wednesday requiring digital platforms &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T02:11:36.791069+00:00",
+    "details": {}
+  },
+  {
+    "title": "Lgit: Source Control for the AI Era",
+    "link": "https://nicobrenner.github.io/lossy-git/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://nicobrenner.github.io/lossy-git/ Comments URL: https://news.ycombinator.com/item?id=50098096 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T02:11:36.799412+00:00",
+    "details": {}
+  },
+  {
+    "title": "Why are chip companies allergic to open source?",
+    "link": "https://www.zeroasic.com/blog/hardware-github-stars",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.zeroasic.com/blog/hardware-github-stars Comments URL: https://news.ycombinator.com/item?id=50097858 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T02:11:36.807991+00:00",
     "details": {}
   }
 ]
