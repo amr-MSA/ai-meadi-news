@@ -1,81 +1,5 @@
 [
   {
-    "title": "During a Salesforce event, Jensen Huang says the AI industry doesn't need any new laws or regulations and market forces will help companies safely innovate (Brody Ford/Bloomberg)",
-    "link": "https://www.techmeme.com/260915/p45#a260915p45",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Brody Ford / Bloomberg : During a Salesforce event, Jensen Huang says the AI industry doesn't need any new laws or regulations and market forces will help companies safely innovate &nbsp; &mdash;&nbsp; Nvidia Corp. Chief Executive Officer Jensen Huang dismissed the need for new artificial intelligence security regulations on Tuesday &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T20:35:14.118105+00:00",
-    "details": {}
-  },
-  {
-    "title": "Crypto exchange CoinEx says it is closing, citing a lengthy downturn and rising compliance costs; a report said it moved $3B+ for Iran-linked wallets since 2019 (Dylan Tokar/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260915/p44#a260915p44",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dylan Tokar / Wall Street Journal : Crypto exchange CoinEx says it is closing, citing a lengthy downturn and rising compliance costs; a report said it moved $3B+ for Iran-linked wallets since 2019 &nbsp; &mdash;&nbsp; CoinEx says it is ceasing operations less than three months after a Wall Street Journal article spotlighted its use in Iran",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T20:35:14.130765+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Inkling – ask Claude Code for a doc, get HTML instead of Markdown",
-    "link": "https://github.com/MeetVys/inkling",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/MeetVys/inkling Comments URL: https://news.ycombinator.com/item?id=49718056 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T20:35:14.139725+00:00",
-    "details": {}
-  },
-  {
-    "title": "Code of Conduct for MAI Models",
-    "link": "https://microsoft.ai/news/mai-code-of-conduct/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://microsoft.ai/news/mai-code-of-conduct/ Comments URL: https://news.ycombinator.com/item?id=49717533 Points: 3 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T20:35:14.146537+00:00",
-    "details": {}
-  },
-  {
     "title": "Q&A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more (New York Times)",
     "link": "https://www.techmeme.com/260915/p54#a260915p54",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15360,6 +15284,120 @@
       ]
     },
     "rejected_at": "2026-10-15T19:32:40.584153+00:00",
+    "details": {}
+  },
+  {
+    "title": "Netflix Chief Content Officer Bela Bajaria is leaving the company and will be replaced by former Disney and Fox executive Peter Rice, who starts October 26 (Rebecca Rubin/Variety)",
+    "link": "https://www.techmeme.com/261015/p54#a261015p54",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Rebecca Rubin / Variety : Netflix Chief Content Officer Bela Bajaria is leaving the company and will be replaced by former Disney and Fox executive Peter Rice, who starts October 26 &nbsp; &mdash;&nbsp; In a major executive shakeup, Bela Bajaria is out at Netflix after 10 years at the streamer, most recently serving as its chief content officer.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T22:45:47.018641+00:00",
+    "details": {}
+  },
+  {
+    "title": "Bluesky expands Attie, its AI tool for building custom feeds, with a \"social vibe coding\" feature to create sites, games, quizzes, and more on the AT Protocol (Sarah Perez/TechCrunch)",
+    "link": "https://www.techmeme.com/261015/p53#a261015p53",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sarah Perez / TechCrunch : Bluesky expands Attie, its AI tool for building custom feeds, with a &ldquo;social vibe coding&rdquo; feature to create sites, games, quizzes, and more on the AT Protocol &nbsp; &mdash;&nbsp; Open social network Bluesky is once again expanding beyond its flagship app.&nbsp; At TechCrunch Disrupt 2026 on Thursday &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T22:45:47.029975+00:00",
+    "details": {}
+  },
+  {
+    "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+    "link": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/ Comments URL: https://news.ycombinator.com/item?id=50111350 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T22:45:47.037545+00:00",
+    "details": {}
+  },
+  {
+    "title": "PlayerPro: Open-source Mac OS 9 music tracker ported to the web",
+    "link": "https://www.empireofslop.com/playerpro/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.empireofslop.com/playerpro/ Comments URL: https://news.ycombinator.com/item?id=50111294 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T22:45:47.045358+00:00",
+    "details": {}
+  },
+  {
+    "title": "Introducing Muse Spark Open: the most capable US open-weight model to date",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hey r/LocalLlama - Today we’re excited to release Muse Spark Open, the most capable US open-weight model to date. Built for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning. Key Model Specs Parameters: 816B total / 42B active Context Window: 1M tokens Modalities: Text, image, video, audio Safety Post-Training: Additional safety post-t",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T22:45:47.053158+00:00",
+    "details": {}
+  },
+  {
+    "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x6o31q/nvidianvidianemotron35bolt74ba9b24gb_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-LiLiCorr-GGUF NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB is a vision-language model (VLM) designed to run everyday agentic tasks locally, using a native 2-bit quantization to fit in 24GB of memory and run alongside other applications. It optimizes intelligence and",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T22:45:47.061639+00:00",
     "details": {}
   }
 ]
