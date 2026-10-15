@@ -1,100 +1,5 @@
 [
   {
-    "title": "Apple says iCloud+ now includes Apple TV and Arcade at no extra charge in 100+ countries, plus Music Select, a set of ad-free radio stations, in some markets (Benjamin Mayo/9to5Mac)",
-    "link": "https://www.techmeme.com/260915/p19#a260915p19",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Benjamin Mayo / 9to5Mac : Apple says iCloud+ now includes Apple TV and Arcade at no extra charge in 100+ countries, plus Music Select, a set of ad-free radio stations, in some markets &nbsp; &mdash;&nbsp; In more than 100 countries, Apple has launched a new initiative that bundles Apple TV and Apple Arcade subscriptions into iCloud+, at no extra charge.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T12:58:22.458715+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: ByteDance's H1 2026 net profit dropped by a single-digit percentage YoY to $20B and revenue rose ~30% to $120B; its 2025 revenue rose 29% to ~$200B (The Information)",
-    "link": "https://www.techmeme.com/260915/p18#a260915p18",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "The Information : Sources: ByteDance's H1 2026 net profit dropped by a single-digit percentage YoY to $20B and revenue rose ~30% to $120B; its 2025 revenue rose 29% to ~$200B &nbsp; &mdash;&nbsp; ByteDance's net profit in the first half of this year declined by a single-digit percentage to $20 billion, as the Chinese tech giant ramped &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T12:58:22.466675+00:00",
-    "details": {}
-  },
-  {
-    "title": "CrofAI \"cheapest inference provider in the world\" gets exposed as an OpenRouter wrapper, routing requests to smaller, cheaper models at up to 20x markup. CrofAI responds to Wire Fraud allegations by denying everything, then backtracking, then 3 hours later wiping their entire online presence",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwe4n/crofai_cheapest_inference_provider_in_the_world/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Disclaimer: no AI was used whatsoever to write this post Cautionary tale about chasing cheap tokens. exposé: https://kendell.dev/blog/crofaifalse/ reaction by nahcrof, announcing the shutdown of the service: https://x.com/nahcrof/status/2099552389434900643 - now deleted, archive picture: https://i.imgur.com/teOQngH.png NahCrofAI (crof.ai, nahcrof.com) was an inference provider which had all the la",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T12:58:22.480741+00:00",
-    "details": {}
-  },
-  {
-    "title": "Revolut’s paperwork breach shows why insurers are rethinking what counts as a ‘cyber attack’",
-    "link": "https://databreaches.net/2026/09/15/revoluts-paperwork-breach-shows-why-insurers-are-rethinking-what-counts-as-a-cyber-attack/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Matthew Sellers reports: Revolut wasn&#8217;t hacked in the usual sense. No one broke into its servers or slipped malware past its defences. Someone asked for customer data, from what looked like a genuine government email address, and Revolut handed it over. That email is now behind one of the stranger data incidents to hit a... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T12:58:22.486676+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage",
-    "link": "https://databreaches.net/2026/09/15/ransomware-group-claims-attack-on-missouris-cedar-county-memorial-hospital-after-it-outage/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "DysruptionHub reports: Cedar County Memorial Hospital in El Dorado Springs, Missouri, shut down its IT networks Aug. 14 after a disruption left its electronic health record, patient portal and internet access unavailable. The outage also disrupted diagnostic imaging. Hospital systems could not transmit images to radiologists, so the emergency department partially diverted trauma and critical... So",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-15T12:58:22.492410+00:00",
-    "details": {}
-  },
-  {
     "title": "Some developers are using the Claude Code harness to access cheaper non-Anthropic models, including GPT-5.6 Sol, via proxies and services like OpenRouter (Alix Coutures/The Information)",
     "link": "https://www.techmeme.com/260915/p40#a260915p40",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15411,6 +15316,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-15T08:39:38.518607+00:00",
+    "details": {}
+  },
+  {
+    "title": "Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating (Phoebe Liu/The Information)",
+    "link": "https://www.techmeme.com/261015/p31#a261015p31",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Phoebe Liu / The Information : Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating &nbsp; &mdash;&nbsp; Portland-based startup Mueon raised $65 million to develop a new way to arrange AI server rack components.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T14:31:47.985783+00:00",
+    "details": {}
+  },
+  {
+    "title": "North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M (Chris Metinko/Axios)",
+    "link": "https://www.techmeme.com/261015/p30#a261015p30",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Chris Metinko / Axios : North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M &nbsp; &mdash;&nbsp; North.cloud, which helps companies watch their cloud, AI and data spend, closed a $60 million Series B led by PeakSpan Capital, CEO Matt Biringer tells Axios Pro exclusively.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T14:31:47.993548+00:00",
+    "details": {}
+  },
+  {
+    "title": "NVIDIA AI: So many models launching this week! And we have one of our own coming...",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "From NVIDIA AI on 𝕏: https://x.com/NVIDIAAI/status/2110468004609950057 &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T14:31:47.999316+00:00",
+    "details": {}
+  },
+  {
+    "title": "New TTS king in town: Fish's Drama 3 35B3A!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x6f9p2/new_tts_king_in_town_fishs_drama_3_35b3a/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Yesterday Fish released this incredible text-to-speech model, so naturally I spent the rest of the day building a great demo for them :D The model is a chunky MoE (35B3A), but it runs well on a DGX Spark. The 4bit quants get very close to the original. You can try it here: https://huggingface.co/spaces/fishaudio/Drama-3 or download the model and run it locally 🤗 &#32; submitted by &#32; /u/futtern",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T14:31:48.004275+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ransomware Attacks Intensify: Criminals Shift Focus to Target Employees and Their Families",
+    "link": "https://databreaches.net/2026/10/15/ransomware-attacks-intensify-criminals-shift-focus-to-target-employees-and-their-families/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Guru Baran reports: Ransomware gangs are moving beyond locked files and stolen data. Criminals now threaten employees, executives, and their families to force companies to pay. According to the Semperis 2026 Ransomware Risk Report, 37% of successful attacks included threats against workers’ friends or relatives. The findings show that ransomware is no longer only a... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T14:31:48.009625+00:00",
+    "details": {}
+  },
+  {
+    "title": "Legal Aid Agency cyberattack: Compromised data goes back to 1978",
+    "link": "https://databreaches.net/2026/10/15/legal-aid-agency-cyberattack-compromised-data-goes-back-to-1978/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Tevye Markson has an update on the April 2025 breach of the UK&#8217;s Legal Aid Agency, previously reported on this site: A new update on the Legal Aid Agency data breach has revealed that the data which was compromised in a cyberattack in 2025 goes back as far as 1978. The LAA on Wednesday announced... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-15T14:31:48.014679+00:00",
     "details": {}
   }
 ]
