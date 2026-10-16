@@ -1,43 +1,5 @@
 [
   {
-    "title": "Google adds MCP integration to Google Home, letting third-party AI agents analyze home data and control devices, rolling out to Premium Advanced users in the US (Jennifer Pattison Tuohy/The Verge)",
-    "link": "https://www.techmeme.com/260916/p41#a260916p41",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jennifer Pattison Tuohy / The Verge : Google adds MCP integration to Google Home, letting third-party AI agents analyze home data and control devices, rolling out to Premium Advanced users in the US &nbsp; &mdash;&nbsp; &#65279;Google Home adds MCP integration, allowing third-party AI agents to analyze your home data, control devices, and build custom dashboards.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T19:11:22.890345+00:00",
-    "details": {}
-  },
-  {
-    "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/DustNearby2848 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T19:11:22.903902+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: drone delivery startup Zipline is in talks to raise around $1B at a roughly $20B valuation, up from a $7.6B valuation in January (Bloomberg)",
     "link": "https://www.techmeme.com/260916/p46#a260916p46",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15284,6 +15246,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-16T19:07:05.400684+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apple says demand for iPhone Duo has been \"nothing short of extraordinary\"; deliveries slipped to late January within hours of preorders opening (Michael Acton/Financial Times)",
+    "link": "https://www.techmeme.com/261016/p22#a261016p22",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Michael Acton / Financial Times : Apple says demand for iPhone Duo has been &ldquo;nothing short of extraordinary&rdquo;; deliveries slipped to late January within hours of preorders opening &nbsp; &mdash;&nbsp; Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale&nbsp; &mdash;&nbsp; Apple on Friday said its foldable iPhone Duo had seen &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T22:18:16.646123+00:00",
+    "details": {}
+  },
+  {
+    "title": "Software Engineering Cannot Be Solved by Code Generation",
+    "link": "https://ycao.net/posts/ai-se-dilemma",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://ycao.net/posts/ai-se-dilemma Comments URL: https://news.ycombinator.com/item?id=50125342 Points: 3 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T22:18:16.654608+00:00",
+    "details": {}
+  },
+  {
+    "title": "Brutal, the framework behind RimWorld's Waylith engine, releases its source code",
+    "link": "https://www.gamingonlinux.com/2026/10/brutal-the-framework-behind-rimworlds-waylith-engine-releases-its-source-code/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.gamingonlinux.com/2026/10/brutal-the-framework-behind-rimworlds-waylith-engine-releases-its-source-code/ Comments URL: https://news.ycombinator.com/item?id=50124848 Points: 6 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T22:18:16.664104+00:00",
     "details": {}
   }
 ]
