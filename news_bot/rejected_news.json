@@ -1,138 +1,5 @@
 [
   {
-    "title": "Homebrew/BrewUI",
-    "link": "https://github.com/Homebrew/BrewUI",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, update, and manage Homebrew packages through a native SwiftUI interface that never hid",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T08:54:33.108103+00:00",
-    "details": {}
-  },
-  {
-    "title": "danny-avila/LibreChat",
-    "link": "https://github.com/danny-avila/LibreChat",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active https://librechat.ai/ LibreChat English · 中文 🚀 Wh",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T08:54:33.123476+00:00",
-    "details": {}
-  },
-  {
-    "title": "MG1937/ASC",
-    "link": "https://github.com/MG1937/ASC",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers. Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the standard procedure is to wait. We wait for tools to eat gigabytes of RAM, fully inf",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T08:54:33.130681+00:00",
-    "details": {}
-  },
-  {
-    "title": "earendil-works/pi",
-    "link": "https://github.com/earendil-works/pi",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See CONTRIBUTING.md . Pi Agent Harness This is the home of the Pi agent harness project including our self extensible coding agent. @earendil-works/pi-coding-agent : Interactive coding agent CLI @earendil-works/pi-age",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T08:54:33.143625+00:00",
-    "details": {}
-  },
-  {
-    "title": "A viral social media post from a Chinese math teacher sparks debate over making English optional in schools across China especially as AI translation improves (New York Times)",
-    "link": "https://www.techmeme.com/260916/p8#a260916p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "New York Times : A viral social media post from a Chinese math teacher sparks debate over making English optional in schools across China especially as AI translation improves &nbsp; &mdash;&nbsp; A math teacher's viral post prompted a debate over the language, which some see as an optional skill &mdash; and a symbol of Western dominance.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T08:54:48.709362+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: An open-source Socratic coach for competitive programming",
-    "link": "https://chromewebstore.google.com/detail/socratic-algo-coach/inppdfdpenccjiggnlfaomfnckadoaoi",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://chromewebstore.google.com/detail/socratic-algo-coach/inppdfdpenccjiggnlfaomfnckadoaoi Comments URL: https://news.ycombinator.com/item?id=49722567 Points: 1 # Comments: 1",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T08:54:48.715724+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Check an NPM package or MCP server for malicious code before install",
-    "link": "https://bouncer.run/check",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://bouncer.run/check Comments URL: https://news.ycombinator.com/item?id=49722560 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T08:54:48.722415+00:00",
-    "details": {}
-  },
-  {
     "title": "The iPhone Duo's squat, tablet-like outer display is a compromise, and a book-shaped foldable may lack wide appeal; its right-side UI bias is akin to a book (John Gruber/Daring Fireball)",
     "link": "https://www.techmeme.com/260916/p28#a260916p28",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15436,6 +15303,139 @@
       "keywords": []
     },
     "rejected_at": "2026-10-16T08:34:52.384936+00:00",
+    "details": {}
+  },
+  {
+    "title": "Source: Intuit acquired UK-based B2B revenue management and billing startup Sequence in a sale worth ~$200M; Sequence raised $19M led by a16z in 2022 (Jess Jones/The Times)",
+    "link": "https://www.techmeme.com/261016/p13#a261016p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jess Jones / The Times : Source: Intuit acquired UK-based B2B revenue management and billing startup Sequence in a sale worth ~$200M; Sequence raised $19M led by a16z in 2022 &nbsp; &mdash;&nbsp; A British financial technology business has been acquired by Intuit, the American software company, in a sale estimated to be worth around $200m &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T14:24:05.570122+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn't take advantage of RTX Spark (Andrew E. Freedman/Tom's Hardware)",
+    "link": "https://www.techmeme.com/261016/p12#a261016p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Andrew E. Freedman / Tom's Hardware : Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn't take advantage of RTX Spark &nbsp; &mdash;&nbsp; Useful for AI models, but still waiting for more Windows 11 features to take advantage of.&nbsp; &mdash;&nbsp; Reviews",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T14:24:05.578502+00:00",
+    "details": {}
+  },
+  {
+    "title": "Modernizing the VS Code UI",
+    "link": "https://code.visualstudio.com/blogs/2026/10/15/modern-ui",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://code.visualstudio.com/blogs/2026/10/15/modern-ui Comments URL: https://news.ycombinator.com/item?id=50118647 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T14:24:05.583018+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Anima, interactive biology models from plain English (open source)",
+    "link": "https://anima.arcumet.com",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://anima.arcumet.com Comments URL: https://news.ycombinator.com/item?id=50118303 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T14:24:05.588627+00:00",
+    "details": {}
+  },
+  {
+    "title": "tencent/Hy-Memory-30B-A3B · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x7cc2z/tencenthymemory30ba3b_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "interesting focus: &quot;A 3B active model beats Opus 5 at memory&quot; (whatever that means :D) &#32; submitted by &#32; /u/paf1138 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T14:24:05.594022+00:00",
+    "details": {}
+  },
+  {
+    "title": "China proposes export controls on 23 AI technologies (including large models, agents & clusters); already open-sourced tech is exempted",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "On October 16, 2026, China’s Ministry of Commerce and Ministry of Science and Technology released a draft revision to the Catalog of Technologies Prohibited and Restricted from Export. It proposes adding 40 technologies across AI, biomedicine, and solar PV, of which 23 are AI-related (covering foundation/large models, intelligent agents, computing clusters, and information processing technologies)",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T14:24:05.600862+00:00",
+    "details": {}
+  },
+  {
+    "title": "KR: NHIS Employee Sold Data, Victims Uninformed for Three Months",
+    "link": "https://databreaches.net/2026/10/16/kr-nhis-employee-sold-data-victims-uninformed-for-three-months/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "In today&#8217;s reminder of the insider threat, Kim Ji-won reports: A National Health Insurance Service (NHIS) employee was dismissed for illegally selling personal information of health insurance subscribers to external parties, but victims have yet to be notified of the data breach. Rep. Kim Ki-woong of the People Power Party revealed this during a parliamentary audit... Source",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T14:24:05.606218+00:00",
     "details": {}
   }
 ]
