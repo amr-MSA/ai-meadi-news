@@ -1,81 +1,5 @@
 [
   {
-    "title": "Analysis: only ~2.3 GW of planned data center capacity is delayed by direct project-level policies like local moratoriums and New York's data center EO (SemiAnalysis)",
-    "link": "https://www.techmeme.com/260915/p57#a260915p57",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "SemiAnalysis : Analysis: only ~2.3 GW of planned data center capacity is delayed by direct project-level policies like local moratoriums and New York's data center EO &nbsp; &mdash;&nbsp; 300+ moratoriums mapped, 20GW sits inside a restricted local boundary, 1,525MW actually slips, 2.3GW nationwide including New York",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T02:07:44.150096+00:00",
-    "details": {}
-  },
-  {
-    "title": "Zuckerberg says \"Meta delayed shipping Muse for several months to focus on safety and security\" and didn't call on other AI labs to do the same before acting (Tom Giles/Bloomberg)",
-    "link": "https://www.techmeme.com/260915/p56#a260915p56",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tom Giles / Bloomberg : Zuckerberg says &ldquo;Meta delayed shipping Muse for several months to focus on safety and security&rdquo; and didn't call on other AI labs to do the same before acting &nbsp; &mdash;&nbsp; Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg said artificial intelligence labs should rely &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T02:07:44.159199+00:00",
-    "details": {}
-  },
-  {
-    "title": "Nvidia Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing Comments URL: https://news.ycombinator.com/item?id=49720966 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T02:07:44.165448+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Open-source tool to sell your Claude Code and Codex sessions",
-    "link": "https://github.com/cookiy-ai/sell-sessions-skill",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/cookiy-ai/sell-sessions-skill Comments URL: https://news.ycombinator.com/item?id=49720176 Points: 1 # Comments: 1",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T02:07:44.171579+00:00",
-    "details": {}
-  },
-  {
     "title": "Homebrew/BrewUI",
     "link": "https://github.com/Homebrew/BrewUI",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15360,6 +15284,158 @@
       "keywords": []
     },
     "rejected_at": "2026-10-16T02:02:02.530139+00:00",
+    "details": {}
+  },
+  {
+    "title": "anthropics/claude-plugins-official",
+    "link": "https://github.com/anthropics/claude-plugins-official",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins. https://code.claude.com/docs/en/plugins Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. ⚠️ Important: Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot veri",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T08:34:20.557695+00:00",
+    "details": {}
+  },
+  {
+    "title": "ruvnet/ruflo",
+    "link": "https://github.com/ruvnet/ruflo",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated https://Cognitum.One An agent meta-harness for Claude Code and Codex. Get started with Ruflo Start in Cla",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T08:34:20.580852+00:00",
+    "details": {}
+  },
+  {
+    "title": "lightseekorg/tokenspeed",
+    "link": "https://github.com/lightseekorg/tokenspeed",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "TokenSpeed is a speed-of-light LLM inference engine. https://lightseek.org/blog/lightseek-tokenspeed.html TokenSpeed is a speed-of-light LLM inference engine designed for agentic workloads , with TensorRT-LLM-level performance and vLLM-level usability. The goal is to be the most performant inference engine for production agentic workloads. Core components: Scheduler : C++ control plane and Python",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T08:34:20.602143+00:00",
+    "details": {}
+  },
+  {
+    "title": "xerj-org/xerj",
+    "link": "https://github.com/xerj-org/xerj",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. https://xerj.org XERJ English | 简体中文 XERJ is a community-trusted loc",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T08:34:20.607338+00:00",
+    "details": {}
+  },
+  {
+    "title": "LibreSpark/LibreTV",
+    "link": "https://github.com/LibreSpark/LibreTV",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "一分钟搭建影视站，支持Docker等部署方式 https://libretv.is-an.org LibreTV LibreTV Next.js 迁移版：免费在线视频聚合搜索与观看平台。基于 Next.js 15（App Router）+ TypeScript + Tailwind CSS，播放内核为 ArtPlayer + hls.js，支持亮暗双主题。 🏠 官网 ： LibreTV 官网 🌐 演示站 ： tv.bagiinlink.eu.org （访问密码： libretv ） 📖 完整文档 ： 文档首页 · 架构 · 部署 · 配置 · 数据源 · 直播 / IPTV · 首页推荐 · 播放器 · 代理与安全 · FAQ 核心特性 聚合搜索 ：多采集站服务端并行搜索 跨源同名聚合 ：同名影片合并为一张卡片，展开即可比较和选择各来源 HLS 播放 ：ArtPlayer + hls.js",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T08:34:20.612203+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at China's AI learning frenzy, as economic anxiety and fear of being left behind fuel a booming market for courses promising prosperity through AI (Afra Wang/New York Magazine)",
+    "link": "https://www.techmeme.com/261016/p3#a261016p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Afra Wang / New York Magazine : A look at China's AI learning frenzy, as economic anxiety and fear of being left behind fuel a booming market for courses promising prosperity through AI &nbsp; &mdash;&nbsp; In May, I sat in a living room on the fringes of Hangzhou, one of the most technologically advanced cities in China and home to Alibaba, Unitree, and DeepSeek.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T08:34:52.366018+00:00",
+    "details": {}
+  },
+  {
+    "title": "Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI (Reuters)",
+    "link": "https://www.techmeme.com/261016/p2#a261016p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI &nbsp; &mdash;&nbsp; Apple's (AAPL.O) chairman Tim Cook said Apple Intelligence has been approved in China and a test version is due later in October &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T08:34:52.373504+00:00",
+    "details": {}
+  },
+  {
+    "title": "ALoDLM 8b looped diffusion language model: ~3x inference speed vs its base model qwen3-8b with better benchmark results",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x75bme/alodlm_8b_looped_diffusion_language_model_3x/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Diffusion language models are the future! &#32; submitted by &#32; /u/billy_booboo [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-16T08:34:52.384936+00:00",
     "details": {}
   }
 ]
