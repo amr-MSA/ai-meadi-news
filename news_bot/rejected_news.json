@@ -1,24 +1,5 @@
 [
   {
-    "title": "Sources: drone delivery startup Zipline is in talks to raise around $1B at a roughly $20B valuation, up from a $7.6B valuation in January (Bloomberg)",
-    "link": "https://www.techmeme.com/260916/p46#a260916p46",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Sources: drone delivery startup Zipline is in talks to raise around $1B at a roughly $20B valuation, up from a $7.6B valuation in January &nbsp; &mdash;&nbsp; Zipline is in talks to raise around $1 billion in a funding round that would value the drone delivery and logistics startup at roughly $20 billion, nearly tripling its previous valuation.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-16T22:28:02.201771+00:00",
-    "details": {}
-  },
-  {
     "title": "AWS says it can't restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring (Omar Abdel-Baqui/Wall Street Journal)",
     "link": "https://www.techmeme.com/260916/p53#a260916p53",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15303,6 +15284,31 @@
       "keywords": []
     },
     "rejected_at": "2026-10-16T22:18:16.664104+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic's $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt (Financial Times)",
+    "link": "https://www.techmeme.com/261016/p29#a261016p29",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic's $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt &nbsp; &mdash;&nbsp; High borrowing costs complicate AI lab's goal of achieving investment-grade status&nbsp; &mdash;&nbsp; Anthropic is offering Blackstone &hellip;",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "Anthropic",
+      "event_year_month": "2026-10",
+      "news_type": "ذكاء اصطناعي",
+      "product_name": "Google TPU",
+      "region": "أمريكا الشمالية",
+      "topic_key": "anthropic-blackstone-google-tpu-debt-package",
+      "keywords": [
+        "Anthropic",
+        "Blackstone",
+        "Google TPU",
+        "تمويل",
+        "ذكاء اصطناعي"
+      ]
+    },
+    "rejected_at": "2026-10-17T01:56:26.567015+00:00",
     "details": {}
   }
 ]
