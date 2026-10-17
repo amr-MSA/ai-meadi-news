@@ -307,5 +307,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 221,
     "telegram_message_url": "https://t.me/Eng_limitless/221"
+  },
+  {
+    "title": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
+    "link": "https://www.techmeme.com/261017/p8#a261017p8",
+    "summary": "كشف تقرير لصحيفة فاينانشال تايمز نقلاً عن مصادر مطلعة أن ألكسندر وانغ، الذي يقود مختبرات الذكاء الاصطناعي الخارق (Superintelligence Labs) في ميتا، يحظى بدعم كامل من مارك زوكربرغ خلال إعادة هيكلة مشاريع الذكاء الاصطناعي، ويتم تداوله داخل الشركة كخليفة محتمل لزوكربرغ.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "meta-alexandr-wang-zuckerberg-successor-ft",
+    "event_key": "meta|2026 10|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Meta",
+    "event_year_month": "2026-10",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Meta",
+      "Alexandr Wang",
+      "Mark Zuckerberg",
+      "AI",
+      "Superintelligence Labs"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-17T11:49:13.956351+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 222,
+    "telegram_message_url": "https://t.me/Eng_limitless/222"
   }
 ]
