@@ -1,32 +1,5 @@
 [
   {
-    "title": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
-    "link": "https://www.techmeme.com/261010/p12#a261010p12",
-    "summary": "كشف تقرير لصحيفة وول ستريت جورنال عن نجاح الشريك المؤسس لشركة أنثروبيك، توم براون، في إبرام صفقة حوسبة ضخمة مع شركة SpaceX بقيمة تصل إلى 1.25 مليار دولار شهرياً. ووفقاً للتقرير، ساهمت علاقات براون السياسية في إنهاء الخلافات حول سلامة النماذج وتأمين القدرات الحوسبية اللازمة لتطوير وتدريب نماذج الذكاء الاصطناعي القادمة.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "anthropic-spacex-compute-deal-wsj",
-    "event_key": "anthropic|2026 10|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
-    "company_name": "Anthropic",
-    "event_year_month": "2026-10",
-    "news_type": "ذكاء اصطناعي",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Anthropic",
-      "SpaceX",
-      "Tom Brown",
-      "AI Compute",
-      "WSJ"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-10T14:04:21.400873+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 214,
-    "telegram_message_url": "https://t.me/Eng_limitless/214"
-  },
-  {
     "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
     "link": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
     "summary": "أفادت تقارير أمنية بإلقاء مكتب التحقيقات الفيدرالي (FBI) القبض على المؤسس المشارك لشركة أمن سيبراني كندية، لاتهامه بتقديم الدعم اللوجستي لمجموعة ShinyHunters خلال عملية اختراق بوابة وظائف الـ FBI وسرقة بياناتها.",
@@ -334,5 +307,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 222,
     "telegram_message_url": "https://t.me/Eng_limitless/222"
+  },
+  {
+    "title": "Zelenskyy says Starshield restrictions are affecting only Ukraine, leading him to believe they are a \"planned operation\" rather than technical issues (Bloomberg)",
+    "link": "https://www.techmeme.com/261017/p12#a261017p12",
+    "summary": "صرح الرئيس الأوكراني فولوديمير زيلينسكي بأن القيود المطبقة على الاستخدام العسكري لمنظومة «سبيس شيلد» التابعة لشركة سبيس إكس تؤثر حصريًا على أوكرانيا، مشيرًا إلى اعتقداده بأن هذه التقييدات تمثل عملية مدبرة ومخططة وليست مجرد مشكلات تقنية عارضة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "starshield-ukraine-restrictions-zelenskyy-claim",
+    "event_key": "spacex|2026 10|أعمال وتقنية|starshield|أوروبا",
+    "company_name": "SpaceX",
+    "event_year_month": "2026-10",
+    "news_type": "أعمال وتقنية",
+    "product_name": "Starshield",
+    "region": "أوروبا",
+    "keywords": [
+      "سبيس إكس",
+      "سبيس شيلد",
+      "أوكرانيا",
+      "زيلينسكي"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-17T14:34:31.341952+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 223,
+    "telegram_message_url": "https://t.me/Eng_limitless/223"
   }
 ]

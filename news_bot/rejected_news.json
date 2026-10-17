@@ -1,62 +1,5 @@
 [
   {
-    "title": "King Charles III hosts tech leaders, including Jensen Huang, Demis Hassabis, and OpenAI CFO Sarah Friar, to discuss AI risks; Huang calls for AI safety tests (Bloomberg)",
-    "link": "https://www.techmeme.com/260917/p28#a260917p28",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : King Charles III hosts tech leaders, including Jensen Huang, Demis Hassabis, and OpenAI CFO Sarah Friar, to discuss AI risks; Huang calls for AI safety tests &nbsp; &mdash;&nbsp; Titans of the artificial intelligence industry gathered in Scotland to hear Britain's monarch challenge them to control their inventions.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-17T14:31:14.603392+00:00",
-    "details": {}
-  },
-  {
-    "title": "Navigate360 may soon release a public notice about its horrific breach, but will any individuals be notified?",
-    "link": "https://databreaches.net/2026/09/17/navigate360-may-soon-release-a-public-notice-about-its-horrific-breach-but-will-any-individuals-be-notified/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Six months ago, a hacktivist announced that they had accessed and acquired 8.3 million tips submitted on supposedly anonymous tip lines and platforms used by schools, communities, Crime Stoppers organizations, law enforcement, and the military. Six months later, individuals affected by the breach STILL haven&#8217;t been notified. Since April, DataBreaches has reported Navigate360&#8217;s lack of",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-17T14:31:14.624505+00:00",
-    "details": {}
-  },
-  {
-    "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-    "link": "https://databreaches.net/2026/09/17/gyazo-breach-exposes-23-62-million-user-records-and-490-million-image-metadata-records/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Swati Khandelwal reports: A security breach at Gyazo, Helpfeel&#8217;s image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly for images from January 2019 or earlier, including the IDs that make up... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-17T14:31:14.631634+00:00",
-    "details": {}
-  },
-  {
     "title": "Why I didn’t sign the Fields medallists’ letter",
     "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
     "source_name": "Hacker News",
@@ -15252,6 +15195,44 @@
       "keywords": []
     },
     "rejected_at": "2026-10-17T11:49:14.004066+00:00",
+    "details": {}
+  },
+  {
+    "title": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage (Jean Eaglesham/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261017/p11#a261017p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jean Eaglesham / Wall Street Journal : As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage &nbsp; &mdash;&nbsp; The artificial-intelligence industry's phenomenal rate of growth means claims have the potential to outpace the limits on existing coverage",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-17T14:34:31.358607+00:00",
+    "details": {}
+  },
+  {
+    "title": "Nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "During a post-event interview at the RTX Spark Launch Party: Taipei on October 16, 2026, Nvidia's Senior Vice President of Personal Computing, Jeff Fisher , explicitly debunked the recent discontinuation rumors. &#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-17T14:34:31.379338+00:00",
     "details": {}
   }
 ]
