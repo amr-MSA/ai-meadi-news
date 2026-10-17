@@ -1,49 +1,5 @@
 [
   {
-    "title": "Why I didn’t sign the Fields medallists’ letter",
-    "link": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "مكرر داخل دفعة RSS الحالية",
-    "rejection_stage": "batch-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-17T17:27:31.001575+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic wants Claude to analyze your bank account and financial data",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-    "source_name": "BleepingComputer",
-    "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
-    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "Anthropic",
-      "event_year_month": "2026-09",
-      "news_type": "ذكاء اصطناعي",
-      "product_name": "Claude",
-      "region": "أمريكا الشمالية",
-      "topic_key": "anthropic-claude-money-personal-finance",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "Claude Money",
-        "الذكاء الاصطناعي",
-        "الخدمات المالية"
-      ]
-    },
-    "rejected_at": "2026-09-17T17:27:51.285603+00:00",
-    "details": {}
-  },
-  {
     "title": "A survey of 42,151 adults in 36 countries and 8,607 US adults: populations in 34 of 37 surveyed countries expect AI to cause net job loss rather than growth (Pew Research Center)",
     "link": "https://www.techmeme.com/260917/p35#a260917p35",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15518,6 +15474,82 @@
       "keywords": []
     },
     "rejected_at": "2026-10-17T16:08:23.141784+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\" (Terrence O'Brien/The Verge)",
+    "link": "https://www.techmeme.com/261017/p14#a261017p14",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Terrence O'Brien / The Verge : Meta removes ToS language that suggested it could scrape websites &ldquo;associated with&rdquo; business accounts, saying it applied only to &ldquo;ads and business products&rdquo; &nbsp; &mdash;&nbsp; Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta's terms.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-17T18:02:08.529059+00:00",
+    "details": {}
+  },
+  {
+    "title": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark performance, faster task completion, and shorter outputs\" than its predecessor (Saritha Rai/Bloomberg)",
+    "link": "https://www.techmeme.com/261017/p13#a261017p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Saritha Rai / Bloomberg : DeepSeek releases V4.1-Flash-1017, an update it says offers &ldquo;stronger benchmark performance, faster task completion, and shorter outputs&rdquo; than its predecessor &nbsp; &mdash;&nbsp; DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-17T18:02:08.543422+00:00",
+    "details": {}
+  },
+  {
+    "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/HolidayBit143 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-17T18:02:08.553991+00:00",
+    "details": {}
+  },
+  {
+    "title": "DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Informal-Trouble2183 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-17T18:02:08.563611+00:00",
     "details": {}
   }
 ]

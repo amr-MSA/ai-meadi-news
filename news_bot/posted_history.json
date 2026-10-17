@@ -416,5 +416,31 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Hack exposes data on millions of California students",
+    "link": "https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/",
+    "summary": "كشفت تقارير صحفية عن تعرض منظمة غير ربحية تتعامل مع وزارة التعليم في ولاية كاليفورنيا لاختراق سيبراني أسفر عن سرقة بيانات شخصية لنحو 7 ملايين طالب في المدارس العامة. وتضمنت البيانات المسرّبة الأسماء والعناوين والمعلومات الديموغرافية وحالات الإعاقة للطلاب المسجلين خلال السنوات الثلاث الماضية.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "california-students-data-breach-contractor",
+    "event_key": "california department of education|2026 10|أمن سيبراني|غير محدد|أمريكا الشمالية",
+    "company_name": "California Department of Education",
+    "event_year_month": "2026-10",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "اختراق",
+      "كاليفورنيا",
+      "تسريب بيانات",
+      "أمن سيبراني"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-17T18:02:08.512718+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 226,
+    "telegram_message_url": "https://t.me/Eng_limitless/226"
   }
 ]
