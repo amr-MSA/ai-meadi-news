@@ -1,31 +1,5 @@
 [
   {
-    "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
-    "link": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
-    "summary": "أفادت تقارير أمنية بإلقاء مكتب التحقيقات الفيدرالي (FBI) القبض على المؤسس المشارك لشركة أمن سيبراني كندية، لاتهامه بتقديم الدعم اللوجستي لمجموعة ShinyHunters خلال عملية اختراق بوابة وظائف الـ FBI وسرقة بياناتها.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "fbi-jobs-hack-canadian-exec-arrest-shinyhunters",
-    "event_key": "fbi|2026 10|أمن سيبراني|غير محدد|أمريكا الشمالية",
-    "company_name": "FBI",
-    "event_year_month": "2026-10",
-    "news_type": "أمن سيبراني",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "FBI",
-      "ShinyHunters",
-      "أمن سيبراني",
-      "اختراق بيانات"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-10T23:39:33.599028+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 215,
-    "telegram_message_url": "https://t.me/Eng_limitless/215"
-  },
-  {
     "title": "`123456’ password used in massive Danish CPR data breach",
     "link": "https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/",
     "summary": "كشفت تقارير صحفية عن تعرض سجل الأشخاص المركزي في الدنمارك (CPR) لاختراق أمني واسع، إثر تسلل المهاجمين عبر ثلاثة حسابات على الأقل لدى شركة IT المحلية «Pays»، من بينها حساب مسؤول إداري كان يستخدم كلمة المرور البسيطة «123456».",

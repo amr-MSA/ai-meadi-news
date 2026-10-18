@@ -15570,5 +15570,62 @@
     },
     "rejected_at": "2026-10-17T23:36:43.564294+00:00",
     "details": {}
+  },
+  {
+    "title": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more (Joanna Stern/The New Things)",
+    "link": "https://www.techmeme.com/261017/p20#a261017p20",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Joanna Stern / The New Things : An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more &nbsp; &mdash;&nbsp; My exclusive interview with Satya Nadella on the new Surface Laptop Ultra and Microsoft's plan to make Windows safer for AI agents",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T01:55:18.707266+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
+    "link": "https://github.com/ahmtsahin/claude-env-tabs",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/ahmtsahin/claude-env-tabs Comments URL: https://news.ycombinator.com/item?id=50137006 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T01:55:18.731295+00:00",
+    "details": {}
+  },
+  {
+    "title": "Control the Ideas, Not the Code",
+    "link": "https://www.antirez.com/news/169",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.antirez.com/news/169 Comments URL: https://news.ycombinator.com/item?id=50136995 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T01:55:18.740044+00:00",
+    "details": {}
   }
 ]
