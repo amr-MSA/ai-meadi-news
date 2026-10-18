@@ -1,100 +1,5 @@
 [
   {
-    "title": "An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-    "link": "https://www.techmeme.com/260917/p43#a260917p43",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dwarkesh Patel / Dwarkesh Podcast : An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more &nbsp; &mdash;&nbsp; &ldquo;We never want to be in a situation again where we underestimate the AI.&rdquo;&nbsp; &mdash;&nbsp; New episode with Noam Brown.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T01:57:57.143202+00:00",
-    "details": {}
-  },
-  {
-    "title": "The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries (Jagmeet Singh/TechCrunch)",
-    "link": "https://www.techmeme.com/260917/p42#a260917p42",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jagmeet Singh / TechCrunch : The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries &nbsp; &mdash;&nbsp; The United Nations on Thursday announced that it is working with Google to make its vast collection of global statistics easier for AI systems to access and use.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T01:57:57.156049+00:00",
-    "details": {}
-  },
-  {
-    "title": "Claude Code from Source",
-    "link": "https://claude-code-from-source.com/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://claude-code-from-source.com/ Comments URL: https://news.ycombinator.com/item?id=49749019 Points: 13 # Comments: 2",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T01:57:57.163114+00:00",
-    "details": {}
-  },
-  {
-    "title": "PPPlayer – An open-source music player built with Flutter",
-    "link": "https://ppplayer.com",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://ppplayer.com Comments URL: https://news.ycombinator.com/item?id=49748159 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T01:57:57.171772+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ternary Bonsai 2 (27B) just released on Hugging Face. At <6GB in size, it can even run locally in-browser on WebGPU.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "The model is derived from Qwen3.8-27B, a 27B hybrid-attention causal language model (architecture unchanged), but uses ternary weights to shrink model size down to &lt;6GB in size. According to the model card, it's 9x smaller than FP16 while retaining 98.2% of the intelligence. - Collection: https://huggingface.co/collections/prism-ml/bonsai-2 - Demo: https://huggingface.co/spaces/webml-community/",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T01:57:57.189634+00:00",
-    "details": {}
-  },
-  {
     "title": "Tencent/BrowserSkill",
     "link": "https://github.com/Tencent/BrowserSkill",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15626,6 +15531,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-18T01:55:18.740044+00:00",
+    "details": {}
+  },
+  {
+    "title": "stablyai/orca",
+    "link": "https://github.com/stablyai/orca",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. https://orca.dev Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T06:45:48.790694+00:00",
+    "details": {}
+  },
+  {
+    "title": "anthropics/claude-code",
+    "link": "https://github.com/anthropics/claude-code",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps yo",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T06:45:48.799088+00:00",
+    "details": {}
+  },
+  {
+    "title": "anomalyco/opencode",
+    "link": "https://github.com/anomalyco/opencode",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The open source coding agent. https://opencode.ai The open source AI coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt Installation # YOLO curl -fsSL https://opencode.ai/install | bash # Package managers npm i -g @opencode/",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T06:45:48.814065+00:00",
+    "details": {}
+  },
+  {
+    "title": "RegLayer: 47+ large US data center projects were delayed, withdrawn, or blocked in 2026; Bernstein says ~35% of the planned US data center pipeline is credible (Financial Times)",
+    "link": "https://www.techmeme.com/261018/p6#a261018p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : RegLayer: 47+ large US data center projects were delayed, withdrawn, or blocked in 2026; Bernstein says ~35% of the planned US data center pipeline is credible &nbsp; &mdash;&nbsp; A vast bet on the future of the technology is running into the unforgiving economics of the physical world",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T06:46:32.108481+00:00",
+    "details": {}
+  },
+  {
+    "title": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+    "link": "https://www.techmeme.com/261018/p5#a261018p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar &nbsp; &mdash;&nbsp; Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there are broader problems with the data center build-out.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T06:46:32.122924+00:00",
+    "details": {}
+  },
+  {
+    "title": "You don’t need that expensive of a build for local llms.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Been seeing a lot of people with their 64gb of ddr5 4x3090 or whatever strata builds and it’s been sorta depressing knowing i cant afford that but i finally finished my setup today so here we go, Qwen 3.8 27b at 262k context, unsloth iq4XS ascii condensed with kv cache streaming My only gpu is a 9060 xt 16gb and i have 24gb ddr5 for my whole homelab only needing 16 for this MTP+ ngram prediction q",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T06:46:32.143416+00:00",
     "details": {}
   }
 ]
