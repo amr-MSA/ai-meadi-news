@@ -1,119 +1,5 @@
 [
   {
-    "title": "Meta's personal AI agent Muse climbs to No. 1 among free apps on Apple's US App Store, ahead of ChatGPT; Muse launched on September 8 (Georgia Hennessy/Business Insider)",
-    "link": "https://www.techmeme.com/260918/p36#a260918p36",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Georgia Hennessy / Business Insider : Meta's personal AI agent Muse climbs to No. 1 among free apps on Apple's US App Store, ahead of ChatGPT; Muse launched on September 8 &nbsp; &mdash;&nbsp; Mark Zuckerberg's ambition to bring &ldquo;personal superintelligence&rdquo; to everyone may be taking shape, one download at a time.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T23:44:06.113719+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: ~$18B of debt tied to an Oracle New Mexico data center slid into stressed territory, as investors grow wary of construction delays amid local pushback (Financial Times)",
-    "link": "https://www.techmeme.com/260918/p35#a260918p35",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : Sources: ~$18B of debt tied to an Oracle New Mexico data center slid into stressed territory, as investors grow wary of construction delays amid local pushback &nbsp; &mdash;&nbsp; Investors grow wary of permitting and construction delays as opposition mounts in New Mexico&nbsp; &mdash;&nbsp; About $18bn of loans tied &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T23:44:06.127926+00:00",
-    "details": {}
-  },
-  {
-    "title": "Unit Tests: Protecting Your Code from Being Poorly Handled by Others",
-    "link": "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html Comments URL: https://news.ycombinator.com/item?id=49761606 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T23:44:06.137395+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Inkvec, Pareto frontier in-browser vectorizer (Open Source)",
-    "link": "https://github.com/logolabs/inkvec",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/logolabs/inkvec Comments URL: https://news.ycombinator.com/item?id=49761511 Points: 1 # Comments: 3",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T23:44:06.147231+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ransomware attack on Kansas county will affect some services",
-    "link": "https://databreaches.net/2026/09/18/ransomware-attack-on-kansas-county-will-affect-some-services/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Joseph McCarty reports: A Kansas county’s government says it has been hit by a ransomware attack. Ellis County discovered the attack on parts of its information technology systems Thursday morning. Officials said they “immediately took steps to contain the disruption” by isolating the affected systems and enlisting the help of cybersecurity experts. The county said... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T23:44:06.171996+00:00",
-    "details": {}
-  },
-  {
-    "title": "Foreign actors breach Colorado water systems",
-    "link": "https://databreaches.net/2026/09/18/foreign-actors-breach-colorado-water-systems/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Alayna Alvarez reports: Foreign actors last month breached two small Colorado water utilities and manipulated equipment used to control drinking water systems. The two privately owned utilities, each serving fewer than 200 people, were breached in late August, Gov. Jared Polis&#8217; office told Axios. The hackers changed equipment settings, disabled remote access and alarms, and... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T23:44:06.180188+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown (Reuters)",
     "link": "https://www.techmeme.com/260918/p38#a260918p38",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15487,6 +15373,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-18T22:00:49.134007+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
+    "link": "https://www.techmeme.com/261018/p11#a261018p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Phoebe Liu / The Information : Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases &nbsp; &mdash;&nbsp; How many young AI cloud providers can the market, and Nvidia, support?&nbsp; &mdash;&nbsp; That's one of the big questions after a week &hellip;",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T23:57:46.070107+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal (Bailey Lipschultz/Bloomberg)",
+    "link": "https://www.techmeme.com/261018/p12#a261018p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bailey Lipschultz / Bloomberg : Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal &nbsp; &mdash;&nbsp; Nscale Ltd. is facing opposition to the valuation target it's pursuing in its initial public offering, according to people familiar &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T23:58:23.784718+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Gspot, a tool to lint gstack code",
+    "link": "https://generativespotting.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hi HN! I just launched gspot. It's a tool that auto detects languages and frameworks you use in a repo and then sets up linters and agent rules. It handles JS, TS, Python and Swift. You can turn any rule and tool on and off. You can also create templates from any repo that uses gspot. Templates tell gspot what rules, tools and exceptions to install in a completely different repo. It makes it easy",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T23:58:23.798099+00:00",
+    "details": {}
+  },
+  {
+    "title": "ShortSmash – prompt-to-published short videos, 50-language dubbing, open source",
+    "link": "https://github.com/hydope/shortsmash",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/hydope/shortsmash Comments URL: https://news.ycombinator.com/item?id=50145847 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T23:58:23.804253+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google Open Sources Harness2 for Self Improving AI Agents",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Google just released Harness2 as open source. It turns any AI harness into a system that improves itself over time. A harness is everything around the model. System prompt, tools, memory, skills, and subagents. Normally a person designs it once and the agent uses that fixed setup for every new task. With Harness2 the agent itself refines the harness for each task. It proposes changes, runs a few c",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T23:58:23.816053+00:00",
     "details": {}
   }
 ]
