@@ -1,30 +1,5 @@
 [
   {
-    "title": "New RatHat Android malware uses AI to automate device control",
-    "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-    "source_name": "BleepingComputer",
-    "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
-    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "2026-09",
-      "news_type": "أمن سيبراني",
-      "product_name": "Android",
-      "region": "عالمي",
-      "topic_key": "rathat-android-malware-ai-automation",
-      "keywords": [
-        "RatHat",
-        "Android",
-        "Malware",
-        "AI Automation",
-        "Cybersecurity"
-      ]
-    },
-    "rejected_at": "2026-09-18T16:57:15.527156+00:00",
-    "details": {}
-  },
-  {
     "title": "Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model (Corbin Bolies/Variety)",
     "link": "https://www.techmeme.com/260918/p20#a260918p20",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15474,6 +15449,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-18T16:20:21.429495+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Chest – a tiny, open-source menu bar manager for macOS 27",
+    "link": "https://chest.boringbar.app/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hi HN! One of my favorite apps on macOS, Ice, stopped working when I updated to macOS 27 because the trick it relied on doesn't work anymore. The only thing I really needed from the app was the ability to hide menu bar items to the left of it, so I built Chest to do just that. There are other apps like this as well that try to use the menu bar part of macOS's exam mode to hide items, but that appr",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T17:00:05.885782+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: FR/EN search engine built with Chez Scheme and Claude Code for €150",
+    "link": "https://h9p3r.fr",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://h9p3r.fr Comments URL: https://news.ycombinator.com/item?id=50142710 Points: 1 # Comments: 3",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T17:00:05.896645+00:00",
+    "details": {}
+  },
+  {
+    "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T17:00:05.907205+00:00",
+    "details": {}
+  },
+  {
+    "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "no document or announcement from unslot team yet &#32; submitted by &#32; /u/MundanePercentage674 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T17:00:05.917398+00:00",
+    "details": {}
+  },
+  {
+    "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+    "link": "https://databreaches.net/2026/10/18/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Kevin Townsend reports: Data for CyberSN’s jobs report is aggregated from JobSpikr (with duplicates removed). The various job titles are then analyzed and assigned to CyberSN’s taxonomy of 45 cybersecurity functional roles in ten categories. The result is an assessment of the job market by skills required rather than by the recruiting companies’ role titles.... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T17:00:05.927256+00:00",
     "details": {}
   }
 ]

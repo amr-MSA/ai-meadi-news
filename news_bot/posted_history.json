@@ -1,33 +1,5 @@
 [
   {
-    "title": "A look at Apple's smart home strategy, centered on a HomeView display hub, with a new HomePod mini, Apple TV, and second-party accessories from LG and Schneider (Mark Gurman/Bloomberg)",
-    "link": "https://www.techmeme.com/261011/p7#a261011p7",
-    "summary": "كشف تقرير صحفي لمنصة بلومبرغ عن تفاصيل استراتيجية شركة أبل المرتقبة للمنازل الذكية، والتي تمحور حول شاشة تفاعلية جديدة تُدعى «HomeView» لتكون مركزًا للتحكم المنزلي. وتتضمن الخطة أيضًا إطلاق أجيال جديدة من أجهزة HomePod mini وApple TV، مع التوسع في دعم ملحقات خارجية من شركات مثل LG وSchneider.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "apple-homeview-smart-home-strategy",
-    "event_key": "apple|2026 10|أجهزة وعتاد|homeview|أمريكا الشمالية",
-    "company_name": "Apple",
-    "event_year_month": "2026-10",
-    "news_type": "أجهزة وعتاد",
-    "product_name": "HomeView",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Apple",
-      "HomeView",
-      "HomePod mini",
-      "Apple TV",
-      "Smart Home",
-      "Bloomberg"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-11T16:56:10.931342+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 218,
-    "telegram_message_url": "https://t.me/Eng_limitless/218"
-  },
-  {
     "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
     "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
     "summary": "كشفت تقارير أمنية عن استهداف القطاع المصرفي في كوريا الجنوبية بهجمات سيبرانية شنها مهاجم صيني باستعمال حزمة اختبار الاختراق ARTEX AI المدعومة بوكلاء برمجية تعتمد على نموذج الذكاء الاصطناعي Claude لأتمتة عمليات الاختراق.",
@@ -382,5 +354,31 @@
     "reliability_level": "🟢",
     "telegram_message_id": 227,
     "telegram_message_url": "https://t.me/Eng_limitless/227"
+  },
+  {
+    "title": "Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales (Mark Gurman/Bloomberg)",
+    "link": "https://www.techmeme.com/261018/p8#a261018p8",
+    "summary": "كشفت تسريبات صحفية نقلًا عن بلومبرغ أن شركة أبل تخطط لإجراء تحديث شامل لمتاجر التجزئة في 6 نوفمبر المقبل، وهو ما يُرجح أنه موعد إطلاق أجهزة ماك الجديدة. كما ذكرت المصادر أن أجهزة HomeView ظلت مخزنة في المستودعات لأشهر، وأن الارتباك في الطلبات المسبقة لهاتف iPhone Duo قد يدفع المبيعات نحو طرازات 18 Pro.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "apple-nov-6-retail-reset-mac-release",
+    "event_key": "apple|2026 10|أجهزة وعتاد|mac|أمريكا الشمالية",
+    "company_name": "Apple",
+    "event_year_month": "2026-10",
+    "news_type": "أجهزة وعتاد",
+    "product_name": "Mac",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Apple",
+      "Mac",
+      "HomeView",
+      "Bloomberg"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-18T17:00:05.854900+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 228,
+    "telegram_message_url": "https://t.me/Eng_limitless/228"
   }
 ]
