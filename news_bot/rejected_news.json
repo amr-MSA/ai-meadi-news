@@ -1,43 +1,5 @@
 [
   {
-    "title": "Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A (CoinDesk)",
-    "link": "https://www.techmeme.com/260918/p24#a260918p24",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "CoinDesk : Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A &nbsp; &mdash;&nbsp; Stablecoin payments firm dtcpay announced today the formal completion of its $25 million Series A funding round, securing a strategic investment from Japan's financial giant, the SBI Group.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T20:06:34.448603+00:00",
-    "details": {}
-  },
-  {
-    "title": "Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)",
-    "link": "https://www.techmeme.com/260918/p23#a260918p23",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Lauren Feiner / The Verge : Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more &nbsp; &mdash;&nbsp; Gov. Abigail Spanberger (D) signed an executive order addressing data canters and AI risks. &hellip; Virginia Gov. Abigail Spanberger (D) &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-18T20:06:34.462607+00:00",
-    "details": {}
-  },
-  {
     "title": "Meta's personal AI agent Muse climbs to No. 1 among free apps on Apple's US App Store, ahead of ChatGPT; Muse launched on September 8 (Georgia Hennessy/Business Insider)",
     "link": "https://www.techmeme.com/260918/p36#a260918p36",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15506,6 +15468,25 @@
       "keywords": []
     },
     "rejected_at": "2026-10-18T19:48:42.757384+00:00",
+    "details": {}
+  },
+  {
+    "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "What a week. Quick recap, all numbers from the official repos and model cards: Thursday: Meta drops Muse Spark Open. 816B total, 42B active, 1M context. The launch post says it brings agentic AI &quot;to your desktop&quot;. The desktop is two M5 Ultra Mac Studios with 512GB each, a config Apple says ships &quot;late October&quot; and still hasn't put a price on. The alternative is four 256GB Studi",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-18T22:00:49.134007+00:00",
     "details": {}
   }
 ]

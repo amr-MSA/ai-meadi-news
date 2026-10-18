@@ -267,5 +267,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 229,
     "telegram_message_url": "https://t.me/Eng_limitless/229"
+  },
+  {
+    "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
+    "link": "https://www.techmeme.com/261018/p11#a261018p11",
+    "summary": "أفاد تقرير صحفي نقلاً عن مصادر مطلعة أن شركة إنفيديا توفر شروط ائتمان ميسرة وتساعد في اختيار المواقع وتأمين عقود إيجار بقيمة تصل إلى 20 مليار دولار لدعم شركات تقديم الخدمات السحابية للذكاء الاصطناعي الحديثة (Neoclouds). وتأتي هذه الخطوة بالتوازي مع توقعات تنفيذيي القطاع بانهيار معظم هذه الشركات وبقاء 7 إلى 10 شركات فقط من بين المئات.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "nvidia-neoclouds-20b-leases-consolidation",
+    "event_key": "nvidia|2026 10|سحابة ومراكز بيانات|غير محدد|أمريكا الشمالية",
+    "company_name": "Nvidia",
+    "event_year_month": "2026-10",
+    "news_type": "سحابة ومراكز بيانات",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Nvidia",
+      "Neoclouds",
+      "AI Cloud",
+      "Leases",
+      "The Information"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-18T22:00:49.112314+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 230,
+    "telegram_message_url": "https://t.me/Eng_limitless/230"
   }
 ]
