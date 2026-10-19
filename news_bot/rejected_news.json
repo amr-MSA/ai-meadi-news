@@ -1,30 +1,5 @@
 [
   {
-    "title": "Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown (Reuters)",
-    "link": "https://www.techmeme.com/260918/p38#a260918p38",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Reuters : Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown &nbsp; &mdash;&nbsp; Anthropic is considering rolling out a new AI model to counter OpenAI's momentum since its launch of GPT-6 Astra &hellip;",
-    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "Anthropic",
-      "event_year_month": "2026-09",
-      "news_type": "ذكاء اصطناعي",
-      "product_name": "غير محدد",
-      "region": "أمريكا الشمالية",
-      "topic_key": "anthropic-new-model-counter-openai-astra",
-      "keywords": [
-        "Anthropic",
-        "OpenAI",
-        "Astra",
-        "IPO",
-        "AI Model"
-      ]
-    },
-    "rejected_at": "2026-09-19T02:02:52.825623+00:00",
-    "details": {}
-  },
-  {
     "title": "Fission-AI/OpenSpec",
     "link": "https://github.com/Fission-AI/OpenSpec",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15468,6 +15443,44 @@
       "keywords": []
     },
     "rejected_at": "2026-10-18T23:58:23.816053+00:00",
+    "details": {}
+  },
+  {
+    "title": "Analysis: 795 accounts funded by ADI Predictstreet's own fee-collecting wallet drove 99% of the FIFA-partnered prediction market's activity since late August (Wall Street Journal)",
+    "link": "https://www.techmeme.com/261018/p15#a261018p15",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wall Street Journal : Analysis: 795 accounts funded by ADI Predictstreet's own fee-collecting wallet drove 99% of the FIFA-partnered prediction market's activity since late August &nbsp; &mdash;&nbsp; ADI Predictstreet, backed by Abu Dhabi's royal family, paid close to $150 million for advertising rights during the World Cup",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T02:59:51.066541+00:00",
+    "details": {}
+  },
+  {
+    "title": "Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment (Aaron Kirchfeld/Financial Times)",
+    "link": "https://www.techmeme.com/261018/p14#a261018p14",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Aaron Kirchfeld / Financial Times : Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment &nbsp; &mdash;&nbsp; Schneider Electric and Siemens move further into software as rival ABB bets on physical equipment",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T02:59:51.079378+00:00",
     "details": {}
   }
 ]
