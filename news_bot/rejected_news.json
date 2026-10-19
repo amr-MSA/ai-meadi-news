@@ -1,62 +1,5 @@
 [
   {
-    "title": "ING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work (Anup Roy/Bloomberg)",
-    "link": "https://www.techmeme.com/260919/p6#a260919p6",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anup Roy / Bloomberg : ING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work &nbsp; &mdash;&nbsp; India's outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T13:32:40.876775+00:00",
-    "details": {}
-  },
-  {
-    "title": "National Cancer Centre e-mail lapse allegedly exposes patients’ details",
-    "link": "https://databreaches.net/2026/09/19/national-cancer-centre-e-mail-lapse-allegedly-exposes-patients-details/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "The mistaken cc: breach still happens. Ann Neo reports: An invitation to an event sent by the National Cancer Centre Singapore (NCCS) has sparked privacy concerns after a mailing list exposed the identities, contact details and, in some instances, workplaces of individuals with a genetic cancer condition. The e-mail, an invitation to a Living with... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T13:32:40.917464+00:00",
-    "details": {}
-  },
-  {
-    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-    "link": "https://databreaches.net/2026/09/19/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Erin Woo and Robert McMillan report: Google&#8217;s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company&#8217;s artificial-intelligence systems autonomously committing such an act. The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T13:32:40.927058+00:00",
-    "details": {}
-  },
-  {
     "title": "Moderna stock, $MRNA , surges over +110% after announcing the first ever positive Phase 3 results for a personalized cancer vaccine.",
     "link": "https://www.reddit.com/r/singularity/comments/1vso1mh/moderna_stock_mrna_surges_over_110_after/",
     "source_name": "r/singularity (شائعات تقنية عامة)",
@@ -15405,6 +15348,82 @@
       "keywords": []
     },
     "rejected_at": "2026-10-19T09:24:02.632552+00:00",
+    "details": {}
+  },
+  {
+    "title": "SCOTUS rejects an appeal by BMG, Sony Music, UMG, and Warner Music, upholding a decision that copyright termination rights apply globally, not just in the US (Blake Brittain/Reuters)",
+    "link": "https://www.techmeme.com/261019/p34#a261019p34",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Blake Brittain / Reuters : SCOTUS rejects an appeal by BMG, Sony Music, UMG, and Warner Music, upholding a decision that copyright termination rights apply globally, not just in the US &nbsp; &mdash;&nbsp; The US Supreme Court rejected on Monday a challenge by a group of music labels to a judicial decision that said a law allowing creators &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T16:41:23.485988+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apple announces a \"Pro and tell\" event on October 28 10am PT in LA, where its first touchscreen MacBook, a 14\" MacBook Pro with M6, and more are expected (Chance Miller/9to5Mac)",
+    "link": "https://www.techmeme.com/261019/p33#a261019p33",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Chance Miller / 9to5Mac : Apple announces a &ldquo;Pro and tell&rdquo; event on October 28 10am PT in LA, where its first touchscreen MacBook, a 14\" MacBook Pro with M6, and more are expected &nbsp; &mdash;&nbsp; Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The tagline for this event is: &ldquo;Pro and tell.&rdquo;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T16:41:23.498740+00:00",
+    "details": {}
+  },
+  {
+    "title": "[Bi-Weekly Megathread] Project Showcase",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "**Do you have something you'd like to share with the** r/LocalLLaMA **community. This is the place for it!** Recommendation on presentation: Please share plain english description of what your project does and why people should care about it How does it compare to existing options and why should people switch to your option? How have you tested and validated it? (i.e. can you show evidence that it",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T16:41:23.506536+00:00",
+    "details": {}
+  },
+  {
+    "title": "MiniMax M3.1 Flash released, Model weights Oct 23",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/MagicZhang [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T16:41:23.514648+00:00",
     "details": {}
   }
 ]
