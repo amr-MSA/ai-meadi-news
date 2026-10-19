@@ -1,214 +1,5 @@
 [
   {
-    "title": "Fission-AI/OpenSpec",
-    "link": "https://github.com/Fission-AI/OpenSpec",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Spec-driven development (SDD) for AI coding assistants. https://openspec.dev/ The most loved spec framework. Our philosophy: → fluid not rigid → iterative not waterfall → easy not complex → built for brownfield not just greenfield → scalable from personal projects to enterprises Tip New workflow now available! We've rebuilt OpenSpec with a new artifact-guided workflow. Run /opsx:propose \"your idea",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:21:09.907961+00:00",
-    "details": {}
-  },
-  {
-    "title": "supermemoryai/supermemory",
-    "link": "https://github.com/supermemoryai/supermemory",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. https://supermemory.ai/docs State-of-the-art memory and context engine for AI. Docs · Quickstart · Self-host · Dashboard · Discord English · 简体中文 #1 on every major AI memory benchmark — LongMemEval , LoCoMo , and ConvoMem . 95% Recall@15 with a 99.4% context reduction · ~5",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:21:09.929091+00:00",
-    "details": {}
-  },
-  {
-    "title": "tradesdontlie/tradingview-mcp",
-    "link": "https://github.com/tradesdontlie/tradingview-mcp",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation TradingView MCP Bridge Personal AI assistant for your TradingView Desktop charts. Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation. Warning This tool is not",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:21:09.937048+00:00",
-    "details": {}
-  },
-  {
-    "title": "rustfs/rustfs",
-    "link": "https://github.com/rustfs/rustfs",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. https://rustfs.com/download/ RustFS is a high-performance, distributed object storage system built in Rust. Getting Started · Docs · Bug reports · Discussions English | 简体中文 | Deutsch | Español | français | 日本語 | 한국어 | Portug",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:21:09.944986+00:00",
-    "details": {}
-  },
-  {
-    "title": "ahmedkhaleel2004/gitdiagram",
-    "link": "https://github.com/ahmedkhaleel2004/gitdiagram",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Free, simple, fast interactive diagrams for any GitHub repository https://gitdiagram.com GitDiagram Turn any public or private GitHub repository into an interactive architecture diagram in seconds. You can also replace hub with diagram in a GitHub URL to open its diagram. Sponsor slot: Reach developers while they are actively exploring codebases. Sponsor GitDiagram . Features Architecture-first di",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:21:09.965883+00:00",
-    "details": {}
-  },
-  {
-    "title": "asciimoo/hister",
-    "link": "https://github.com/asciimoo/hister",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Your own search engine https://hister.org/ Hister Your own search engine Hister is a private search engine for the pages you visit and the files you keep. It indexes their full contents so you can find information again from the web interface, terminal, or an AI assistant connected through MCP. Try the demo · Download Hister · Read the quickstart · Documentation Quickstart Download the binary for",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:21:09.972696+00:00",
-    "details": {}
-  },
-  {
-    "title": "A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)",
-    "link": "https://www.techmeme.com/260919/p5#a260919p5",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Hayden Field / The Verge : A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight &nbsp; &mdash;&nbsp; On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:22:05.646683+00:00",
-    "details": {}
-  },
-  {
-    "title": "EU Commissioner Wopke Hoekstra rebuffs calls for an EU-wide digital services tax until \"all possibilities\" for taxation at the global level are exhausted (Financial Times)",
-    "link": "https://www.techmeme.com/260919/p4#a260919p4",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : EU Commissioner Wopke Hoekstra rebuffs calls for an EU-wide digital services tax until &ldquo;all possibilities&rdquo; for taxation at the global level are exhausted &nbsp; &mdash;&nbsp; Global efforts towards tech levy must be exhausted first, says European commissioner Wopke Hoekstra",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:22:05.659493+00:00",
-    "details": {}
-  },
-  {
-    "title": "The original Linux distro source",
-    "link": "https://www.kernel.org/pub/linux/kernel/v1.0/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.kernel.org/pub/linux/kernel/v1.0/ Comments URL: https://news.ycombinator.com/item?id=49763503 Points: 2 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:22:05.674679+00:00",
-    "details": {}
-  },
-  {
-    "title": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/Fusseldieb [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:22:05.692531+00:00",
-    "details": {}
-  },
-  {
-    "title": "HHS’ Office for Civil Rights Settles HIPAA Investigation of Ambry Genetics for Security Rule Violations",
-    "link": "https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "WASHINGTON — September 17, 2026 — The U.S. Department of Health and Human Services (HHS) Oﬃce for Civil Rights (OCR) today announced a settlement with Ambry Genetics Corporation (Ambry) concerning potential violations of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) Security Rule. Ambry, headquartered in Aliso Viejo, California, is a covered entity... Source",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T08:22:05.703056+00:00",
-    "details": {}
-  },
-  {
     "title": "ING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work (Anup Roy/Bloomberg)",
     "link": "https://www.techmeme.com/260919/p6#a260919p6",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15481,6 +15272,139 @@
       "keywords": []
     },
     "rejected_at": "2026-10-19T02:59:51.079378+00:00",
+    "details": {}
+  },
+  {
+    "title": "mlabonne/llm-course",
+    "link": "https://github.com/mlabonne/llm-course",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. https://mlabonne.github.io/blog/ 𝕏 Follow me on X • 🤗 Hugging Face • 💻 Blog • 📙 LLM Engineer's Handbook The LLM course is divided into three parts: 🧩 LLM Fundamentals is optional and covers fundamental knowledge about mathematics, Python, and neural networks. 🧑‍🔬 The LLM Scientist focuses on building the best possib",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T09:23:39.891562+00:00",
+    "details": {}
+  },
+  {
+    "title": "Kruk2/jasna",
+    "link": "https://github.com/Kruk2/jasna",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Video restoration tool The only places to get a genuine License code for the supporter models are Buy Me a Coffee , Unifans , and for China the seller in the Chinese README . 支持者模型的正版许可证码只能通过 Buy Me a Coffee 、 Unifans 或 闲鱼 获取。 English | 日本語 | 中文 Jasna Jasna restores mosaics in videos and images. It is free, has a simple app and a command line, and runs on your GPU. Contents Start here What Jasna d",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T09:23:39.898865+00:00",
+    "details": {}
+  },
+  {
+    "title": "Comfy-Org/ComfyUI",
+    "link": "https://github.com/Comfy-Org/ComfyUI",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T09:23:39.906881+00:00",
+    "details": {}
+  },
+  {
+    "title": "Q&A with Nvidia's Vera team on agentic AI driving CPU demands and forcing CPU design priority back to single-threaded performance over core counts, and more (Wccftech)",
+    "link": "https://www.techmeme.com/261019/p10#a261019p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wccftech : Q&amp;A with Nvidia's Vera team on agentic AI driving CPU demands and forcing CPU design priority back to single-threaded performance over core counts, and more &nbsp; &mdash;&nbsp; NVIDIA's Vera CPU heralds a redefinition of computing architecture from a traditional, task-isolated paradigm to an orchestrated &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T09:24:02.602127+00:00",
+    "details": {}
+  },
+  {
+    "title": "How the data center industry courts kids amid a backlash: 11+ firms and groups hosting field trips since 2025, flag kits and cards for first graders, and more (Caroline Haskins/Wired)",
+    "link": "https://www.techmeme.com/261019/p9#a261019p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Caroline Haskins / Wired : How the data center industry courts kids amid a backlash: 11+ firms and groups hosting field trips since 2025, flag kits and cards for first graders, and more &nbsp; &mdash;&nbsp; Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T09:24:02.615289+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Free design canvas for your AI (open source)",
+    "link": "https://uidesigneditor.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hey, sometimes it's easier to just move around some buttons in an editor instead of waiting a minute for the AI result. E.g. take a screenshot of your UI, cut out a button, move it around to see what it looks like. Your AI can send HTML into the editor, or screenshots. Then you can edit it, move things around, and your AI takes it from there. I've made it free and open source. You can build on top",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T09:24:02.624050+00:00",
+    "details": {}
+  },
+  {
+    "title": "Shopify CLI Renders Theme Code That Isn't Uploaded Yet",
+    "link": "https://www.vincentschmalbach.com/shopify-theme-dev-replace-templates/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.vincentschmalbach.com/shopify-theme-dev-replace-templates/ Comments URL: https://news.ycombinator.com/item?id=50149447 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-19T09:24:02.632552+00:00",
     "details": {}
   }
 ]
