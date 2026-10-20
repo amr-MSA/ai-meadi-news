@@ -1,81 +1,5 @@
 [
   {
-    "title": "AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)",
-    "link": "https://www.techmeme.com/260920/p11#a260920p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Owen Walker / Financial Times : AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures &nbsp; &mdash;&nbsp; Anthropic and OpenAI taking more space in city's already squeezed prime property market&nbsp; &mdash;&nbsp; AI heavyweights including Anthropic &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-20T19:55:14.649438+00:00",
-    "details": {}
-  },
-  {
-    "title": "Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses (Owen Tucker-Smith/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260920/p10#a260920p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Owen Tucker-Smith / Wall Street Journal : Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses &nbsp; &mdash;&nbsp; Powering the nation's massive AI build-out requires lots of walking, checking for burning smells and monitoring for bird damage",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-20T19:55:14.659322+00:00",
-    "details": {}
-  },
-  {
-    "title": "Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images (Qwen)",
-    "link": "https://www.techmeme.com/260920/p13#a260920p13",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Qwen : Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images &nbsp; &mdash;&nbsp; &middot; QwenTeam&#20008;Translations:.&#20307;&#20013;&#25991;&nbsp; &mdash;&nbsp; We are excited to open-source Qwen-Image-2.1 &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-20T22:01:27.450188+00:00",
-    "details": {}
-  },
-  {
-    "title": "Jensen Huang says AI leaders calling for regulation don't want new legislation, but to be \"relieved of the laws we do have\" because of \"ulterior reasons\" (Truman Dickerson/Business Insider)",
-    "link": "https://www.techmeme.com/260920/p12#a260920p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Truman Dickerson / Business Insider : Jensen Huang says AI leaders calling for regulation don't want new legislation, but to be &ldquo;relieved of the laws we do have&rdquo; because of &ldquo;ulterior reasons&rdquo; &nbsp; &mdash;&nbsp; Don't let the black leather jacket fool you, Jensen Huang isn't a doomer.&nbsp; &mdash;&nbsp; Nvidia's CEO said as much in an interview with CBS News aired on Sund",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-20T22:01:27.467480+00:00",
-    "details": {}
-  },
-  {
     "title": "Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)",
     "link": "https://www.techmeme.com/260920/p17#a260920p17",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15177,6 +15101,44 @@
       "keywords": []
     },
     "rejected_at": "2026-10-20T18:11:15.017083+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
+    "link": "https://www.techmeme.com/261020/p53#a261020p53",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Abner Li / 9to5Google : Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature &nbsp; &mdash;&nbsp; Google is beginning to roll out Personal Intelligence for Gemini on Android Auto and Android Automotive (cars with Google built-in).",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T22:47:28.006979+00:00",
+    "details": {}
+  },
+  {
+    "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
+    "link": "https://www.techmeme.com/261020/p52#a261020p52",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dina Bass / Bloomberg : Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation &nbsp; &mdash;&nbsp; Pigment, a French AI company that competes with Microsoft's Excel and PowerPoint, has raised $250 million in a funding round &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T22:47:28.019902+00:00",
     "details": {}
   }
 ]
