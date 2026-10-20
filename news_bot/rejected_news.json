@@ -15121,5 +15121,62 @@
     },
     "rejected_at": "2026-10-20T17:46:05.037129+00:00",
     "details": {}
+  },
+  {
+    "title": "Foursquare co-founder says the company was acquired a month ago in a deal resulting in a $0 payout for equity holders, and faults leadership installed in 2021 (Dennis Crowley/Teendrama Snippets)",
+    "link": "https://www.techmeme.com/261020/p33#a261020p33",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dennis Crowley / Teendrama Snippets : Foursquare co-founder says the company was acquired a month ago in a deal resulting in a $0 payout for equity holders, and faults leadership installed in 2021 &nbsp; &mdash;&nbsp; After 17 years, FSQ's ending has been written.&nbsp; Some thoughts on our final years, an effort to honor the team &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T18:11:14.975877+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+    "link": "https://databreaches.net/2026/10/20/qilin-and-inc-ransomware-groups-exploit-palo-alto-networks-flaw-to-bypass-mfa/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Ravie Lakshmanan reports: Palo Alto Networks has disclosed that it&#8217;s continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T18:11:15.005612+00:00",
+    "details": {}
+  },
+  {
+    "title": "Welsh firms ‘Password1’ and ‘Test 2’ fails led to hackers stealing children’s data",
+    "link": "https://databreaches.net/2026/10/20/welsh-firms-password1-and-test-2-fails-led-to-hackers-stealing-childrens-data/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Alex Hickey reports: Two Welsh organisations have been censured by the Information Commissioner&#8217;s Office (ICO) after a ransomware attack led to the theft of personal data belonging to 3,300 individuals, the vast majority of whom were children. Ogi Networks Limited (ONL) and the Local Government Data Unit – Wales, known as Data Cymru, received reprimands... Source",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T18:11:15.017083+00:00",
+    "details": {}
   }
 ]
