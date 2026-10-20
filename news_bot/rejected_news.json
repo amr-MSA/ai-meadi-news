@@ -15406,5 +15406,119 @@
     },
     "rejected_at": "2026-10-20T00:47:18.407500+00:00",
     "details": {}
+  },
+  {
+    "title": "headroomlabs-ai/headroom",
+    "link": "https://github.com/headroomlabs-ai/headroom",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom co",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T06:49:02.499651+00:00",
+    "details": {}
+  },
+  {
+    "title": "withmarbleapp/os-taxonomy",
+    "link": "https://github.com/withmarbleapp/os-taxonomy",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Marble Skill Taxonomy An open, structured taxonomy of what children learn across the primary/elementary years — decomposed into fine-grained \"micro-topics\", wired into a prerequisite graph, and aligned to national curriculum standards. Produced by Marble . Version: v1 · Topics: 1,591 · Prerequisite edges: 3,225 · Subjects: 8 See it Every dot is a micro-topic, colored by subject; height is age; eac",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T06:49:02.508013+00:00",
+    "details": {}
+  },
+  {
+    "title": "shiyu-coder/Kronos",
+    "link": "https://github.com/shiyu-coder/Kronos",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Kronos: A Foundation Model for the Language of Financial Markets Kronos: A Foundation Model for the Language of Financial Markets Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from over 45 global exchanges . 📰 News 🚩 [2025.11.10] Kronos has been accpeted by AAAI 2026. 🚩 [202",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T06:49:02.536267+00:00",
+    "details": {}
+  },
+  {
+    "title": "Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets (Sam Biddle/The Intercept)",
+    "link": "https://www.techmeme.com/261020/p2#a261020p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sam Biddle / The Intercept : Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets &nbsp; &mdash;&nbsp; Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T06:49:29.803678+00:00",
+    "details": {}
+  },
+  {
+    "title": "Chinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries (Saritha Rai/Bloomberg)",
+    "link": "https://www.techmeme.com/261020/p1#a261020p1",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Saritha Rai / Bloomberg : Chinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries &nbsp; &mdash;&nbsp; Neolix Technologies Co., a Chinese maker of driverless delivery vehicles, raised $400 million to fuel its global expansion.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T06:49:29.818964+00:00",
+    "details": {}
+  },
+  {
+    "title": "24GB is plenty if your engines take turns",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "System service that watches your card, swaps and loads whatever you want, whenever you want. Don’t have to swap anything manually, collisions avoided, VRAM fully dedicated to each function while it’s running (no VRAM squatters). I had issues everyday (Linux) where a node process would orphan, comfyUI auto starts and holds 500MB that strata can’t claim. I also wanted to be able to switch natively a",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T06:49:29.836837+00:00",
+    "details": {}
   }
 ]
