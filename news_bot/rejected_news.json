@@ -1,62 +1,5 @@
 [
   {
-    "title": "Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
-    "link": "https://claudecookie.com/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://claudecookie.com/ Comments URL: https://news.ycombinator.com/item?id=49770860 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T23:45:16.771285+00:00",
-    "details": {}
-  },
-  {
-    "title": "An open source roguelike adventure through dungeons",
-    "link": "https://crawl.develz.org/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://crawl.develz.org/ Comments URL: https://news.ycombinator.com/item?id=49770809 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T23:45:16.778296+00:00",
-    "details": {}
-  },
-  {
-    "title": "With Gemini 4, bench goes up.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "They claimed open-weight models are dangerous but the benchmarks say otherwise. Source &#32; submitted by &#32; /u/Intrepid_Travel_3274 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-19T23:45:16.790825+00:00",
-    "details": {}
-  },
-  {
     "title": "trycua/cua",
     "link": "https://github.com/trycua/cua",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15424,6 +15367,44 @@
       "keywords": []
     },
     "rejected_at": "2026-10-19T21:49:28.096362+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ (Reuters)",
+    "link": "https://www.techmeme.com/261019/p49#a261019p49",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Sources: OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ &nbsp; &mdash;&nbsp; OpenAI is racing to secure investor commitments before rival Anthropic's expected public market debut in mid-November &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T00:47:18.394683+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief (Wall Street Journal)",
+    "link": "https://www.techmeme.com/261019/p48#a261019p48",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wall Street Journal : Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief &nbsp; &mdash;&nbsp; Company is overhauling creative leadership as it struggles to get domestic audiences to watch more&nbsp; &mdash;&nbsp; Netflix is writing a new script.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-20T00:47:18.407500+00:00",
     "details": {}
   }
 ]
