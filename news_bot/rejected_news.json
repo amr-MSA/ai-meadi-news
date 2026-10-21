@@ -1,24 +1,5 @@
 [
   {
-    "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-    "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-    "source_name": "BleepingComputer",
-    "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-21T18:27:53.351346+00:00",
-    "details": {}
-  },
-  {
     "title": "Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)",
     "link": "https://www.techmeme.com/260921/p51#a260921p51",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15177,6 +15158,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-21T17:54:08.072001+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft reveals pricing for Xbox Cloud Gaming without Game Pass, for Xbox Insiders now and others next month: 10 hours for $3.99, 25 for $7.99, 50 for $11.99 (Tom Warren/The Verge)",
+    "link": "https://www.techmeme.com/261021/p44#a261021p44",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tom Warren / The Verge : Microsoft reveals pricing for Xbox Cloud Gaming without Game Pass, for Xbox Insiders now and others next month: 10 hours for $3.99, 25 for $7.99, 50 for $11.99 &nbsp; &mdash;&nbsp; Microsoft is opening up Xbox Cloud Gaming to anyone in November. &hellip; Microsoft announced last month that it will let anyone &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T19:45:42.113347+00:00",
+    "details": {}
+  },
+  {
+    "title": "Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)",
+    "link": "https://www.techmeme.com/261021/p43#a261021p43",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Rachel Metz / Bloomberg : Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation &nbsp; &mdash;&nbsp; Flapping Airplanes, a year-old artificial intelligence startup, has raised $1 billion in funding at a $6 billion valuation &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T19:45:42.121756+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ask HN: How will programming language design change as more code comes from AI?",
+    "link": "https://news.ycombinator.com/item?id=50186311",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "It appears that we're moving to a world where human programmers deal less and less with specific code details. How do you expect/prefer language designers' priorities to shift? e.g. less toward human friendliness changes, more towards machine verifiability, etc? Comments URL: https://news.ycombinator.com/item?id=50186311 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T19:45:42.127681+00:00",
+    "details": {}
+  },
+  {
+    "title": "LLM-D 1.0 Takes Open-Source Kubernetes AI Inference into Production",
+    "link": "https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/ Comments URL: https://news.ycombinator.com/item?id=50186310 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T19:45:42.133485+00:00",
+    "details": {}
+  },
+  {
+    "title": "RecursiveSI/flint (40B A2.5B) · Hugging Face",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqik0/recursivesiflint_40b_a25b_hugging_face/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/coder543 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T19:45:42.143849+00:00",
     "details": {}
   }
 ]
