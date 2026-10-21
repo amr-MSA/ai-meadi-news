@@ -15159,5 +15159,195 @@
     },
     "rejected_at": "2026-10-21T02:21:22.559792+00:00",
     "details": {}
+  },
+  {
+    "title": "cloudflare/security-audit-skill",
+    "link": "https://github.com/cloudflare/security-audit-skill",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seed",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:13.770441+00:00",
+    "details": {}
+  },
+  {
+    "title": "Graphify-Labs/graphify",
+    "link": "https://github.com/Graphify-Labs/graphify",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.com Read this in other languages English | 简体中文 | 日本語 | 한국어 | Deutsch | Français | Español | हिन्दी | Português | Русский | العربية | فارسی |",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:13.797681+00:00",
+    "details": {}
+  },
+  {
+    "title": "anthropics/knowledge-work-plugins",
+    "link": "https://github.com/anthropics/knowledge-work-plugins",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you li",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:13.824189+00:00",
+    "details": {}
+  },
+  {
+    "title": "wshobson/agents",
+    "link": "https://github.com/wshobson/agents",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi https://sethhobson.com Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding tool that loads and ru",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:13.830292+00:00",
+    "details": {}
+  },
+  {
+    "title": "sickn33/agentic-awesome-skills",
+    "link": "https://github.com/sickn33/agentic-awesome-skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. https://aaskills.tech/ AAS Core — Agentic Awesome Skills Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can revie",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:13.840301+00:00",
+    "details": {}
+  },
+  {
+    "title": "vllm-project/vllm",
+    "link": "https://github.com/vllm-project/vllm",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please visit vllm.ai/events to join us. About vLLM is a fast and easy-",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:13.852747+00:00",
+    "details": {}
+  },
+  {
+    "title": "Memo: Nscale CEO Josh Payne says it has \"more than $100B in contracted revenue\"; sources say it still plans to list by the end of 2026 at a $30B-$35B valuation (Kieran Smith/Financial Times)",
+    "link": "https://www.techmeme.com/261021/p8#a261021p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Kieran Smith / Financial Times : Memo: Nscale CEO Josh Payne says it has &ldquo;more than $100B in contracted revenue&rdquo;; sources say it still plans to list by the end of 2026 at a $30B-$35B valuation &nbsp; &mdash;&nbsp; Founder Josh Payne says demand remains &lsquo;insatiable&rsquo; for the services of Nvidia-backed data centre group",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:41.285429+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at Chinese philosophical views on AI; one says aligning AI to human values may be a \"suicidal mistake\" and another fears the \"machinization of humans\" (Arnaud Bertrand)",
+    "link": "https://www.techmeme.com/261021/p7#a261021p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Arnaud Bertrand : A look at Chinese philosophical views on AI; one says aligning AI to human values may be a &ldquo;suicidal mistake&rdquo; and another fears the &ldquo;machinization of humans&rdquo; &nbsp; &mdash;&nbsp; We've been looking at AI from the bottom of our own well.&nbsp; Here's the view from China's.&nbsp; &mdash;&nbsp; &#8729; Paid",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:41.296707+00:00",
+    "details": {}
+  },
+  {
+    "title": "Claude Code Spotted a Cryptominer on Mac While Building a Temperature App",
+    "link": "https://www.gadgetreview.com/claude-code-spotted-a-cryptominer-on-mac-while-helping-to-build-a-temperature-app",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.gadgetreview.com/claude-code-spotted-a-cryptominer-on-mac-while-helping-to-build-a-temperature-app Comments URL: https://news.ycombinator.com/item?id=50177756 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:41.304488+00:00",
+    "details": {}
+  },
+  {
+    "title": "Using AI to Delete Code: Agentic Tech Debt Cleanup at Uber",
+    "link": "https://www.uber.com/us/en/blog/ai-code-cleanup/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.uber.com/us/en/blog/ai-code-cleanup/ Comments URL: https://news.ycombinator.com/item?id=50177259 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T08:57:41.311994+00:00",
+    "details": {}
   }
 ]
