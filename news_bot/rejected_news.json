@@ -1,43 +1,5 @@
 [
   {
-    "title": "Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)",
-    "link": "https://www.techmeme.com/260920/p17#a260920p17",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Demetri Sevastopulo / Financial Times : Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit &nbsp; &mdash;&nbsp; Treasury secretary Scott Bessent met his Chinese counterpart He Lifeng in New York&nbsp; &mdash;&nbsp; The US and China have agreed to set &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-21T02:08:16.807713+00:00",
-    "details": {}
-  },
-  {
-    "title": "Mithrl, which integrates its proprietary biomedical world model with the R&D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures (Natalie Breymeyer/Axios)",
-    "link": "https://www.techmeme.com/260920/p16#a260920p16",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Natalie Breymeyer / Axios : Mithrl, which integrates its proprietary biomedical world model with the R&amp;D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures &nbsp; &mdash;&nbsp; Mithrl, an AI infrastructure company for biopharma, raised a $20 million Series A, CEO Vivek Adarsh tells Axios exclusively.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-21T02:08:16.815707+00:00",
-    "details": {}
-  },
-  {
     "title": "BuilderIO/agent-native",
     "link": "https://github.com/BuilderIO/agent-native",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15139,6 +15101,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-20T22:47:28.019902+00:00",
+    "details": {}
+  },
+  {
+    "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back (Will Douglas Heaven/MIT Technology Review)",
+    "link": "https://www.techmeme.com/261020/p58#a261020p58",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Will Douglas Heaven / MIT Technology Review : An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back &nbsp; &mdash;&nbsp; &ldquo;I think I have good news about the nature of neural networks.&rdquo;&nbsp; With those simple words of optimism, Nick Cammarata &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T02:21:22.526434+00:00",
+    "details": {}
+  },
+  {
+    "title": "Thiel's leaked Rome lectures cast EA and AI \"safetyism\" as Antichrist forerunners, Bill Gates as \"Mr. Hyde\", and Eliezer Yudkowsky as \"more Luddite than Greta\" (David Gibson/The Verge)",
+    "link": "https://www.techmeme.com/261020/p57#a261020p57",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "David Gibson / The Verge : Thiel's leaked Rome lectures cast EA and AI &ldquo;safetyism&rdquo; as Antichrist forerunners, Bill Gates as &ldquo;Mr. Hyde&rdquo;, and Eliezer Yudkowsky as &ldquo;more Luddite than Greta&rdquo; &nbsp; &mdash;&nbsp; It's a time of apocalyptic worldviews in Silicon Valley.&nbsp; The latest AI doom cycle is driven &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T02:21:22.541148+00:00",
+    "details": {}
+  },
+  {
+    "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "China just ordered 3mil RTX 5500 Pro for $11.4 a pop. Probably for llm inference and AI video gen. I suppose this card is now out of reach for local llm. &#32; submitted by &#32; /u/Ok_Warning2146 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-21T02:21:22.559792+00:00",
     "details": {}
   }
 ]
