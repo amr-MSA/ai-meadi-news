@@ -1,43 +1,5 @@
 [
   {
-    "title": "Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260921/p55#a260921p55",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Kelly Cloonan / Wall Street Journal : Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay &nbsp; &mdash;&nbsp; Shopify plans to allow Meta's personal AI agent to complete purchases on behalf of users with the e-commerce platform's roster of stores",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T00:21:27.572094+00:00",
-    "details": {}
-  },
-  {
-    "title": "A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)",
-    "link": "https://www.techmeme.com/260921/p54#a260921p54",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dan Goodin / Ars Technica : A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account &nbsp; &mdash;&nbsp; Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T00:21:27.585046+00:00",
-    "details": {}
-  },
-  {
     "title": "akitaonrails/ai-memory",
     "link": "https://github.com/akitaonrails/ai-memory",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15215,6 +15177,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-21T22:52:29.465519+00:00",
+    "details": {}
+  },
+  {
+    "title": "GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq (Aarian Marshall/Wired)",
+    "link": "https://www.techmeme.com/261021/p59#a261021p59",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Aarian Marshall / Wired : GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq &nbsp; &mdash;&nbsp; The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T02:16:40.828570+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: advisers within Elon Musk's empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power (Bloomberg)",
+    "link": "https://www.techmeme.com/261021/p58#a261021p58",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: advisers within Elon Musk's empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power &nbsp; &mdash;&nbsp; Time is running out to pull off the $3.7 trillion merger before political and financial environments take a turn.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T02:16:40.838526+00:00",
+    "details": {}
+  },
+  {
+    "title": "After using Flash next",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xc4mn5/after_using_flash_next/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#x200b; Fun fact the entire meme made by flash next in Rikkahub android app &#32; submitted by &#32; /u/Fz1zz [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T02:16:40.850159+00:00",
     "details": {}
   }
 ]
