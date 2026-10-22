@@ -15165,5 +15165,43 @@
     },
     "rejected_at": "2026-10-22T17:51:26.296884+00:00",
     "details": {}
+  },
+  {
+    "title": "Microsoft and Alphabet join 14 other companies objecting to a plan by OKXICE, a venture of OKX and ICE, to trade blockchain-based versions of their shares (Camila Grigera Naón/Fortune)",
+    "link": "https://www.techmeme.com/261022/p50#a261022p50",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Camila Grigera Na&oacute;n / Fortune : Microsoft and Alphabet join 14 other companies objecting to a plan by OKXICE, a venture of OKX and ICE, to trade blockchain-based versions of their shares &nbsp; &mdash;&nbsp; A growing number of companies are pushing back against tokenized trading of their shares.&nbsp; Microsoft and Alphabet are the latest &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T19:36:38.033965+00:00",
+    "details": {}
+  },
+  {
+    "title": "Amazon issues refunds from a 2025 settlement, crediting \"President Trump's Federal Trade Commission,\" the first time an FTC refund has been tied to a president (Alfred Ng/Politico)",
+    "link": "https://www.techmeme.com/261022/p49#a261022p49",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Alfred Ng / Politico : Amazon issues refunds from a 2025 settlement, crediting &ldquo;President Trump's Federal Trade Commission,&rdquo; the first time an FTC refund has been tied to a president &nbsp; &mdash;&nbsp; Millions of Americans are expected to receive a settlement check from Amazon credited to &ldquo;President Trump's Federal Trade Commission&rdquo; &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T19:36:38.044972+00:00",
+    "details": {}
   }
 ]
