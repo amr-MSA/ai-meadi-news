@@ -1,176 +1,5 @@
 [
   {
-    "title": "akitaonrails/ai-memory",
-    "link": "https://github.com/akitaonrails/ai-memory",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Why ai-memory Your coding agent already has a memory feature. Claude Code takes its own",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T06:59:24.452245+00:00",
-    "details": {}
-  },
-  {
-    "title": "mvt-project/mvt",
-    "link": "https://github.com/mvt-project/mvt",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. https://mvt.re Mobile Verification Toolkit Important We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757 Mobile Verific",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T06:59:24.485139+00:00",
-    "details": {}
-  },
-  {
-    "title": "zhouxiaoka/autoclip",
-    "link": "https://github.com/zhouxiaoka/autoclip",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 https://zhouxiaoka.github.io/autoclip_intro/ AutoClip 把长视频变成值得分享的精彩片段。 简体中文 · English · 日本語 · 한국어 · Español · Português · Русский · Français 项目网站 · 反馈问题 桌面安装包: macOS · Apple Silicon · Windows · x64 安装与第一次出片 · 完整排错指南 自 v1.3.1 起，产品界面、官网和 README 均支持中、英、日、韩、西、葡、俄、法。顶栏可切换界面语言或跟随系统；用户素材和生成内容保留原文。 AutoClip 用 AI 分析视频字幕、定位高光、生",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T06:59:24.493532+00:00",
-    "details": {}
-  },
-  {
-    "title": "Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components (TechCrunch)",
-    "link": "https://www.techmeme.com/260922/p5#a260922p5",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "TechCrunch : Dutch nanoimprint lithography startup Morphotonics raised &euro;40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components &nbsp; &mdash;&nbsp; The Netherlands' ASML is possibly the biggest name in lithography, using its machines to etch patterns onto silicon wafers inside &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T06:59:51.729292+00:00",
-    "details": {}
-  },
-  {
-    "title": "Belgium-based AI recruitment platform Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, bringing total funding to $24M (Chris Metinko/Axios)",
-    "link": "https://www.techmeme.com/260922/p4#a260922p4",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Chris Metinko / Axios : Belgium-based AI recruitment platform Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, bringing total funding to $24M &nbsp; &mdash;&nbsp; Spott, a recruitment management platform, raised a $21 million Series A led by Balderton Capital, CEO Lander Degreve tells Axios Pro exclusively.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T06:59:51.746338+00:00",
-    "details": {}
-  },
-  {
-    "title": "Be the first human to review your own code",
-    "link": "https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://abhinavr.me/posts/be-the-first-human-to-review-your-own-code/ Comments URL: https://news.ycombinator.com/item?id=49797464 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T06:59:51.756483+00:00",
-    "details": {}
-  },
-  {
-    "title": "Rust code faster than SOTA libraries by asking agents to make the code faster",
-    "link": "https://minimaxir.com/2026/09/agentic-iteration/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://minimaxir.com/2026/09/agentic-iteration/ Comments URL: https://news.ycombinator.com/item?id=49797248 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T06:59:51.768151+00:00",
-    "details": {}
-  },
-  {
-    "title": "Qwen 4 Announced at Apsara Conference",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "https://preview.redd.it/bpbc9i6hizqh1.png?width=1270&amp;format=png&amp;auto=webp&amp;s=e8aa8301895735a05c3c61a5e793018a23d1cac5 I wanted to share a quick update: Alibaba has officially announced Qwen 4 at the Apsara Conference, &#32; submitted by &#32; /u/Salah_H_Hasan [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T06:59:51.777911+00:00",
-    "details": {}
-  },
-  {
-    "title": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wmyh9z/alibaba_plans_ai_model_with_5_trillion_to_10/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/tengo_harambe [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T06:59:51.790005+00:00",
-    "details": {}
-  },
-  {
     "title": "Alphabet-owned robotics software company Intrinsic open-sources Intrinsic Core under Apache 2.0, giving developers building blocks for physical AI systems (Mike Wheatley/SiliconANGLE)",
     "link": "https://www.techmeme.com/260922/p24#a260922p24",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15234,6 +15063,158 @@
       "keywords": []
     },
     "rejected_at": "2026-10-22T02:16:40.850159+00:00",
+    "details": {}
+  },
+  {
+    "title": "supabase/supabase",
+    "link": "https://github.com/supabase/supabase",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. https://supabase.com Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. Hosted Postgres Database. Docs Authentication and Authorization. Docs Auto-generated APIs. REST. Docs GraphQL",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T08:59:52.155957+00:00",
+    "details": {}
+  },
+  {
+    "title": "twentyhq/twenty",
+    "link": "https://github.com/twentyhq/twenty",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The open alternative to Salesforce, designed for AI. https://twenty.com The #1 Open-Source CRM Website · Documentation · Roadmap · Discord · Figma Why Twenty Twenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves. Twenty is the CRM you build, ship, and version like the rest of your stack. Learn more about why w",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T08:59:52.163694+00:00",
+    "details": {}
+  },
+  {
+    "title": "akitaonrails/ai-memory",
+    "link": "https://github.com/akitaonrails/ai-memory",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Website: aimemory.sh Why ai-memory Your coding agent probably has a memory feature alre",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T08:59:52.181026+00:00",
+    "details": {}
+  },
+  {
+    "title": "iPhone Duo review: the outer device is by far the worst iPhone Apple has ever made, while the inner device is a splendid tablet with a UI that bests the iPad's (John Gruber/Daring Fireball)",
+    "link": "https://www.techmeme.com/261022/p10#a261022p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "John Gruber / Daring Fireball : iPhone Duo review: the outer device is by far the worst iPhone Apple has ever made, while the inner device is a splendid tablet with a UI that bests the iPad's &nbsp; &mdash;&nbsp; The very nature of the iPhone Duo raises numerous obvious questions about what it's like to use.&nbsp; Does it not feel thick and heavy, awkward both to pocket and unpocket?",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T09:00:12.972416+00:00",
+    "details": {}
+  },
+  {
+    "title": "How AI is an inherently imperial technology, and how the US and China are building rival \"AI empires\" with different approaches to extend their power (Foreign Affairs)",
+    "link": "https://www.techmeme.com/261022/p9#a261022p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Foreign Affairs : How AI is an inherently imperial technology, and how the US and China are building rival &ldquo;AI empires&rdquo; with different approaches to extend their power &nbsp; &mdash;&nbsp; The Rise and Fall of a New Global Order&nbsp; &mdash;&nbsp; In the span of a few years, China and the United States have each assembled &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T09:00:12.985339+00:00",
+    "details": {}
+  },
+  {
+    "title": "API Shadow – See all back end routes in your IDE without running code",
+    "link": "https://news.ycombinator.com/item?id=50192731",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=50192731 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T09:00:12.995196+00:00",
+    "details": {}
+  },
+  {
+    "title": "Just Dashboard open-source dashboard for managing your VPS",
+    "link": "https://just-dashboard.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://just-dashboard.com/ Comments URL: https://news.ycombinator.com/item?id=50192511 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T09:00:13.004127+00:00",
+    "details": {}
+  },
+  {
+    "title": "Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xc48or/kittentts_2_new_opensource_sota_158_bit_tts/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "KittenML has just released code and weights of Kitten-TTS 2, which is a super-efficient frontier TTS model, and the world's first 1.58-bit TTS model . It runs in real time on just a CPU, with zero-shot voice cloning, multilingual support, and expressive / emphasis control. Code and weights are open-source. Ternary(1.58-bit) Weights means it can run locally or be self-hosted for super-cheap. Github",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T09:00:13.023451+00:00",
     "details": {}
   }
 ]
