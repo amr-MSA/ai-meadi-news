@@ -1,43 +1,5 @@
 [
   {
-    "title": "Alphabet-owned robotics software company Intrinsic open-sources Intrinsic Core under Apache 2.0, giving developers building blocks for physical AI systems (Mike Wheatley/SiliconANGLE)",
-    "link": "https://www.techmeme.com/260922/p24#a260922p24",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Mike Wheatley / SiliconANGLE : Alphabet-owned robotics software company Intrinsic open-sources Intrinsic Core under Apache 2.0, giving developers building blocks for physical AI systems &nbsp; &mdash;&nbsp; Intrinsic Innovation LLC, the intelligent robotics software company owned by Google LLC's parent Alphabet Inc. &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T12:55:14.353032+00:00",
-    "details": {}
-  },
-  {
-    "title": "Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)",
-    "link": "https://www.techmeme.com/260922/p23#a260922p23",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Olivia Poh / Bloomberg : Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ &nbsp; &mdash;&nbsp; Heidi, an artificial intelligence startup which helps doctors automate clinical notes and other administrative work &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-22T12:55:14.369122+00:00",
-    "details": {}
-  },
-  {
     "title": "Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset (David Gewirtz/ZDNET)",
     "link": "https://www.techmeme.com/260922/p41#a260922p41",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15215,6 +15177,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-22T09:00:13.023451+00:00",
+    "details": {}
+  },
+  {
+    "title": "Nirva, which plans to launch a wearable AI personal companion that offers relationship advice and more, raised $25M, bringing its total funding to $33M (Will Maddox/Axios)",
+    "link": "https://www.techmeme.com/261022/p31#a261022p31",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Will Maddox / Axios : Nirva, which plans to launch a wearable AI personal companion that offers relationship advice and more, raised $25M, bringing its total funding to $33M &nbsp; &mdash;&nbsp; Nirva, a startup developing wearable AI personal companions, raised $25 million ahead of its November product launch, CEO Wei Lyu tells Axios Pro exclusively.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T14:45:26.952053+00:00",
+    "details": {}
+  },
+  {
+    "title": "President Trump says he called Sundar Pichai to ask Google Maps to rename the Atlantic Ocean, though he would \"probably pass\" following Pichai's pushback (Victoria Craw/Washington Post)",
+    "link": "https://www.techmeme.com/261022/p30#a261022p30",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Victoria Craw / Washington Post : President Trump says he called Sundar Pichai to ask Google Maps to rename the Atlantic Ocean, though he would &ldquo;probably pass&rdquo; following Pichai's pushback &nbsp; &mdash;&nbsp; President Donald Trump said he called Google's Sundar Pichai to discuss renaming the Atlantic Ocean, but would &ldquo;probably pass&rdquo; &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T14:45:26.966190+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen4 and Kimi3.1 on Arena apperantly",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Im so hyped for qwen4 flash &#32; submitted by &#32; /u/thatscoolbutno123 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-22T14:45:26.982617+00:00",
     "details": {}
   }
 ]
