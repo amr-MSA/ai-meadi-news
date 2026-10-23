@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team (Mark Gurman/Bloomberg)",
-    "link": "https://www.techmeme.com/261016/p23#a261016p23",
-    "summary": "كشفت تقارير صحفية استناداً إلى مصادر مطلعة أن شركة أبل عيّنت سكوت تاكر، نائب الرئيس والمستشار العام المساعد في شركة ميتا، رئيساً جديداً لقسم النزاعات القضائية. وتأتي هذه الخطوة في إطار إعادة هيكلة شاملة للفريق القانوني في أبل لمواجهة السلسلة المتزايدة من الدعاوى القضائية والضغوط التنظيمية.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "apple-hires-meta-exec-scott-tucker-litigation",
-    "event_key": "apple|2026 10|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "company_name": "Apple",
-    "event_year_month": "2026-10",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Apple",
-      "Meta",
-      "Scott Tucker",
-      "Litigation",
-      "Legal Team"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-16T22:18:16.592015+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 221,
-    "telegram_message_url": "https://t.me/Eng_limitless/221"
-  },
-  {
     "title": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
     "link": "https://www.techmeme.com/261017/p8#a261017p8",
     "summary": "كشف تقرير لصحيفة فاينانشال تايمز نقلاً عن مصادر مطلعة أن ألكسندر وانغ، الذي يقود مختبرات الذكاء الاصطناعي الخارق (Superintelligence Labs) في ميتا، يحظى بدعم كامل من مارك زوكربرغ خلال إعادة هيكلة مشاريع الذكاء الاصطناعي، ويتم تداوله داخل الشركة كخليفة محتمل لزوكربرغ.",
@@ -526,5 +499,31 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
+    "link": "https://www.techmeme.com/261023/p23#a261023p23",
+    "summary": "كشفت مذكرة داخلية تم تسريبها أن هيلين تشانغ، أول رئيسة عمليات (COO) لقطاع Xbox، تستعد لمغادرة شركة مايكروسوفت بعد قضائها 21 عامًا في الشركة. وتأتي هذه المغادرة المفاجئة بعد أشهر قليلة فقط من استحداث هذا المنصب التنفيذي وتوليها إياه.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "helen-chiang-xbox-coo-resignation-microsoft",
+    "event_key": "microsoft|2026 10|أعمال وتقنية|xbox|أمريكا الشمالية",
+    "company_name": "Microsoft",
+    "event_year_month": "2026-10",
+    "news_type": "أعمال وتقنية",
+    "product_name": "Xbox",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Microsoft",
+      "Xbox",
+      "Helen Chiang",
+      "استقالة"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-23T22:43:57.708658+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 238,
+    "telegram_message_url": "https://t.me/Eng_limitless/238"
   }
 ]
