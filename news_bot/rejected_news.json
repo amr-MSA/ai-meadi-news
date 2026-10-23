@@ -1,100 +1,5 @@
 [
   {
-    "title": "agent-substrate/substrate",
-    "link": "https://github.com/agent-substrate/substrate",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Agent Substrate: the core system Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program . What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-bu",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-23T08:54:06.912849+00:00",
-    "details": {}
-  },
-  {
-    "title": "dream-num/univer",
-    "link": "https://github.com/dream-num/univer",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. https://docs.univer.ai The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-23T08:54:06.922582+00:00",
-    "details": {}
-  },
-  {
-    "title": "davila7/claude-code-templates",
-    "link": "https://github.com/davila7/claude-code-templates",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "CLI tool for configuring and monitoring Claude Code https://aitmpl.com &nbsp;&nbsp; &nbsp;&nbsp; Sponsored by Bright Data Bright Data proudly supports this project. Connect Claude Code to live web data — try their Skills and MCPs for web search, scraping, and structured data feeds. # Install the Bright Data Skills + MCP for Claude Code npx claude-code-templates@latest --skill web-data/search,web-d",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-23T08:54:06.932241+00:00",
-    "details": {}
-  },
-  {
-    "title": "google/ax",
-    "link": "https://github.com/google/ax",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Google's open agentic orchestration runtime https://agentexecutor.io AX Warning We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway specifications. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale. A",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-23T08:54:06.940974+00:00",
-    "details": {}
-  },
-  {
-    "title": "superdesigndev/treg",
-    "link": "https://github.com/superdesigndev/treg",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn https://treg.to Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, social and trends, people and company enrichment, ads, scraping, image and video genera",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-23T08:54:06.959451+00:00",
-    "details": {}
-  },
-  {
     "title": "Chinese chip foundry CanSemi, focused on automotive, industrial, and IoT chips, files for an IPO on Shenzhen stock exchange's ChiNext, seeking to raise ~$919M (Sangmi Cha/Bloomberg)",
     "link": "https://www.techmeme.com/260923/p9#a260923p9",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15031,6 +14936,177 @@
       "keywords": []
     },
     "rejected_at": "2026-10-23T02:22:02.590274+00:00",
+    "details": {}
+  },
+  {
+    "title": "php/php-src",
+    "link": "https://github.com/php/php-src",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The PHP Interpreter https://www.php.net The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PHP is distributed under the Modified BSD License (SPDX-License-Identifier: BSD-3-Clause ). Documentation The PHP manual is availabl",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-23T08:54:32.859712+00:00",
+    "details": {}
+  },
+  {
+    "title": "fastapi/fastapi",
+    "link": "https://github.com/fastapi/fastapi",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production https://fastapi.tiangolo.com/ FastAPI framework, high performance, easy to learn, fast to code, ready for production Documentation : https://fastapi.tiangolo.com Source Code : https://github.com/fastapi/fastapi FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on sta",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-23T08:54:32.901992+00:00",
+    "details": {}
+  },
+  {
+    "title": "luongnv89/claude-howto",
+    "link": "https://github.com/luongnv89/claude-howto",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. http://luongnv.com/claude-howto/ 🌐 Language / Ngôn ngữ / 语言 / Мова: English | Tiếng Việt | 中文 | Українська | 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-23T08:54:32.910919+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meloong-Git/PCL",
+    "link": "https://github.com/Meloong-Git/PCL",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Minecraft 启动器 Plain Craft Launcher（PCL）。 https://meloong.com/PCL Plain Craft Launcher 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！ 代码并不是实时更新的，它会在每次 PCL 发布更新时同步一次。 非常感谢社区的大力支持！ 相关资源 PCL 下载 ：下载可免费使用的正式版 PCL！ PCL 功能投票 ：来参加投票吧，开发者会优先处理票数较高的项目！ 帮助文档库 ：PCL 内置帮助文档的存储库",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-23T08:54:32.918554+00:00",
+    "details": {}
+  },
+  {
+    "title": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B (Bloomberg)",
+    "link": "https://www.techmeme.com/261023/p4#a261023p4",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B &nbsp; &mdash;&nbsp; SK Hyper Co. is in talks with big tech firms and financial investors to secure funding for an envisioned $350 billion data center buildout &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-23T08:55:11.366304+00:00",
+    "details": {}
+  },
+  {
+    "title": "Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)",
+    "link": "https://www.techmeme.com/261023/p3#a261023p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jagmeet Singh / TechCrunch : Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban &nbsp; &mdash;&nbsp; Smart ring maker Oura has sued Indian rival Ultrahuman again, seeking to block U.S. sales of its Ring Pro (pictured above) &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-23T08:55:11.379137+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ordered list of open-source software with the No-AI policy",
+    "link": "https://gornak40.org/soulful-software",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://gornak40.org/soulful-software Comments URL: https://news.ycombinator.com/item?id=50205780 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-23T08:55:11.388080+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Kuron – A 5-device airline system from one prompt, no code generated",
+    "link": "https://claude.ai/artifact/UMMbf2FcV3ULi6d5WaW1yp",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://claude.ai/artifact/UMMbf2FcV3ULi6d5WaW1yp Comments URL: https://news.ycombinator.com/item?id=50205523 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-23T08:55:11.398253+00:00",
+    "details": {}
+  },
+  {
+    "title": "Models disappearing from Huggingface",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I've been noticing a lot of my downloads stopping suddenly and being unable to resume. When I checked the models it seemed like they were gone. Here's the ones I can see are missing: dealignai/MiMo-V2.6-Pro-RL-UNCENSORED audnai/penclaw-GLM-5.3-abliterated-for-offensive-cyber huihui-ai/Huihui-Kimi-K2.7-Code-abliterated-GGUF and somehow not a single Alliterated Deepseek-R1. Does anyone know what's g",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-23T08:55:11.413354+00:00",
     "details": {}
   }
 ]
