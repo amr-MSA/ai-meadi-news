@@ -1,32 +1,5 @@
 [
   {
-    "title": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
-    "link": "https://www.techmeme.com/261017/p8#a261017p8",
-    "summary": "كشف تقرير لصحيفة فاينانشال تايمز نقلاً عن مصادر مطلعة أن ألكسندر وانغ، الذي يقود مختبرات الذكاء الاصطناعي الخارق (Superintelligence Labs) في ميتا، يحظى بدعم كامل من مارك زوكربرغ خلال إعادة هيكلة مشاريع الذكاء الاصطناعي، ويتم تداوله داخل الشركة كخليفة محتمل لزوكربرغ.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "meta-alexandr-wang-zuckerberg-successor-ft",
-    "event_key": "meta|2026 10|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
-    "company_name": "Meta",
-    "event_year_month": "2026-10",
-    "news_type": "ذكاء اصطناعي",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Meta",
-      "Alexandr Wang",
-      "Mark Zuckerberg",
-      "AI",
-      "Superintelligence Labs"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-17T11:49:13.956351+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 222,
-    "telegram_message_url": "https://t.me/Eng_limitless/222"
-  },
-  {
     "title": "Zelenskyy says Starshield restrictions are affecting only Ukraine, leading him to believe they are a \"planned operation\" rather than technical issues (Bloomberg)",
     "link": "https://www.techmeme.com/261017/p12#a261017p12",
     "summary": "صرح الرئيس الأوكراني فولوديمير زيلينسكي بأن القيود المطبقة على الاستخدام العسكري لمنظومة «سبيس شيلد» التابعة لشركة سبيس إكس تؤثر حصريًا على أوكرانيا، مشيرًا إلى اعتقداده بأن هذه التقييدات تمثل عملية مدبرة ومخططة وليست مجرد مشكلات تقنية عارضة.",
@@ -552,5 +525,39 @@
     "reliability_level": "🟢",
     "telegram_message_id": 239,
     "telegram_message_url": "https://t.me/Eng_limitless/239"
+  },
+  {
+    "title": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)",
+    "link": "https://www.techmeme.com/261024/p4#a261024p4",
+    "summary": "أفادت تقارير نقلاً عن صحيفة وول ستريت جورنال باستئناف عمل منظومة الاتصالات «ستار شيلد» التابعة لشركة سبيس إكس بشكل طبيعي في أوكرانيا صباح السبت. وذكر مسؤولون أمريكيون أن ترامب طلب من إيلون ماسك استعادة الخدمة التي أثرت قيودها السابقة على الطائرات المسيرة الأوكرانية.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "starshield-ukraine-restrictions-zelenskyy-claim",
+    "event_key": "spacex|2026 10|أعمال وتقنية|starshield|أوروبا",
+    "company_name": "SpaceX",
+    "event_year_month": "2026-10",
+    "news_type": "أعمال وتقنية",
+    "product_name": "Starshield",
+    "region": "أوروبا",
+    "keywords": [
+      "SpaceX",
+      "Starshield",
+      "Ukraine",
+      "Elon Musk"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-24T13:42:31.587952+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 240,
+    "telegram_message_url": "https://t.me/Eng_limitless/240",
+    "is_update": true,
+    "updates_event_key": "spacex|2026 10|أعمال وتقنية|starshield|أوروبا",
+    "update_summary": "عادت خدمة «ستار شيلد» للعمل في أوكرانيا بعد تقارير عن طلب مسؤولين أمريكيين إعادة تشغيلها.",
+    "new_facts": [
+      "استئناف عمل منظومة «ستار شيلد» بشكل طبيعي في أوكرانيا صباح السبت.",
+      "تصريحات مسؤولين أمريكيين تدعي أن ترامب طلب من إيلون ماسك إعادة تشغيل الخدمة."
+    ],
+    "supersedes_posted_at": "2026-10-17T14:34:31.341952+00:00"
   }
 ]

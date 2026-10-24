@@ -1,119 +1,5 @@
 [
   {
-    "title": "Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 (Bloomberg)",
-    "link": "https://www.techmeme.com/260924/p25#a260924p25",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 &nbsp; &mdash;&nbsp; Oracle Corp. is moving to shield itself from racking up expenses on a massive data center being built in New Mexico &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T12:59:12.392183+00:00",
-    "details": {}
-  },
-  {
-    "title": "ASML's European revenue share dropped to 0% in Q1 and Q2 2026, down from 1% in 2025 and 5% in 2024; ASML is urging EU authorities to create demand for EU chips (Anton Shilov/Tom's Hardware)",
-    "link": "https://www.techmeme.com/260924/p24#a260924p24",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anton Shilov / Tom's Hardware : ASML's European revenue share dropped to 0% in Q1 and Q2 2026, down from 1% in 2025 and 5% in 2024; ASML is urging EU authorities to create demand for EU chips &nbsp; &mdash;&nbsp; Subsidies for fabs do not help. &hellip; As the world's only supplier of EUV lithography systems, ASML is Europe's largest company &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T12:59:12.406595+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Link proof assistant Lean to Claude, fix your code's hidden assumptions",
-    "link": "https://github.com/savarin/lean-agent",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/savarin/lean-agent Comments URL: https://news.ycombinator.com/item?id=49829771 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T12:59:12.416156+00:00",
-    "details": {}
-  },
-  {
-    "title": "Mistral Vibe Shell Permission Bypass Leading to Arbitrary Code Execution",
-    "link": "https://blog.secmate.dev/posts/mistral-vibe-cve-2026-87987-cve-2026-87984/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://blog.secmate.dev/posts/mistral-vibe-cve-2026-87987-cve-2026-87984/ Comments URL: https://news.ycombinator.com/item?id=49829487 Points: 1 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T12:59:12.424918+00:00",
-    "details": {}
-  },
-  {
-    "title": "JEV almost dead: CLM vs JEV",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wouby6/jev_almost_dead_clm_vs_jev/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Original post: https://www.reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models/ (sorry I felt it wasn't giving CLM the highlight it deserves) What it is: a new projection head for Qwen3-8B. github: https://github.com/Contrastive-LM/CLM hf: https://huggingface.co/Contrastive-LM At the API and functional interface level, CLM supports everything Jev does—it is not a subset. However,",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T12:59:12.432633+00:00",
-    "details": {}
-  },
-  {
-    "title": "Folks, have you purchased the Mac M5 Ultra with 256GB yet? We need serious benchmarks, because we only get YouTube clowns influencers results",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wovkw5/folks_have_you_purchased_the_mac_m5_ultra_with/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Ok, so the Mac M5 Ultra (256GB) hit the market, but the only publicly available benchmarks material are flashy YouTube &quot;clown influencers&quot; videos. We need serious numbers to evaluate whether Apple’s silicon can actually compete with Nvidia’s current GPU‑centric workflows or not. Every damn video I watched, it was from somebody who only know the bare basics and use 8b models, like wtf. I",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T12:59:12.444387+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year (Jeff Stein/The Washington Sun)",
     "link": "https://www.techmeme.com/260924/p37#a260924p37",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15088,6 +14974,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-24T08:28:39.741537+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen4-27B PR found",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "PR: https://github.com/analytics-zoo/vllm-xpu-kernels/pull/22 The PR author seems to have contributed to intel repos a lot and VLLM. He also shares his name (might be the same person?) with a person who is either a CTO somewhere at alibaba or the Director of Zhejiang Lab. He has worked on Qwen3.8 before this. The PR also implies the KV cache size for Qwen4-27B is not decreasing. &#32; submitted by",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T13:42:15.069143+00:00",
+    "details": {}
+  },
+  {
+    "title": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
+    "link": "https://www.techmeme.com/261024/p3#a261024p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Rachel Monroe / New Yorker : Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings &nbsp; &mdash;&nbsp; Algorithmic social media, which has helped create the conditions for the spread of such violence, is reckoning with how it can be part of the solution.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T13:42:31.604238+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Vulnerability Apocalypse and Why We Should Fund Open Source",
+    "link": "https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source Comments URL: https://news.ycombinator.com/item?id=50221068 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T13:42:31.613331+00:00",
+    "details": {}
+  },
+  {
+    "title": "Android's Source Code as a 3D City (4K) [video]",
+    "link": "https://www.youtube.com/watch?v=9hLh9LZqel8",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.youtube.com/watch?v=9hLh9LZqel8 Comments URL: https://news.ycombinator.com/item?id=50220855 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T13:42:31.622701+00:00",
+    "details": {}
+  },
+  {
+    "title": "The RTX 5090 Isn't Gone, It's In Chinese Labs, Where Technicians Rip Off Its Die And 32GB VRAM For AI Servers",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xe1zsr/the_rtx_5090_isnt_gone_its_in_chinese_labs_where/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T13:42:31.641608+00:00",
     "details": {}
   }
 ]
