@@ -1,31 +1,5 @@
 [
   {
-    "title": "Hack exposes data on millions of California students",
-    "link": "https://databreaches.net/2026/10/17/hack-exposes-data-on-millions-of-california-students/",
-    "summary": "كشفت تقارير صحفية عن تعرض منظمة غير ربحية تتعامل مع وزارة التعليم في ولاية كاليفورنيا لاختراق سيبراني أسفر عن سرقة بيانات شخصية لنحو 7 ملايين طالب في المدارس العامة. وتضمنت البيانات المسرّبة الأسماء والعناوين والمعلومات الديموغرافية وحالات الإعاقة للطلاب المسجلين خلال السنوات الثلاث الماضية.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "california-students-data-breach-contractor",
-    "event_key": "california department of education|2026 10|أمن سيبراني|غير محدد|أمريكا الشمالية",
-    "company_name": "California Department of Education",
-    "event_year_month": "2026-10",
-    "news_type": "أمن سيبراني",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "اختراق",
-      "كاليفورنيا",
-      "تسريب بيانات",
-      "أمن سيبراني"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-17T18:02:08.512718+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 226,
-    "telegram_message_url": "https://t.me/Eng_limitless/226"
-  },
-  {
     "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)",
     "link": "https://www.techmeme.com/261017/p18#a261017p18",
     "summary": "أعلنت شركة Anomaly Innovations المطوّرة لوكيل البرمجة OpenCode عن تعرض منصتها لهجوم سيبراني استهدف استخلاص البيانات، مما أدى إلى اختراق حسابات نحو 1.4% من مستخدمي OpenCode Console وكشف مفاتيح API المخزنة الخاصة بهم بما فيها مفاتيح OpenAI.",
@@ -580,5 +554,32 @@
     "reliability_level": "🟠",
     "telegram_message_id": 243,
     "telegram_message_url": "https://t.me/Eng_limitless/243"
+  },
+  {
+    "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
+    "link": "https://www.techmeme.com/261024/p8#a261024p8",
+    "summary": "كشفت تسريبات صحفية أن منصة Replit حولت معظم إنفاقها على نماذج الذكاء الاصطناعي من Anthropic إلى OpenAI، إثر حصولها على خصم يتجاوز 30% ضمن صفقة سنوية تفوق قيمتها 100 مليون دولار، وذلك بعد قرار Anthropic إلغاء الخصومات الممنوحة للشركة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "replit-spend-shift-openai-anthropic",
+    "event_key": "replit|2026 10|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Replit",
+    "event_year_month": "2026-10",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Replit",
+      "OpenAI",
+      "Anthropic",
+      "ذكاء اصطناعي",
+      "استثمار"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-24T19:56:46.191670+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 244,
+    "telegram_message_url": "https://t.me/Eng_limitless/244"
   }
 ]
