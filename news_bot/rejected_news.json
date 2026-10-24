@@ -1,195 +1,5 @@
 [
   {
-    "title": "strands-agents/harness-sdk",
-    "link": "https://github.com/strands-agents/harness-sdk",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. http://strandsagents.com/ Strands Agents A model-driven approach to building AI agents in just a few lines of code. Documentation ◆ Samples ◆ MCP Server ◆ Discord Strands Agents is an open-source SDK for building and running AI agents in Python and TypeScript. C",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:05.426114+00:00",
-    "details": {}
-  },
-  {
-    "title": "HKUDS/CLI-Anything",
-    "link": "https://github.com/HKUDS/CLI-Anything",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ https://clianything.cc/ &nbsp; CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub : pip install cli-anything-hub then cli-hub install &lt;name&gt; — browse, install,",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:05.439107+00:00",
-    "details": {}
-  },
-  {
-    "title": "pbakaus/impeccable",
-    "link": "https://github.com/pbakaus/impeccable",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "The design language that makes your AI harness better at design. https://impeccable.style Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. Quick start: From your project root, run npx impeccable install , then run /impeccable init inside your AI coding tool. Full docs: impeccable.sty",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:05.458963+00:00",
-    "details": {}
-  },
-  {
-    "title": "DeusData/codebase-memory-mcp",
-    "link": "https://github.com/DeusData/codebase-memory-mcp",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. https://deusdata.github.io/codebase-memory-mcp/ codebase-memory-mcp The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repositor",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:05.480053+00:00",
-    "details": {}
-  },
-  {
-    "title": "harry7557558/spirula-studio",
-    "link": "https://github.com/harry7557558/spirula-studio",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA. Spirula Studio &nbsp; &nbsp; Download • Build from Source • Gallery • Web Viewer Spirula Studio trains 3D Gaussian Splatting models – from raw photo/video to splat to textured mesh – in one self-contained binary. No Python/PyTorch, no separate COLMAP install. Runs on NVIDIA, AMD, Intel, and Apple GPUs via Vulkan,",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:05.489661+00:00",
-    "details": {}
-  },
-  {
-    "title": "TNT-Likely/PanWatch",
-    "link": "https://github.com/TNT-Likely/PanWatch",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 盯盘侠 PanWatch 自托管 AI 盯盘助手 · 集成 TradingAgents 多 Agent 投资决策 — A 股 / 港股 / 美股实时监控、持仓管理、智能分析、全渠道推送 🧠 持仓页点一下 → TradingAgents 9-Agent 投研团队接力分析 → 看多看空辩论 → 风控审查 → PM 决策书,3-5 分钟一条完整推理链,结论直推到你的 IM。 📸 功能一览 持仓 · 多账户汇总 机会页 · AI 评分选股 模拟盘 · 净值曲线 + 绩效 个股深度详情 技术指标共振 · 一眼 MACD/RSI/KDJ 价格提醒 · 条件组合触发 移动端截图 📱 支持 PWA，移动端可「添加到主屏幕」当原生 A",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:05.501469+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic says it made Claude.ai and the Claude desktop app's core UX ~3x faster in August using an internal model to ship improvements \"in a two-week sprint\" (Anthropic)",
-    "link": "https://www.techmeme.com/260924/p10#a260924p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anthropic : Anthropic says it made Claude.ai and the Claude desktop app's core UX ~3x faster in August using an internal model to ship improvements &ldquo;in a two-week sprint&rdquo; &nbsp; &mdash;&nbsp; Once Claude can measure something, it can make it faster.&nbsp; So we kept finding more things to measure. Raymond Wang, Sam Attard, and Issac G.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:33.385626+00:00",
-    "details": {}
-  },
-  {
-    "title": "Analysis: total net profit at ~190 chipmakers listed in mainland China rose 620% YoY in H1 2026, driven by the AI boom and China's self-sufficiency campaign (Tomoko Wakasugi/Nikkei Asia)",
-    "link": "https://www.techmeme.com/260924/p9#a260924p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tomoko Wakasugi / Nikkei Asia : Analysis: total net profit at ~190 chipmakers listed in mainland China rose 620% YoY in H1 2026, driven by the AI boom and China's self-sufficiency campaign &nbsp; &mdash;&nbsp; SHANGHAI &mdash; Earnings at Chinese chipmakers have grown more than 600% during the first half, buoyed by the artificial intelligence boom &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:33.403365+00:00",
-    "details": {}
-  },
-  {
-    "title": "TabVault – Open-source tab manager with atomic crash recovery",
-    "link": "https://github.com/jarvissing/tabvault",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/jarvissing/tabvault Comments URL: https://news.ycombinator.com/item?id=49827115 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:33.415032+00:00",
-    "details": {}
-  },
-  {
-    "title": "Update: Source Download – Inspect, grab assets, screenshot and record video/GIF",
-    "link": "https://chromewebstore.google.com/detail/source-download/nockdgincmpfojabnhbofkddgcmnodpd",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://chromewebstore.google.com/detail/source-download/nockdgincmpfojabnhbofkddgcmnodpd Comments URL: https://news.ycombinator.com/item?id=49827047 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T07:16:33.427775+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 (Bloomberg)",
     "link": "https://www.techmeme.com/260924/p25#a260924p25",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15126,6 +14936,158 @@
       "keywords": []
     },
     "rejected_at": "2026-10-24T02:19:23.750144+00:00",
+    "details": {}
+  },
+  {
+    "title": "Renhuai123/ziwei-doushu",
+    "link": "https://github.com/Renhuai123/ziwei-doushu",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 https://metisziwei.com/?from=gh-about 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念 ：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信： 算法是公开的传统智慧，不应该被锁在围墙里 。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息 ：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据： v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T08:27:59.000495+00:00",
+    "details": {}
+  },
+  {
+    "title": "SnailSploit/Claude-Red",
+    "link": "https://github.com/SnailSploit/Claude-Red",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red tea",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T08:27:59.008710+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenBMB/VoxCPM",
+    "link": "https://github.com/OpenBMB/VoxCPM",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning https://voxcpm.com VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning English | 中文 👋 Join our community for discussion and support! Feishu &nbsp;|&nbsp; Discord &nbsp;|&nbsp; 📚 MiniCPM Wiki VoxCPM is a tokenizer-free Text-to-Sp",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T08:27:59.017249+00:00",
+    "details": {}
+  },
+  {
+    "title": "nodejs/node",
+    "link": "https://github.com/nodejs/node",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Node.js JavaScript runtime ✨🐢🚀✨ https://nodejs.org Node.js Node.js is an open-source, cross-platform JavaScript runtime environment. For information on using Node.js, see the Node.js website . The Node.js project uses an open governance model . The OpenJS Foundation provides support for the project. Contributors are expected to act in a collaborative manner to move the project forward. We encourag",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T08:27:59.025913+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)",
+    "link": "https://www.techmeme.com/261024/p2#a261024p2",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Thomas Brewster / Forbes : A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more.&nbsp; &mdash;&nbsp; Using the latest GPT model, cyber researchers &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T08:28:39.708250+00:00",
+    "details": {}
+  },
+  {
+    "title": "The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors (Toby Sterling/Reuters)",
+    "link": "https://www.techmeme.com/261024/p1#a261024p1",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Toby Sterling / Reuters : The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors &nbsp; &mdash;&nbsp; The discovery of two serious flaws in PHP this week set off a global scramble to keep websites safe from hackers &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T08:28:39.721793+00:00",
+    "details": {}
+  },
+  {
+    "title": "Red Alert 2 Yuri's Revenge decompilation – rebuilding the lost source code",
+    "link": "https://www.reddit.com/r/redalert2/comments/1xaep2v/ra2yr_decompilation_rebuilding_the_lost_source/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.reddit.com/r/redalert2/comments/1xaep2v/ra2yr_decompilation_rebuilding_the_lost_source/ Comments URL: https://news.ycombinator.com/item?id=50218756 Points: 2 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T08:28:39.731612+00:00",
+    "details": {}
+  },
+  {
+    "title": "Abstract Code Art Animation – Evolution from Ones and Zeros to Neural Networks [video]",
+    "link": "https://www.youtube.com/watch?v=-dTvmVUWY0o",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.youtube.com/watch?v=-dTvmVUWY0o Comments URL: https://news.ycombinator.com/item?id=50218706 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T08:28:39.741537+00:00",
     "details": {}
   }
 ]

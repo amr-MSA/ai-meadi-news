@@ -525,5 +525,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 238,
     "telegram_message_url": "https://t.me/Eng_limitless/238"
+  },
+  {
+    "title": "Qwen4-27B PR found",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/",
+    "summary": "كُشف في مستودع برمجيات علني على منصة GitHub عن طلب سحب برمجيات (PR) يتضمن إشارات إلى نموذج الذكاء الاصطناعي المرتقب Qwen4-27B التابع لشركة علي بابا. أظهرت التغييرات البرمجية تفاصيل حول بنية الذاكرة المؤقتة (KV Cache) للنموذج قبل الإعلان الرسمي عنه.",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "topic_key": "alibaba-qwen4-27b-model-leak-github-pr",
+    "event_key": "alibaba|2026 10|ذكاء اصطناعي|qwen4 27b|آسيا",
+    "company_name": "Alibaba",
+    "event_year_month": "2026-10",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "Qwen4-27B",
+    "region": "آسيا",
+    "keywords": [
+      "Alibaba",
+      "Qwen4",
+      "AI",
+      "Leak",
+      "GitHub"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-24T08:28:39.691278+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 239,
+    "telegram_message_url": "https://t.me/Eng_limitless/239"
   }
 ]
