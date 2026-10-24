@@ -1,32 +1,5 @@
 [
   {
-    "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)",
-    "link": "https://www.techmeme.com/261017/p18#a261017p18",
-    "summary": "أعلنت شركة Anomaly Innovations المطوّرة لوكيل البرمجة OpenCode عن تعرض منصتها لهجوم سيبراني استهدف استخلاص البيانات، مما أدى إلى اختراق حسابات نحو 1.4% من مستخدمي OpenCode Console وكشف مفاتيح API المخزنة الخاصة بهم بما فيها مفاتيح OpenAI.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "opencode-breach-api-keys-distillation-attack",
-    "event_key": "anomaly innovations|2026 10|أمن سيبراني|opencode|دولي",
-    "company_name": "Anomaly Innovations",
-    "event_year_month": "2026-10",
-    "news_type": "أمن سيبراني",
-    "product_name": "OpenCode",
-    "region": "دولي",
-    "keywords": [
-      "OpenCode",
-      "Anomaly Innovations",
-      "اختراق",
-      "API",
-      "OpenAI"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-17T21:50:06.472627+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 227,
-    "telegram_message_url": "https://t.me/Eng_limitless/227"
-  },
-  {
     "title": "Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales (Mark Gurman/Bloomberg)",
     "link": "https://www.techmeme.com/261018/p8#a261018p8",
     "summary": "كشفت تسريبات صحفية نقلًا عن بلومبرغ أن شركة أبل تخطط لإجراء تحديث شامل لمتاجر التجزئة في 6 نوفمبر المقبل، وهو ما يُرجح أنه موعد إطلاق أجهزة ماك الجديدة. كما ذكرت المصادر أن أجهزة HomeView ظلت مخزنة في المستودعات لأشهر، وأن الارتباك في الطلبات المسبقة لهاتف iPhone Duo قد يدفع المبيعات نحو طرازات 18 Pro.",
