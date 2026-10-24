@@ -553,5 +553,32 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Kimi K3.1 removes cyberattack training data from open weight release",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
+    "summary": "تداولت أوساط المطورين معلومات تشير إلى توجه مطوري نموذج Kimi K3.1 لاستبعاد البيانات المتعلقة بالهجمات والاستغلال السيبراني من النسخة المخصصة للإطلاق مفتوح الوزن. وتُعزى هذه الخطوة إلى قيود التصدير الجديدة في الصين والمخاوف المخاطر السيبرانية المرتبطة بالنماذج المتقدمة.",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "topic_key": "kimi-k3-1-open-weights-cyberattack-data-removal",
+    "event_key": "moonshot ai|2026 10|ذكاء اصطناعي|kimi k3 1|آسيا",
+    "company_name": "Moonshot AI",
+    "event_year_month": "2026-10",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "Kimi K3.1",
+    "region": "آسيا",
+    "keywords": [
+      "Kimi K3.1",
+      "Moonshot AI",
+      "ذكاء اصطناعي",
+      "نماذج مفتوحة المصدر",
+      "أمن سيبراني"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-24T17:04:51.979629+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟠",
+    "telegram_message_id": 243,
+    "telegram_message_url": "https://t.me/Eng_limitless/243"
   }
 ]

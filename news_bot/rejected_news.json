@@ -15184,5 +15184,43 @@
     },
     "rejected_at": "2026-10-24T16:26:09.699923+00:00",
     "details": {}
+  },
+  {
+    "title": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more (Steven Rosenbush/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261024/p6#a261024p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Steven Rosenbush / Wall Street Journal : An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more &nbsp; &mdash;&nbsp; Ciena CEO Gary Smith is &lsquo;suitably paranoid,&rsquo; but optimistic&nbsp; &mdash;&nbsp; The historic telecommunications crash of 2001 is burned indelibly &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T17:04:52.012697+00:00",
+    "details": {}
+  },
+  {
+    "title": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or newer (Jay Peters/The Verge)",
+    "link": "https://www.techmeme.com/261024/p5#a261024p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jay Peters / The Verge : Block unveils Dessa, a &ldquo;true speech-to-speech&rdquo; AI model trained on &ldquo;nothing but human conversation&rdquo; that it says runs locally on a MacBook Pro M4 Max or newer &nbsp; &mdash;&nbsp; You have got to listen to these conversations with Block's new Dessa AI model.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-24T17:04:52.023785+00:00",
+    "details": {}
   }
 ]
