@@ -1,31 +1,5 @@
 [
   {
-    "title": "Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales (Mark Gurman/Bloomberg)",
-    "link": "https://www.techmeme.com/261018/p8#a261018p8",
-    "summary": "كشفت تسريبات صحفية نقلًا عن بلومبرغ أن شركة أبل تخطط لإجراء تحديث شامل لمتاجر التجزئة في 6 نوفمبر المقبل، وهو ما يُرجح أنه موعد إطلاق أجهزة ماك الجديدة. كما ذكرت المصادر أن أجهزة HomeView ظلت مخزنة في المستودعات لأشهر، وأن الارتباك في الطلبات المسبقة لهاتف iPhone Duo قد يدفع المبيعات نحو طرازات 18 Pro.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "apple-nov-6-retail-reset-mac-release",
-    "event_key": "apple|2026 10|أجهزة وعتاد|mac|أمريكا الشمالية",
-    "company_name": "Apple",
-    "event_year_month": "2026-10",
-    "news_type": "أجهزة وعتاد",
-    "product_name": "Mac",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Apple",
-      "Mac",
-      "HomeView",
-      "Bloomberg"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-18T17:00:05.854900+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 228,
-    "telegram_message_url": "https://t.me/Eng_limitless/228"
-  },
-  {
     "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
     "link": "https://www.techmeme.com/261018/p9#a261018p9",
     "summary": "أفادت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة إنفيديا طلبت من سامسونج وSK Hynix وميكرون إنتاج القواعد الشريطية (Base dies) لذواكر NVHBM المخصصة عبر دقة تصنيع 3 نانومتر لدى TSMC. وأضافت المصادر أن سامسونج وافقت على الطلب، ما يشكل أول استخدام لسامسونج لخطوط إنتاج منافستها TSMC.",

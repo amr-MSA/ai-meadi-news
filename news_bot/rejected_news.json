@@ -15241,5 +15241,81 @@
     },
     "rejected_at": "2026-10-25T16:57:27.348930+00:00",
     "details": {}
+  },
+  {
+    "title": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)",
+    "link": "https://www.techmeme.com/261025/p9#a261025p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tom Matsuda / Financial Times : The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions &nbsp; &mdash;&nbsp; Record labels and artists including Taylor Swift and Ariana Grande are using the throwback music store to bolster their chart position and cash in on their fandom",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-25T17:28:10.442383+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used (Mark Gurman/Bloomberg)",
+    "link": "https://www.techmeme.com/261025/p8#a261025p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mark Gurman / Bloomberg : Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used &nbsp; &mdash;&nbsp; Also: The company rolls out a retail store tool to reduce wasted inventory.&nbsp; &mdash;&nbsp; Apple's touch-screen MacBook Pro will arrive on Wednesday &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-25T17:28:10.457156+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: A Morse code trainer whose landing page is the first lesson",
+    "link": "https://morse.iamcanturk.dev/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://morse.iamcanturk.dev/ Comments URL: https://news.ycombinator.com/item?id=50233666 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-25T17:28:10.467448+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Junior – an open-source AI junior engineer that runs on your Mac",
+    "link": "https://github.com/usejunior-sh/junior",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hi HN, I'm Samar, a software engineer. I built Junior because I was spending more time fixing CI issues, babysitting PRs and resolving merge conflicts. I thought maybe i should automate all of it, and that's why I started building Junior. Junior is an agent that runs locally on macOS and picks up that kind of work. It connects with my Linear, Slack, Github etc and autopicks work for himself. It wo",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-25T17:28:10.478567+00:00",
+    "details": {}
   }
 ]
