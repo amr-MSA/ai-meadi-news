@@ -1,81 +1,5 @@
 [
   {
-    "title": "Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation (Micah Maidenberg/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260924/p49#a260924p49",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Micah Maidenberg / Wall Street Journal : Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation &nbsp; &mdash;&nbsp; The space company wants to rapidly boost revenue in the coming years, betting its rockets will make it a powerful industry player",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T22:48:38.181049+00:00",
-    "details": {}
-  },
-  {
-    "title": "Laya \"System 1\" Code Intelligence for AI Agents",
-    "link": "https://github.com/leonardoventurini/scs",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/leonardoventurini/scs Comments URL: https://news.ycombinator.com/item?id=49837641 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T22:48:38.188183+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Jev-pilot – Jev picks Claude Code's effort, model and skill per prompt",
-    "link": "https://github.com/Akramovic1/jev-pilot",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/Akramovic1/jev-pilot Comments URL: https://news.ycombinator.com/item?id=49837537 Points: 2 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T22:48:38.196833+00:00",
-    "details": {}
-  },
-  {
-    "title": "OpenAI agent breached Australian government health website, Albanese says",
-    "link": "https://databreaches.net/2026/09/24/openai-agent-breached-australian-government-health-website-albanese-says/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Alexander Martin reports: An OpenAI agent gained “unauthorized access” to “non-public files” from an Australian government health website in June, Prime Minister Anthony Albanese said Wednesday. The agent — an AI system designed to carry out tasks autonomously — accessed a public portal for Medicare statistics, Albanese said at a press conference in New York... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-24T22:48:38.221175+00:00",
-    "details": {}
-  },
-  {
     "title": "Massachusetts' gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation (New York Times)",
     "link": "https://www.techmeme.com/260924/p54#a260924p54",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15297,6 +15221,25 @@
       "keywords": []
     },
     "rejected_at": "2026-10-24T22:08:08.233383+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches (Augusta Saraiva/Bloomberg)",
+    "link": "https://www.techmeme.com/261024/p10#a261024p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Augusta Saraiva / Bloomberg : A look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches &nbsp; &mdash;&nbsp; A new villain is emerging in the closing stretch of Brazil's bitterly contested presidential election: Meta Platforms Inc.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-25T02:06:45.060778+00:00",
     "details": {}
   }
 ]
