@@ -1,62 +1,5 @@
 [
   {
-    "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
-    "link": "https://www.techmeme.com/260925/p22#a260925p22",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "@openai : OpenAI says the 53 images its agents uploaded were on &ldquo;image-hosting sites as links that weren't publicly listed&rdquo; and &ldquo;most&rdquo; of the images have been removed &nbsp; &mdash;&nbsp; We've shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn't have. Most of that data did not come from us",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-25T22:55:21.253408+00:00",
-    "details": {}
-  },
-  {
-    "title": "FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with \"wills and desires\", suggesting developers hold liability (Reuters)",
-    "link": "https://www.techmeme.com/260925/p21#a260925p21",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Reuters : FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with &ldquo;wills and desires&rdquo;, suggesting developers hold liability &nbsp; &mdash;&nbsp; US Federal Trade Commission Chairman Andrew Ferguson said on Friday he would resist describing AI agents as autonomous actors that &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-25T22:55:21.269881+00:00",
-    "details": {}
-  },
-  {
-    "title": "Swift1.5-Qwen3.8-Flash-Next is phenomenal vs. base 3.8-Flash!",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wq56pf/swift15qwen38flashnext_is_phenomenal_vs_base/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "TL;DR - Swift Flash is a killer model that massively reduces excess reasoning. Try it out! If you haven't seen from my previous comparison posts , I'm a huge fan of the Swift Qwen3.8 models. I've been using 27B since it dropped, and I'm really impressed with the performance and quality (v1.5 is even better). The reduction in overthinking is a huge win, and quality seems to be essentially equivalen",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-25T22:55:21.283119+00:00",
-    "details": {}
-  },
-  {
     "title": "A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers (Alexandra Alper/Reuters)",
     "link": "https://www.techmeme.com/260925/p26#a260925p26",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15297,6 +15240,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-25T20:06:43.790277+00:00",
+    "details": {}
+  },
+  {
+    "title": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more (Terrence O'Brien/The Verge)",
+    "link": "https://www.techmeme.com/261025/p12#a261025p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Terrence O'Brien / The Verge : Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more &nbsp; &mdash;&nbsp; The opensource subreddit's new rules against AI have sparked a revolt. &hellip; The post made Saturday evening opens by saying &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-25T23:40:13.001581+00:00",
+    "details": {}
+  },
+  {
+    "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
+    "link": "https://www.techmeme.com/261025/p11#a261025p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Elon Musk / @elonmusk : Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face &ldquo;death and consolidation&rdquo; &nbsp; &mdash;&nbsp; Pretty much. As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn't have substantial revenue independent of AI data centers. Sp",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-25T23:40:13.016884+00:00",
+    "details": {}
+  },
+  {
+    "title": "CrowdGPT - A collaboratively trained LLM.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hello, I'm developing CrowdGPT , a project aiming to create an LLM without datacenters and without the usual millions of dollars spent by AI companies. The project aims to train a 1 billion parameter model collaboratively and openly, with a protocol where everyone gets a say in the direction the project takes. Anyone can use their PC to train the AI independently, then add their contributions to t",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-25T23:40:13.033161+00:00",
     "details": {}
   }
 ]
