@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
-    "link": "https://www.techmeme.com/261018/p9#a261018p9",
-    "summary": "أفادت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة إنفيديا طلبت من سامسونج وSK Hynix وميكرون إنتاج القواعد الشريطية (Base dies) لذواكر NVHBM المخصصة عبر دقة تصنيع 3 نانومتر لدى TSMC. وأضافت المصادر أن سامسونج وافقت على الطلب، ما يشكل أول استخدام لسامسونج لخطوط إنتاج منافستها TSMC.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "nvidia-samsung-tsmc-3nm-nvhbm",
-    "event_key": "nvidia|2026 10|أجهزة وعتاد|nvhbm|دولي",
-    "company_name": "Nvidia",
-    "event_year_month": "2026-10",
-    "news_type": "أجهزة وعتاد",
-    "product_name": "NVHBM",
-    "region": "دولي",
-    "keywords": [
-      "Nvidia",
-      "Samsung",
-      "TSMC",
-      "NVHBM",
-      "Semiconductors"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-18T19:48:42.724475+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 229,
-    "telegram_message_url": "https://t.me/Eng_limitless/229"
-  },
-  {
     "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
     "link": "https://www.techmeme.com/261018/p11#a261018p11",
     "summary": "أفاد تقرير صحفي نقلاً عن مصادر مطلعة أن شركة إنفيديا توفر شروط ائتمان ميسرة وتساعد في اختيار المواقع وتأمين عقود إيجار بقيمة تصل إلى 20 مليار دولار لدعم شركات تقديم الخدمات السحابية للذكاء الاصطناعي الحديثة (Neoclouds). وتأتي هذه الخطوة بالتوازي مع توقعات تنفيذيي القطاع بانهيار معظم هذه الشركات وبقاء 7 إلى 10 شركات فقط من بين المئات.",
