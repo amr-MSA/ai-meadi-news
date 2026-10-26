@@ -474,5 +474,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 244,
     "telegram_message_url": "https://t.me/Eng_limitless/244"
+  },
+  {
+    "title": "Elvis Presley's rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself (Derrick Bryson Taylor/New York Times)",
+    "link": "https://www.techmeme.com/261026/p7#a261026p7",
+    "summary": "أقام مالكو حقوق أعمال إلفيس بريسلي دعوى قضائية ضد شركة Anthropic مطالبين بتعويض يتجاوز 41 مليون دولار، بسبب استخدام 274 أغنية في تدريب نماذج الذكاء الاصطناعي دون الحصول على إذن، بينما أعلنت الشركة رفضها للاتهامات وعزمها الدفاع عن موقفها أمام القضاء.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "anthropic-elvis-presley-copyright-lawsuit",
+    "event_key": "anthropic|2026 10|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Anthropic",
+    "event_year_month": "2026-10",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Anthropic",
+      "إلفيس بريسلي",
+      "ذكاء اصطناعي",
+      "حقوق الملكية",
+      "دعوى قضائية"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-26T09:27:32.682399+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 245,
+    "telegram_message_url": "https://t.me/Eng_limitless/245"
   }
 ]
