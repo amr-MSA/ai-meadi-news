@@ -15298,5 +15298,81 @@
     },
     "rejected_at": "2026-10-25T23:40:13.033161+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex's China ties after Airwallex scrapped a Ramp deal (Michael Roddan/The Information)",
+    "link": "https://www.techmeme.com/261025/p14#a261025p14",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Michael Roddan / The Information : Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex's China ties after Airwallex scrapped a Ramp deal &nbsp; &mdash;&nbsp; In April 2025, Eric Glyman, co-founder and co-CEO of Ramp, received some bad news: A deal was falling apart.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-26T02:07:26.250445+00:00",
+    "details": {}
+  },
+  {
+    "title": "iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough (Elizabeth Chamberlain/iFixit News)",
+    "link": "https://www.techmeme.com/261025/p13#a261025p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Elizabeth Chamberlain / iFixit News : iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough &nbsp; &mdash;&nbsp; Apple's folding iPhone finally made it to our teardown table.&nbsp; Some owners' screens didn't make it through setup.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-26T02:07:26.265577+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+    "link": "https://freehire.me/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "freehire is a filterable, job board aggregator, job tracker, and AI-assisted resume tailoring tool. Saving your skills and preferences changes which jobs appear and how your resume gets tailored. I've looked at a lot of these solutions over the years and found it really hard to find the right mix of tools in an open-source offering. I've contributed to a few issues now and worked closely with the",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-26T02:07:26.276202+00:00",
+    "details": {}
+  },
+  {
+    "title": "Unique source blinded Dutch intelligence agencies to Putin's invasion",
+    "link": "https://www.volkskrant.nl/kijkverder/v/2026/russia-ukraine-intelligence-netherlands-investigation~v3114923/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.volkskrant.nl/kijkverder/v/2026/russia-ukraine-intelligence-netherlands-investigation~v3114923/ Comments URL: https://news.ycombinator.com/item?id=50237390 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-26T02:07:26.285922+00:00",
+    "details": {}
   }
 ]
