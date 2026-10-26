@@ -1,81 +1,5 @@
 [
   {
-    "title": "Walmart CEO John Furner says the company won't use its AI shopping assistant or electronic shelf labels to change product prices based on a shopper's identity (Gregory Meyer/Financial Times)",
-    "link": "https://www.techmeme.com/260926/p8#a260926p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Gregory Meyer / Financial Times : Walmart CEO John Furner says the company won't use its AI shopping assistant or electronic shelf labels to change product prices based on a shopper's identity &nbsp; &mdash;&nbsp; Largest US retailer issues open letter saying it will not use electronic shelf labels to change costs based on shopper identity",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-26T13:56:58.717677+00:00",
-    "details": {}
-  },
-  {
-    "title": "PitchBook: VCs have invested $4B+ in quantum computing companies YTD, almost as much as in all of 2025, which nearly matched the previous four years combined (Financial Times)",
-    "link": "https://www.techmeme.com/260926/p7#a260926p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : PitchBook: VCs have invested $4B+ in quantum computing companies YTD, almost as much as in all of 2025, which nearly matched the previous four years combined &nbsp; &mdash;&nbsp; The dawn of a new computing era may finally be here.&nbsp; Now the race is on to find a path to profit.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-26T13:56:58.733803+00:00",
-    "details": {}
-  },
-  {
-    "title": "Poland reports a second medical data cyberattack in recent weeks",
-    "link": "https://databreaches.net/2026/09/26/poland-reports-a-second-medical-data-cyberattack-in-recent-weeks/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Polish healthcare entities have been the victims of cyberattacks recently. First, it was the MyDr system. Now it&#8217;s a software manufacturer that markets the Medyc software used by Polish healthcare providers. Stanisław Kaleta reports: Poland has been hit by another medical data cyberattack, weeks after an unprecedented breach exposed the personal information of almost 19... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-26T13:56:58.765345+00:00",
-    "details": {}
-  },
-  {
-    "title": "Pentagon data breach of military personnel raises national security concerns",
-    "link": "https://databreaches.net/2026/09/26/pentagon-data-breach-of-military-personnel-raises-national-security-concerns/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Sean Lyngaas and Davis Winkie report: A data breach at the Pentagon’s vast HR system has exposed Social Security numbers and other personal information of current and former military personnel, raising counterintelligence concerns among national security experts. “Unauthorized users” gained access to a vulnerable computer server belonging to the Defense Manpower Data Center (DMDC) beginning... Sou",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-26T13:56:58.776364+00:00",
-    "details": {}
-  },
-  {
     "title": "Automattic has a new board after failed attempt to put CEO on leave",
     "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
     "source_name": "TechCrunch",
@@ -15221,6 +15145,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-26T09:27:32.706176+00:00",
+    "details": {}
+  },
+  {
+    "title": "Nevis, which uses AI to automate paperwork for financial advisors, raised a $70M Series B led by EQT Ventures, a source says at a $500M valuation (Camila Grigera Naón/Fortune)",
+    "link": "https://www.techmeme.com/261026/p33#a261026p33",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Camila Grigera Na&oacute;n / Fortune : Nevis, which uses AI to automate paperwork for financial advisors, raised a $70M Series B led by EQT Ventures, a source says at a $500M valuation &nbsp; &mdash;&nbsp; Americans want more financial advisors, but every day there are fewer to go around.&nbsp; One New York-based startup wants to help ease the squeeze &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-26T16:22:32.747992+00:00",
+    "details": {}
+  },
+  {
+    "title": "People who pay for Claude Code, edit your videos with this",
+    "link": "https://cutcrow.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://cutcrow.com/ Comments URL: https://news.ycombinator.com/item?id=50246343 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-26T16:22:32.757794+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "link": "https://github.com/FrigadeHQ/hob",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. Th",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-26T16:22:32.768379+00:00",
+    "details": {}
+  },
+  {
+    "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "First, this isn’t clickbait - these are real results. I managed to run Qwen 3.8 Flash Next Q2 and got better results in benchmarks and real-world tests than I did with any Qwen 3.6 35B A3B fine-tune or Qwen 3.8 27B model I tested. It is also faster than my current Qwen 3.6 35B A3B setup. Here are the details. About a week ago, I learned about Strata and what it can do from this subreddit. Its abil",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-26T16:22:32.781342+00:00",
+    "details": {}
+  },
+  {
+    "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "i hope it's real &#32; submitted by &#32; /u/MundanePercentage674 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-26T16:22:32.793633+00:00",
     "details": {}
   }
 ]

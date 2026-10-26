@@ -501,5 +501,32 @@
     "reliability_level": "🟢",
     "telegram_message_id": 245,
     "telegram_message_url": "https://t.me/Eng_limitless/245"
+  },
+  {
+    "title": "Microsoft offers buyouts to ~60K workers at VP level and below across teams in the US, Canada, India, and the UK; its headcount at the end of June was 223K (Bloomberg)",
+    "link": "https://www.techmeme.com/261026/p32#a261026p32",
+    "summary": "كشفت تقارير صحفية أن شركة مايكروسوفت بدأت تقديم عروض تسوية واستقالة اختيارية لنحو 60 ألف موظف من مستوى نائب الرئيس فما دون في الولايات المتحدة وكندا والهند والمملكة المتحدة، وذلك في إطار مساعيها لتقليص التكاليف وإعادة هيكلة القوى العاملة للتكيف مع عصر الذكاء الاصطناعي.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "microsoft-buyouts-60k-employees",
+    "event_key": "microsoft|2026 10|أعمال وتقنية|غير محدد|دولي",
+    "company_name": "Microsoft",
+    "event_year_month": "2026-10",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "دولي",
+    "keywords": [
+      "مايكروسوفت",
+      "تسريح موظفين",
+      "إعادة هيكلة",
+      "تسوية اختيارية",
+      "ذكاء اصطناعي"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-26T16:22:32.730112+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 248,
+    "telegram_message_url": "https://t.me/Eng_limitless/248"
   }
 ]
