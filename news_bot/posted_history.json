@@ -591,5 +591,31 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Memo: Amazon says measuring AI adoption solely by token usage or code generation is \"deeply flawed,\" as it discourages staff from tokenmaxxing (Annie Palmer/CNBC)",
+    "link": "https://www.techmeme.com/261027/p27#a261027p27",
+    "summary": "كشفت مذكرة داخلية مسربة من شركة أمازون عن توجيهات موجهة لمهندسي البرمجيات بشأن استخدام أدوات الذكاء الاصطناعي، حيث اعتبرت الشركة أن تقييم نسبة التبني بناءً على عدد الرموز المستهلكة أو البرمجيات المنشأة ينطوي على خلل ويؤدي إلى استهلاك غير مجدٍ.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "amazon-internal-memo-ai-metrics",
+    "event_key": "amazon|2026 10|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Amazon",
+    "event_year_month": "2026-10",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Amazon",
+      "AI",
+      "Memo",
+      "Software Engineering"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-27T20:17:41.326247+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 253,
+    "telegram_message_url": "https://t.me/Eng_limitless/253"
   }
 ]

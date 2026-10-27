@@ -1,100 +1,5 @@
 [
   {
-    "title": "A profile of Jaan Tallinn, who led Anthropic's $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives (Kate Clark/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260927/p9#a260927p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Kate Clark / Wall Street Journal : A profile of Jaan Tallinn, who led Anthropic's $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives &nbsp; &mdash;&nbsp; One of Anthropic's earliest investors, Jaan Tallinn dances hip-hop and warns about &lsquo;racing to build a technology that could end humanity&rsquo;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T19:25:34.551039+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: China's government asked Alibaba, ByteDance, and others to report on their plans to buy Nvidia RTX Pro 5500, saying it intends to approve the purchases (Qianer Liu/The Information)",
-    "link": "https://www.techmeme.com/260927/p8#a260927p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Qianer Liu / The Information : Sources: China's government asked Alibaba, ByteDance, and others to report on their plans to buy Nvidia RTX Pro 5500, saying it intends to approve the purchases &nbsp; &mdash;&nbsp; China's government has signaled it could allow some domestic companies to buy a new Nvidia chip built for high-end professional computers &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T19:25:34.570743+00:00",
-    "details": {}
-  },
-  {
-    "title": "Boonful – Claude Code can publish and sell what it builds",
-    "link": "https://boonful.io",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://boonful.io Comments URL: https://news.ycombinator.com/item?id=49869937 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T19:25:34.583291+00:00",
-    "details": {}
-  },
-  {
-    "title": "We made our launch video with Claude Code (and open-sourced the tool)",
-    "link": "https://kiln.tech/blog/we_made_our_launch_video_in_claude_code",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://kiln.tech/blog/we_made_our_launch_video_in_claude_code Comments URL: https://news.ycombinator.com/item?id=49869834 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T19:25:34.596502+00:00",
-    "details": {}
-  },
-  {
-    "title": "Adding logit penalty for \"wait\", \"maybe\" and \"perhaps\" to Qwen models improves their accuracy",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Meta came out with a banger paper https://arxiv.org/pdf/2606.00206 , but it did not look at various quantizations supported in llama.cpp. So I did a run on 50 random MATH-500 questions ( https://huggingface.co/datasets/HuggingFaceH4/MATH-500 ) and ran it on various quantizations of https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF and tried --logit-bias 466-2 --logit-bias 694-2 --logit-bias 13",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T19:25:34.610979+00:00",
-    "details": {}
-  },
-  {
     "title": "rohitg00/ai-engineering-from-scratch",
     "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15246,6 +15151,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-27T18:32:56.831398+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares (Anthony Hughes/Bloomberg)",
+    "link": "https://www.techmeme.com/261027/p28#a261027p28",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anthony Hughes / Bloomberg : Sources: Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares &nbsp; &mdash;&nbsp; Meta Platforms Inc.'s upsized $25 billion share sale attracted demand for about five times the available shares &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T20:17:41.343782+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ask HN: Will Open Source force companies like Anthropic to shift their focus?",
+    "link": "https://news.ycombinator.com/item?id=50263936",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "What I mean by this, will Open Source own the creating of amazing models and cause companies like OpenAI and Anthropic to focus on verticals? I know there's a high costs right now for training models, but I'm sure innovation will change this long term. Comments URL: https://news.ycombinator.com/item?id=50263936 Points: 3 # Comments: 4",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T20:17:41.353851+00:00",
+    "details": {}
+  },
+  {
+    "title": "Muse Referral Code – If you need extra usage credits",
+    "link": "https://news.ycombinator.com/item?id=50263110",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Code: WEVJW8 Comments URL: https://news.ycombinator.com/item?id=50263110 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T20:17:41.363259+00:00",
+    "details": {}
+  },
+  {
+    "title": "I am a King, but local 😂",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I am feeling like a mighty local King spinning two Strata engines with 70tps each whole day and using 12M tokens a day. Also me scrolling twitter and stumbling upon a post saying that poteto uses 34M tokens per minute 🤪 Upd: Guys are interested who is she and what she is doing with all these tokens. Poteto is her twitter nickname and she worked in Cursor before XAI has acquired them and now she is",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T20:17:41.371820+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hacking attempts against US Federal Election Commission system triggered outage, email shows",
+    "link": "https://databreaches.net/2026/10/27/hacking-attempts-against-us-federal-election-commission-system-triggered-outage-email-shows/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Dawn Kopecki reports: The US Federal Election Commission&#8217;s website has been targeted by a hacker or hackers, disrupting the agency&#8217;s electronic filings system a week before the November 3 elections, according to an email seen by Reuters. In a statement, the FEC said that, &#8220;at this time, the FEC’s electronic filing system is currently offline...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T20:17:41.401268+00:00",
     "details": {}
   }
 ]
