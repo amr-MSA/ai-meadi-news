@@ -1,195 +1,5 @@
 [
   {
-    "title": "tensorflow/tensorflow",
-    "link": "https://github.com/tensorflow/tensorflow",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "An Open Source Machine Learning Framework for Everyone https://tensorflow.org Documentation TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools , libraries , and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications. TensorFlow was originally dev",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:03.431996+00:00",
-    "details": {}
-  },
-  {
-    "title": "block/buzz",
-    "link": "https://github.com/block/buzz",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "A hive mind communication platform Buzz 🐝 A workspace where humans and agents build together, on a relay you own. Vision · Sovereign · Forge · Agents · Architecture · Releasing · Apache 2.0 People and agents building together in the same room. What is this, really? Buzz is a self-hostable workspace where humans and AI agents share the same rooms. A Buzz community is the workspace a user reaches by",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:03.448662+00:00",
-    "details": {}
-  },
-  {
-    "title": "microsoft/vscode",
-    "link": "https://github.com/microsoft/vscode",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Visual Studio Code https://code.visualstudio.com Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\" Code - OSS \") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here, but we also publish our roadmap , monthly iteration plans , and our endgame plans . This source code is available to e",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:03.455551+00:00",
-    "details": {}
-  },
-  {
-    "title": "anthropics/claude-code-action",
-    "link": "https://github.com/anthropics/claude-code-action",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Claude Code Action A general-purpose Claude Code action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context—whether responding to @claude mentions, issue assignments, or executing automation tasks with explicit prompts. It supports multiple authentication methods including Anthropic direct",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:03.466918+00:00",
-    "details": {}
-  },
-  {
-    "title": "actions/runner-images",
-    "link": "https://github.com/actions/runner-images",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "GitHub Actions runner images GitHub Actions Runner Images Table of Contents About Available Images Announcements Image Definitions Image Releases Software and Image Support How to Interact with the Repo FAQs About This repository contains the source code used to create the VM images for GitHub-hosted runners used for Actions, as well as for Microsoft-hosted agents used for Azure Pipelines. To buil",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:03.474340+00:00",
-    "details": {}
-  },
-  {
-    "title": "mobile-next/mobile-mcp",
-    "link": "https://github.com/mobile-next/mobile-mcp",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) https://mobilenext.ai Mobile Next - MCP server for Mobile Development and Automation | iOS, Android, Simulator, Emulator, and Real Devices English | 日本語 | 简体中文 This is an MCP Server that enables scalable mobile automation, development through a platform-agnostic interface, elimin",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:03.482221+00:00",
-    "details": {}
-  },
-  {
-    "title": "vercel/next.js",
-    "link": "https://github.com/vercel/next.js",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "The React Framework https://nextjs.org Next.js Getting Started Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds. Visit our Learn Next.js course to get started with Next.js. Visit the Next.js Showcase to see more sites built wi",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:03.489373+00:00",
-    "details": {}
-  },
-  {
-    "title": "How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry (Wall Street Journal)",
-    "link": "https://www.techmeme.com/260927/p4#a260927p4",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Wall Street Journal : How effective altruism shaped AI safety and Anthropic; some early Anthropic employees are considering buying remote US land for relocation if AI goes awry &nbsp; &mdash;&nbsp; Effective altruism and its fears that AI could wipe out humanity have wielded big influence at Anthropic",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:19.170350+00:00",
-    "details": {}
-  },
-  {
-    "title": "New York City-based HIFI, which provides API infrastructure for stablecoin payments and settlements, raised a $37M Series A led by Left Lane Capital (Brian Danga/The Block)",
-    "link": "https://www.techmeme.com/260927/p3#a260927p3",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Brian Danga / The Block : New York City-based HIFI, which provides API infrastructure for stablecoin payments and settlements, raised a $37M Series A led by Left Lane Capital &nbsp; &mdash;&nbsp; The funding follows HIFI's role in DTCC's July tokenized-asset trades and a September Visa partnership for stablecoin-funded payouts.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:19.184180+00:00",
-    "details": {}
-  },
-  {
-    "title": "5 items in MiMo-V2.6",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wrf7ac/5_items_in_mimov26/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "3 visible models are 1T, 311B and 9B, let's dream about two more... ;) &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T10:58:19.200883+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei (Axios)",
     "link": "https://www.techmeme.com/260927/p7#a260927p7",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15227,6 +15037,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-27T09:25:03.247214+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable (Stephanie Palazzolo/The Information)",
+    "link": "https://www.techmeme.com/261027/p22#a261027p22",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Stephanie Palazzolo / The Information : Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable &nbsp; &mdash;&nbsp; When Anthropic on Monday dropped its long-awaited initial public offering prospectus filing, a lot of the details &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T15:36:04.071092+00:00",
+    "details": {}
+  },
+  {
+    "title": "London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed (Rya Jetha/Business Insider)",
+    "link": "https://www.techmeme.com/261027/p21#a261027p21",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Rya Jetha / Business Insider : London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed &nbsp; &mdash;&nbsp; A London-based robotics startup is betting it can teach robots new tricks without collecting the mountains of real-world data its much bigger rivals are chasing.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T15:36:04.085086+00:00",
+    "details": {}
+  },
+  {
+    "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "HF traces: https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces 1. Understand the Python script: ids ids = dataset[0][&quot;token_ids&quot;] if len(ids) &lt; 2323: raise ValueError(&quot;The trace is shorter than the required 2,323-token prefix.&quot;) ids = ids[:2323] # stop just before the URL, at the end of ...ABC123 = dataset[0][&quot;token_ids&quot;] if len(ids) &lt; 2",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T15:36:04.095584+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Well, “coming soon” turned out to be five days. I posted the earlier announcement last week. The 1019 weights are now on Hugging Face . Still 560B total, 25B active, with a 1M context window. This is the update they reported at 44 on the AA Intelligence Index v4.3.2, up from 41. AutomationBench-AA went from 62% to 68%, according to the release. They also put out Ling-3.1-flash-base in BF16 for fur",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T15:36:04.105975+00:00",
+    "details": {}
+  },
+  {
+    "title": "System Note: October 27, 2026",
+    "link": "https://databreaches.net/2026/10/27/system-note-october-27-2026/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Unfortunately, a backup failure has resulted in the loss of media files and documents attached to posts. They will be restored eventually, but restoring files will take time. To make matters worse, I was offline for days because I was hospitalized. Beginning today, I will start catching up on this blog. Thank you to everyone...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T15:36:04.114211+00:00",
     "details": {}
   }
 ]
