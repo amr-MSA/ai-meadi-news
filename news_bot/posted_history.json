@@ -509,5 +509,32 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Nvidia and Meta expand their Muse partnership, including Meta deploying more Vera Rubin and Vera CPUs; Nvidia will invest $3B in Meta's planned equity fundraise (Wall Street Journal)",
+    "link": "https://www.techmeme.com/261027/p3#a261027p3",
+    "summary": "أفادت تقارير نقلاً عن صحيفة وول ستريت جورنال بتوسيع الشراكة بين شركتي إنفيديا وميتا، حيث تخطط ميتا لنشر المزيد من معالجات Vera وVera Rubin لتعزيز بنيتها التحتية. وتتضمن الصفقة استثمار إنفيديا 3 مليارات دولار في حملة ميتا لجمع تمويل يصل إلى 95 مليار دولار عبر طرح أسهم جديدة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "nvidia-meta-3b-investment-partnership",
+    "event_key": "nvidia|2026 10|أعمال وتقنية|vera rubin|أمريكا الشمالية",
+    "company_name": "Nvidia",
+    "event_year_month": "2026-10",
+    "news_type": "أعمال وتقنية",
+    "product_name": "Vera Rubin",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Nvidia",
+      "Meta",
+      "Vera Rubin",
+      "شراكة",
+      "استثمار"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-27T09:25:03.235284+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 250,
+    "telegram_message_url": "https://t.me/Eng_limitless/250"
   }
 ]
