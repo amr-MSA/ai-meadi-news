@@ -1,43 +1,5 @@
 [
   {
-    "title": "New to playing around with local ai. why are they free?",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I am new to playing around with local ai and have a ton to learn about it but I was curious, why are they (who is they?) releasing them for free, don't they want you to pay them to use them, why release free models? &#32; submitted by &#32; /u/poofph [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T00:00:47.224358+00:00",
-    "details": {}
-  },
-  {
-    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-    "link": "https://databreaches.net/2026/09/26/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Zack Whittaker reports today&#8217;s nominee for the &#8220;No need to hack when it&#8217;s leaking&#8221; honors: Thousands of databases hosted by development platform Supabase are exposing people’s sensitive information to the public web, new security research by cybersecurity firm UpGuard has found. UpGuard told TechCrunch that it found around 16,000 databases on which some degree of... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-27T00:00:47.248895+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking (Madison Mills/Axios)",
     "link": "https://www.techmeme.com/260926/p20#a260926p20",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15132,6 +15094,63 @@
       "keywords": []
     },
     "rejected_at": "2026-10-26T22:02:08.787474+00:00",
+    "details": {}
+  },
+  {
+    "title": "China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)",
+    "link": "https://www.techmeme.com/261026/p51#a261026p51",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month &nbsp; &mdash;&nbsp; While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T02:45:01.799384+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ahead of US midterms, ChatGPT draws images \"depicting election interference or that may discourage voting\" in a cartoon style, ignoring photorealism requests (Katelyn Chedraoui/CNET)",
+    "link": "https://www.techmeme.com/261026/p50#a261026p50",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Katelyn Chedraoui / CNET : Ahead of US midterms, ChatGPT draws images &ldquo;depicting election interference or that may discourage voting&rdquo; in a cartoon style, ignoring photorealism requests &nbsp; &mdash;&nbsp; ChatGPT is cracking down on photorealistic, political deepfakes ahead of next week's US midterm elections.&nbsp; &mdash;&nbsp; Reporter 2",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T02:45:01.809580+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen investigation traces release",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "In the spirit of transparency and openness, we are releasing the traces so developers can test this out for themselves. We noticed this behaviour without prefilling with the following prompt, but this is rare. If you want to reproduce it, you can use this prompt with prefilling. Open models make for better science and are part of why this problem came to light at all: developers running Qwen3.8 on",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-27T02:45:01.823846+00:00",
     "details": {}
   }
 ]
