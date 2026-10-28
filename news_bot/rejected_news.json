@@ -1,195 +1,5 @@
 [
   {
-    "title": "InfinityLoop1308/PipePipe",
-    "link": "https://github.com/InfinityLoop1308/PipePipe",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "An open-source Android app to let you browse YouTube and other services freely. https://pipepipe.dev PipePipe NewPipe, reimagined: faster, more stable, and packed with more features. Beyond NewPipe YouTube Enhancements Integrate SponsorBlock for skipping sponsored segments (YouTube &amp; BiliBili) Restore YouTube dislikes with ReturnYouTubeDislike Show original titles on YouTube (non-localized) Lo",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:15:45.672165+00:00",
-    "details": {}
-  },
-  {
-    "title": "vercel-labs/scriptc",
-    "link": "https://github.com/vercel-labs/scriptc",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "TypeScript-to-Native Compiler https://scriptc.dev scriptc scriptc compiles TypeScript and JavaScript to typed IR, readable C, textual LLVM IR, native assembly and objects, native executables, and WebAssembly modules. It uses the TypeScript compiler for parsing and type checking. Source outputs require only Node. On macOS 15+ arm64, ordinary LLVM-tier executables use scriptc's bundled helper and pr",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:15:45.682109+00:00",
-    "details": {}
-  },
-  {
-    "title": "mvschwarz/openrig",
-    "link": "https://github.com/mvschwarz/openrig",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Multi-agent harness that runs Claude Code and Codex together as one system https://openrig.dev OpenRig A harness wraps a model. A rig wraps your harnesses. Define your agent team in YAML, boot it with one command. Claude Code and Codex in the same rig, managed as one system. OpenRig turns AI coding agents from a pile of terminal sessions into a persistent, organized team. Talk to a lead agent abou",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:15:45.692172+00:00",
-    "details": {}
-  },
-  {
-    "title": "willfaust/Madeira",
-    "link": "https://github.com/willfaust/Madeira",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT Madeira Run Windows PC games on a non-jailbroken iPhone. Madeira combines Wine (ARM64EC), FEX-Emu for x86-64 → ARM64 translation, and DXMT for D3D11 → Metal, running as a single Mach process on iOS with wineserver as a thread rather than a separate process. Status Thumper and ULTRAKILL are playable. Marvel Cosmic Invasion has reac",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:15:45.710704+00:00",
-    "details": {}
-  },
-  {
-    "title": "Uber removes its branding from Uber Safari 4x4 vehicles in Nairobi National Park due to safety concerns and fierce pushback from local guides and tour operators (Caroline Kimeu/Wall Street Journal)",
-    "link": "https://www.techmeme.com/260928/p10#a260928p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Caroline Kimeu / Wall Street Journal : Uber removes its branding from Uber Safari 4x4 vehicles in Nairobi National Park due to safety concerns and fierce pushback from local guides and tour operators &nbsp; &mdash;&nbsp; Ride-hailing company's new business has ignited a fight with traditional wildlife guides&nbsp; &mdash;&nbsp; NAIROBI&mdash;Uber's new Kenyan safari business &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:16:13.444820+00:00",
-    "details": {}
-  },
-  {
-    "title": "Alexandr Wang says Meta built Muse \"to help people build the world they want\", offering \"every person on earth ... a second mind beyond their own\" (Alexandr Wang/@alexandr_wang)",
-    "link": "https://www.techmeme.com/260928/p9#a260928p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Alexandr Wang / @alexandr_wang : Alexandr Wang says Meta built Muse &ldquo;to help people build the world they want&rdquo;, offering &ldquo;every person on earth ... a second mind beyond their own&rdquo; &nbsp; &mdash;&nbsp; Here's to the wanting. Here's to the dreaming. Here's to everyone. https://x.com/...",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:16:13.463450+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: WorkContext – Open-Source AI Context Layer for Dev Teams",
-    "link": "https://www.workcontext.me/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.workcontext.me/ Comments URL: https://news.ycombinator.com/item?id=49875618 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:16:13.476652+00:00",
-    "details": {}
-  },
-  {
-    "title": "Underreported in the US: new site uses open source LLMs to find underovered news",
-    "link": "https://pressaudit.org/f/findings/underreported-in-the-us?view=article-bias-heatmap&timeRange=7d",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://pressaudit.org/f/findings/underreported-in-the-us?view=article-bias-heatmap&amp;timeRange=7d Comments URL: https://news.ycombinator.com/item?id=49874758 Points: 2 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:16:13.489378+00:00",
-    "details": {}
-  },
-  {
-    "title": "GPT-3 is discontinued today",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "It had such a long run. It was my first introduction to modern language models. I remember getting slightly excited over it. And now it lives purely in our memories. Arguably what's more infuriating is that they suggest using GPT-5.6 Terra as a replacement. Keep in mind that Babbage is a model that's literally 3/4 of the size than MiniCPM5 2B. Even Luna might be overkill as a replacement. But neit",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:16:13.499598+00:00",
-    "details": {}
-  },
-  {
-    "title": "FT: Corporate America rejects overpriced frontier, embraces open models",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wrzpzg/ft_corporate_america_rejects_overpriced_frontier/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/chocolateUI [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T10:16:13.511715+00:00",
-    "details": {}
-  },
-  {
     "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)",
     "link": "https://www.techmeme.com/260928/p32#a260928p32",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15493,6 +15303,101 @@
       "keywords": []
     },
     "rejected_at": "2026-10-28T07:40:32.363716+00:00",
+    "details": {}
+  },
+  {
+    "title": "Dropbox plans to cut ~6% of its staff, or ~200 jobs, costing $27M to $33M in severance and related costs, and says CTO Ali Dasdan will step down on November 18 (Anhata Rooprai/Reuters)",
+    "link": "https://www.techmeme.com/261028/p31#a261028p31",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anhata Rooprai / Reuters : Dropbox plans to cut ~6% of its staff, or ~200 jobs, costing $27M to $33M in severance and related costs, and says CTO Ali Dasdan will step down on November 18 &nbsp; &mdash;&nbsp; File hosting service Dropbox (DBX.O) said on Wednesday it would cut its global workforce by about 9% to align investments &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T14:39:05.512501+00:00",
+    "details": {}
+  },
+  {
+    "title": "X adds an intrusive promotional animation of an arm reaching across the screen to direct users to a \"promote\" post button, targeting verified and Premium users (Andrew Liszewski/The Verge)",
+    "link": "https://www.techmeme.com/261028/p30#a261028p30",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Andrew Liszewski / The Verge : X adds an intrusive promotional animation of an arm reaching across the screen to direct users to a &ldquo;promote&rdquo; post button, targeting verified and Premium users &nbsp; &mdash;&nbsp; You have to hand it to X's latest promotional gimmick.&#65279;&nbsp; &mdash;&nbsp; After Elon Musk warned that &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T14:39:05.520480+00:00",
+    "details": {}
+  },
+  {
+    "title": "AMA Announcement: MOSS, the Team Behind MOSS-Image, MOSS-TTS, and More (Friday, Oct 30, 8–11 AM PT)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xhouci/ama_announcement_moss_the_team_behind_mossimage/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hi r/LocalLLaMA 👋 We’re welcoming the MOSS team for an AMA this Friday, October 30, from 8–11 AM PT ! They’re bringing the whole MOSS model family: speech, sound, music, images, and video—with a particular focus on their recent MOSS-Image release. ⚠️ Note : The AMA itself will be hosted in a separate thread , please don’t post questions here. &#32; submitted by &#32; /u/Aggressive-Sign-8167 [link]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T14:39:05.527488+00:00",
+    "details": {}
+  },
+  {
+    "title": "KR: Bithumb discloses data leak after internal system breach; One of three financial firm breaches reported that day",
+    "link": "https://databreaches.net/2026/10/28/kr-bithumb-discloses-data-leak-after-internal-system-breach-one-of-three-financial-firm-breaches-reported-that-day/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "CoinTelegraph reports: South Korea’s crypto exchange Bithumb is investigating the extent of a data leak caused by a hack of its internal mobile system earlier this week, Yonhap News Agency reported Wednesday. Bithumb discovered the breach of its in-house mobile system — the platform used by employees to communicate internally — on Tuesday and notified...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T14:39:05.538334+00:00",
+    "details": {}
+  },
+  {
+    "title": "Japanese internet giant GMO tells customers to shut down and disconnect PCs from the internet following data breach and ransomware threat",
+    "link": "https://databreaches.net/2026/10/28/japanese-internet-giant-gmo-tells-customers-to-shut-down-and-disconnect-pcs-from-the-internet-following-data-breach-and-ransomware-threat/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Sead Fadilpašić reports: Japanese internet giant GMO Group has told its customers to scan their computers for viruses, back up all of their data, disconnect the devices from the internet and then shut them down. The announcement, which literally told customers, “unplug any cords connected to your PC,&#8221; was made in response to a cyberattack...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T14:39:05.544809+00:00",
     "details": {}
   }
 ]
