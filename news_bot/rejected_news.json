@@ -15247,5 +15247,119 @@
     },
     "rejected_at": "2026-10-27T20:17:41.401268+00:00",
     "details": {}
+  },
+  {
+    "title": "Source: OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to \"lead the optimization\" of its models on TPUs (Ryan Barwick/The Information)",
+    "link": "https://www.techmeme.com/261027/p39#a261027p39",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ryan Barwick / The Information : Source: OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to &ldquo;lead the optimization&rdquo; of its models on TPUs &nbsp; &mdash;&nbsp; OpenAI plans to buy Google's AI chips, according to a person familiar with the matter, in a boost for a rising competitor to OpenAI backer Nvidia.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T00:48:32.380643+00:00",
+    "details": {}
+  },
+  {
+    "title": "An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that \"hunger beats tenure\" (Felix Rieseberg)",
+    "link": "https://www.techmeme.com/261027/p38#a261027p38",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Felix Rieseberg : An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that &ldquo;hunger beats tenure&rdquo; &nbsp; &mdash;&nbsp; This month, I laid the traditional coding interview to rest.&nbsp; As a hiring manager at Anthropic, I stopped asking candidates to do them.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T00:48:32.388274+00:00",
+    "details": {}
+  },
+  {
+    "title": "Zen: System-wide open source ad-blocker for Windows, macOS, and Linux",
+    "link": "https://irbis.sh/zen",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://irbis.sh/zen Comments URL: https://news.ycombinator.com/item?id=50267368 Points: 3 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T00:48:32.393991+00:00",
+    "details": {}
+  },
+  {
+    "title": "Thirty years of comments in webpage source code",
+    "link": "https://blog.willmeye.rs/thirty-years-of-comments-in-webpage-source-cod/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://blog.willmeye.rs/thirty-years-of-comments-in-webpage-source-cod/ Comments URL: https://news.ycombinator.com/item?id=50267359 Points: 3 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T00:48:32.398918+00:00",
+    "details": {}
+  },
+  {
+    "title": "The reason why 5090's are $10k now...",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Different_Fix_2217 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T00:48:32.408810+00:00",
+    "details": {}
+  },
+  {
+    "title": "Navigate360’s lack of transparency is catching up with them; More organizations tell people NOT to use their tiplines.",
+    "link": "https://databreaches.net/2026/10/27/navigate360s-lack-of-transparency-is-catching-up-with-them-more-organizations-tell-people-not-to-use-their-tiplines/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Multiple Ontario Crime Stoppers organizations have suspended use due to Navigate360&#8217;s data breach and unacceptable incident response; U.S. state education departments are collaborating to seek more answers from Navigate360; an update from DataBreaches.net. Toronto Crime Stoppers didn&#8217;t take long to respond after Valérie Ouellet and Michelle Allan dove into the Crime Stoppers data in th",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T00:48:32.415659+00:00",
+    "details": {}
   }
 ]
