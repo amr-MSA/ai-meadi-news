@@ -1,366 +1,5 @@
 [
   {
-    "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)",
-    "link": "https://www.techmeme.com/260928/p32#a260928p32",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anthropic : Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon &nbsp; &mdash;&nbsp; Sonnet 5.5 is a faster, lower-cost complement to Claude Opus 5.5.&nbsp; Where Opus 5.5 is built for complex work requiring careful judgment &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T18:53:37.027697+00:00",
-    "details": {}
-  },
-  {
-    "title": "Google says it will migrate Gems, which let users create custom versions of Gemini, to \"skills\", starting Nov. 17; Google introduced skills with Gemini Spark (Abner Li/9to5Google)",
-    "link": "https://www.techmeme.com/260928/p31#a260928p31",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Abner Li / 9to5Google : Google says it will migrate Gems, which let users create custom versions of Gemini, to &ldquo;skills&rdquo;, starting Nov. 17; Google introduced skills with Gemini Spark &nbsp; &mdash;&nbsp; In 2024, Google introduced Gems as &ldquo;custom versions of Gemini.&rdquo;&nbsp; The Gemini app will soon replace Gems with &ldquo;skills.&rdquo;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T18:53:37.045841+00:00",
-    "details": {}
-  },
-  {
-    "title": "Finally found a model my hardware can run at full precision: me",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Was getting bored trying to squeeze every last t/s out of my local model on my hardware, so I made a tps counter for my fingers instead (with real tokenizers, of course). My best is around 2 t/s. According to the page, that beats a 70B on a laptop CPU and is roughly 76x slower than an 8B on a 4090. So yeah. If you want something to do while waiting for your LLM to answer, give it a try! https://ho",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T18:53:37.057904+00:00",
-    "details": {}
-  },
-  {
-    "title": "NVIDIA shipped OpenShell, an open source sandbox that gives local and open agents real runtime limits instead of prompt rules. Over 100 firms joined the safety stack. OpenAI did not.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ws9ydg/nvidia_shipped_openshell_an_open_source_sandbox/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "https://x.com/JensenHuang/status/2104499465055023424 &#32; submitted by &#32; /u/InternationalGap3698 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T18:53:37.075568+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hogan Lovells Cadwalader hacked by Silent Ransom Group; re-attacked after they wouldn’t pay",
-    "link": "https://databreaches.net/2026/09/28/hogan-lovells-cadwalader-hacked-by-silent-ransom-group-re-attacked-after-they-wouldnt-pay/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Numerous major law firms have fallen prey to the Silent Ransom Group this year. Now DataBreaches provides exclusive details on SRG&#8217;s recent attacks on Hogan Lovells Cadwalader. Yes, that&#8217;s &#8220;attacks,&#8221; plural. When New York City&#8217;s oldest law firm, Cadwalader, Wickersham &#38; Taft, merged with Hogan Lovells in 2022, it combined two powerhouse firms. Yet despite... Sourc",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T18:53:37.089704+00:00",
-    "details": {}
-  },
-  {
-    "title": "Still on probation from previous arrest for hacking and extortion, Dutch national is arrested again (1)",
-    "link": "https://databreaches.net/2026/09/28/still-on-probation-from-previous-arrest-for-hacking-and-extortion-dutch-national-is-arrested-again/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "In June 2023, DataBreaches reported on the arrest of a young Dutch national who was a highly respected &#8220;white hat&#8221; by day but also a prolific &#8220;black hat.&#8221; History seems to have repeated itself. Pepijn van der S. has been arrested once again for criminal activities. The Past Predicted the Present Pepijn van der Stap,... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T18:53:37.103480+00:00",
-    "details": {}
-  },
-  {
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "source_name": "TechCrunch",
-    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-    "reason": "مكرر داخل دفعة RSS الحالية",
-    "rejection_stage": "batch-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T19:59:14.392923+00:00",
-    "details": {}
-  },
-  {
-    "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-    "source_name": "BleepingComputer",
-    "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:48.905882+00:00",
-    "details": {}
-  },
-  {
-    "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
-    "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-    "source_name": "BleepingComputer",
-    "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:48.916716+00:00",
-    "details": {}
-  },
-  {
-    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-    "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-    "source_name": "BleepingComputer",
-    "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:48.928010+00:00",
-    "details": {}
-  },
-  {
-    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-    "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-    "source_name": "BleepingComputer",
-    "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:48.938846+00:00",
-    "details": {}
-  },
-  {
-    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-    "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-    "source_name": "BleepingComputer",
-    "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:48.949998+00:00",
-    "details": {}
-  },
-  {
-    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-    "source_name": "BleepingComputer",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:48.960409+00:00",
-    "details": {}
-  },
-  {
-    "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-    "source_name": "BleepingComputer",
-    "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:48.972570+00:00",
-    "details": {}
-  },
-  {
-    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-    "source_name": "BleepingComputer",
-    "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:48.983148+00:00",
-    "details": {}
-  },
-  {
-    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-    "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-    "source_name": "BleepingComputer",
-    "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:48.993736+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-    "source_name": "BleepingComputer",
-    "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:49.005298+00:00",
-    "details": {}
-  },
-  {
-    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-    "source_name": "BleepingComputer",
-    "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:49.015580+00:00",
-    "details": {}
-  },
-  {
-    "title": "Pirating the Pirates",
-    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T20:00:49.045153+00:00",
-    "details": {}
-  },
-  {
     "title": "Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June (Wall Street Journal)",
     "link": "https://www.techmeme.com/260928/p42#a260928p42",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15626,6 +15265,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-28T18:39:33.117557+00:00",
+    "details": {}
+  },
+  {
+    "title": "Alphabet reports Q3 YouTube ad revenue up 9% YoY to $11.2B, below estimates, and Google ad revenue hit $82.01B, up from $74.18B in Q3 2025 (Todd Spangler/Variety)",
+    "link": "https://www.techmeme.com/261028/p50#a261028p50",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Todd Spangler / Variety : Alphabet reports Q3 YouTube ad revenue up 9% YoY to $11.2B, below estimates, and Google ad revenue hit $82.01B, up from $74.18B in Q3 2025 &nbsp; &mdash;&nbsp; YouTube continued to vacuum up digital ad dollars in the third quarter of 2026, but the video platform grew at slower pace than in recent quarters.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T20:39:47.372555+00:00",
+    "details": {}
+  },
+  {
+    "title": "Alphabet reports Q3 revenue up 25% YoY to $127.6B, Google Cloud revenue up 103% to $30.7B, and Google Services revenue up 11% to $96.3B (Alphabet)",
+    "link": "https://www.techmeme.com/261028/p49#a261028p49",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Alphabet : Alphabet reports Q3 revenue up 25% YoY to $127.6B, Google Cloud revenue up 103% to $30.7B, and Google Services revenue up 11% to $96.3B &nbsp; &mdash;&nbsp; MOUNTAIN VIEW, Calif. - October 28, 2026 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial results for the quarter ended September 30, 2026.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T20:39:47.385847+00:00",
+    "details": {}
+  },
+  {
+    "title": "GPU database HeavyAI (formerly MapD) is now open source",
+    "link": "https://twitter.com/ToddMostak/status/2115528541081399636",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://twitter.com/ToddMostak/status/2115528541081399636 Comments URL: https://news.ycombinator.com/item?id=50280149 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T20:39:47.394720+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Silo – an open source secure CLI sandbox for running agents locally",
+    "link": "https://github.com/Asdivyansh/silo-cli",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/Asdivyansh/silo-cli Comments URL: https://news.ycombinator.com/item?id=50279594 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T20:39:47.404809+00:00",
+    "details": {}
+  },
+  {
+    "title": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Boomfrag [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T20:39:47.425819+00:00",
+    "details": {}
+  },
+  {
+    "title": "JPN: Times Car reporting ¥5.5 billion loss has firms bracing for data breach fallout",
+    "link": "https://databreaches.net/2026/10/28/jpn-times-car-reporting-%c2%a55-5-billion-loss-has-firms-bracing-for-data-breach-fallout/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Maddie Baker and Spencer Landers As cyberattacks continue across Japan, companies are coming to realize the great financial risk of such attacks if their lax cybersecurity systems cause millions of peoples’ personal information to be leaked. Times Car, which saw personal data that included the driver’s licenses of 1.46 million people leaked in September, is learning...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T20:39:47.436218+00:00",
     "details": {}
   }
 ]
