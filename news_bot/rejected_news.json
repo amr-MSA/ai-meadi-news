@@ -1,24 +1,5 @@
 [
   {
-    "title": "rohitg00/ai-engineering-from-scratch",
-    "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Learn it. Build it. Ship it for others. https://aiengineeringfromscratch.com Read in your language: Español · Français · Português · Deutsch · Italiano · 简体中文 · 日本語 · 한국어 · हिन्दी · العربية · Русский · Türkçe Translated landing pages, committed to the repo. English is canonical; lesson pages are machine-translated on the translations branch. See docs/i18n.md . From the creator of Agent Memory - #1",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-28T02:21:22.374150+00:00",
-    "details": {}
-  },
-  {
     "title": "InfinityLoop1308/PipePipe",
     "link": "https://github.com/InfinityLoop1308/PipePipe",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15360,6 +15341,158 @@
       "keywords": []
     },
     "rejected_at": "2026-10-28T00:48:32.415659+00:00",
+    "details": {}
+  },
+  {
+    "title": "elayadesign/ai-design-skills",
+    "link": "https://github.com/elayadesign/ai-design-skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "AI Design Skills A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file. Each skill is a self-contained folder. Install the ones you need. Skills Skill What it does landing-page-design Builds a landing page from scratch — intake questions, page structure, conversion copy, plus a full visual system (type,",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T07:40:22.420358+00:00",
+    "details": {}
+  },
+  {
+    "title": "HKUDS/DeepTutor",
+    "link": "https://github.com/HKUDS/DeepTutor",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. http://arxiv.org/abs/2604.26962 &nbsp; DeepTutor: Lifelong Personalized Tutoring &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community 🤝 We welcome any kinds of contributing! Vote on roadmap items or propose new ones at Roadmap , and see o",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T07:40:22.479492+00:00",
+    "details": {}
+  },
+  {
+    "title": "togg53192-cmd/jailbreaks",
+    "link": "https://github.com/togg53192-cmd/jailbreaks",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "LIST OF ALL MY JAILBREAKS Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models. About A working collection of 31 prompts targeting 25+ models , including complete system prompts, persona definitions, workspace policies, AGENTS.md files, configuration blocks, and Ollama Modelfiles.",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T07:40:22.495391+00:00",
+    "details": {}
+  },
+  {
+    "title": "How Silicon Valley billionaires raised $333M+ to try to defeat a 5% California wealth tax; Patrick Collison's $33M is his most serious campaign engagement yet (New York Times)",
+    "link": "https://www.techmeme.com/261028/p10#a261028p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : How Silicon Valley billionaires raised $333M+ to try to defeat a 5% California wealth tax; Patrick Collison's $33M is his most serious campaign engagement yet &nbsp; &mdash;&nbsp; Every Tuesday for the last few months, two dozen of the world's richest people or their advisers hop onto a conference call and plan for war.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T07:40:32.322145+00:00",
+    "details": {}
+  },
+  {
+    "title": "The CFTC files a legal challenge to block Utah's attempt to restrict prediction market betting, asserting it is the sole US regulator of prediction markets (Jesse Hamilton/CoinDesk)",
+    "link": "https://www.techmeme.com/261028/p9#a261028p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jesse Hamilton / CoinDesk : The CFTC files a legal challenge to block Utah's attempt to restrict prediction market betting, asserting it is the sole US regulator of prediction markets &nbsp; &mdash;&nbsp; The U.S. agency that oversees derivatives has filed a federal legal challenge to halt Utah's attempt to stop prediction market betting in its state &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T07:40:32.336238+00:00",
+    "details": {}
+  },
+  {
+    "title": "Dirt cheap GPUs coming next year",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I think a turn of events are pointing towards a very likely crash in prices in the coming months. With a single gb300 rack being to serve all of Openrouter's traffic for DSV4.1 Flash( https://x.com/thdxr/status/2115165365630026178 ) Half of data center buildouts already being cancelled/stalled. Neoclouds unable to finance debt for their compute, and being stuck in a 5 year deal with no confirmed d",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T07:40:32.344643+00:00",
+    "details": {}
+  },
+  {
+    "title": "Artificial Analysis Intelligence Index v5 (major update)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xhdmlk/artificial_analysis_intelligence_index_v5_major/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Artificial Analysis Intelligence Index has been updated to v5, which according to them is a major upgrade resulting in a more accurate ranking. Notably, this update widens the gap between open-weight models and closed ones. Some people already questioning its accuracy based on their experiences with models (GPT-Terra-6.1 &gt; Fable-5.1). Also, this update, v5, has 60% of the Index based on evaluat",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T07:40:32.353839+00:00",
+    "details": {}
+  },
+  {
+    "title": "Privacy Commissioner of Canada to investigate data breach involving Crime Stoppers",
+    "link": "https://databreaches.net/2026/10/27/privacy-commissioner-of-canada-to-investigate-data-breach-involving-crime-stoppers/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "October 27, 2026 – Gatineau, Quebec Privacy Commissioner of Canada Philippe Dufresne has opened an investigation related to a cybersecurity incident involving tips shared with Crime Stoppers programs across Canada. The Commissioner initiated the investigation into Navigate360, the commercial organization that provides and manages the tip management platform used by Canadian Crime Stoppers’ chapter",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-28T07:40:32.363716+00:00",
     "details": {}
   }
 ]
