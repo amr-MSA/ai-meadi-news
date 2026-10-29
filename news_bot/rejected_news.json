@@ -1,24 +1,5 @@
 [
   {
-    "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-    "source_name": "BleepingComputer",
-    "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-29T18:27:13.655304+00:00",
-    "details": {}
-  },
-  {
     "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
     "link": "https://www.techmeme.com/260929/p46#a260929p46",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15360,6 +15341,25 @@
       "keywords": []
     },
     "rejected_at": "2026-10-29T14:44:44.269269+00:00",
+    "details": {}
+  },
+  {
+    "title": "DoorDash to acquire Instacart for $17B",
+    "link": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+    "source_name": "TechCrunch",
+    "summary": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
+    "reason": "مكرر داخل دفعة RSS الحالية",
+    "rejection_stage": "batch-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-29T18:47:37.504878+00:00",
     "details": {}
   }
 ]
