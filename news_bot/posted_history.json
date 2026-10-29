@@ -700,5 +700,40 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Qwen4 1M context window",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/",
+    "summary": "أظهرت تحديثات برمجية جديدة جرى رصدها في مستودع Qwen على منصة GitHub تفاصيل إضافية عن نماذج Qwen4 المرتقبة من شركة علي بابا، تتضمن دعم نافذة سياق ضخمة تصل إلى مليون رمز، والإشارة إلى موعد إطلاق نموذج Qwen4-Max في الأول من نوفمبر.",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "topic_key": "alibaba-qwen4-27b-model-leak-github-pr",
+    "event_key": "alibaba|2026 10|ذكاء اصطناعي|qwen4|آسيا",
+    "company_name": "Alibaba",
+    "event_year_month": "2026-10",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "Qwen4",
+    "region": "آسيا",
+    "keywords": [
+      "Qwen4",
+      "Alibaba",
+      "GitHub",
+      "Qwen4-Max",
+      "Context Window"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-29T07:45:12.512005+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 255,
+    "telegram_message_url": "https://t.me/Eng_limitless/255",
+    "is_update": true,
+    "updates_event_key": "alibaba|2026 10|ذكاء اصطناعي|qwen4|آسيا",
+    "update_summary": "كشفت تسريبات برمجية جديدة في مستودع Qwen عن دعم سياق بمليون رمز وموعد إطلاق Qwen4-Max.",
+    "new_facts": [
+      "كشف التغييرات البرمجية عن دعم سلسلة نماذج Qwen4 لنافذة سياق تصل إلى مليون رمز (1M context window).",
+      "تحديد الأول من نوفمبر كموعد متوقع لإطلاق نموذج Qwen4-Max وفق بيانات البرمجية المسرّبة."
+    ],
+    "supersedes_posted_at": "2026-10-24T08:28:39.691278+00:00"
   }
 ]
