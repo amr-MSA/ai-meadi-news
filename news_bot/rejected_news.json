@@ -1,119 +1,5 @@
 [
   {
-    "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
-    "link": "https://www.techmeme.com/260929/p46#a260929p46",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : After lunch with AI leaders, Trump rejects new federal AI rules, says &ldquo;we automatically have regulation&rdquo; via DOJ and FBI but &ldquo;self-regulation is very important&rdquo; &nbsp; &mdash;&nbsp; President Donald Trump shot down the idea of new federal regulations on artificial intelligence &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-29T20:19:19.595336+00:00",
-    "details": {}
-  },
-  {
-    "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API (Dannie Herzberg/Baseten)",
-    "link": "https://www.techmeme.com/260929/p45#a260929p45",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dannie Herzberg / Baseten : Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API &nbsp; &mdash;&nbsp; Baseten is partnering with OpenAI to serve open models natively via Codex and the Responses API.&nbsp; &mdash;&nbsp; Authors&nbsp; &mdash;&nbsp; TL;DR",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-29T20:19:19.612974+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Like.. yea bro, I knew GLM was cool. Now everyone does. &#32; submitted by &#32; /u/BannedGoNext [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-29T20:19:19.624834+00:00",
-    "details": {}
-  },
-  {
-    "title": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Here are some inspirational quotes you can put into the comments: God is dead and we killed him I am become death All this for 1.5 tok/s? Sir this is LocalLLaMA not RichPeopleofLocalLLaMA Sweet! A 2TB DDR5-12800 RDIMM kit is going to cost only 2 kidneys and a small micronation's GDP &#32; submitted by &#32; /u/Dany0 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-29T20:19:19.639065+00:00",
-    "details": {}
-  },
-  {
-    "title": "Cyberattacks to be insured like accidents: Ministry of Finance discusses new rules for critical infrastructure",
-    "link": "https://databreaches.net/2026/09/29/cyberattacks-to-be-insured-like-accidents-ministry-of-finance-discusses-new-rules-for-critical-infrastructure/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Roman Zaharov reports: Cyberattacks may start to be insured according to the principle already in effect for hazardous facilities. The Russian Ministry of Finance is discussing the possibility of making cyber risk insurance mandatory for businesses associated with critical infrastructure. This was stated by Deputy Finance Minister Ivan Chebeskov on the sidelines of the Moscow... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-29T20:19:19.652923+00:00",
-    "details": {}
-  },
-  {
-    "title": "Shocker: suspected ShinyHunters member charged with attempted incitement to commit two murders",
-    "link": "https://databreaches.net/2026/09/29/shocker-suspected-shinyhunters-member-charged-with-attempted-incitement-to-commit-two-murders/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Anyone following the recent arrest of Pepijn van der Stap, the previously convicted hacker known as &#8220;Umbreon,&#8221; was likely shocked today when the prosecution announced that he was being charged with two counts of attempted incitement to murder. Here&#8217;s what we know so far. A 24-year-old Dutch national who previously served time for hacking-related crimes... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-29T20:19:19.665859+00:00",
-    "details": {}
-  },
-  {
     "title": "AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range (Bloomberg)",
     "link": "https://www.techmeme.com/260929/p57#a260929p57",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15360,6 +15246,139 @@
       "keywords": []
     },
     "rejected_at": "2026-10-29T18:47:37.504878+00:00",
+    "details": {}
+  },
+  {
+    "title": "Symbotic says Walmart has committed an additional $6B over several years to deploy Symbotic's supply-chain automation technology across its distribution network (Sanskriti Shekhar/Reuters)",
+    "link": "https://www.techmeme.com/261029/p52#a261029p52",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sanskriti Shekhar / Reuters : Symbotic says Walmart has committed an additional $6B over several years to deploy Symbotic's supply-chain automation technology across its distribution network &nbsp; &mdash;&nbsp; Symbotic (SYM.O) said on Thursday it had expanded its agreement with Walmart (WMT.O), with the retailer committing about $6 billion &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-29T20:44:08.143204+00:00",
+    "details": {}
+  },
+  {
+    "title": "Reddit reports Q3 revenue up 53% YoY to $895M, vs. $878M est., DAUq up 12% to 130.3M, below est., forecasts Q4 revenue below est.; RDDT drops 9%+ after hours (Jonathan Vanian/CNBC)",
+    "link": "https://www.techmeme.com/261029/p51#a261029p51",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jonathan Vanian / CNBC : Reddit reports Q3 revenue up 53% YoY to $895M, vs. $878M est., DAUq up 12% to 130.3M, below est., forecasts Q4 revenue below est.; RDDT drops 9%+ after hours &nbsp; &mdash;&nbsp; Reddit plans to require all users to create official accounts to access the social media platform, marking a major departure for the site known as &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-29T20:44:08.154859+00:00",
+    "details": {}
+  },
+  {
+    "title": "Squishling 0.5.0 – hybrid LLM/Ruby code classes",
+    "link": "https://coolhand-labs.github.io/squishling/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://coolhand-labs.github.io/squishling/ Comments URL: https://news.ycombinator.com/item?id=50295504 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-29T20:44:08.162177+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Type and+ in Claude Code and a second Claude rewrites your prompt first",
+    "link": "https://github.com/marciob/prompt-refiner",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/marciob/prompt-refiner Comments URL: https://news.ycombinator.com/item?id=50295272 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-29T20:44:08.169928+00:00",
+    "details": {}
+  },
+  {
+    "title": "Mistral Large 4 (Le Chonk) is now open weight",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Few_Painter_5588 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-29T20:44:08.185687+00:00",
+    "details": {}
+  },
+  {
+    "title": "UNM Health addresses cyberattack in New Mexico after ransomware group claims responsibility",
+    "link": "https://databreaches.net/2026/10/29/unm-health-addresses-cyberattack-in-new-mexico-after-ransomware-group-claims-responsibility/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "John Rupolo reports: University of New Mexico Health is addressing concerns after a cyberattack on Monday, with reports surfacing this week that a ransomware group claimed responsibility for the incident. &#8220;So what I can say is we&#8217;re also aware of those claims by that group,&#8221; said Chris Ramirez, communications director for UNMH. The community&#8217;s top...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-29T20:44:08.193185+00:00",
+    "details": {}
+  },
+  {
+    "title": "Florida education department says data breach may affect 4.9 million people",
+    "link": "https://databreaches.net/2026/10/29/florida-education-department-says-data-breach-may-affect-4-9-million-people/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Eric Weiss reports: The Florida Department of Education says a breach of its student financial aid website may have exposed personal information, including Social Security numbers, belonging to approximately 4.9 million people. The department said staff learned of unauthorized criminal access to the Florida Student Financial Aid website on Oct. 19. It activated cybersecurity response...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-29T20:44:08.200534+00:00",
     "details": {}
   }
 ]
