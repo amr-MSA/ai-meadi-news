@@ -1,157 +1,5 @@
 [
   {
-    "title": "NVIDIA/OpenShell",
-    "link": "https://github.com/NVIDIA/OpenShell",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "OpenShell is the safe, private runtime for autonomous AI agents. https://docs.nvidia.com/openshell/latest/ Important New in OpenShell 0.1.x: a stable release cadence, new isolation primitives, an expanded extension surface, and new APIs. Read the 0.1.0 upgrade guide . OpenShell is the safe, private runtime for fleets of autonomous AI agents. Agents are most useful when they can read files, install",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T07:39:08.013700+00:00",
-    "details": {}
-  },
-  {
-    "title": "t8y2/dbx",
-    "link": "https://github.com/t8y2/dbx",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 https://dbxio.com 100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MC",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T07:39:08.035876+00:00",
-    "details": {}
-  },
-  {
-    "title": "oblien/openship",
-    "link": "https://github.com/oblien/openship",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Self-hosted deployment platform https://openship.io Openship Open-source, self-hostable deployment platform with built-in CI/CD. Point it at a repo — it builds, ships, routes, and TLS-terminates your app. Drive it from a desktop app, web dashboard, or CLI. Quick Start · How It Works · Interfaces · Docs · Contributing Quick Start There's one decision to make first: how you run Openship itself (the",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T07:39:08.051094+00:00",
-    "details": {}
-  },
-  {
-    "title": "VectifyAI/PageIndex",
-    "link": "https://github.com/VectifyAI/PageIndex",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG https://pageindex.ai PageIndex: Vectorless, Reasoning-based RAG Reasoning-based RAG&nbsp; ◦ &nbsp;No Vector DB, No Chunking&nbsp; ◦ &nbsp;Context-Aware Retrieval&nbsp; ◦ &nbsp;Reads Like a Human 🌐 Website &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; 📖 Docs &nbsp; • &nbsp; 📝 Blog &nbsp; • &nbsp; ✉️ Contact &nbsp; Updates [Aug '26] 🔥 PageIn",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T07:39:08.077039+00:00",
-    "details": {}
-  },
-  {
-    "title": "rakyll/hey",
-    "link": "https://github.com/rakyll/hey",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "HTTP load generator, ApacheBench (ab) replacement hey is a tiny program that sends some load to a web application. hey was originally called boom and was influenced from Tarek Ziade's tool at tarekziade/boom . Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion. To preserve the name for its original owner, we renamed this project to hey. Installa",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T07:39:08.097667+00:00",
-    "details": {}
-  },
-  {
-    "title": "Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions (Owen Walker/Financial Times)",
-    "link": "https://www.techmeme.com/260930/p8#a260930p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Owen Walker / Financial Times : Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions &nbsp; &mdash;&nbsp; City-state's economy is getting an AI uplift but costs and labour are constraints to its industrial growth",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T07:39:45.984269+00:00",
-    "details": {}
-  },
-  {
-    "title": "Alibaba's ModelScope and OSChina's MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K (Viola Zhou/Rest of World)",
-    "link": "https://www.techmeme.com/260930/p7#a260930p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Viola Zhou / Rest of World : Alibaba's ModelScope and OSChina's MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K &nbsp; &mdash;&nbsp; AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T07:39:45.998629+00:00",
-    "details": {}
-  },
-  {
-    "title": "Data breach incident targets prisoner medical records at 2 Mass. jails",
-    "link": "https://databreaches.net/2026/09/29/data-breach-incident-targets-prisoner-medical-records-at-2-mass-jails/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Hadley Barndollar of masslive.com reports: A “cybersecurity incident” has occurred involving the electronic health record system for Suffolk County’s two jails, the system provider confirmed Thursday. Computer Systems Integrated Inc., which runs the EHRs-C platform containing prisoner health data and medical records, said it is aware of and investigating an incident involving the Suffolk County...",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T07:39:46.027180+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: the US FTC is expanding a sweeping probe of Anthropic, OpenAI, and other frontier AI labs, and plans to issue formal demands to turn over information (New York Post)",
     "link": "https://www.techmeme.com/260930/p28#a260930p28",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15417,6 +15265,89 @@
       "keywords": []
     },
     "rejected_at": "2026-10-30T01:24:56.193536+00:00",
+    "details": {}
+  },
+  {
+    "title": "milind-soni/OpenMausBot",
+    "link": "https://github.com/milind-soni/OpenMausBot",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use https://www.openmausbot.com/ OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &nbsp;·&nbsp; Download &nbsp;·&nbsp; Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alternative: an independent project inspired by Grok Bot , and the open",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T07:51:18.225064+00:00",
+    "details": {}
+  },
+  {
+    "title": "CopilotKit/OpenBot",
+    "link": "https://github.com/CopilotKit/OpenBot",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. https://www.copilotkit.ai/openbot OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T07:51:18.251888+00:00",
+    "details": {}
+  },
+  {
+    "title": "Donchitos/Claude-Code-Game-Studios",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. Why This Exists Building a game solo with AI is powerful — but a single chat session has no structure. No on",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T07:51:18.268430+00:00",
+    "details": {}
+  },
+  {
+    "title": "TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)",
+    "link": "https://www.techmeme.com/261030/p3#a261030p3",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tom Westbrook / Reuters : TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes &nbsp; &mdash;&nbsp; North Korean hackers were behind a $6.3 billion raid on cryptocurrency exchange Binance, according to US blockchain analysis firm TRM Labs.",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "Binance",
+      "event_year_month": "2026-10",
+      "news_type": "أمن سيبراني",
+      "product_name": "غير محدد",
+      "region": "دولي",
+      "topic_key": "trm-labs-binance-hack-north-korea-tradertraitor",
+      "keywords": [
+        "Binance",
+        "TRM Labs",
+        "TraderTraitor",
+        "أمن سيبراني",
+        "اختراق",
+        "بلوكشين"
+      ]
+    },
+    "rejected_at": "2026-10-30T07:51:30.049635+00:00",
     "details": {}
   }
 ]
