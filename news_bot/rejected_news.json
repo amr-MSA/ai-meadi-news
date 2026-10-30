@@ -1,81 +1,5 @@
 [
   {
-    "title": "AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range (Bloomberg)",
-    "link": "https://www.techmeme.com/260929/p57#a260929p57",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &nbsp; &mdash;&nbsp; Accelevation Holdings Corp., a data center infrastructure company, and backer Olympus Partners raised $540 million &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T00:50:12.713653+00:00",
-    "details": {}
-  },
-  {
-    "title": "Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures (Reuters)",
-    "link": "https://www.techmeme.com/260929/p56#a260929p56",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Reuters : Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures &nbsp; &mdash;&nbsp; Robinhood said on Tuesday it will let users trade some US stocks round-the-clock during weekends, marking its latest effort to keep &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T00:50:12.722603+00:00",
-    "details": {}
-  },
-  {
-    "title": "Inspect: An open-source framework for large language model evaluations",
-    "link": "https://inspect.aisi.org.uk/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://inspect.aisi.org.uk/ Comments URL: https://news.ycombinator.com/item?id=49902367 Points: 2 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T00:50:12.729005+00:00",
-    "details": {}
-  },
-  {
-    "title": "CodeCrab – Local-first desktop app for AI code reviews",
-    "link": "https://www.codecrab.ai/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.codecrab.ai/ Comments URL: https://news.ycombinator.com/item?id=49900868 Points: 4 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T00:50:12.735420+00:00",
-    "details": {}
-  },
-  {
     "title": "NVIDIA/OpenShell",
     "link": "https://github.com/NVIDIA/OpenShell",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15379,6 +15303,120 @@
       "keywords": []
     },
     "rejected_at": "2026-10-29T20:44:08.200534+00:00",
+    "details": {}
+  },
+  {
+    "title": "Twilio reports Q3 revenue up 20% YoY to $1.56B, vs. $1.52B est., net income up 333% to $161M, and expects slower Q4 revenue growth; TWLO drops 15%+ after hours (Elias Schisgall/MarketWatch)",
+    "link": "https://www.techmeme.com/261029/p66#a261029p66",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Elias Schisgall / MarketWatch : Twilio reports Q3 revenue up 20% YoY to $1.56B, vs. $1.52B est., net income up 333% to $161M, and expects slower Q4 revenue growth; TWLO drops 15%+ after hours &nbsp; &mdash;&nbsp; Twilio lifted its full-year revenue growth outlook after the company reported a higher profit and revenue growth in the third quarter.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T01:24:56.129441+00:00",
+    "details": {}
+  },
+  {
+    "title": "Andy Jassy says Prime Video has \"a revenue run rate in the tens of billions of dollars and is now profitable in its own right\" (Julie Bort/TechCrunch)",
+    "link": "https://www.techmeme.com/261029/p65#a261029p65",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Julie Bort / TechCrunch : Andy Jassy says Prime Video has &ldquo;a revenue run rate in the tens of billions of dollars and is now profitable in its own right&rdquo; &nbsp; &mdash;&nbsp; It's been four years since Amazon bought MGM for $8.5 billion.&nbsp; But coming off the blockbuster success of this year's hit movie Project Hail Mary &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T01:24:56.142920+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Cubic Doggo 07B Wouf: A low-cost open-source quadruped with ST3215",
+    "link": "https://github.com/SphericalCowww/CubicDoggo_07B",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Cubic Doggo 07B Wouf is a ROS2-controlled 12-DOF untethered quadruped, built with ST3215 smart servos fully with off-the-shelf components and 3D-printed parts Featuring: * 12 ST-3215-C018 servos, usually on a bundled sale because of SO-ARM101 * Walking forward with a payload of 1 kg * Smart servos as required for closed-loop reinforcement learning capability * FreeCAD models fully available for ed",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T01:24:56.153360+00:00",
+    "details": {}
+  },
+  {
+    "title": "When AI Starts Writing Systems Code",
+    "link": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code Comments URL: https://news.ycombinator.com/item?id=50297445 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T01:24:56.161700+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Sam Altman: “ Local inference is a terrible allocation of scarce resources. A lot of people want local inference, and somehow they assume that the problem is solved now because we have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data centre but from a global allocation perspective, actually it's quite terrible to have",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T01:24:56.183949+00:00",
+    "details": {}
+  },
+  {
+    "title": "Extent of Crime Stoppers data breach unknown: Sault Police chief",
+    "link": "https://databreaches.net/2026/10/29/extent-of-crime-stoppers-data-breach-unknown-sault-police-chief/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "James Hopkin reports: The Sault’s police chief says it’s currently unclear how many anonymous tips received by Crime Stoppers locally were potentially exposed in a massive data breach. Both the Sault Ste. Marie Police Service and the Anishinabek Police Service have paused their relationship with the local Crime Stoppers chapter — causing the organization to...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T01:24:56.193536+00:00",
     "details": {}
   }
 ]
