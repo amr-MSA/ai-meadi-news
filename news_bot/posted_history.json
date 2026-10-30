@@ -734,5 +734,40 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Chainalysis says Binance hackers used automated money-laundering patterns not seen before; Elliptic: almost all of the $6.3B was taken in the first 30 minutes (Financial Times)",
+    "link": "https://www.techmeme.com/261030/p21#a261030p21",
+    "summary": "كشفت شركتا التحليل الرقمي Chainalysis وElliptic في تقرير نقلته صحيفة فاينانشال تايمز أن الهجوم الذي استهدف منصة بينانس وأدى لسرقة 6.3 مليارات دولار تم تنفيذه بسرعة قياسية، حيث استولى المهاجمون على معظم المبلغ خلال أول 30 دقيقة فقط. وأوضحت التحليلات أن المخترقين استخدموا تقنيات مؤتمتة وغير مسبوقة لغسيل الأموال البرمجية وتشتيت الأصول الرقمية فور استخراجها.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "binance-6-3b-crypto-theft-devops-laptop",
+    "event_key": "binance|2026 10|أمن سيبراني|غير محدد|دولي",
+    "company_name": "Binance",
+    "event_year_month": "2026-10",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "دولي",
+    "keywords": [
+      "Binance",
+      "Chainalysis",
+      "Elliptic",
+      "Crypto Theft",
+      "Cybersecurity"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-30T20:14:38.480285+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 258,
+    "telegram_message_url": "https://t.me/Eng_limitless/258",
+    "is_update": true,
+    "updates_event_key": "binance|2026 10|أمن سيبراني|غير محدد|دولي",
+    "update_summary": "كشفت التحليلات الأمنية أن سرقة 6.3 مليارات دولار من بينانس تمت خلال 30 دقيقة باستخدام أساليب غسيل أموال مؤتمتة جديدة.",
+    "new_facts": [
+      "الاستيلاء على معظم المبلغ البالغ 6.3 مليارات دولار حدث خلال أول 30 دقيقة فقط من بدء الهجوم.",
+      "استخدام أنماط غسيل أموال مؤتمتة بالكامل وغير مسبوقة لتوزيع الأموال المسروبة بسرعة فائقة."
+    ],
+    "supersedes_posted_at": "2026-10-24T16:26:09.583474+00:00"
   }
 ]
