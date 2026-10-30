@@ -1,100 +1,5 @@
 [
   {
-    "title": "Sources: the US FTC is expanding a sweeping probe of Anthropic, OpenAI, and other frontier AI labs, and plans to issue formal demands to turn over information (New York Post)",
-    "link": "https://www.techmeme.com/260930/p28#a260930p28",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "New York Post : Sources: the US FTC is expanding a sweeping probe of Anthropic, OpenAI, and other frontier AI labs, and plans to issue formal demands to turn over information &nbsp; &mdash;&nbsp; WASHINGTON &mdash; The Federal Trade Commission is ramping up a sweeping probe of Anthropic, OpenAI and other frontier labs to uncover &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T14:23:39.708009+00:00",
-    "details": {}
-  },
-  {
-    "title": "Amazon aims to have 5,000 drivers wearing its smart glasses in 2026, rising to 20,000+ in 2027; the glasses capture static images for its AI mapping platform (Dave Lee/Bloomberg)",
-    "link": "https://www.techmeme.com/260930/p27#a260930p27",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dave Lee / Bloomberg : Amazon aims to have 5,000 drivers wearing its smart glasses in 2026, rising to 20,000+ in 2027; the glasses capture static images for its AI mapping platform &nbsp; &mdash;&nbsp; Coming soon up a garden path near you: an Amazon.com Inc. driver wearing smart glasses, almost constantly taking pictures and sending &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T14:23:39.724671+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Zerikai Memory: local code-memory MCP server, now with Jev",
-    "link": "https://github.com/KikeVen/zerikai_memory",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/KikeVen/zerikai_memory Comments URL: https://news.ycombinator.com/item?id=49908655 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T14:23:39.736256+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Explainroo, Open Source Framework to Make Explainer Videos with Claude",
-    "link": "https://github.com/vincentsch/explainroo",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Everyone is making videos with Opus 5.5 right now (Sonnet 5.5 is also good at it), so I built a small open source kit to give you a head start. Just point Claude or Codex at the repo and say what the video should explain. It also makes great product demos. Examples: https://www.explainroo.com/videos/ Comments URL: https://news.ycombinator.com/item?id=49908484 Points: 4 # Comments: 2",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T14:23:39.747753+00:00",
-    "details": {}
-  },
-  {
-    "title": "add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "now you can use GLM-5.3-Flash on your home computer &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T14:23:39.772311+00:00",
-    "details": {}
-  },
-  {
     "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
     "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
     "source_name": "BleepingComputer",
@@ -15348,6 +15253,82 @@
       ]
     },
     "rejected_at": "2026-10-30T07:51:30.049635+00:00",
+    "details": {}
+  },
+  {
+    "title": "Binance says it has reserved $6.34B+ in company funds, including $5B already held in impacted token assets, to deal with the fallout from the $6.3B hack (Rajveer Singh Pardesi/Reuters)",
+    "link": "https://www.techmeme.com/261030/p14#a261030p14",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Rajveer Singh Pardesi / Reuters : Binance says it has reserved $6.34B+ in company funds, including $5B already held in impacted token assets, to deal with the fallout from the $6.3B hack &nbsp; &mdash;&nbsp; Binance said on Friday it has reserved more than $6.34 billion in company funds, including $5 billion already held in impacted token assets &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T14:40:36.038634+00:00",
+    "details": {}
+  },
+  {
+    "title": "FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future's network (Ian Krietzberg/Puck)",
+    "link": "https://www.techmeme.com/261030/p13#a261030p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ian Krietzberg / Puck : FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future's network &nbsp; &mdash;&nbsp; To almost everyone's surprise, pro-regulatory PACs have outspent pro-industry groups in the midterms as the A.I. accelerationists seemingly took their foot off the pedal.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T14:40:36.050270+00:00",
+    "details": {}
+  },
+  {
+    "title": "Daybreak Blue goes nearly blind past 100k lines of code",
+    "link": "https://meetcyber.net/daybreak-blue-goes-nearly-blind-past-100-000-lines-of-code-c7d4a2a810b4",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://meetcyber.net/daybreak-blue-goes-nearly-blind-past-100-000-lines-of-code-c7d4a2a810b4 Comments URL: https://news.ycombinator.com/item?id=50304568 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T14:40:36.057283+00:00",
+    "details": {}
+  },
+  {
+    "title": "Casdoor v4 – open-source IAM with OAuth for MCP servers",
+    "link": "https://casdoor.ai/blog/casdoor-v4/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://casdoor.ai/blog/casdoor-v4/ Comments URL: https://news.ycombinator.com/item?id=50304560 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-30T14:40:36.064958+00:00",
     "details": {}
   }
 ]
