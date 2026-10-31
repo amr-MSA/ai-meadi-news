@@ -1,100 +1,5 @@
 [
   {
-    "title": "Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z (Chris Metinko/Axios)",
-    "link": "https://www.techmeme.com/261001/p23#a261001p23",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Chris Metinko / Axios : Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z &nbsp; &mdash;&nbsp; Doxx.net has raised a $38 million Series A led by Andreessen Horowitz as its private agentic defined networking platform launches into open beta &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T14:56:49.391560+00:00",
-    "details": {}
-  },
-  {
-    "title": "Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged (Adrian Diaconescu/PhoneArena)",
-    "link": "https://www.techmeme.com/261001/p22#a261001p22",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Adrian Diaconescu / PhoneArena : Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged &nbsp; &mdash;&nbsp; In line with recent rumors and expectations, the ultra-high-end Galaxy S26 trio has become more expensive than ever before in the US.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T14:56:49.410372+00:00",
-    "details": {}
-  },
-  {
-    "title": "Qwen4Exp: add MTP by am17an · Pull Request #29761 · ggml-org/llama.cpp",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wuwrsk/qwen4exp_add_mtp_by_am17an_pull_request_29761/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "now you can use MTP with Qwen Flash Next, time to switch from Qwen 3.8 27B? (merged after 17h of development) quants: https://huggingface.co/ggml-org/Qwen3.8-Flash-Next-GGUF link to the previous discussion (I deleted the old post to avoid duplicates): https://www.reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted/ &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comment",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T14:56:49.423977+00:00",
-    "details": {}
-  },
-  {
-    "title": "Why am I like this? (Full Chat and Image generation on a 286 Tandy 1000 TL/3)",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wuxzdg/why_am_i_like_this_full_chat_and_image_generation/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "40 year tech gap? No problem! The Tandy runs DeskMind, a native DOS program. It talks over WiFi (a PicoMEM 2 card with mTCP) to a small Python server on my PC. That server drives Qwen3.8-27B (NInfer on a 5090) and Krea 2 (ComfyUI on a 4090). The 286 never sees JSON, base64 or a PNG. It gets plain text lines and pictures that are ready to copy into video memory. Drawing from chat without tool calli",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T14:56:49.437195+00:00",
-    "details": {}
-  },
-  {
-    "title": "Suspected State Hackers Exploited Citrix NetScaler for Weeks. 50,000 Devices May Still Be Exposed.",
-    "link": "https://databreaches.net/2026/10/01/suspected-state-hackers-exploited-citrix-netscaler-for-weeks-50000-devices-may-still-be-exposed/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Datawater reports: Two critical NetScaler zero-days, CVE-2026-88771 and CVE-2026-88772, were used against organizations worldwide before a patch existed. CISA’s deadline is today. Patching alone will not tell you whether you were already breached. Threat level: Critical What: Two unauthenticated remote-code-execution flaws in Citrix NetScaler ADC and NetScaler Gateway, both CVSS 9.5. Status: Explo",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T14:56:49.450612+00:00",
-    "details": {}
-  },
-  {
     "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
     "source_name": "BleepingComputer",
@@ -15182,6 +15087,25 @@
       "keywords": []
     },
     "rejected_at": "2026-10-31T14:00:25.612309+00:00",
+    "details": {}
+  },
+  {
+    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+    "source_name": "BleepingComputer",
+    "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T17:29:59.500291+00:00",
     "details": {}
   }
 ]
