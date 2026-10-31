@@ -1,31 +1,5 @@
 [
   {
-    "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
-    "link": "https://www.techmeme.com/261023/p23#a261023p23",
-    "summary": "كشفت مذكرة داخلية تم تسريبها أن هيلين تشانغ، أول رئيسة عمليات (COO) لقطاع Xbox، تستعد لمغادرة شركة مايكروسوفت بعد قضائها 21 عامًا في الشركة. وتأتي هذه المغادرة المفاجئة بعد أشهر قليلة فقط من استحداث هذا المنصب التنفيذي وتوليها إياه.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "helen-chiang-xbox-coo-resignation-microsoft",
-    "event_key": "microsoft|2026 10|أعمال وتقنية|xbox|أمريكا الشمالية",
-    "company_name": "Microsoft",
-    "event_year_month": "2026-10",
-    "news_type": "أعمال وتقنية",
-    "product_name": "Xbox",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Microsoft",
-      "Xbox",
-      "Helen Chiang",
-      "استقالة"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-23T22:43:57.708658+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 238,
-    "telegram_message_url": "https://t.me/Eng_limitless/238"
-  },
-  {
     "title": "Qwen4-27B PR found",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/",
     "summary": "كُشف في مستودع برمجيات علني على منصة GitHub عن طلب سحب برمجيات (PR) يتضمن إشارات إلى نموذج الذكاء الاصطناعي المرتقب Qwen4-27B التابع لشركة علي بابا. أظهرت التغييرات البرمجية تفاصيل حول بنية الذاكرة المؤقتة (KV Cache) للنموذج قبل الإعلان الرسمي عنه.",

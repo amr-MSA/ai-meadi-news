@@ -1,233 +1,5 @@
 [
   {
-    "title": "Google rolls out Gemini 4 Argon to a small group of cybersecurity partners and says it outperforms GPT-6 Astra on certain coding and knowledge work benchmarks (Madison Mills/Axios)",
-    "link": "https://www.techmeme.com/260930/p43#a260930p43",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Madison Mills / Axios : Google rolls out Gemini 4 Argon to a small group of cybersecurity partners and says it outperforms GPT-6 Astra on certain coding and knowledge work benchmarks &nbsp; &mdash;&nbsp; Google is unveiling its long-awaited next-generation AI model, Gemini 4 Argon, to a small group of cybersecurity partners, the company said Wednesday.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T20:23:34.765033+00:00",
-    "details": {}
-  },
-  {
-    "title": "Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March (Sarah Perez/TechCrunch)",
-    "link": "https://www.techmeme.com/260930/p42#a260930p42",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Sarah Perez / TechCrunch : Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March &nbsp; &mdash;&nbsp; Amid a number of updates for moderators and developers announced Wednesday comes bad news for supporters of a more open web: Reddit is ending support for RSS feeds.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T20:23:34.782237+00:00",
-    "details": {}
-  },
-  {
-    "title": "Open Source EDACrux EDA Toolchain Now at 1.0",
-    "link": "https://edacrux.app/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://edacrux.app/ Comments URL: https://news.ycombinator.com/item?id=49913036 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T20:23:34.792995+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ask HN: Why isn't Proof-Carrying Code more popular?",
-    "link": "https://news.ycombinator.com/item?id=49912863",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "It seems that Typed Assembly Language and the notion of Proof-Carrying Code have proved that you can ship binaries that contain formal guarantees of certain properties, like memory-safety. This approach seems like it completely abstracts away all the arguments about which language offers the best guarantees, and moves the checks to installation-time instead of compile-time. This is important becau",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T20:23:34.804425+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ling-3.1-flash: ~560B total params, ~25B active/token, up to 1M-token context- Free trail for 2 weeks then open source",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wubcbb/ling31flash_560b_total_params_25b_activetoken_up/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/Muhlwa_Sholanke [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T20:23:34.819889+00:00",
-    "details": {}
-  },
-  {
-    "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "The collection includes kernels for more than 200 common ML operations, all of which can run entirely locally in your browser on WebGPU. We're also working to upstream these optimizations to Transformers.js, ONNX Runtime Web, LiteRT.js, and more! Kernels: https://huggingface.co/kernels?platform=webgpu Blog: https://huggingface.co/blog/webgpu-kernels &#32; submitted by &#32; /u/xenovatech [link] &#",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T20:23:34.832558+00:00",
-    "details": {}
-  },
-  {
-    "title": "Radford experiencing outage after potential data incident",
-    "link": "https://databreaches.net/2026/09/30/radford-experiencing-outage-after-potential-data-incident/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "WFXR in Virginia reports: The City of Radford announced tonight (9/29) the city is currently dealing with an internet outage due to a potential data breach. City leadership says it reached out to cybersecurity professionals and legal counsel upon becoming aware of the incident. Both state and federal law enforcement have also been notified, and... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-09-30T20:23:34.843224+00:00",
-    "details": {}
-  },
-  {
-    "title": "Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra (Artificial Analysis)",
-    "link": "https://www.techmeme.com/260930/p53#a260930p53",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Artificial Analysis : Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra &nbsp; &mdash;&nbsp; Google's new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T00:54:29.781548+00:00",
-    "details": {}
-  },
-  {
-    "title": "California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers (Paxton Honerkamp/CNBC)",
-    "link": "https://www.techmeme.com/260930/p52#a260930p52",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Paxton Honerkamp / CNBC : California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers &nbsp; &mdash;&nbsp; California Governor Gavin Newsom has signed a landmark AI law banning Golden State employers from relying solely on artificial intelligence to fire or discipline workers.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T00:54:29.797982+00:00",
-    "details": {}
-  },
-  {
-    "title": "EDG C++ Compiler is open source",
-    "link": "https://github.com/edgcpp/compiler",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/edgcpp/compiler Comments URL: https://news.ycombinator.com/item?id=49915484 Points: 25 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T00:54:29.808079+00:00",
-    "details": {}
-  },
-  {
-    "title": "Growth.engineer – Vetted, open-source growth workflows for AI agents",
-    "link": "https://www.growth.engineer",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.growth.engineer Comments URL: https://news.ycombinator.com/item?id=49915329 Points: 1 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T00:54:29.820303+00:00",
-    "details": {}
-  },
-  {
-    "title": "Preorder for new AMD Ryzen™ AI Max 400 Series 192GB from framework just started",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Framework Desktop Framework Desktop DIY Edition (AMD Ryzen™ AI Max 400 Series) 192GB &#32; submitted by &#32; /u/Educational_Sun_8813 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-01T00:54:29.845456+00:00",
-    "details": {}
-  },
-  {
     "title": "DietrichGebert/ponytail",
     "link": "https://github.com/DietrichGebert/ponytail",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15424,6 +15196,30 @@
       "keywords": []
     },
     "rejected_at": "2026-10-30T20:14:38.541612+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff (Financial Times)",
+    "link": "https://www.techmeme.com/261030/p30#a261030p30",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff &nbsp; &mdash;&nbsp; ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions&nbsp; &mdash;&nbsp; OpenAI has slashed the target &hellip;",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "OpenAI",
+      "event_year_month": "2026-10",
+      "news_type": "ذكاء اصطناعي",
+      "product_name": "غير محدد",
+      "region": "أمريكا الشمالية",
+      "topic_key": "openai-funding-round-valuation-cut",
+      "keywords": [
+        "OpenAI",
+        "تمويل",
+        "تقييم",
+        "ذكاء اصطناعي"
+      ]
+    },
+    "rejected_at": "2026-10-31T01:12:54.758691+00:00",
     "details": {}
   }
 ]
