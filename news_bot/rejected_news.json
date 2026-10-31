@@ -15221,5 +15221,138 @@
     },
     "rejected_at": "2026-10-31T01:12:54.758691+00:00",
     "details": {}
+  },
+  {
+    "title": "anthropics/skills",
+    "link": "https://github.com/anthropics/skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, wh",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T07:40:19.461269+00:00",
+    "details": {}
+  },
+  {
+    "title": "lightpanda-io/browser",
+    "link": "https://github.com/lightpanda-io/browser",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Lightpanda: the headless browser designed for AI and automation https://lightpanda.io Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. Benchmarks Requesting 933 real web pages over the network on a AWS EC2 m5.large instance. See benchmark details",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T07:40:19.480261+00:00",
+    "details": {}
+  },
+  {
+    "title": "As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs (The Commanding Heights)",
+    "link": "https://www.techmeme.com/261031/p6#a261031p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "The Commanding Heights : As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs &nbsp; &mdash;&nbsp; Scarce, controllable positions of Economic Power whose holders durably capture the gains of Increasingly Capable and diffused intelligence.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T07:40:42.074771+00:00",
+    "details": {}
+  },
+  {
+    "title": "When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and \"being used 5% of the time\" (Andrew E. Freedman/Tom's Hardware)",
+    "link": "https://www.techmeme.com/261031/p5#a261031p5",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Andrew E. Freedman / Tom's Hardware : When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and &ldquo;being used 5% of the time&rdquo; &nbsp; &mdash;&nbsp; With data centers full of RAM, your PC is apparently the problem. &hellip; OpenAI CEO Sam Altman has data centers full of memory &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T07:40:42.086371+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Agent-arcade – Terminal games that pause when Claude Code/Codex is done",
+    "link": "https://github.com/Kuldeep-045/agent-arcade",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/Kuldeep-045/agent-arcade Comments URL: https://news.ycombinator.com/item?id=50313989 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T07:40:42.094908+00:00",
+    "details": {}
+  },
+  {
+    "title": "Remote code execution on Linux systems with multipath TCP",
+    "link": "https://lwn.net/Articles/1104192/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://lwn.net/Articles/1104192/ Comments URL: https://news.ycombinator.com/item?id=50312971 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T07:40:42.101853+00:00",
+    "details": {}
+  },
+  {
+    "title": "Fable 5.gguf when?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/speedb0at [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T07:40:42.116671+00:00",
+    "details": {}
   }
 ]
