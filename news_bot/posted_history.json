@@ -1,32 +1,5 @@
 [
   {
-    "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
-    "link": "https://www.techmeme.com/261024/p8#a261024p8",
-    "summary": "كشفت تسريبات صحفية أن منصة Replit حولت معظم إنفاقها على نماذج الذكاء الاصطناعي من Anthropic إلى OpenAI، إثر حصولها على خصم يتجاوز 30% ضمن صفقة سنوية تفوق قيمتها 100 مليون دولار، وذلك بعد قرار Anthropic إلغاء الخصومات الممنوحة للشركة.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "replit-spend-shift-openai-anthropic",
-    "event_key": "replit|2026 10|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
-    "company_name": "Replit",
-    "event_year_month": "2026-10",
-    "news_type": "ذكاء اصطناعي",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Replit",
-      "OpenAI",
-      "Anthropic",
-      "ذكاء اصطناعي",
-      "استثمار"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-24T19:56:46.191670+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 244,
-    "telegram_message_url": "https://t.me/Eng_limitless/244"
-  },
-  {
     "title": "Elvis Presley's rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself (Derrick Bryson Taylor/New York Times)",
     "link": "https://www.techmeme.com/261026/p7#a261026p7",
     "summary": "أقام مالكو حقوق أعمال إلفيس بريسلي دعوى قضائية ضد شركة Anthropic مطالبين بتعويض يتجاوز 41 مليون دولار، بسبب استخدام 274 أغنية في تدريب نماذج الذكاء الاصطناعي دون الحصول على إذن، بينما أعلنت الشركة رفضها للاتهامات وعزمها الدفاع عن موقفها أمام القضاء.",
@@ -578,5 +551,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 259,
     "telegram_message_url": "https://t.me/Eng_limitless/259"
+  },
+  {
+    "title": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)",
+    "link": "https://www.techmeme.com/261031/p11#a261031p11",
+    "summary": "كشف باحثون أمنيون عن ثغرة أمنية في ميزة روابط المشاركة بشركة أوبن إيه آي، تمكّن المهاجمين من تنفيذ أكواد برمجية خبيثة داخل الجلسات النشطة للمستخدمين بمجرد فتحهم لرابط مشاركة مفخخ، وقد حصل الباحثون على مكافأة قدرها 5 آلاف دولار بعد الإبلاغ عن الفجوة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "openai-chatgpt-share-link-vulnerability",
+    "event_key": "openai|2026 10|أمن سيبراني|chatgpt|أمريكا الشمالية",
+    "company_name": "OpenAI",
+    "event_year_month": "2026-10",
+    "news_type": "أمن سيبراني",
+    "product_name": "ChatGPT",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "OpenAI",
+      "ChatGPT",
+      "ثغرة أمنية",
+      "أمن سيبراني"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-31T22:54:40.275450+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 260,
+    "telegram_message_url": "https://t.me/Eng_limitless/260"
   }
 ]
