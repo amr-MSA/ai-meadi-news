@@ -552,5 +552,31 @@
       "استخدام أنماط غسيل أموال مؤتمتة بالكامل وغير مسبوقة لتوزيع الأموال المسروبة بسرعة فائقة."
     ],
     "supersedes_posted_at": "2026-10-24T16:26:09.583474+00:00"
+  },
+  {
+    "title": "Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units (Jyoti Mann/The Information)",
+    "link": "https://www.techmeme.com/261031/p10#a261031p10",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطّلعة أن شركة ميتا طوّرت نموذجًا أوليًا لروبوت بشري خلال ثلاثة أشهر بالتعاون مع شركة الروبوتات الصينية Fourier، وتعمل حاليًا على تطوير نسخة ثانية، في حين ذكرت الشركة أنه لا توجد لديها خطط حالية لتسويق هذه الوحدات تجاريًا.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "meta-humanoid-robot-fourier-prototype",
+    "event_key": "meta|2026 10|أجهزة وعتاد|غير محدد|أمريكا الشمالية",
+    "company_name": "Meta",
+    "event_year_month": "2026-10",
+    "news_type": "أجهزة وعتاد",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Meta",
+      "Fourier",
+      "Humanoid Robot",
+      "Robotics"
+    ],
+    "month": "2026-10",
+    "posted_at": "2026-10-31T18:12:01.739219+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 259,
+    "telegram_message_url": "https://t.me/Eng_limitless/259"
   }
 ]

@@ -15107,5 +15107,81 @@
     },
     "rejected_at": "2026-10-31T17:29:59.500291+00:00",
     "details": {}
+  },
+  {
+    "title": "Binance says it has covered 90% of its hack losses, having set aside $6.34B+ of company funds; the remaining 10% is in less liquid tokens (Angela Christy/Reuters)",
+    "link": "https://www.techmeme.com/261031/p9#a261031p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Angela Christy / Reuters : Binance says it has covered 90% of its hack losses, having set aside $6.34B+ of company funds; the remaining 10% is in less liquid tokens &nbsp; &mdash;&nbsp; Cryptocurrency exchange Binance said on Saturday that it was able to cover 90% of the amount stolen during its recent hack.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T18:12:01.756532+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Hey Spark – open-source voice assistant for your laptop, any LLM brain",
+    "link": "https://github.com/contextuai/hey-spark",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/contextuai/hey-spark Comments URL: https://news.ycombinator.com/item?id=50318453 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T18:12:01.766991+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: InterviewLint – Practice explaining code, not just writing it",
+    "link": "https://interviewlint.com",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://interviewlint.com Comments URL: https://news.ycombinator.com/item?id=50318428 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T18:12:01.776728+00:00",
+    "details": {}
+  },
+  {
+    "title": "Regulated Access Memory",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xkeqja/regulated_access_memory/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Das GPT needs more Speicher! &#32; submitted by &#32; /u/elemental-mind [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-10-31T18:12:01.794932+00:00",
+    "details": {}
   }
 ]
