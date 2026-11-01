@@ -1,43 +1,5 @@
 [
   {
-    "title": "Survey of 37 countries: the share of people who say social media is bad for democracy has risen significantly since 2022 or 2023; a median 55% say it's good (Pew Research Center)",
-    "link": "https://www.techmeme.com/261001/p45#a261001p45",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Pew Research Center : Survey of 37 countries: the share of people who say social media is bad for democracy has risen significantly since 2022 or 2023; a median 55% say it's good &nbsp; &mdash;&nbsp; Most think social media leads to manipulation and division, but they also say it informs people and gives them a voice in politics",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-02T01:11:05.547443+00:00",
-    "details": {}
-  },
-  {
-    "title": "A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment while AI alignment says sandboxes cannot contain agents (Matthew Green/A Few Thoughts ...)",
-    "link": "https://www.techmeme.com/261001/p44#a261001p44",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Matthew Green / A Few Thoughts on Cryptographic Engineering : A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment while AI alignment says sandboxes cannot contain agents &nbsp; &mdash;&nbsp; Quick caveats: this is a post on AI safety, written by a cryptography professor.&nbsp; If that troubles you, you should read something else.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-02T01:11:05.564160+00:00",
-    "details": {}
-  },
-  {
     "title": "Meta may never need ads to monetize Muse, instead focusing on building trust in the near term and possibly monetizing it through merchant transaction fees later (MBI Deep Dives)",
     "link": "https://www.techmeme.com/261002/p3#a261002p3",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15087,6 +15049,82 @@
       "keywords": []
     },
     "rejected_at": "2026-10-31T22:54:40.330113+00:00",
+    "details": {}
+  },
+  {
+    "title": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)",
+    "link": "https://www.techmeme.com/261031/p11#a261031p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Swati Khandelwal / The Hacker News : Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link &nbsp; &mdash;&nbsp; A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it &hellip;",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T02:57:50.055818+00:00",
+    "details": {}
+  },
+  {
+    "title": "Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% (Washington Post)",
+    "link": "https://www.techmeme.com/261031/p12#a261031p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Washington Post : Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% &nbsp; &mdash;&nbsp; Frustrated with hunting for information on political candidates, Ben Torres Ezrick set out to build a one-stop shop for voters.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T02:58:10.181632+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: TariffPedia – HS code lookup and import duty comparison",
+    "link": "https://tariffpedia.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://tariffpedia.com/ Comments URL: https://news.ycombinator.com/item?id=50322020 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T02:58:10.198518+00:00",
+    "details": {}
+  },
+  {
+    "title": "Medo: A modern UHD 4K open source Media editor for Haiku OS in less than 1.44MB",
+    "link": "https://github.com/smallstepforman/Medo",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/smallstepforman/Medo Comments URL: https://news.ycombinator.com/item?id=50321980 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T02:58:10.206115+00:00",
     "details": {}
   }
 ]
