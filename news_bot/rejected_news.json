@@ -1,81 +1,5 @@
 [
   {
-    "title": "Meta may never need ads to monetize Muse, instead focusing on building trust in the near term and possibly monetizing it through merchant transaction fees later (MBI Deep Dives)",
-    "link": "https://www.techmeme.com/261002/p3#a261002p3",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "MBI Deep Dives : Meta may never need ads to monetize Muse, instead focusing on building trust in the near term and possibly monetizing it through merchant transaction fees later &nbsp; &mdash;&nbsp; Get the next one in your inbox.&nbsp; &mdash;&nbsp; A daily journal on business, investing, and technology.&nbsp; &mdash;&nbsp; It didn't take too long for the app layer to start to respond to Muse.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-02T07:41:34.528394+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Mixdog – open-source coding agent for Windows desktop",
-    "link": "https://github.com/tribgames/mixdog",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/tribgames/mixdog Comments URL: https://news.ycombinator.com/item?id=49930226 Points: 4 # Comments: 2",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-02T07:41:34.540430+00:00",
-    "details": {}
-  },
-  {
-    "title": "Decode what's behind a QR code, useful for retrieving wi-fi passwords",
-    "link": "https://www.qrexpress.org/decoder/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.qrexpress.org/decoder/ Comments URL: https://news.ycombinator.com/item?id=49930225 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-02T07:41:34.552455+00:00",
-    "details": {}
-  },
-  {
-    "title": "Pi 1.0 released - MCP support now included by default",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wvffcr/pi_10_released_mcp_support_now_included_by_default/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/psychohistorian8 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-02T07:41:34.563560+00:00",
-    "details": {}
-  },
-  {
     "title": "Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits (Jess Weatherbed/The Verge)",
     "link": "https://www.techmeme.com/261002/p11#a261002p11",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15125,6 +15049,177 @@
       "keywords": []
     },
     "rejected_at": "2026-11-01T02:58:10.206115+00:00",
+    "details": {}
+  },
+  {
+    "title": "Orkas-AI/Orkas",
+    "link": "https://github.com/Orkas-AI/Orkas",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys. https://orkas.ai?source=gh-orkas Orkas An open-source team of AI agents",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T10:52:20.114838+00:00",
+    "details": {}
+  },
+  {
+    "title": "THU-MAIC/OpenMAIC",
+    "link": "https://github.com/THU-MAIC/OpenMAIC",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click Get an immersive, multi-agent learning experience in just one click &nbsp;&nbsp; &nbsp; English | Simplified Chinese Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw 🗞️ News 2026-10-29 — v1.3.0 : knowledge base and Pro workbench upgrade. Every upload is kept in",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T10:52:20.124030+00:00",
+    "details": {}
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "link": "https://github.com/bregman-arie/devops-exercises",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions ℹ️ &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE 📊 &nbsp;There are currently 2624 exercises and questions ⚠️ &nbsp;You can use these for pre",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T10:52:20.139405+00:00",
+    "details": {}
+  },
+  {
+    "title": "vorssaint/vorssaint-utils",
+    "link": "https://github.com/vorssaint/vorssaint-utils",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Free and open-source macOS menu bar toolkit. https://vorssaint.com Vorssaint One menu bar icon doing the job of a dozen paid Mac apps. Install only what you use. Website · Install · Features · Privacy · Changelog · Contact · Discord For anything private, email hello@vorssaint.com . Sponsors Help keep Vorssaint free and open source. Share your product with Mac users. Your product here Your logo · Y",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T10:52:20.147262+00:00",
+    "details": {}
+  },
+  {
+    "title": "A look at a crude campaign of cyberattacks by Russia-linked hacktivist groups that have caused physical damage in NATO-aligned countries over the past two years (Ryan Gallagher/Bloomberg)",
+    "link": "https://www.techmeme.com/261101/p7#a261101p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ryan Gallagher / Bloomberg : A look at a crude campaign of cyberattacks by Russia-linked hacktivist groups that have caused physical damage in NATO-aligned countries over the past two years &nbsp; &mdash;&nbsp; Cyberattacks causing physical damage are on the rise in NATO countries, and the hackers carrying them out don't always understand what they're doing.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T10:52:29.250640+00:00",
+    "details": {}
+  },
+  {
+    "title": "Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A at a $400M valuation (Sarah Klearman/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261101/p6#a261101p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sarah Klearman / Wall Street Journal : Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A at a $400M valuation &nbsp; &mdash;&nbsp; The AI-for-manufacturers company has raised $66 million at a $400 million valuation&nbsp; &mdash;&nbsp; Think of running a production line on a factory floor as a kind of art.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T10:52:29.264196+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
+    "link": "https://github.com/matricphase-dot/aiops",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/matricphase-dot/aiops Comments URL: https://news.ycombinator.com/item?id=50324396 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T10:52:29.274787+00:00",
+    "details": {}
+  },
+  {
+    "title": "Tell HN: Claude Code now defaults to Haiku 5.5",
+    "link": "https://news.ycombinator.com/item?id=50324343",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "> Claude Code v2.1.316 > Haiku 5.5 · Claude Pro > /model > 1. Default (recommended) Haiku 5.5 Comments URL: https://news.ycombinator.com/item?id=50324343 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T10:52:29.283536+00:00",
+    "details": {}
+  },
+  {
+    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/PferdOne [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T10:52:29.303736+00:00",
     "details": {}
   }
 ]
