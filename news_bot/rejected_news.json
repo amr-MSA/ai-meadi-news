@@ -1,62 +1,5 @@
 [
   {
-    "title": "Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits (Jess Weatherbed/The Verge)",
-    "link": "https://www.techmeme.com/261002/p11#a261002p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jess Weatherbed / The Verge : Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits &nbsp; &mdash;&nbsp; &#65279;The new Speech feature provides synthetic voiceovers embellished with AI background music.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-02T14:17:15.538601+00:00",
-    "details": {}
-  },
-  {
-    "title": "Does anyone know if any new releases from Mistral are planned?",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "It’s been a long time since the last models came out. I notice they are selling GLM on the site, and I wonder if they are developing something, given the long silence. &#32; submitted by &#32; /u/LegacyRemaster [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-02T14:17:15.550027+00:00",
-    "details": {}
-  },
-  {
-    "title": "City of Vicksburg, Mississippi, shuts down computers after cyberattack",
-    "link": "https://databreaches.net/2026/10/02/city-of-vicksburg-mississippi-shuts-down-computers-after-cyberattack/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Joseph Topping reports: The City of Vicksburg, Mississippi, has shut down its computer systems after a ransomware attack, potentially delaying in-person utility payments while emergency response and utility service continue. Mayor Willis Thompson told The Vicksburg Post that the city had disconnected its internet operations. “We had to bring our internet operations down, just for... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-02T14:17:15.572740+00:00",
-    "details": {}
-  },
-  {
     "title": "Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects (Colin Demarest/Axios)",
     "link": "https://www.techmeme.com/261002/p22#a261002p22",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15220,6 +15163,63 @@
       "keywords": []
     },
     "rejected_at": "2026-11-01T10:52:29.303736+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google's data center energy head says space data centers cost up to 100x more than Earth-based ones, and US power supply is sufficient but permits are slow (Amir Efrati/The Information)",
+    "link": "https://www.techmeme.com/261101/p10#a261101p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Amir Efrati / The Information : Google's data center energy head says space data centers cost up to 100x more than Earth-based ones, and US power supply is sufficient but permits are slow &nbsp; &mdash;&nbsp; Data centers in space could cost up to 100 times as much as those on Earth, Google's head of data center energy said this week &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T17:21:46.786762+00:00",
+    "details": {}
+  },
+  {
+    "title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy (Harry Lambert/Colossus)",
+    "link": "https://www.techmeme.com/261101/p9#a261101p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Harry Lambert / Colossus : A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy &nbsp; &mdash;&nbsp; The fight to regulate AI and reform American science runs through a little-known White House office, and the Thiel-turned-Trump aide in charge of it",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T17:21:46.794017+00:00",
+    "details": {}
+  },
+  {
+    "title": "Heretic 2.0 released: Model modification for everyone",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Dear fellow Llamas, after almost 5 months of development, I finally have the pleasure of announcing to you the immediate availability of the biggest Heretic release ever, Heretic 2.0: https://github.com/p-e-w/heretic Heretic is the leading software for removing censorship from language models. It now boasts 37k GitHub stars and more than 8,500 models on Hugging Face, with 88 million(!!!) total mod",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-01T17:21:46.803941+00:00",
     "details": {}
   }
 ]
