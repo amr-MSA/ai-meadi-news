@@ -1,499 +1,5 @@
 [
   {
-    "title": "Center for Technology & Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM (Howard Liu/South China Morning Post)",
-    "link": "https://www.techmeme.com/261003/p7#a261003p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Howard Liu / South China Morning Post : Center for Technology &amp; Statecraft: Chinese fabs had acquired ~343 DUVi tools by early 2026, with ~270 from ASML; DUVi can be adapted to make 7nm chips and HBM &nbsp; &mdash;&nbsp; DUV tools, though not as advanced as EUV, can be adapted to manufacture 7-nm logic chips and advanced memory for AI processors, report says.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T12:49:24.552529+00:00",
-    "details": {}
-  },
-  {
-    "title": "Customize Claude Code with Mods in TypeScript",
-    "link": "https://claude.com/blog/claude-code-mods",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://claude.com/blog/claude-code-mods Comments URL: https://news.ycombinator.com/item?id=49943177 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T12:49:24.580738+00:00",
-    "details": {}
-  },
-  {
-    "title": "Terminal Velocity for Claude Code. Session Orchestrator. Live Action",
-    "link": "https://www.youtube.com/watch?v=9tfGn3isfZU",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.youtube.com/watch?v=9tfGn3isfZU Comments URL: https://news.ycombinator.com/item?id=49942970 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T12:49:24.592227+00:00",
-    "details": {}
-  },
-  {
-    "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "From Aleph Alpha on 𝕏: https://x.com/Aleph__Alpha/status/2106306840657297814 Tech report: https://aleph-alpha.com/downloads/tech-report.pdf &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T12:49:24.607833+00:00",
-    "details": {}
-  },
-  {
-    "title": "I'm pretty close to the middle thanks to you all",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wwbcdt/im_pretty_close_to_the_middle_thanks_to_you_all/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "It's been a blast and learning a ton. But seriously, you all have me down a rabbit hole that my wallet and hours of sleep need to be pulled out of. &#32; submitted by &#32; /u/pmarsh [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T12:49:24.618919+00:00",
-    "details": {}
-  },
-  {
-    "title": "Danish university DTU breach exposes data of up to 200,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-    "source_name": "BleepingComputer",
-    "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:22.919407+00:00",
-    "details": {}
-  },
-  {
-    "title": "Frontline Education breach exposes school district employee data",
-    "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-    "source_name": "BleepingComputer",
-    "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:22.929252+00:00",
-    "details": {}
-  },
-  {
-    "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-    "source_name": "BleepingComputer",
-    "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:22.939425+00:00",
-    "details": {}
-  },
-  {
-    "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
-    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-    "source_name": "BleepingComputer",
-    "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:22.949474+00:00",
-    "details": {}
-  },
-  {
-    "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
-    "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-    "source_name": "BleepingComputer",
-    "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:22.959813+00:00",
-    "details": {}
-  },
-  {
-    "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-    "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-    "source_name": "BleepingComputer",
-    "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:22.970130+00:00",
-    "details": {}
-  },
-  {
-    "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-    "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-    "source_name": "BleepingComputer",
-    "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:22.980871+00:00",
-    "details": {}
-  },
-  {
-    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-    "source_name": "BleepingComputer",
-    "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:22.991301+00:00",
-    "details": {}
-  },
-  {
-    "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-    "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-    "source_name": "BleepingComputer",
-    "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:23.001495+00:00",
-    "details": {}
-  },
-  {
-    "title": "Microsoft says threat actors are ahead in the early AI race",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-    "source_name": "BleepingComputer",
-    "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:23.011413+00:00",
-    "details": {}
-  },
-  {
-    "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-    "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-    "source_name": "BleepingComputer",
-    "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:23.021919+00:00",
-    "details": {}
-  },
-  {
-    "title": "The Day-One Hole in Zero Trust Architecture",
-    "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-    "source_name": "BleepingComputer",
-    "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:23.031481+00:00",
-    "details": {}
-  },
-  {
-    "title": "Kiteworks patches max severity code injection vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-    "source_name": "BleepingComputer",
-    "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:23.041091+00:00",
-    "details": {}
-  },
-  {
-    "title": "Microsoft enables Windows settings backup by default for orgs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-    "source_name": "BleepingComputer",
-    "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T16:59:23.050998+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: ShinyHunters member Saif al-Din Khader, aka \"Rey,\" was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach (Reuters)",
-    "link": "https://www.techmeme.com/261003/p11#a261003p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Reuters : Sources: ShinyHunters member Saif al-Din Khader, aka &ldquo;Rey,&rdquo; was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach &nbsp; &mdash;&nbsp; A key member of the ShinyHunters hacking group, which claims to have stolen data on every FBI employee &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T17:40:55.384959+00:00",
-    "details": {}
-  },
-  {
-    "title": "YouTube says it is adjusting its Shorts recommendations to prioritize \"original content\" and reduce the reach of channels re-uploading others' content (Andrew Romero/9to5Google)",
-    "link": "https://www.techmeme.com/261003/p10#a261003p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Andrew Romero / 9to5Google : YouTube says it is adjusting its Shorts recommendations to prioritize &ldquo;original content&rdquo; and reduce the reach of channels re-uploading others' content &nbsp; &mdash;&nbsp; YouTube says it wants to &lsquo;focus on originality&rsquo; in a push to surface better Shorts recommendations for users.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T17:40:55.399416+00:00",
-    "details": {}
-  },
-  {
-    "title": "Open Source Rust clean-room replacements for 7 of Adobe's apps",
-    "link": "https://www.reddit.com/r/SaaS/comments/1wwnhbt/ive_created_open_source_100_rust_cleanroom/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.reddit.com/r/SaaS/comments/1wwnhbt/ive_created_open_source_100_rust_cleanroom/ Comments URL: https://news.ycombinator.com/item?id=49946004 Points: 1 # Comments: 2",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T17:40:55.409346+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: I made a MMO-style citybuilder using the Micropolis open source assets",
-    "link": "https://globalcity.evertpot.com/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://globalcity.evertpot.com/ Comments URL: https://news.ycombinator.com/item?id=49945950 Points: 3 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T17:40:55.419871+00:00",
-    "details": {}
-  },
-  {
-    "title": "Yes bots we get it, Strata is good now please stop",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "It's like the entire sub has become that scene from Konosuba where the cult keeps making up fake scenarios saying the only solution is to join their religion &#32; submitted by &#32; /u/Mayion [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T17:40:55.429345+00:00",
-    "details": {}
-  },
-  {
-    "title": "ShinyHunters hacker “Rey,” allegedly involved in FBI data theft, detained in Jordan",
-    "link": "https://databreaches.net/2026/10/03/shinyhunters-hacker-rey-allegedly-involved-in-fbi-data-theft-detained-in-jordan/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Jana Winter, Raphael Satter, and A.J. Vicens report: A key member of the ShinyHunters hacking group, ‌which claims to have stolen data on every FBI employee, was detained this week in Jordan, three people familiar with the matter told Reuters. Two of ​the sources said he was cooperating with the FBI to identify ​his fellow... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T17:40:55.453229+00:00",
-    "details": {}
-  },
-  {
-    "title": "DHS readies major cyber contract",
-    "link": "https://databreaches.net/2026/10/03/dhs-readies-major-cyber-contract/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Justin Doubleday reports: The Department of Homeland Security is preparing this year to award a major cloud, cybersecurity and network services contract aimed at further centralizing the management of IT services across DHS. In a notice posted to Sam.gov last month, DHS laid out the notional timeline for award of the Network, Cloud and Cybersecurity... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T17:40:55.461502+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: AI czar Jay Clayton to chair the WH's AI task force, called \"Super Intelligence Force\", to pen a report on AI's risks and opportunities within 120 days (Alex Leary/Wall Street Journal)",
     "link": "https://www.techmeme.com/261003/p13#a261003p13",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15435,6 +14941,82 @@
       "keywords": []
     },
     "rejected_at": "2026-11-02T08:33:25.505779+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses to reduce electricity demand when the grid is under strain (OpenAI)",
+    "link": "https://www.techmeme.com/261102/p34#a261102p34",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "OpenAI : OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses to reduce electricity demand when the grid is under strain &nbsp; &mdash;&nbsp; Today we're launching the Grid Protectors Program, a national effort to support affordable, reliable electricity for families and businesses in the communities where we build.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-02T19:52:40.039894+00:00",
+    "details": {}
+  },
+  {
+    "title": "BenchMesh – one open-source app for every instrument on your lab bench",
+    "link": "https://github.com/BenchMesh/benchmesh-app",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/BenchMesh/benchmesh-app Comments URL: https://news.ycombinator.com/item?id=50342528 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-02T19:52:40.048770+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Arvre – A TUI for Claude Code sessions' forks",
+    "link": "https://github.com/victorcarrico/arvre",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "The title explains it all, I vibe coded it this weekend to help me to navigate through the sessions and forks of the a thousand tasks that I'm often working. There are probably other few tools that do similar, but why use them when you can use arvre? :D Comments URL: https://news.ycombinator.com/item?id=50342520 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-02T19:52:40.057227+00:00",
+    "details": {}
+  },
+  {
+    "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "There were some rumours the last few days that Qwen4 will be the last open-weight series of Qwen, and future ones would be API only. The following statement contradicts the rumours and clearly states the stance that Qwen is taking regarding their future releases. Qwen Head Liu Dayi Heng Clearly States : Future Qwen 4.0 and Qwen 5.0 Will Continue to Be Open Source! He believes that the value of AI",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-02T19:52:40.075164+00:00",
     "details": {}
   }
 ]
