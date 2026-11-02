@@ -1,43 +1,5 @@
 [
   {
-    "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week (Stephen Council/Business Insider)",
-    "link": "https://www.techmeme.com/261002/p29#a261002p29",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Stephen Council / Business Insider : David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week &nbsp; &mdash;&nbsp; David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company.&nbsp; &mdash;&nbsp; An OpenAI spokesperson told Business Insider on Friday that Robinson left last week &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T00:48:25.054572+00:00",
-    "details": {}
-  },
-  {
-    "title": "Buying RTX 5090 At Micro Center Reportedly Now Requires Paperwork, Including A No-Export Declaration",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/Boomfrag [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-03T00:48:25.076932+00:00",
-    "details": {}
-  },
-  {
     "title": "JuliusBrussee/caveman",
     "link": "https://github.com/JuliusBrussee/caveman",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15359,6 +15321,25 @@
       "keywords": []
     },
     "rejected_at": "2026-11-01T21:27:14.045573+00:00",
+    "details": {}
+  },
+  {
+    "title": "How IShowSpeed became YouTube's top livestreamer with 62M+ subscribers, as his 24/7 \"IRL streams\" that last days mingle childlike wonder with teenage mischief (Jon Caramanica/New York Times)",
+    "link": "https://www.techmeme.com/261101/p18#a261101p18",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jon Caramanica / New York Times : How IShowSpeed became YouTube's top livestreamer with 62M+ subscribers, as his 24/7 &ldquo;IRL streams&rdquo; that last days mingle childlike wonder with teenage mischief &nbsp; &mdash;&nbsp; IShowSpeed in Las Vegas during the Speed Does America bus tour.&nbsp; &mdash;&nbsp; With seven minutes left in the second quarter &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-02T01:06:32.214725+00:00",
     "details": {}
   }
 ]

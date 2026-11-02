@@ -736,5 +736,39 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "A look at Binance's efforts to contain the hack, including creating a global war room of ~100 people, coordinating with other crypto firms and the FBI, and more (Bloomberg)",
+    "link": "https://www.techmeme.com/261101/p19#a261101p19",
+    "summary": "كشفت تقارير صحفية أن منصة بينانس شكلت غرفة عمليات عالمية تضم نحو 100 متخصص وتعمل بالتنسيق المباشر مع مكتب التحقيقات الفيدرالي (FBI) وشركات الكريبتو الأخرى للسيطرة على تداعيات السرقة الرقمية التاريخية وتتبع الأموال المستهدفة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "binance-6-3b-crypto-theft-devops-laptop",
+    "event_key": "binance|2026 10|أمن سيبراني|غير محدد|دولي",
+    "company_name": "Binance",
+    "event_year_month": "2026-10",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "دولي",
+    "keywords": [
+      "Binance",
+      "FBI",
+      "War Room",
+      "Crypto Hack"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-02T01:06:32.198721+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 263,
+    "telegram_message_url": "https://t.me/Eng_limitless/263",
+    "is_update": true,
+    "updates_event_key": "binance|2026 10|أمن سيبراني|غير محدد|دولي",
+    "update_summary": "كشفت تقارير عن إنشاء بينانس غرفة عمليات من 100 شخص وتنسيقها مع الـ FBI لتطويق تداعيات الاختراق.",
+    "new_facts": [
+      "تأسيس غرفة عمليات (War Room) عالمية تضم نحو 100 متخصص لإدارة الأزمة.",
+      "التنسيق المباشر مع مكتب التحقيقات الفيدرالي (FBI) وشركات الأصول الرقمية لتتبع الأموال."
+    ],
+    "supersedes_posted_at": "2026-10-30T18:25:19.124280+00:00"
   }
 ]
