@@ -1,81 +1,5 @@
 [
   {
-    "title": "Sources: AI czar Jay Clayton to chair the WH's AI task force, called \"Super Intelligence Force\", to pen a report on AI's risks and opportunities within 120 days (Alex Leary/Wall Street Journal)",
-    "link": "https://www.techmeme.com/261003/p13#a261003p13",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Alex Leary / Wall Street Journal : Sources: AI czar Jay Clayton to chair the WH's AI task force, called &ldquo;Super Intelligence Force&rdquo;, to pen a report on AI's risks and opportunities within 120 days &nbsp; &mdash;&nbsp; The White House group will be led by Director of National Intelligence Jay Clayton who will serve as AI czar",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T00:12:55.784945+00:00",
-    "details": {}
-  },
-  {
-    "title": "David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over (David Robinson/The Atlantic)",
-    "link": "https://www.techmeme.com/261003/p12#a261003p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "David Robinson / The Atlantic : David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over &nbsp; &mdash;&nbsp; What I'm about to tell you has, I realize, become something of a clich&eacute;: I resigned this week from OpenAI.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T00:12:55.804001+00:00",
-    "details": {}
-  },
-  {
-    "title": "The Rise of Overfit Inference Engines",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "There seems to be a whole category of extremely narrow inference runtimes appearing: Strata, ninfer, DwarfStar, Splash, llamAmpere, gufo, etc. They deliberately give up the thing llama.cpp/vLLM are great at - generality - and optimize around a small number of models and sometimes one hardware family e.g. Strix Halo It seems that general runtimes for compatibility, disposable overfit runtimes for m",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T00:12:55.825795+00:00",
-    "details": {}
-  },
-  {
-    "title": "Italy’s Data Protection Authority fines IQVIA €7 million over data protection breach",
-    "link": "https://databreaches.net/2026/10/03/italys-data-protection-authority-fines-iqvia-e7-million-over-data-protection-breach/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "The following is a machine translation of a press release by Italy&#8217;s privacy guarantor: Healthcare data: The Privacy Guarantor fines IQVIA 7 million euros. The data of one million patients of 800 family doctors are not anonymous. The Italian Data Protection Authority has fined IQVIA Solutions Italy Srl €7 million. The company, part of a... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T00:12:55.839095+00:00",
-    "details": {}
-  },
-  {
     "title": "affaan-m/ECC",
     "link": "https://github.com/affaan-m/ECC",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15036,6 +14960,63 @@
       "keywords": []
     },
     "rejected_at": "2026-11-02T22:08:05.515422+00:00",
+    "details": {}
+  },
+  {
+    "title": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
+    "link": "https://www.techmeme.com/261102/p48#a261102p48",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "The Information : Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta &nbsp; &mdash;&nbsp; Salesforce extended its recent shopping spree, announcing on Monday plans to acquire Cresta, a nine-year-old provider of AI-powered contact center automation software.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T01:55:34.733358+00:00",
+    "details": {}
+  },
+  {
+    "title": "John Ternus says Apple expects memory costs to increase into December and beyond; Apple's inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY (Sarah Perez/TechCrunch)",
+    "link": "https://www.techmeme.com/261102/p47#a261102p47",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Sarah Perez / TechCrunch : John Ternus says Apple expects memory costs to increase into December and beyond; Apple's inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY &nbsp; &mdash;&nbsp; Apple's stockpiling of inventory, particularly computer memory, continued in its fiscal fourth-quarter, according to earnings reported Monday.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T01:55:34.744118+00:00",
+    "details": {}
+  },
+  {
+    "title": "Syrian Man Sentenced for Wide-Ranging Hacking Conspiracy Conducted on Behalf of the Bashar Al Assad Regime",
+    "link": "https://databreaches.net/2026/11/02/syrian-man-sentenced-for-wide-ranging-hacking-conspiracy-conducted-on-behalf-of-the-bashar-al-assad-regime/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Ahmad Umar Agha (also known as Th3Pr0) had spent more than a decade as a fugitive for targeting of Western media entities, businesses, NGOs, and U.S. and allied government entities October 29 &#8211; Today a federal district court in the Eastern District of Virginia sentenced Ahmad Umar Agha to 42 months in prison for his...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T01:55:34.766730+00:00",
     "details": {}
   }
 ]
