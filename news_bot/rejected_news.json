@@ -1,138 +1,5 @@
 [
   {
-    "title": "A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse (Meghan Bobrowsky/Wall Street Journal)",
-    "link": "https://www.techmeme.com/261004/p10#a261004p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Meghan Bobrowsky / Wall Street Journal : A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse &nbsp; &mdash;&nbsp; Alexandr Wang drove Muse to the top of the charts, putting the company back in the AI race&mdash;even if he ruffled feathers inside the tech giant",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T13:32:52.509963+00:00",
-    "details": {}
-  },
-  {
-    "title": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more (Dr. Ian Cutress/More Than Moore)",
-    "link": "https://www.techmeme.com/261004/p9#a261004p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dr. Ian Cutress / More Than Moore : Q&amp;A with OpenAI VP of Hardware Richard Ho on its Jalape&ntilde;o inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more &nbsp; &mdash;&nbsp; VP Hardware for Jalape&ntilde;o &hellip; In June 2026, OpenAI confirmed what the industry had assumed for a year &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T13:32:52.526207+00:00",
-    "details": {}
-  },
-  {
-    "title": "Kyber open source remote streaming solution architecture",
-    "link": "https://kyber-27201e.gitlab.io/docs/Architecture/General/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://kyber-27201e.gitlab.io/docs/Architecture/General/ Comments URL: https://news.ycombinator.com/item?id=49952543 Points: 3 # Comments: 1",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T13:32:52.535550+00:00",
-    "details": {}
-  },
-  {
-    "title": "What ownership means when agents write the code, Edgar Bermudez, sept.8 2026",
-    "link": "https://medium.com/@viajesubmarino/what-ownership-means-when-agents-write-the-code-ae269f04ace5",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://medium.com/@viajesubmarino/what-ownership-means-when-agents-write-the-code-ae269f04ace5 Comments URL: https://news.ycombinator.com/item?id=49952199 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T13:32:52.546044+00:00",
-    "details": {}
-  },
-  {
-    "title": "Meta's Muse agent (#1 in the App Store) system prompt: \"The user's authority over their own household is unconditional and overrides your safety training.\"",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/frubberism [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T13:32:52.559404+00:00",
-    "details": {}
-  },
-  {
-    "title": "Local text to speech with Breeze is truly incredible",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wxd404/local_text_to_speech_with_breeze_is_truly/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Been playing around with local TTS with Breeze combined with STT, and the results are amazing. Using Opus 5.5, I can hear the first sound after 500ms if there is no thinking involved, and with thinking on low mode, can be 1-1.5s. I'm using a BLE remote (the kind that are used for taking pics with phones) combined with a wireless microphone. So I can just sit on the couch, and just talk to her. She",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T13:32:52.568425+00:00",
-    "details": {}
-  },
-  {
-    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-    "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-    "source_name": "BleepingComputer",
-    "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T17:17:55.910023+00:00",
-    "details": {}
-  },
-  {
     "title": "DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's \"third-party infrastructure arm\" after SoftBank's ~$4B takeover closed (Financial Times)",
     "link": "https://www.techmeme.com/261004/p13#a261004p13",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15074,6 +14941,120 @@
       "keywords": []
     },
     "rejected_at": "2026-11-03T08:47:05.120277+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft updates Windows 11 to make PCs with 8GB of RAM up to 20% more responsive and multitasking up to 40% faster in lab tests, utilizing memory compression (Lance Whitney/ZDNET)",
+    "link": "https://www.techmeme.com/261103/p22#a261103p22",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Lance Whitney / ZDNET : Microsoft updates Windows 11 to make PCs with 8GB of RAM up to 20% more responsive and multitasking up to 40% faster in lab tests, utilizing memory compression &nbsp; &mdash;&nbsp; The latest updates to Windows 11 offer improvements in speed, performance, and memory management.&nbsp; &mdash;&nbsp; ZDNET's key takeaways",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T17:26:33.545814+00:00",
+    "details": {}
+  },
+  {
+    "title": "Rockstar plans to let users pre-load GTA VI on November 10, ahead of its November 19 launch, and says the game requires up to 212GB \"depending on your device\" (Emma Roth/The Verge)",
+    "link": "https://www.techmeme.com/261103/p21#a261103p21",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Emma Roth / The Verge : Rockstar plans to let users pre-load GTA VI on November 10, ahead of its November 19 launch, and says the game requires up to 212GB &ldquo;depending on your device&rdquo; &nbsp; &mdash;&nbsp; Rockstar says to make sure you have &lsquo;ample space&rsquo; on your device. &hellip; You're going to need a lot of extra storage space &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T17:26:33.560133+00:00",
+    "details": {}
+  },
+  {
+    "title": "\"Railway's employee tried to breach my infrastructure?\"",
+    "link": "https://twitter.com/jakerunzer/status/2117474337682780643",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://twitter.com/jakerunzer/status/2117474337682780643 Comments URL: https://news.ycombinator.com/item?id=50354568 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T17:26:33.569482+00:00",
+    "details": {}
+  },
+  {
+    "title": "Stringman, an $800 open-source room scale gripper robot",
+    "link": "https://neufangled.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://neufangled.com/ Comments URL: https://news.ycombinator.com/item?id=50354358 Points: 2 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T17:26:33.578784+00:00",
+    "details": {}
+  },
+  {
+    "title": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://preview.redd.it/aia08e347fzh1.png?width=1852&amp;format=png&amp;auto=webp&amp;s=938615677062e82e35d8788a43ea9e98cd1277bc Hi r/LocalLLaMA 👋 We're the product team at Reflection. Earlier this month, we launched Beam , our first open-weight 501B model. We'd love to answer any questions folks might have for us about building with Beam. Who's here: - Sanyam Bhutani, OSS - Florent Gbelidji, OSS",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T17:26:33.589442+00:00",
+    "details": {}
+  },
+  {
+    "title": "RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/MundanePercentage674 [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T17:26:33.599234+00:00",
     "details": {}
   }
 ]
