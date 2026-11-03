@@ -1,81 +1,5 @@
 [
   {
-    "title": "DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's \"third-party infrastructure arm\" after SoftBank's ~$4B takeover closed (Financial Times)",
-    "link": "https://www.techmeme.com/261004/p13#a261004p13",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's &ldquo;third-party infrastructure arm&rdquo; after SoftBank's ~$4B takeover closed &nbsp; &mdash;&nbsp; DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank's &lsquo;third-party infrastructure arm&rsquo; after $4bn takeover",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T17:54:27.783785+00:00",
-    "details": {}
-  },
-  {
-    "title": "Building a RAG Pipeline for Semantic Code Search",
-    "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/ Comments URL: https://news.ycombinator.com/item?id=49956148 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T17:54:27.789248+00:00",
-    "details": {}
-  },
-  {
-    "title": "Just Dashboard – open-source dashboard for everything",
-    "link": "https://github.com/JustDashboard/Just-Dashboard",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/JustDashboard/Just-Dashboard Comments URL: https://news.ycombinator.com/item?id=49956017 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T17:54:27.795115+00:00",
-    "details": {}
-  },
-  {
-    "title": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#x200b; From the first LLaMA 33B I knew I wanted that magic-like intelligence locally, mine, so nobody could take it away when I needed it. I bought a 3090 for my home PC. Then LLaMA 65B appeared and I was dazzled, it looked like it had all the knowledge in the world. I made two copies, one local and one on my Synology NAS RAID, so I'd never lose it, and bought a second 3090 to run it. I was happ",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T17:54:27.801205+00:00",
-    "details": {}
-  },
-  {
     "title": "Extracted system prompts show Meta's Muse compiles \"a page for every person in the user's life\", with facts, history, tips to improve relationships, and more (Wired)",
     "link": "https://www.techmeme.com/261004/p16#a261004p16",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15055,6 +14979,272 @@
       "keywords": []
     },
     "rejected_at": "2026-11-03T17:26:33.599234+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+    "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+    "source_name": "BleepingComputer",
+    "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.703192+00:00",
+    "details": {}
+  },
+  {
+    "title": "Barracuda warns of critical flaws allowing root access to devices",
+    "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+    "source_name": "BleepingComputer",
+    "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.711532+00:00",
+    "details": {}
+  },
+  {
+    "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+    "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+    "source_name": "BleepingComputer",
+    "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure manageme",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.720210+00:00",
+    "details": {}
+  },
+  {
+    "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+    "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+    "source_name": "BleepingComputer",
+    "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.728946+00:00",
+    "details": {}
+  },
+  {
+    "title": "Police seizes over 100 servers in investment scam crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+    "source_name": "BleepingComputer",
+    "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.737065+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+    "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+    "source_name": "BleepingComputer",
+    "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.745985+00:00",
+    "details": {}
+  },
+  {
+    "title": "Harvard University data breach exposed info of 851,000 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+    "source_name": "BleepingComputer",
+    "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.754405+00:00",
+    "details": {}
+  },
+  {
+    "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+    "source_name": "BleepingComputer",
+    "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.762789+00:00",
+    "details": {}
+  },
+  {
+    "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+    "source_name": "BleepingComputer",
+    "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.770960+00:00",
+    "details": {}
+  },
+  {
+    "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+    "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+    "source_name": "BleepingComputer",
+    "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.779396+00:00",
+    "details": {}
+  },
+  {
+    "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+    "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+    "source_name": "BleepingComputer",
+    "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.787429+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers disrupt refrigeration systems at European supermarkets",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+    "source_name": "BleepingComputer",
+    "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.795481+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft fixes Smart App Control broken by October Windows update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.803855+00:00",
+    "details": {}
+  },
+  {
+    "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+    "source_name": "BleepingComputer",
+    "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T19:58:34.812257+00:00",
     "details": {}
   }
 ]
