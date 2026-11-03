@@ -1,138 +1,5 @@
 [
   {
-    "title": "Extracted system prompts show Meta's Muse compiles \"a page for every person in the user's life\", with facts, history, tips to improve relationships, and more (Wired)",
-    "link": "https://www.techmeme.com/261004/p16#a261004p16",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Wired : Extracted system prompts show Meta's Muse compiles &ldquo;a page for every person in the user's life&rdquo;, with facts, history, tips to improve relationships, and more &nbsp; &mdash;&nbsp; Millions have downloaded Meta's AI agent Muse.&nbsp; But getting it to do your bidding comes with privacy costs.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T20:36:43.214844+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Apple and Google pitch state bills with self-attested age checks and no private lawsuits; Meta backs ones making app stores, not platforms, verify ages (Owen Dahlkamp/Politico)",
-    "link": "https://www.techmeme.com/261004/p15#a261004p15",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Owen Dahlkamp / Politico : Sources: Apple and Google pitch state bills with self-attested age checks and no private lawsuits; Meta backs ones making app stores, not platforms, verify ages &nbsp; &mdash;&nbsp; Google and Apple lobbyists are engaged in a massive effort to press state lawmakers to adopt kids' online safety laws &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T20:36:43.230025+00:00",
-    "details": {}
-  },
-  {
-    "title": "UberDDR4: The Open-Source DDR4 Controller",
-    "link": "https://www.openiphub.com/post/uberddr4-the-open-source-ddr4-controller",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.openiphub.com/post/uberddr4-the-open-source-ddr4-controller Comments URL: https://news.ycombinator.com/item?id=49957152 Points: 3 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T20:36:43.239085+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Make Claude Code sessions talk to each other",
-    "link": "https://phonebook.dev/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "It lets one Claude Code session ask another a question, whether that session is your own in another project or a teammates, and get the answer back. Typical use is a frontend project asking the API project how something behaves. Let me know if you find it useful. Comments URL: https://news.ycombinator.com/item?id=49957109 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T20:36:43.248950+00:00",
-    "details": {}
-  },
-  {
-    "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/chillinewman [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T20:36:43.270015+00:00",
-    "details": {}
-  },
-  {
-    "title": "South Korea’s President Lee Jae Myung orders thorough probe into data breaches at local banks",
-    "link": "https://databreaches.net/2026/10/04/south-koreas-president-lee-jae-myung-orders-thorough-probe-into-data-breaches-at-local-banks/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Lee Hyo-jin reports: President Lee Jae Myung on Sunday ordered a thorough investigation into a string of recent data breaches at financial institutions, as artificial intelligence (AI)-powered cyberattacks increasingly target them. According to Cheong Wa Dae, Lee was briefed on recent data breaches at financial and public institutions and their responses to the incidents. &#8220;The... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T20:36:43.281802+00:00",
-    "details": {}
-  },
-  {
-    "title": "Slate Valley Unified School District voted not to pay ransom demand; Kairos likely to leak data",
-    "link": "https://databreaches.net/2026/10/04/slate-valley-unified-school-district-voted-not-to-pay-ransom-demand-kairos-likely-to-leak-data/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "The Slate Valley Unified School District in Fair Haven, Vermont, has been responding to a security incident since September 3. On October 2, Kairos threat actors contacted DataBreaches to alert us to the incident and their response to the district&#8217;s claim that they believed student data had not been compromised. They were also angry that... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-04T20:36:43.293210+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)",
     "link": "https://www.techmeme.com/261004/p20#a261004p20",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15245,6 +15112,139 @@
       "keywords": []
     },
     "rejected_at": "2026-11-03T19:58:34.812257+00:00",
+    "details": {}
+  },
+  {
+    "title": "Canva says it is restructuring, which will impact 1,271 workers, or 22% of its workforce, as it merges its product, growth, and platform teams (David Swan/The Age)",
+    "link": "https://www.techmeme.com/261103/p37#a261103p37",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "David Swan / The Age : Canva says it is restructuring, which will impact 1,271 workers, or 22% of its workforce, as it merges its product, growth, and platform teams &nbsp; &mdash;&nbsp; Canva will cut more than 1000 jobs in a major restructure in response to slowing growth at the design giant.&nbsp; &mdash;&nbsp; Co-founder and chief executive &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T22:39:47.007688+00:00",
+    "details": {}
+  },
+  {
+    "title": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
+    "link": "https://www.techmeme.com/261103/p36#a261103p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tobias Mann / The Register : Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code &nbsp; &mdash;&nbsp; Revolut says that in less than a year it's managed to slash its AI coding inference costs by roughly 90 percent by making self-hosted models &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T22:39:47.018252+00:00",
+    "details": {}
+  },
+  {
+    "title": "748 Open-source crypto trading strategies with per-stage validation report cards",
+    "link": "https://github.com/CacheCarti/Crypto-Strategies",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/CacheCarti/Crypto-Strategies Comments URL: https://news.ycombinator.com/item?id=50358959 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T22:39:47.025763+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Xecrets Ez – open-source mobile file encryption",
+    "link": "https://github.com/xecrets/xecrets-mobile",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "I've finally written mobile apps to complete platform support for my AxCrypt-compatible file encryption software. It now runs on iOS, Android, Linux, macOS and Windows. They're not released on Google Play and Apple App Store yet, but they are available for open beta testing. You can also build them from source. Lovingly hand-crafted (with AI-assistance) over several months of hard work - not AI-wr",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T22:39:47.032843+00:00",
+    "details": {}
+  },
+  {
+    "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/notheresnolight [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T22:39:47.048112+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ukraine and Russia both report fake emergency alerts after cyberattacks target apps as limited ceasefire ends",
+    "link": "https://databreaches.net/2026/11/03/ukraine-and-russia-both-report-fake-emergency-alerts-after-cyberattacks-target-apps-as-limited-ceasefire-ends/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "AP reports: Authorities in Ukraine and Russia said their emergency alert mobile apps had been targeted by cyberattacks, with users in Ukraine receiving false warnings of an imminent nuclear threat. It was not clear if the attacks late Sunday were related. Ukraine said its service, which residents rely on to seek safety amid daily Russian...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T22:39:47.055858+00:00",
+    "details": {}
+  },
+  {
+    "title": "Nine health systems affected by AI company data breach",
+    "link": "https://databreaches.net/2026/11/03/nine-health-systems-affected-by-ai-company-data-breach/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Giles Bruce reports: A data breach involving healthcare AI company Xsolis has ensnared at least nine health systems and 1.4 million patients. Xsolis, which provides utilization management and care coordination technology for health systems, reported the targeted phishing attack June 5, noting that on Jan. 20 an unauthorized person accessed portions of the company’s IT...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-03T22:39:47.062398+00:00",
     "details": {}
   }
 ]
