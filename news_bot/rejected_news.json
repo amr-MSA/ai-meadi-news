@@ -1,119 +1,5 @@
 [
   {
-    "title": "Sam Altman says he's \"very uncomfortable\" with attributing religious force to AI, calling it \"a real safety issue\", as Anthropic engages with religious leaders (Ben Berkowitz/Axios)",
-    "link": "https://www.techmeme.com/261005/p3#a261005p3",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ben Berkowitz / Axios : Sam Altman says he's &ldquo;very uncomfortable&rdquo; with attributing religious force to AI, calling it &ldquo;a real safety issue&rdquo;, as Anthropic engages with religious leaders &nbsp; &mdash;&nbsp; OpenAI CEO Sam Altman on Saturday took a veiled shot at Anthropic and its work on the soul of AI &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T07:51:10.132041+00:00",
-    "details": {}
-  },
-  {
-    "title": "OKXICE, a JV between OKX and ICE, is seeking SEC approval to offer tokenized shares of 63 NYSE-listed firms, as it leverages new US rules on tokenized stocks (Scott Patterson/Bloomberg)",
-    "link": "https://www.techmeme.com/261005/p2#a261005p2",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Scott Patterson / Bloomberg : OKXICE, a JV between OKX and ICE, is seeking SEC approval to offer tokenized shares of 63 NYSE-listed firms, as it leverages new US rules on tokenized stocks &nbsp; &mdash;&nbsp; OKX filed with the Securities and Exchange Commission on Sunday to launch a tokenized-stock trading platform &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T07:51:10.150318+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: StackKit – Open-source and self-hosted alternatives to SaaS tools",
-    "link": "https://stackkit.website/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://stackkit.website/ Comments URL: https://news.ycombinator.com/item?id=49961794 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T07:51:10.163470+00:00",
-    "details": {}
-  },
-  {
-    "title": "CPR data breach exposes personal details of 8.8M people in Denmark",
-    "link": "https://cphpost.dk/2026-10-05/life-in-denmark/cpr-data-breach-exposes-personal-details-of-8-8-million-people-in-denmark/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://cphpost.dk/2026-10-05/life-in-denmark/cpr-data-breach-exposes-personal-details-of-8-8-million-people-in-denmark/ Comments URL: https://news.ycombinator.com/item?id=49961640 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T07:51:10.175506+00:00",
-    "details": {}
-  },
-  {
-    "title": "My qwen model hallucinated a signed URL to Alibaba cloud, normal or sketchy?",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wxvt41/my_qwen_model_hallucinated_a_signed_url_to/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I'm using Qwen3.8-Flash-Next running on my Mac Studio as a daily driver for coding + productivity tasks, and yesterday it did something weird: I had it do some product research on amazon, so it was doing a lot of Web tool calls to amazon.com , until it made one request to routify-file-proxy-sg.oss-ap-southeast-1.aliyuncs.com 🤔 As soon as I noticed this in the tool calls I stopped the session becau",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T07:51:10.187909+00:00",
-    "details": {}
-  },
-  {
-    "title": "Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Looks like new open model coming soon and will be &quot;strong&quot; hopefully something under 200b for us memory poor. Also seeing statements about more western open models coming. Hope we get some good competition again on the open front! Here is original artical but its not free to access. Maybe someone has it already here. https://www.axios.com/2026/10/04/reflection-open-weight-ai Oct starting",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T07:51:10.200779+00:00",
-    "details": {}
-  },
-  {
     "title": "tester-army/e2e",
     "link": "https://github.com/tester-army/e2e",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15193,6 +15079,139 @@
       ]
     },
     "rejected_at": "2026-11-04T03:43:13.394247+00:00",
+    "details": {}
+  },
+  {
+    "title": "spotify/portal-ai-plugins",
+    "link": "https://github.com/spotify/portal-ai-plugins",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Spotify Portal AI Plugins Bring Spotify Portal into Claude Code, Codex, Cursor, and pi. This plugin provides focused workflows for the Portal CLI : set up authentication, search your software catalog, build service briefings, run diagnostics, and invoke Portal actions. Highlights Set up the Portal CLI for your current coding-agent environment. Run read-only diagnostics to verify plugin, CLI, authe",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T11:41:38.959990+00:00",
+    "details": {}
+  },
+  {
+    "title": "floci-io/floci",
+    "link": "https://github.com/floci-io/floci",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative https://floci.io/floci/ Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs What is Floci? Floci is a free, open-source local AWS emulator for development, testing, and CI. It gives you",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T11:41:38.968935+00:00",
+    "details": {}
+  },
+  {
+    "title": "Usagi-org/ai-goofish-monitor",
+    "link": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 Web 可视化管理 : 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 AI 驱动 : 自然语言创建任务，多模态模型深度分析商品 多任务并发 : 独立配置关键词、价格、筛选条件和 AI Prompt 高级筛选 : 包邮、新发布时间范围、省/市/区三级区域筛选 即时通知 : 支持 ntfy.sh 、企业微信、Bark、Telegram、Webhook等多渠道 定时调度 : 支持 Cron 配置周期性任务 账号与代理轮换 : 多账号管理、任务绑定账号、代理池轮换与失败重试 Docker 部",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T11:41:38.977295+00:00",
+    "details": {}
+  },
+  {
+    "title": "Elon Musk's preferred US midterm candidates, including Ken Paxton and Vivek Ramaswamy, lost almost everywhere; Musk spent $446M, a record for a non-candidate (Calder Mchugh/Politico)",
+    "link": "https://www.techmeme.com/261104/p19#a261104p19",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Calder Mchugh / Politico : Elon Musk's preferred US midterm candidates, including Ken Paxton and Vivek Ramaswamy, lost almost everywhere; Musk spent $446M, a record for a non-candidate &nbsp; &mdash;&nbsp; Plans for buildout of data centers across Texas in doubt after Democrats won a surprise sweep.&nbsp; &mdash;&nbsp; WASHINGTON &mdash; Tech billionaire &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T11:42:07.007088+00:00",
+    "details": {}
+  },
+  {
+    "title": "Analysis: SpaceX revises its 2027 data center capacity target up to a record ~13GW, roughly equivalent to all of Google's capacity from 1999-2026 in 1.5 years (SemiAnalysis)",
+    "link": "https://www.techmeme.com/261104/p18#a261104p18",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "SemiAnalysis : Analysis: SpaceX revises its 2027 data center capacity target up to a record ~13GW, roughly equivalent to all of Google's capacity from 1999-2026 in 1.5 years &nbsp; &mdash;&nbsp; Making 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab?&nbsp; &mdash;&nbsp; Reyk Knuhtsen, Jeremie Eliahou Ontiveros, and Dylan Patel",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T11:42:07.021079+00:00",
+    "details": {}
+  },
+  {
+    "title": "Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Great for them, I think more and more companies that have the resources will start doing this &#32; submitted by &#32; /u/mawcopolow [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T11:42:07.041981+00:00",
+    "details": {}
+  },
+  {
+    "title": "AU: Criminal investigation after NSW Health hit by cyber breach",
+    "link": "https://databreaches.net/2026/11/03/au-criminal-investigation-after-nsw-health-hit-by-cyber-breach/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Richard Wood reports: A major cyber breach has been declared at NSW Health, but officials say patient data has not been affected. A spokesperson for Cyber Security NSW says investigations are under way. “Cyber Security NSW is responding to a cyber breach impacting an isolated server within NSW Health. “The breach has been declared a...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T11:42:07.059699+00:00",
     "details": {}
   }
 ]
