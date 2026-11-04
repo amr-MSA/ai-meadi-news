@@ -1,233 +1,5 @@
 [
   {
-    "title": "tester-army/e2e",
-    "link": "https://github.com/tester-army/e2e",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Next generation e2e testing framework for web and mobile apps. https://tester.army/e2e e2e e2e is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test. // tests/checkout.e2e.ts import { test, expect } from 'e2e'; test('a member upgrades to Pro', async ({ a",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:31:52.356724+00:00",
-    "details": {}
-  },
-  {
-    "title": "calesthio/OpenMontage",
-    "link": "https://github.com/calesthio/OpenMontage",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. https://www.openmontage.video/ Monty the Clapper — the official mascot of OpenMontage OpenMontage The first open-source, agentic video production system. Paste A Video &nbsp;·&nbsp; Quick",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:31:52.395519+00:00",
-    "details": {}
-  },
-  {
-    "title": "caddyserver/caddy",
-    "link": "https://github.com/caddyserver/caddy",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS https://caddyserver.com a project Every site on HTTPS Caddy is an extensible server platform that uses TLS by default. Releases · Documentation · Get Help &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Powered by Special thanks to: Warp, built for coding with multiple AI agents Available for MacOS, Linux, &amp; Windows Menu Features",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:31:52.412285+00:00",
-    "details": {}
-  },
-  {
-    "title": "michael-denyer/pstack-claude",
-    "link": "https://github.com/michael-denyer/pstack-claude",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. pstack Lauren Tan's pstack is an opinionated Cursor skill stack that improves agent outcomes. This is a port for Claude Code, Codex, Pi and other agent harnesses. It tracks upstream and also carries named policy forks, each declared",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:31:52.421388+00:00",
-    "details": {}
-  },
-  {
-    "title": "garrytan/gstack",
-    "link": "https://github.com/garrytan/gstack",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA gstack \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" — Andrej Karpathy , No Priors podcast, March 2026 When I heard Karpathy say this, I wanted to find out how. How does one person ship",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:31:52.450914+00:00",
-    "details": {}
-  },
-  {
-    "title": "antirez/ds4",
-    "link": "https://github.com/antirez/ds4",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm DwarfStar aims to be the best way to run a few excellent large language models on consumer hardware (that is, hardware that people can actually own). To reach this goal, we are building a small native inference engine optimized first for DeepSeek V4 Flash (including the experimental vision model), DeepSeek V4.1 Flash (Metal,",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:31:52.467756+00:00",
-    "details": {}
-  },
-  {
-    "title": "An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran (BBC)",
-    "link": "https://www.techmeme.com/261005/p25#a261005p25",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "BBC : An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran &nbsp; &mdash;&nbsp; Technology reporter in San Francisco and&nbsp; &mdash;&nbsp; The US Department of Defence is no longer using Anthropic's AI tools &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:32:59.604949+00:00",
-    "details": {}
-  },
-  {
-    "title": "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally (OpenAI)",
-    "link": "https://www.techmeme.com/261005/p24#a261005p24",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "OpenAI : To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally &nbsp; &mdash;&nbsp; - Starting today, API customers globally will be able to opt in to text watermarking for select models.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:32:59.620013+00:00",
-    "details": {}
-  },
-  {
-    "title": "Agens Volundr 32B Preview: our small team's first model on our own hybrid architecture. Only 18 of 72 layers keep a KV cache (Apache-2.0)",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wy7wn0/agens_volundr_32b_preview_our_small_teams_first/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Hi r/LocalLLaMA . I'm on the team at Blockway, a small team in Hong Kong (disclosure: this is our model). Today we released Agens Volundr 32B Preview, the first model built on our own hybrid architecture. We trained it on limited compute, it isn't perfect, and we'd rather tell you where it falls short up front. WHY WE BUILT IT Our customers run models on their own machines. At long context, the KV",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:32:59.634330+00:00",
-    "details": {}
-  },
-  {
-    "title": "M5 Ultra 256 running GLM 5.3 Flash 68.8 tok/s",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wy8k3m/m5_ultra_256_running_glm_53_flash_688_toks/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Running oQ4e+MTP on oMLX 0.7.0, with still more to optimize. Prefill is 1,878 toks. I saw some other benchmarks below what id expect so i figured I would share. &#32; submitted by &#32; /u/cryotic [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:32:59.644739+00:00",
-    "details": {}
-  },
-  {
-    "title": "Nueva EPS, Colombia’s largest regional healthcare promoting entity has allegedly been hacked (1)",
-    "link": "https://databreaches.net/2026/10/05/nueva-eps-colombias-largest-regional-healthcare-promoting-entity-has-allegedly-been-hacked/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Colombia&#8217;s largest health-promoting entity, Nueva EPS, has allegedly been hacked by an individual demanding $15 million not to leak the data. Colombia&#8217;s healthcare system includes Entidad Promotora de Salud (EPS), regional health-promoting entities responsible for implementing objectives set by the Ministry of Health, developing guidelines and protocols, and overseeing healthcare deliv",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:32:59.657212+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hackers Breached Propulsion System of U.S.-Bound Oil Tanker",
-    "link": "https://databreaches.net/2026/10/05/hackers-breached-propulsion-system-of-u-s-bound-oil-tanker/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Seen on Homeland Security Today: FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that highlights the growing physical risks from cyberattacks. The cyberattack resulted... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T16:32:59.667612+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)",
     "link": "https://www.techmeme.com/261005/p34#a261005p34",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15212,6 +14984,63 @@
       "keywords": []
     },
     "rejected_at": "2026-11-04T11:42:07.059699+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)",
+    "link": "https://www.techmeme.com/261104/p46#a261104p46",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Madison Mills / Axios : Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs &nbsp; &mdash;&nbsp; Meta has acquired Conductor, an AI coding startup that lets software engineers manage multiple coding agents simultaneously &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T18:59:30.542210+00:00",
+    "details": {}
+  },
+  {
+    "title": "Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow (Bloomberg)",
+    "link": "https://www.techmeme.com/261104/p45#a261104p45",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow &nbsp; &mdash;&nbsp; The shares of US technology giants led the market higher on Wednesday as investors bet that a Democrat-controlled Congress will slow &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T18:59:30.552774+00:00",
+    "details": {}
+  },
+  {
+    "title": "Kimi-K3.1-Pro is now open-weights",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/ApprehensiveAd3629 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-04T18:59:30.567300+00:00",
     "details": {}
   }
 ]
