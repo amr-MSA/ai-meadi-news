@@ -1,62 +1,5 @@
 [
   {
-    "title": "Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B (Bloomberg)",
-    "link": "https://www.techmeme.com/261005/p35#a261005p35",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B &nbsp; &mdash;&nbsp; Moonshot AI has closed the final round of private fundraising at a valuation of about $50 billion and is heading toward an initial public offering &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T03:39:43.066338+00:00",
-    "details": {}
-  },
-  {
-    "title": "Open Source as We Know It Is Dead",
-    "link": "https://jross.me/open-source-as-we-know-it-is-dead/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://jross.me/open-source-as-we-know-it-is-dead/ Comments URL: https://news.ycombinator.com/item?id=49973839 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T03:39:43.092837+00:00",
-    "details": {}
-  },
-  {
-    "title": "SovereignLab, a Public-Source Intel Digest",
-    "link": "https://github.com/paulpdelancy-spec/SovereignLab-Intake-Registry-Public/blob/main/README.md",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/paulpdelancy-spec/SovereignLab-Intake-Registry-Public/blob/main/README.md Comments URL: https://news.ycombinator.com/item?id=49973510 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T03:39:43.103161+00:00",
-    "details": {}
-  },
-  {
     "title": "boykopovar/AnyPS5",
     "link": "https://github.com/boykopovar/AnyPS5",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15231,6 +15174,291 @@
       "keywords": []
     },
     "rejected_at": "2026-11-05T00:35:23.985649+00:00",
+    "details": {}
+  },
+  {
+    "title": "NVIDIA/auto-ontology",
+    "link": "https://github.com/NVIDIA/auto-ontology",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong.",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.014183+00:00",
+    "details": {}
+  },
+  {
+    "title": "github/spec-kit",
+    "link": "https://github.com/github/spec-kit",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "💫 Toolkit to help you get started with SDD or any other process! https://github.github.com/spec-kit/ 🌱 Spec Kit Build with a spec, fix a bug, or assess an idea — with your coding agent. English · 简体中文 · 日本語 · 한국어 Spec Kit is an open source toolkit that gives AI coding agents structured processes, reusable templates, and documented outcomes. Start with a ready-made process, customize it, or bring y",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.043764+00:00",
+    "details": {}
+  },
+  {
+    "title": "The-PR-Agent/pr-agent",
+    "link": "https://github.com/The-PR-Agent/pr-agent",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. https://www.pr-agent.ai The Original Open-Source PR Reviewer This repository contains the open-source PR Agent Project. It is not the Qodo offering for open-source projects. PR-Agent is an open-source, AI-powered code review agent and a community-maintained legacy project of Qodo. It is distinct from Qodo's p",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.048801+00:00",
+    "details": {}
+  },
+  {
+    "title": "harry0703/MoneyPrinterTurbo",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 日本語 | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3.1 Pro 是 Moonshot AI 迄今能力最强的 3T 级开放权重模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3.1",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.053918+00:00",
+    "details": {}
+  },
+  {
+    "title": "garrytan/gstack",
+    "link": "https://github.com/garrytan/gstack",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA gstack gstack turns Claude Code (and other coding agents) into a virtual engineering team: a CEO who rethinks the product, an eng manager who locks architecture, a designer who catches AI slop, a reviewer who finds production bugs, a QA lead who opens a real",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.059516+00:00",
+    "details": {}
+  },
+  {
+    "title": "FareedKhan-dev/kimi-k3-in-c",
+    "link": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU. https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59 kimi-k3-in-c A 2.78-trillion-parameter model. One CPU. 8 GB of RAM. Kimi K3 inference in portable C99. No BLAS. No framework. No GPU. 2.78T parameters 1.56 TB",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.068297+00:00",
+    "details": {}
+  },
+  {
+    "title": "JiaFeiMiao-K-Cat/DiscImageStudio",
+    "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "简体中文 | 繁體中文 | English | 日本語 | Türkçe | Español | Čeština 全能的光盘盘面可见图像生成与刻录工具 Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。 效果预览 概述 Disc Image Studio 可将一张图片转换成符合 CD、DVD 与单层 BD-R 光盘物理层约束的数据，刻录后将使光盘盘面呈现肉眼可见的图案。 界面预览 快速开始 Windows 下载 win-x64.exe 后可直接运行。Linux 或 macOS 请下载与 CPU 匹配的 实验性 CLI 压缩包，解压后运行 ./disc-image-studio --help 。这些发布包均自带 .NET 运行时。 GitHub Releases 1. 新建工",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.073398+00:00",
+    "details": {}
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "link": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. https://www.90daysofdevops.com/ 90DaysOfDevOps This repository started as a way to document my journey on getting",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.078098+00:00",
+    "details": {}
+  },
+  {
+    "title": "Thysrael/Horizon",
+    "link": "https://github.com/Thysrael/Horizon",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达 https://www.horizon1123.top 🌅 Horizon Enjoy the News itself. Leave others to Horizon 📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 构建你专属的 AI 新闻雷达 📖 Live Demo · 📋 Configuration Guide · 💬 QQ Group · 简体中文 · 日本語 Screenshots Ranked Daily Briefing Context, Summary",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.087803+00:00",
+    "details": {}
+  },
+  {
+    "title": "scenario-labs/skills",
+    "link": "https://github.com/scenario-labs/skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. https://www.skills.sh/scenario-labs/skills Scenario Agent Skills Agent Skills that teach AI coding agents (Claude Code, Cursor, Codex,",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:40:47.093415+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI President Greg Brockman says H1 2026 was \"pretty rough\", but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a \"revenue inflection\" in Q3 (Maxwell Zeff/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261105/p8#a261105p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Maxwell Zeff / Wall Street Journal : OpenAI President Greg Brockman says H1 2026 was &ldquo;pretty rough&rdquo;, but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a &ldquo;revenue inflection&rdquo; in Q3 &nbsp; &mdash;&nbsp; The ChatGPT maker's president said it experienced a &lsquo;revenue inflection&rsquo; in the third quarter of 2026, driven by a growing enterprise business",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:41:21.496656+00:00",
+    "details": {}
+  },
+  {
+    "title": "Adzuna: UK entry-level job postings mentioning AI are up ~3x since early 2025; Indeed says one in six vacancies in AI-exposed fields now mentions AI, up 2x YoY (Irina Anghel/Bloomberg)",
+    "link": "https://www.techmeme.com/261105/p7#a261105p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Irina Anghel / Bloomberg : Adzuna: UK entry-level job postings mentioning AI are up ~3x since early 2025; Indeed says one in six vacancies in AI-exposed fields now mentions AI, up 2x YoY &nbsp; &mdash;&nbsp; Artificial intelligence skills are no longer optional for the hundreds of thousands of young Britons seeking their first job &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:41:21.505105+00:00",
+    "details": {}
+  },
+  {
+    "title": "What's the worst bug an AI coding agent silently introduced into your code?",
+    "link": "https://news.ycombinator.com/item?id=50374984",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "I'm researching AI code reliability — specifically bugs that pass existing tests but cause real failures. Interested in patterns: what breaks, how it's caught, and how long it takes to debug. Happy to share aggregated findings with everyone who responds. Comments URL: https://news.ycombinator.com/item?id=50374984 Points: 3 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:41:21.510820+00:00",
+    "details": {}
+  },
+  {
+    "title": "Bansat – Make your AI agent write the blueprint before the code",
+    "link": "https://github.com/bewithkhan/bansat",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/bewithkhan/bansat Comments URL: https://news.ycombinator.com/item?id=50373908 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:41:21.516311+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen be like",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xobzg3/qwen_be_like/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Paraphrasing the thinking I saw from Qwen3.8-27B &gt;Hmm, I can take the screenshot, there's a tool for that. But wait, I'm an LLM, I can only read text. &gt;Whatever, let's try calling the tool and see what I can do, maybe I can save the image and parse it programmatically. &gt; &gt;tool_call.exe &gt;Wow, I can see the image! Cute &#32; submitted by &#32; /u/catgirl_liker [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T08:41:21.526075+00:00",
     "details": {}
   }
 ]
