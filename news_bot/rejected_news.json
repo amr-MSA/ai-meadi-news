@@ -1,100 +1,5 @@
 [
   {
-    "title": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)",
-    "link": "https://www.techmeme.com/261005/p34#a261005p34",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Marina Temkin / TechCrunch : Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August &nbsp; &mdash;&nbsp; Although it's only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T23:26:57.194955+00:00",
-    "details": {}
-  },
-  {
-    "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
-    "link": "https://www.techmeme.com/261005/p33#a261005p33",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "SemiAnalysis : Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol &nbsp; &mdash;&nbsp; Limit testing every AI subscription plan from Anthropic, OpenAI, Meta, SpaceXAI, MiniMax, Moonshot, Z.ai, Cursor, and Cognition",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T23:26:57.211037+00:00",
-    "details": {}
-  },
-  {
-    "title": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Picture from a post in r/amodei . People were praising qwen and I'm just wondering, what kind of new technologies are at play here? Does qwen just have &quot;better&quot; pre training data? That's more high quality? &#32; submitted by &#32; /u/SignificantZebra5883 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T23:26:57.223815+00:00",
-    "details": {}
-  },
-  {
-    "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "So PewDiePie decides to fine-tune a local AI model called Ajax on his own computer. Pretty normal stuff for local model fans. To make his dataset, he uses OpenAI's API. OpenAI catches him using their outputs to train another model, flags his account for breaking their terms, and bans him. He files an appeal, gets unbanned, goes right back to pulling data from the API, and immediately gets banned a",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T23:26:57.236491+00:00",
-    "details": {}
-  },
-  {
-    "title": "CISA to keep cyber pay incentives, but less staff will qualify",
-    "link": "https://databreaches.net/2026/10/05/cisa-to-keep-cyber-pay-incentives-but-less-staff-will-qualify/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Justin Doubleday reports: The Cybersecurity and Infrastructure Security Agency is continuing to offer cyber pay incentives to retain skilled technical staff, but less employees will qualify for the program under revised criteria that ties eligibility to job series and performance ratings. The revised policy has sparked some concern that CISA could lose more staff after... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-05T23:26:57.247398+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B (Bloomberg)",
     "link": "https://www.techmeme.com/261005/p35#a261005p35",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15269,6 +15174,63 @@
       "keywords": []
     },
     "rejected_at": "2026-11-04T20:16:59.533557+00:00",
+    "details": {}
+  },
+  {
+    "title": "Data center shares fall as investors expect slower AI buildout after Democrats win Congress; Hut 8 drops 23%, IREN 11%, Core Scientific 10%, Applied Digital 7% (Reuters)",
+    "link": "https://www.techmeme.com/261104/p55#a261104p55",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Data center shares fall as investors expect slower AI buildout after Democrats win Congress; Hut 8 drops 23%, IREN 11%, Core Scientific 10%, Applied Digital 7% &nbsp; &mdash;&nbsp; Wall Street closed sharply higher on Wednesday as Democrats' sweeping midterm election victory eased political uncertainty &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T00:35:23.965144+00:00",
+    "details": {}
+  },
+  {
+    "title": "Lab 1 warns breach data now exposes thousands more firms",
+    "link": "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Mara Sugue reports: Lab 1 has published a report analysing 328 million files from 2,089 datasets exposed after cyber attacks. It found that the median breach now exposes data linked to 542 organisations beyond the named victim. The study also found that 13,436 unique organisations were exposed through incidents recorded between 2025 and 2026, underlining...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T00:35:23.980711+00:00",
+    "details": {}
+  },
+  {
+    "title": "Student Data Breach Affects Up to 16 Icelandic Schools",
+    "link": "https://databreaches.net/2026/11/04/student-data-breach-affects-up-to-16-icelandic-schools/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Iceland Review reports: A security breach affected Inna, the student-information system used by Icelandic upper-secondary schools. It allowed a student to attempt to alter other pupils’ grades and attendance records. Iceland’s Data Protection Authority has received three notifications, while schools and the system operator are still investigating what information may have been accessed. Schools di",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T00:35:23.985649+00:00",
     "details": {}
   }
 ]
