@@ -1,100 +1,5 @@
 [
   {
-    "title": "Gurman: Apple's upcoming smart home products co-developed with LG are \"at least a few more months\" away; LG is handling manufacturing and product support (Marcus Mendes/9to5Mac)",
-    "link": "https://www.techmeme.com/261006/p41#a261006p41",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Marcus Mendes / 9to5Mac : Gurman: Apple's upcoming smart home products co-developed with LG are &ldquo;at least a few more months&rdquo; away; LG is handling manufacturing and product support &nbsp; &mdash;&nbsp; Bloomberg reports that Apple's plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T21:58:42.292124+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Singapore-based data center operator DayOne seeks to raise up to $5B in a US IPO and plans to list its American depositary shares by the end of 2026 (Wall Street Journal)",
-    "link": "https://www.techmeme.com/261006/p40#a261006p40",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Wall Street Journal : Sources: Singapore-based data center operator DayOne seeks to raise up to $5B in a US IPO and plans to list its American depositary shares by the end of 2026 &nbsp; &mdash;&nbsp; The data-center operator is also backed by Coatue Management, Hillhouse and Citadel&nbsp; &mdash;&nbsp; A SoftBank-backed data-center company &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T21:58:42.309714+00:00",
-    "details": {}
-  },
-  {
-    "title": "Meta open sources code to let you make Muse AI gadgets",
-    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link Comments URL: https://news.ycombinator.com/item?id=49984547 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T21:58:42.320741+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Vibeconferencing, Bring Claude Code or Codex into Your Google Meet",
-    "link": "https://github.com/wanderingstan/vibeconf-app",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "A friend and I built this for our own calls and are sharing it as is. The itch: we kept copy-pasting Granola transcripts into Claude mid-call, and wondered what would happen if the agent just joined. Two-minute demo: https://youtu.be/XhCSRiiL67A How it works: a local Electron app joins the Meet in its own browser as a participant. Your agent drives it over MCP (or HTTP): tools to listen, speak, an",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T21:58:42.332779+00:00",
-    "details": {}
-  },
-  {
-    "title": "Woman used claude as her diary - and got reported to the police for contents of her diary",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wz5b30/woman_used_claude_as_her_diary_and_got_reported/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/Timely_Impression_92 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T21:58:42.355100+00:00",
-    "details": {}
-  },
-  {
     "title": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models (Nathan Lambert/Interconnects AI)",
     "link": "https://www.techmeme.com/261006/p48#a261006p48",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15630,6 +15535,82 @@
       "keywords": []
     },
     "rejected_at": "2026-11-05T20:29:06.755675+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress (Natalia Kniazhevich/Bloomberg)",
+    "link": "https://www.techmeme.com/261105/p55#a261105p55",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Natalia Kniazhevich / Bloomberg : The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress &nbsp; &mdash;&nbsp; Technology stocks plunged the most since 2020 on Thursday as investors exited the sector on concerns over the artificial intelligence trade &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T22:59:36.024447+00:00",
+    "details": {}
+  },
+  {
+    "title": "GOP leaders of three House committees ask Jensen Huang for a closed-door briefing on his ties with Megaspeed executive Alice Huang, reportedly a Chinese asset (Kevin Breuninger/CNBC)",
+    "link": "https://www.techmeme.com/261105/p54#a261105p54",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Kevin Breuninger / CNBC : GOP leaders of three House committees ask Jensen Huang for a closed-door briefing on his ties with Megaspeed executive Alice Huang, reportedly a Chinese asset &nbsp; &mdash;&nbsp; Three House Republican committee leaders asked Nvidia CEO Jensen Huang to sit for a closed-door briefing on his relationship &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T22:59:36.032688+00:00",
+    "details": {}
+  },
+  {
+    "title": "Trying and Failing to Draw a Line Between Code and Art",
+    "link": "https://em-tg.github.io/artcodesteam/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://em-tg.github.io/artcodesteam/ Comments URL: https://news.ycombinator.com/item?id=50385603 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T22:59:36.037999+00:00",
+    "details": {}
+  },
+  {
+    "title": "Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Smaller GLM models are coming! GLM 5.5 will have a 32B model! &#32; submitted by &#32; /u/wapswaps [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T22:59:36.050354+00:00",
     "details": {}
   }
 ]
