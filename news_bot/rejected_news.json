@@ -1,233 +1,5 @@
 [
   {
-    "title": "boykopovar/AnyPS5",
-    "link": "https://github.com/boykopovar/AnyPS5",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Tool for automatic PS5 executables porting to Linux and Windows https://discord.gg/BHFztBPUe About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process. Usage , Build instructions , Technical deb",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T10:51:58.450272+00:00",
-    "details": {}
-  },
-  {
-    "title": "DuarteSantos8/openGym",
-    "link": "https://github.com/DuarteSantos8/openGym",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. https://opengym.duarte-santos.ch A self-hosted gym and body-weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight — on your",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T10:51:58.483989+00:00",
-    "details": {}
-  },
-  {
-    "title": "msitarzewski/agency-agents",
-    "link": "https://github.com/msitarzewski/agency-agents",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. 🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T10:51:58.506919+00:00",
-    "details": {}
-  },
-  {
-    "title": "M-Abozaid/esp32-c3-adblock",
-    "link": "https://github.com/M-Abozaid/esp32-c3-adblock",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share esp32-c3-adblock 日本語 README A Pi-hole-style DNS ad-blocker that runs on a $2 ESP32-C3 — no PSRAM required . 📰 Featured on Tom's Hardware , XDA Developers , and Korben . The trick everyone mis",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T10:51:58.517319+00:00",
-    "details": {}
-  },
-  {
-    "title": "SignSplit, which offers infrastructure to let people digitally sign datasets, likenesses, and creative works, raised $400M from W Group at a $1B valuation (Mike Wheatley/SiliconANGLE)",
-    "link": "https://www.techmeme.com/261006/p12#a261006p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Mike Wheatley / SiliconANGLE : SignSplit, which offers infrastructure to let people digitally sign datasets, likenesses, and creative works, raised $400M from W Group at a $1B valuation &nbsp; &mdash;&nbsp; Few technology companies can help users to protect and monetize their personal data for artificial intelligence as well as SignSplit PBC, it seems.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T10:52:29.748408+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Kuaishou's Kling selects banks to lead a Hong Kong IPO aiming to raise $1B+ as early as 2027; Kling hit a $15B valuation after raising $2.8B in July (Bloomberg)",
-    "link": "https://www.techmeme.com/261006/p11#a261006p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Sources: Kuaishou's Kling selects banks to lead a Hong Kong IPO aiming to raise $1B+ as early as 2027; Kling hit a $15B valuation after raising $2.8B in July &nbsp; &mdash;&nbsp; Kuaishou Technology's Kling AI has picked banks for a Hong Kong initial public offering that could raise at least $1 billion, according to people familiar with the matter.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T10:52:29.766123+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO (Robbie Whelan/Wall Street Journal)",
-    "link": "https://www.techmeme.com/261006/p29#a261006p29",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Robbie Whelan / Wall Street Journal : Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO &nbsp; &mdash;&nbsp; Blackstone and Coatue are leading the round, which values the cloud-computing startup at $14.5 billion pre-money",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T17:32:39.846811+00:00",
-    "details": {}
-  },
-  {
-    "title": "A look at consumer AI trends: ChatGPT has 3x more US subscribers than Claude or Gemini, the top 1% of spenders drive 19.5% of spend, and AI agents gain traction (Olivia Moore/Andreessen Horowitz)",
-    "link": "https://www.techmeme.com/261006/p28#a261006p28",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Olivia Moore / Andreessen Horowitz : A look at consumer AI trends: ChatGPT has 3x more US subscribers than Claude or Gemini, the top 1% of spenders drive 19.5% of spend, and AI agents gain traction &nbsp; &mdash;&nbsp; Three years into tracking consumer AI, the leaderboard is becoming familiar.&nbsp; This is the seventh edition of our Top 100 AI Consumer Apps &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T17:32:39.864662+00:00",
-    "details": {}
-  },
-  {
-    "title": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Microsoft confirms on publicly accessible web page that OpenAI has been using Looped Transformers in the GPT-6 series, proving The Information's reporting was correct all along. GPT-6.1 Sol uses 2 inference passes, with a passing mention of &quot;instead of three&quot;. For those confused by &quot;same base model weights as GPT-6 Sol&quot;, I think Microsoft meant 6 &amp; 6.1 are both post-trained",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T17:32:39.876484+00:00",
-    "details": {}
-  },
-  {
-    "title": "54gb vram for 35$",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Bought an old mining farm of a guy on avito (Russian eBay), guy had bought a garage a couple of years ago and it was sitting there for a while, found out it was a mining farm and put it up on there for sale for 5000 rub (~60 USD) since he wasn't sure if it works. I negotiated down to 3000 rub (~35 USD), it turned out to have 9x p106 6gb (gtx 1060 6gb) gpus, with 54gb vram total, all working, the o",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T17:32:39.885790+00:00",
-    "details": {}
-  },
-  {
-    "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
-    "link": "https://databreaches.net/2026/10/06/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Eduard Kovacs reports: The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees, Reuters reported on Tuesday, citing two people familiar with the matter. The FBI has not publicly named the contractor or the organization involved. However, a senior bureau official told Reuters that its... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T17:32:39.896949+00:00",
-    "details": {}
-  },
-  {
-    "title": "Self-described “cybersecurity engineer” arrested after computer case reopened",
-    "link": "https://databreaches.net/2026/10/06/self-described-cybersecurity-engineer-arrested-after-computer-case-reopened/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Natalie Dreier reports: A Florida man who calls himself a “cybersecurity engineer” on TikTok and Twitch was arrested after police reopened an investigation closed earlier this year. Mark Asea was held in the St. Lucie County Jail in Port St. Lucie, Florida, last week on a count of an offense against computer users, WPEC reported.... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-06T17:32:39.908788+00:00",
-    "details": {}
-  },
-  {
     "title": "Gurman: Apple's upcoming smart home products co-developed with LG are \"at least a few more months\" away; LG is handling manufacturing and product support (Marcus Mendes/9to5Mac)",
     "link": "https://www.techmeme.com/261006/p41#a261006p41",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15459,6 +15231,139 @@
       "keywords": []
     },
     "rejected_at": "2026-11-05T08:41:21.526075+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft rolls out a Xbox PC app with an overhauled design to Xbox Insiders that it says launches up to 60% faster than before (Tom Warren/The Verge)",
+    "link": "https://www.techmeme.com/261105/p43#a261105p43",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tom Warren / The Verge : Microsoft rolls out a Xbox PC app with an overhauled design to Xbox Insiders that it says launches up to 60% faster than before &nbsp; &mdash;&nbsp; Xbox Insiders can start testing the new PC app today. &hellip; Microsoft is unveiling a new Xbox PC app that launches &ldquo;up to 60 percent faster&rdquo; than before &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T17:45:37.108862+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ \"novel\" vulnerabilities in Firefox (Djohnson/CyberScoop)",
+    "link": "https://www.techmeme.com/261105/p42#a261105p42",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Djohnson / CyberScoop : OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ &ldquo;novel&rdquo; vulnerabilities in Firefox &nbsp; &mdash;&nbsp; OpenAI announced a new cybersecurity-focused model Thursday, citing internal benchmark testing that shows improvements &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T17:45:37.122793+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Tokenfund – back open source with your coding agent's tokens, not money",
+    "link": "https://tokenfund.myclawn.com",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://tokenfund.myclawn.com Comments URL: https://news.ycombinator.com/item?id=50381940 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T17:45:37.133600+00:00",
+    "details": {}
+  },
+  {
+    "title": "America's Energy Production by Source in 2026",
+    "link": "https://www.visualcapitalist.com/sp/sc02-americas-energy-production-by-source-in-2026/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.visualcapitalist.com/sp/sc02-americas-energy-production-by-source-in-2026/ Comments URL: https://news.ycombinator.com/item?id=50381847 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T17:45:37.142441+00:00",
+    "details": {}
+  },
+  {
+    "title": "Qwen3.8-27B has become unuseable recently",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "When it came out, I downloaded a Q4 quant of qwen3.8-27b and ran it using llama.cpp on my RTX 4090 and it was incredible. It could handle practically anything I threw at it, the most complex tasks and bugfixes. But lately it just keeps messing up and failing at the most basic of tasks or just straight up forgetting instructions. I'm telling you, they quantized it. They probably secretly nerfed it",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T17:45:37.160969+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ninth Circuit: Breach Of Confidence Confers Standing In Health Data Security Case",
+    "link": "https://databreaches.net/2026/11/05/ninth-circuit-breach-of-confidence-confers-standing-in-health-data-security-case/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Claire E. Castles, Amanda Fitzsimmons, Nathaniel P. Garrett, Rebekah Byers Kcehowski, Mary Alexander Myers, and Alexander H. Southwell of Jones Day write: Departing from the risk-based approach many courts have applied since TransUnion, and in tension with other circuits, the Ninth Circuit held that health plan participants whose confidential health information was disclosed without authorization.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T17:45:37.170810+00:00",
+    "details": {}
+  },
+  {
+    "title": "UK: Royal Cornwall Hospitals Trust data breach exposed health details of 7,715 staff",
+    "link": "https://databreaches.net/2026/11/05/uk-royal-cornwall-hospitals-trust-data-breach-exposed-health-details-of-7715-staff/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Lee Trewhela reports: The Royal Cornwall Hospitals Trust (RCHT) has admitted a huge data breach has led to many affected staff experiencing “significant distress, loss of trust and ongoing anxiety”. The breach exposed sensitive personal health information relating to almost 8,000 current and former staff. An Excel spreadsheet published in February 2023 exposed hidden sickness...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-05T17:45:37.181095+00:00",
     "details": {}
   }
 ]
