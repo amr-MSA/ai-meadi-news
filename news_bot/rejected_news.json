@@ -1,30 +1,5 @@
 [
   {
-    "title": "Sources: former White House AI adviser Sriram Krishnan is raising a ~$500M fund to back growth- and later-stage US AI companies, prioritizing national security (Leo Schwartz/The Information)",
-    "link": "https://www.techmeme.com/261007/p35#a261007p35",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Leo Schwartz / The Information : Sources: former White House AI adviser Sriram Krishnan is raising a ~$500M fund to back growth- and later-stage US AI companies, prioritizing national security &nbsp; &mdash;&nbsp; Sriram Krishnan, a key AI adviser to President Donald Trump who left the White House in June, is raising an AI-focused venture fund &hellip;",
-    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "2026-10",
-      "news_type": "أعمال وتقنية",
-      "product_name": "غير محدد",
-      "region": "أمريكا الشمالية",
-      "topic_key": "sriram-krishnan-500m-ai-fund",
-      "keywords": [
-        "سريـرام كريشنان",
-        "ذكاء اصطناعي",
-        "استثمار",
-        "صندوق تمويل",
-        "الأمن القومي"
-      ]
-    },
-    "rejected_at": "2026-10-07T20:53:29.642209+00:00",
-    "details": {}
-  },
-  {
     "title": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)",
     "link": "https://www.techmeme.com/261007/p44#a261007p44",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15839,6 +15814,82 @@
       "keywords": []
     },
     "rejected_at": "2026-11-06T19:51:01.657694+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apple says the App Store has over 100K apps built for the iPhone Duo and \"thousands of optimized apps are being added to the store each day\" (Jay Peters/The Verge)",
+    "link": "https://www.techmeme.com/261106/p26#a261106p26",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jay Peters / The Verge : Apple says the App Store has over 100K apps built for the iPhone Duo and &ldquo;thousands of optimized apps are being added to the store each day&rdquo; &nbsp; &mdash;&nbsp; Even though a lot of apps have been updated for the iPhone Duo, they sometimes still have issues.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T23:52:07.831746+00:00",
+    "details": {}
+  },
+  {
+    "title": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI 0.13.0 and it just said “hold my beer” and started drawing with the friggin’ mouse coordinates inside a VM. I’m going to print this and hang it on my wall like a proud parent. Seriously tho, this is all possible because of the new Open WebUI 0.13.0 features tha",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T23:52:07.844843+00:00",
+    "details": {}
+  },
+  {
+    "title": "NousResearch/Arete-27B · Hugging Face (Qwen finetune)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF from NousResearch: Arete-27B We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B. Open source models give labs the raw tools to mold intelligence to varied preferences. The values a model ships with should not be the only values its users get to choose from.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T23:52:07.854598+00:00",
+    "details": {}
+  },
+  {
+    "title": "State attorneys general secure up to $10 million and corrective action plan from Perry Johnson companies after 2023 breach",
+    "link": "https://databreaches.net/2026/11/06/state-attorneys-general-secure-up-to-10-million-and-corrective-action-plan-from-perry-johnson-companies-after-2023-breach/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "A press release from NYS Attorney General Letitia James: NEW YORK – New York Attorney General Letitia James and a coalition of three other attorneys general today secured $10 million from Perry Johnson &#38; Associates, Inc. (PJ&#38;A), Perry Johnson, Inc. (PJI), Perry Johnson &#38; Associates Coding, Inc., Perry Johnson &#38; Associates Radiology, Inc., and Medical...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T23:52:07.865926+00:00",
     "details": {}
   }
 ]
