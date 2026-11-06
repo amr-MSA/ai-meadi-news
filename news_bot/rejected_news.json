@@ -1,81 +1,5 @@
 [
   {
-    "title": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models (Nathan Lambert/Interconnects AI)",
-    "link": "https://www.techmeme.com/261006/p48#a261006p48",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Nathan Lambert / Interconnects AI : GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models &nbsp; &mdash;&nbsp; Open-weights, ideology, and acknowledging trade-offs. &hellip; Audio playback is not supported on your browser.&nbsp; Please upgrade.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-07T01:12:15.602840+00:00",
-    "details": {}
-  },
-  {
-    "title": "New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed (Marina Temkin/TechCrunch)",
-    "link": "https://www.techmeme.com/261006/p47#a261006p47",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Marina Temkin / TechCrunch : New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed &nbsp; &mdash;&nbsp; Melius, an AI platform for generating ad campaigns, images, and videos, announced on Tuesday that it raised a total of $25 million in funding &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-07T01:12:15.620422+00:00",
-    "details": {}
-  },
-  {
-    "title": "GPT-6.1 Sol looped \"leak\" hints at nested models serving architecture",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wzbvu7/gpt61_sol_looped_leak_hints_at_nested_models/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Hello llamas. I am posting this because I believe that, despite it being closed source models, the discussion will bring value to the local AI community. As many of you probably heard, GPT-6 Astra is speculated to be a looped transformer architecture that outputs a token after multiple forward passes instead of one. This allows a model to essentially have more effective depth due to recurrence, ma",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-07T01:12:15.641386+00:00",
-    "details": {}
-  },
-  {
-    "title": "Engineer sentenced for locking over 3,000 devices on employer’s network",
-    "link": "https://databreaches.net/2026/10/06/engineer-sentenced-for-locking-over-3000-devices-on-employers-network/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Sergiu Gatlan has an update on a case previously noted on this site. A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer&#8217;s network in a ransomware-style attack. 57-year-old Daniel Rhyne from Kansas City, Missouri, pleaded guilty... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-07T01:12:15.653412+00:00",
-    "details": {}
-  },
-  {
     "title": "Stremio/stremio-web",
     "link": "https://github.com/Stremio/stremio-web",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15611,6 +15535,101 @@
       "keywords": []
     },
     "rejected_at": "2026-11-05T22:59:36.050354+00:00",
+    "details": {}
+  },
+  {
+    "title": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously (Emma Roth/The Verge)",
+    "link": "https://www.techmeme.com/261105/p69#a261105p69",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Emma Roth / The Verge : Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously &nbsp; &mdash;&nbsp; Like OpenAI's Dots and Claude Duet, Perplexity's Teammates can perform an array of tasks while running 24/7.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T03:59:26.866531+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: UK neobank Monzo is exploring a new fundraising round valuing it at ~£7.5B after failing to be acquired by Nu Holdings and struggling to sell a stake (Financial Times)",
+    "link": "https://www.techmeme.com/261105/p68#a261105p68",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : Sources: UK neobank Monzo is exploring a new fundraising round valuing it at ~&pound;7.5B after failing to be acquired by Nu Holdings and struggling to sell a stake &nbsp; &mdash;&nbsp; Lender had shifted focus to talks with buyout groups after failing to clinch a &pound;10bn takeover by Brazilian fintech Nubank",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T03:59:26.880617+00:00",
+    "details": {}
+  },
+  {
+    "title": "Claude Code, but for SEO",
+    "link": "https://twitter.com/brodieseo/status/2118299596292305356",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://twitter.com/brodieseo/status/2118299596292305356 Comments URL: https://news.ycombinator.com/item?id=50387890 Points: 5 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T03:59:26.889541+00:00",
+    "details": {}
+  },
+  {
+    "title": "Axiom – blocks AI agents from inventing limits your code never defined",
+    "link": "https://github.com/axiom-csc/axiom-skill",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/axiom-csc/axiom-skill Comments URL: https://news.ycombinator.com/item?id=50386839 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T03:59:26.899273+00:00",
+    "details": {}
+  },
+  {
+    "title": "Maybe we'll get cheap RAM for Christmas after all!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/keepthepace [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T03:59:26.917550+00:00",
     "details": {}
   }
 ]
