@@ -1,81 +1,5 @@
 [
   {
-    "title": "Stremio/stremio-web",
-    "link": "https://github.com/Stremio/stremio-web",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Stremio - Freedom to Stream https://web.stremio.com Stremio Web Freedom to Stream — the official web UI of Stremio , a modern media center that's a one-stop solution for your video entertainment. 🌐 Open the Web App · Website · Report a bug ✨ Features 🧩 Addon-powered — discover movies, series and channels from catalogs provided by addons 🔄 Sync everywhere — your library and Continue Watching follow",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-07T07:50:53.318927+00:00",
-    "details": {}
-  },
-  {
-    "title": "GoTo and Grab face pressure to offer drivers better deals; GoTo's share price has fallen 90% from its 2022 peak, while Grab's has fallen 50% in the past year (Financial Times)",
-    "link": "https://www.techmeme.com/261007/p6#a261007p6",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : GoTo and Grab face pressure to offer drivers better deals; GoTo's share price has fallen 90% from its 2022 peak, while Grab's has fallen 50% in the past year &nbsp; &mdash;&nbsp; Asia's market leaders Grab and GoTo face squeezed margins over push to offer better deal to workers",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-07T07:51:46.607051+00:00",
-    "details": {}
-  },
-  {
-    "title": "Turba Labs, which develops tech for optimizing AI infrastructure by creating digital twins of data centers, emerges from stealth with $52M seed and Series A (Sarah Klearman/Wall Street Journal)",
-    "link": "https://www.techmeme.com/261007/p5#a261007p5",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Sarah Klearman / Wall Street Journal : Turba Labs, which develops tech for optimizing AI infrastructure by creating digital twins of data centers, emerges from stealth with $52M seed and Series A &nbsp; &mdash;&nbsp; The data center build-out is exploding across America.&nbsp; But what if AI didn't need more&mdash;more chips, more energy, more resources &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-07T07:51:46.624064+00:00",
-    "details": {}
-  },
-  {
-    "title": "Europe rejoins the fight with Chonky! Mistral Large 4 Released, Open weights end of month, who’s ready?",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1wzginu/europe_rejoins_the_fight_with_chonky_mistral/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "1 trillion parameters, 49B active, definitely chonky! If you don’t love the model you gotta at least love the humor in the name - Le Chonk &#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-07T07:51:46.647012+00:00",
-    "details": {}
-  },
-  {
     "title": "morluto/rea",
     "link": "https://github.com/morluto/rea",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15630,6 +15554,139 @@
       "keywords": []
     },
     "rejected_at": "2026-11-06T03:59:26.917550+00:00",
+    "details": {}
+  },
+  {
+    "title": "lz4/lz4",
+    "link": "https://github.com/lz4/lz4",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Extremely Fast Compression algorithm http://www.lz4.org LZ4 - Extremely fast compression LZ4 is a lossless compression algorithm, providing compression speed &gt; 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with speed in multiple GB/s per core, typically reaching RAM speed limits on multi-core systems. Compression speed can be tuned dynamically, by sele",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T11:49:43.273885+00:00",
+    "details": {}
+  },
+  {
+    "title": "google/skills",
+    "link": "https://github.com/google/skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Agent Skills for Google products and technologies Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud . Installation npx skills add google/skills When prompted, select specific skills or all skills, the target agents to configure, and the installation scope (project or global). If npx is not available in your environment, install Node.js",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T11:49:43.281914+00:00",
+    "details": {}
+  },
+  {
+    "title": "vercel-labs/agent-browser",
+    "link": "https://github.com/vercel-labs/agent-browser",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a browser it can drive one command at a time. snapshot returns the page as compact text with a ref such as @e1 for each element. The agent acts on",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T11:49:43.290229+00:00",
+    "details": {}
+  },
+  {
+    "title": "ConardLi/garden-skills",
+    "link": "https://github.com/ConardLi/garden-skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. https://github.com/ConardLi/garden-skills Garden Skills A curated collection of production-ready Agent Skills for Claude Code, Cursor, Codex, and other AI coding agents. motion-showreel Code-rendered short video web-video-presentation Web video / presentation web-design-engineer Design",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T11:49:43.308411+00:00",
+    "details": {}
+  },
+  {
+    "title": "microsoft/VibeVoice",
+    "link": "https://github.com/microsoft/VibeVoice",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Open-Source Frontier Voice AI https://microsoft.github.io/VibeVoice/ 🎙️ VibeVoice: Open-Source Frontier Voice AI 📰 News 2026-09-03: 🚀 We released VibeVoice-ASR-Streaming , a unified streaming ASR model that continuously transcribes ''who said what'' as speech arrives, with support for customized hotwords and 10 languages. [ Demo ] [ Models ] [ Report ] 2026-07-23: ⚡ We released VibeVoice-ASR-BitNe",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T11:49:43.316539+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities (Pranshu Verma/Washington Post)",
+    "link": "https://www.techmeme.com/261106/p9#a261106p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Pranshu Verma / Washington Post : Sources: Democrats are eyeing Apple, Meta, and Elon Musk-led companies as early congressional investigation targets, after winning House and Senate majorities &nbsp; &mdash;&nbsp; Democrats are laying the groundwork to investigate some of the country's largest companies, setting off a scramble among executives who courted the president.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T11:49:59.195425+00:00",
+    "details": {}
+  },
+  {
+    "title": "Asking questions to a 0.5b model is hillarious",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Yes IK it's supposed to be this dumb, but it's still funny (Qwen2 0.5b Q4_K_M) &#32; submitted by &#32; /u/Pro-editor-1105 [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-06T11:49:59.213702+00:00",
     "details": {}
   }
 ]

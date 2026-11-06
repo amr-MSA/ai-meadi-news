@@ -832,5 +832,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 273,
     "telegram_message_url": "https://t.me/Eng_limitless/273"
+  },
+  {
+    "title": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)",
+    "link": "https://www.techmeme.com/261106/p8#a261106p8",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطّلعة أن شركة إنفيديا بدأت تشترط على عملائها في جنوب شرق آسيا الراغبين في الحصول على صفة شركاء سحابيين الانضمام لبرنامج مراقبة يتتبع المواقع الجغرافية لرقائق الذكاء الاصطناعي، في خطوة تهدف للحد من تهريب المعالجات المتقدمة والالتفاف على القيود التجارية.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "nvidia-ai-chip-location-tracking-program",
+    "event_key": "nvidia|2026 11|أجهزة وعتاد|nvidia ai chips|آسيا",
+    "company_name": "Nvidia",
+    "event_year_month": "2026-11",
+    "news_type": "أجهزة وعتاد",
+    "product_name": "Nvidia AI Chips",
+    "region": "آسيا",
+    "keywords": [
+      "Nvidia",
+      "AI Chips",
+      "Southeast Asia",
+      "Hardware Tracking",
+      "Smuggling"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-06T11:49:59.145979+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 274,
+    "telegram_message_url": "https://t.me/Eng_limitless/274"
   }
 ]
