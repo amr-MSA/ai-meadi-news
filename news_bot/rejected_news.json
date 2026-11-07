@@ -1,119 +1,5 @@
 [
   {
-    "title": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)",
-    "link": "https://www.techmeme.com/261007/p44#a261007p44",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation &nbsp; &mdash;&nbsp; A former ByteDance Ltd. intern has secured funding from venture heavyweights including 5Y Capital for a stealth startup &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T01:25:39.023637+00:00",
-    "details": {}
-  },
-  {
-    "title": "Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others (Marina Temkin/TechCrunch)",
-    "link": "https://www.techmeme.com/261007/p43#a261007p43",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Marina Temkin / TechCrunch : Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others &nbsp; &mdash;&nbsp; Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other kinds of robots &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T01:25:39.037992+00:00",
-    "details": {}
-  },
-  {
-    "title": "llama.cpp on the stage",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "https://x.com/ggerganov/status/2107908265032229261 &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T01:25:39.046030+00:00",
-    "details": {}
-  },
-  {
-    "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Potentially big speedup for MoE models that don’t fully fit in VRAM. Are you GPU Poor? Show your speedups ;) &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T01:25:39.058633+00:00",
-    "details": {}
-  },
-  {
-    "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
-    "link": "https://databreaches.net/2026/10/07/known-cybersecurity-expert-and-owner-of-florida-ransomware-remediation-company-charged-with-defrauding-clients/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Here&#8217;s another case where the folks who were supposed to be the good guys helping you may be harming you. Zohar Pinhasi, 50, also known as “Zack Silver” and “Zack Green,” a U.S. and Israeli national, was arraigned today in the Eastern District of New York on wire fraud charges relating to Pinhasi’s false representations... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T01:25:39.069337+00:00",
-    "details": {}
-  },
-  {
-    "title": "Can you really make more than $200M in six months without encrypting victims? It seems Silent Ransom Group can.",
-    "link": "https://databreaches.net/2026/10/07/can-you-really-make-more-than-200m-in-six-months-without-encrypting-victims-it-seems-silent-ransom-group-can/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "DataBreaches has reported extensively on Silent Ransom Group in 2026, often including material provided exclusively to this site by the group. Now, what appears to be a leak of their internal chats may shed additional light on their success. DataBreaches has reported on Silent Ransom Group (SRG) since 2022, with particular interest in their numerous... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T01:25:39.080738+00:00",
-    "details": {}
-  },
-  {
     "title": "EpicGames/raddebugger",
     "link": "https://github.com/EpicGames/raddebugger",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15890,6 +15776,44 @@
       "keywords": []
     },
     "rejected_at": "2026-11-06T23:52:07.865926+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
+    "link": "https://www.techmeme.com/261106/p28#a261106p28",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Frederic Lardinois / The New Stack : Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users &nbsp; &mdash;&nbsp; Starting on Friday, everyone using Meta's Muse agent and Meta AI gets new models the company trained using Muse Wonder, its frontier model.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T03:34:41.878853+00:00",
+    "details": {}
+  },
+  {
+    "title": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T03:34:41.892934+00:00",
     "details": {}
   }
 ]
