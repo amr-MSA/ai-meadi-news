@@ -1,119 +1,5 @@
 [
   {
-    "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs (Financial Times)",
-    "link": "https://www.techmeme.com/261008/p37#a261008p37",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs &nbsp; &mdash;&nbsp; AI giant recently told investors the key figure was approaching $50bn in September, far less than the $70bn that was widely reported",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T17:04:19.761747+00:00",
-    "details": {}
-  },
-  {
-    "title": "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT (Aisha Malik/TechCrunch)",
-    "link": "https://www.techmeme.com/261008/p36#a261008p36",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Aisha Malik / TechCrunch : AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT &nbsp; &mdash;&nbsp; Meet Interface, a new $99 smart ring from AI and hardware startup Natura that's designed for the era of AI agents.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T17:04:19.778285+00:00",
-    "details": {}
-  },
-  {
-    "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "CrowdStrike report: https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/ From: Andrew Curran on 𝕏: https://x.com/AndrewCurran_/status/2108108695876092323 Jukan ✈️OCP 2026 on 𝕏: https://x.com/jukan05/status/2108110513033093369 &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T17:04:19.799092+00:00",
-    "details": {}
-  },
-  {
-    "title": "jevman: AI decision models play Pac-Man",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x0sm1b/jevman_ai_decision_models_play_pacman/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "The other week I posted about Jev vs. Kev compared and since then, OpenAI released the decisions endpoint, Cloudflare released Clef and many here asked about Laya as well. This time we compared six popular decision models by making them play Pac-Man: kev 1.13, Kev 4B, Clef, Clef Flash, GPT-6 Luna and Laya. Since they respond within ms it works for them to play the game in real time. We published a",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T17:04:19.808648+00:00",
-    "details": {}
-  },
-  {
-    "title": "It Wasn’t Me, It Was the AI Agent” May Not Avoid Liability Under New Senate Proposal",
-    "link": "https://databreaches.net/2026/10/08/it-wasnt-me-it-was-the-ai-agent-may-not-avoid-liability-under-new-senate-proposal/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Odia Kagan of FoxRothschild writes: “It wasn’t me, it was the AI agent” may not help companies avoid civil or criminal liability under a new bipartisan legislative proposal. U.S. Senators Josh Hawley (R-Mo.) and Chris Murphy (D-Conn.) have announced the proposed AI Agent Accountability Act, which seeks to hold AI-agent operators and developers liable for... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T17:04:19.820597+00:00",
-    "details": {}
-  },
-  {
-    "title": "KR: Coupang files lawsuits against 620 billion won fine over data leak",
-    "link": "https://databreaches.net/2026/10/08/kr-coupang-files-lawsuits-against-620-billion-won-fine-over-data-leak/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "The Coupang breach in South Korea has stayed in the news cycle for nine months and may offer a useful case study in how not to respond to an incident. In December 2025, South Korea&#8217;s largest online retailer, Coupang, apologized for a November breach affecting more than 33 million customers. A former developer who worked... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T17:04:19.831111+00:00",
-    "details": {}
-  },
-  {
     "title": "SpaceX agrees to acquire a low-band spectrum portfolio to help Starlink \"become a major mobile carrier in the US\"; AT&T, T-Mobile, Verizon fall 6%+ after hours (Bloomberg)",
     "link": "https://www.techmeme.com/261008/p48#a261008p48",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15985,6 +15871,101 @@
       "keywords": []
     },
     "rejected_at": "2026-11-07T10:46:09.208443+00:00",
+    "details": {}
+  },
+  {
+    "title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)",
+    "link": "https://www.techmeme.com/261107/p11#a261107p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Cecile Daurat / Bloomberg : Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees &ldquo;shaky&rdquo; projects killed &nbsp; &mdash;&nbsp; Guardrails against data-center expansion in states won by Democrats may help spread investment over time.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T17:07:07.260170+00:00",
+    "details": {}
+  },
+  {
+    "title": "Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business (Paul Gillin/SiliconANGLE)",
+    "link": "https://www.techmeme.com/261107/p10#a261107p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Paul Gillin / SiliconANGLE : Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business &nbsp; &mdash;&nbsp; Ocient Inc., the maker of a speedy data analytics platform, today said it has raised $100 million in a Series C funding to expand &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T17:07:07.271828+00:00",
+    "details": {}
+  },
+  {
+    "title": "Obsessive-1.7B: a 1.1 GB web-search subagent",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I fine-tuned LFM3-1.7B to do one job: take a factual question, call web_search once, and answer with a short value, a word-for-word quote and the URL. If the results don’t contain the answer, it says “Not found in the search results.” It’s meant to run as a subagent under a bigger model, not as a chat model. I have to say the base lfm really surprised me at its capability to run tool calls and ext",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T17:07:07.288285+00:00",
+    "details": {}
+  },
+  {
+    "title": "No need to hack when it’s leaking:  Artex edition",
+    "link": "https://databreaches.net/2026/11/07/no-need-to-hack-when-its-leaking-artex-edition/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Zack Whittaker reports: Security researchers have discovered hundreds of copies of a Chinese-made AI hacking tool publicly exposed to the internet for anyone to access, potentially allowing outsiders to launch cyberattacks against unsuspecting targets. The hacking software, called Artex, is an open source autonomous penetration testing tool, meaning software that automatically probes computer syst",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T17:07:07.296322+00:00",
+    "details": {}
+  },
+  {
+    "title": "County of Sussex, New Jersey Notice of Data Privacy Incident",
+    "link": "https://databreaches.net/2026/11/07/county-of-sussex-new-jersey-notice-of-data-privacy-incident/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "November 6, 2026 8:00 PM EST NEWTON, N.J., Nov. 6, 2026 /PRNewswire/ &#8212; Sussex County Prosecutor&#8217;s Office (SCPO) experienced a data privacy event that involved personal information. On or about August 10, 2026, SCPO received alerts of a disruption to its computer network. Upon this identification, it launched an immediate investigation and engaged outside cybersecurity...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T17:07:07.304220+00:00",
     "details": {}
   }
 ]
