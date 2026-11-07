@@ -16081,5 +16081,30 @@
     },
     "rejected_at": "2026-11-07T17:56:50.380313+00:00",
     "details": {}
+  },
+  {
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 23 # Comments: 3",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "Anthropic",
+      "event_year_month": "2026-11",
+      "news_type": "أمن سيبراني",
+      "product_name": "Claude Code",
+      "region": "أمريكا الشمالية",
+      "topic_key": "claude-code-github-secrets-leak",
+      "keywords": [
+        "Claude Code",
+        "Anthropic",
+        "GitHub",
+        "تسريب بيانات",
+        "أمن سيبراني"
+      ]
+    },
+    "rejected_at": "2026-11-07T21:11:43.653611+00:00",
+    "details": {}
   }
 ]
