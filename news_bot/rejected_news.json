@@ -1,119 +1,5 @@
 [
   {
-    "title": "EpicGames/raddebugger",
-    "link": "https://github.com/EpicGames/raddebugger",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "A native, user-mode, multi-process, graphical debugger. The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and tips, can be found packaged along with debugger releases, or within the build folder after a local copy has been",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T08:07:35.335314+00:00",
-    "details": {}
-  },
-  {
-    "title": "manaflow-ai/cmux",
-    "link": "https://github.com/manaflow-ai/cmux",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. https://cmux.com cmux A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents English | 日本語 | Tiếng Việt | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | Polski | Русский | Bosanski | ا",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T08:07:35.353332+00:00",
-    "details": {}
-  },
-  {
-    "title": "Manus' parent Butterfly Effect says it raised $500M+, led by Boyu Capital and IDG Capital, in its first funding since Meta was forced to unwind its Manus buyout (Anniek Bao/CNBC)",
-    "link": "https://www.techmeme.com/261008/p11#a261008p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anniek Bao / CNBC : Manus' parent Butterfly Effect says it raised $500M+, led by Boyu Capital and IDG Capital, in its first funding since Meta was forced to unwind its Manus buyout &nbsp; &mdash;&nbsp; AI agent startup Manus has raised more than $500 million in its first funding round since Meta was forced to abandon its acquisition of the company.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T08:07:50.958449+00:00",
-    "details": {}
-  },
-  {
-    "title": "A profile of Garmin CEO Cliff Pemble, who helped diversify its GPS product lines and grew annual revenue from $2.6B in 2013 to a record $7.2B last year (Brent Crane/Bloomberg)",
-    "link": "https://www.techmeme.com/261008/p10#a261008p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Brent Crane / Bloomberg : A profile of Garmin CEO Cliff Pemble, who helped diversify its GPS product lines and grew annual revenue from $2.6B in 2013 to a record $7.2B last year &nbsp; &mdash;&nbsp; The company hit $7.2 billion in sales last year across fitness, outdoor, marine, automotive and aviation.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T08:07:50.974436+00:00",
-    "details": {}
-  },
-  {
-    "title": "Scene at MIT: Margaret Hamilton's Apollo Code",
-    "link": "https://news.mit.edu/2016/scene-at-mit-margaret-hamilton-apollo-code-0817",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://news.mit.edu/2016/scene-at-mit-margaret-hamilton-apollo-code-0817 Comments URL: https://news.ycombinator.com/item?id=50002904 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T08:07:50.984598+00:00",
-    "details": {}
-  },
-  {
-    "title": "Keeping Lakehouses Open-Source",
-    "link": "https://github.com/datazip-inc/olake",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/datazip-inc/olake Comments URL: https://news.ycombinator.com/item?id=50002718 Points: 2 # Comments: 1",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-08T08:07:50.993859+00:00",
-    "details": {}
-  },
-  {
     "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by media based on investor docs (Financial Times)",
     "link": "https://www.techmeme.com/261008/p37#a261008p37",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15814,6 +15700,291 @@
       "keywords": []
     },
     "rejected_at": "2026-11-07T03:34:41.892934+00:00",
+    "details": {}
+  },
+  {
+    "title": "zed-industries/zed",
+    "link": "https://github.com/zed-industries/zed",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. https://zed.dev Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter . Installation On macOS, Linux, and Windows you can download Zed directly or install Zed via your local package manager ( macOS / Linux / Windows ). Othe",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.599559+00:00",
+    "details": {}
+  },
+  {
+    "title": "rails/rails",
+    "link": "https://github.com/rails/rails",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Ruby on Rails https://rubyonrails.org Welcome to Rails What's Rails? Rails is a web application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Understanding the MVC pattern is key to understanding Rails. MVC divides your application into three layers: Model, View, and Controller, each with a specific respon",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.615304+00:00",
+    "details": {}
+  },
+  {
+    "title": "mpv-player/mpv",
+    "link": "https://github.com/mpv-player/mpv",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🎥 Command line media player https://mpv.io mpv External links Overview System requirements Downloads Changelog Compilation Release cycle Bug reports Contributing License Contact External links Wiki User Scripts FAQ Manual Overview mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. There is a",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.623376+00:00",
+    "details": {}
+  },
+  {
+    "title": "react/react",
+    "link": "https://github.com/react/react",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The library for web and native user interfaces. https://react.dev React · React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable,",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.632580+00:00",
+    "details": {}
+  },
+  {
+    "title": "angular/angular",
+    "link": "https://github.com/angular/angular",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Deliver web apps with confidence 🚀 https://angular.dev Angular - The modern web developer's platform Angular is a development platform for building mobile and desktop web applications using TypeScript/JavaScript and other languages. angular.dev Contributing Guidelines · Submit an Issue · Blog Documentation Get started with Angular, learn the fundamentals and explore advanced topics on our document",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.640260+00:00",
+    "details": {}
+  },
+  {
+    "title": "symfony/symfony",
+    "link": "https://github.com/symfony/symfony",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The Symfony PHP framework https://symfony.com Symfony is a PHP framework for web and console applications and a set of reusable PHP components . Symfony is used by thousands of web applications and most of the popular PHP projects . Installation Install Symfony with Composer (see requirements details ). Symfony follows the semantic versioning strictly, publishes \"Long Term Support\" (LTS) versions",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.647866+00:00",
+    "details": {}
+  },
+  {
+    "title": "prometheus/prometheus",
+    "link": "https://github.com/prometheus/prometheus",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The Prometheus monitoring system and time series database. https://prometheus.io/ Prometheus Visit prometheus.io for the full documentation, examples and guides. Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.655838+00:00",
+    "details": {}
+  },
+  {
+    "title": "microsoft/vscode",
+    "link": "https://github.com/microsoft/vscode",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Visual Studio Code https://code.visualstudio.com Visual Studio Code - Open Source (\"Code - OSS\") The Repository This repository (\" Code - OSS \") is where we (Microsoft) develop the Visual Studio Code product together with the community. Not only do we work on code and issues here, but we also publish our roadmap , monthly iteration plans , and our endgame plans . This source code is available to e",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.671216+00:00",
+    "details": {}
+  },
+  {
+    "title": "nushell/nushell",
+    "link": "https://github.com/nushell/nushell",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A new type of shell https://www.nushell.sh/ Nushell A new type of shell. Table of Contents Status Learning About Nu Installation Configuration Philosophy Pipelines Opening files Plugins Goals Officially Supported By Contributing License Status This project has reached a minimum-viable-product level of quality. Many people use it as their daily driver, but it may be unstable for some commands. Nu's",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.686525+00:00",
+    "details": {}
+  },
+  {
+    "title": "etcd-io/etcd",
+    "link": "https://github.com/etcd-io/etcd",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Distributed reliable key-value store for the most critical data of a distributed system https://etcd.io etcd Note : The main branch may be in an unstable or even broken state during development. For stable versions, see releases . etcd is a distributed reliable key-value store for the most critical data of a distributed system, with a focus on being: Simple : well-defined, user-facing API (gRPC) S",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.694460+00:00",
+    "details": {}
+  },
+  {
+    "title": "openssl/openssl",
+    "link": "https://github.com/openssl/openssl",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "General purpose TLS and crypto library https://openssl-library.org/ Welcome to the OpenSSL Project OpenSSL is a robust, commercial-grade, full-featured Open Source Toolkit for the Transport Layer Security (TLS, formerly SSL), Datagram TLS (DTLS), and QUIC protocols. The protocol implementations are based on a full-strength general purpose cryptographic library, which can also be used stand-alone.",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.702231+00:00",
+    "details": {}
+  },
+  {
+    "title": "astral-sh/ruff",
+    "link": "https://github.com/astral-sh/ruff",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "An extremely fast Python linter and code formatter, written in Rust. https://docs.astral.sh/ruff Ruff Docs | Playground An extremely fast Python linter and code formatter, written in Rust. Linting the CPython codebase from scratch. ⚡️ 10-100x faster than existing linters (like Flake8) and formatters (like Black) 🐍 Installable via pip 🛠️ pyproject.toml support 🤝 Python 3.15 compatibility ⚖️ Drop-in",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:45:59.721086+00:00",
+    "details": {}
+  },
+  {
+    "title": "How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies (Gillian Tett/Financial Times)",
+    "link": "https://www.techmeme.com/261107/p7#a261107p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Gillian Tett / Financial Times : How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies &nbsp; &mdash;&nbsp; Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:46:09.185778+00:00",
+    "details": {}
+  },
+  {
+    "title": "Global tablet shipments fell 23% YoY to 32M units in Q3 2026, their lowest level in nearly three years; Apple's iPad shipments fell 27.5% YoY to ~11.58M (Omdia)",
+    "link": "https://www.techmeme.com/261107/p6#a261107p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Omdia : Global tablet shipments fell 23% YoY to 32M units in Q3 2026, their lowest level in nearly three years; Apple's iPad shipments fell 27.5% YoY to ~11.58M &nbsp; &mdash;&nbsp; The global tablet market fell 23% year-over-year (YoY) to 32 million units in Q3 2026, marking its lowest shipment level in nearly three years &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:46:09.198841+00:00",
+    "details": {}
+  },
+  {
+    "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "they are all the same and we ... are too emotional! and yes we already knew that. &#32; submitted by &#32; /u/ab2377 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-07T10:46:09.208443+00:00",
     "details": {}
   }
 ]
