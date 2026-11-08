@@ -16125,5 +16125,62 @@
     },
     "rejected_at": "2026-11-08T18:13:20.720272+00:00",
     "details": {}
+  },
+  {
+    "title": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
+    "link": "https://www.techmeme.com/261108/p13#a261108p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ian King / Bloomberg : Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised &nbsp; &mdash;&nbsp; Nvidia Corp.'s board is launching an investigation into whether Chief Executive Officer Jensen Huang was targeted &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T21:26:43.210024+00:00",
+    "details": {}
+  },
+  {
+    "title": "Beyond code generation: A developer's guide to agentic engineering",
+    "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/ Comments URL: https://news.ycombinator.com/item?id=50417036 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T21:26:43.219706+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Hyper Compress: The Best Open Source PDF Compression Engine",
+    "link": "https://github.com/alam00000/bentopdf-hyper-compress",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/alam00000/bentopdf-hyper-compress Comments URL: https://news.ycombinator.com/item?id=50416782 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T21:26:43.229639+00:00",
+    "details": {}
   }
 ]
