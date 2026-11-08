@@ -917,5 +917,30 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Internal documents leaked by Cisco workers angry over the company's ties to Israel's military show how it expanded its business as the war in Gaza dragged on (Alice Speri/The Guardian)",
+    "link": "https://www.techmeme.com/261108/p5#a261108p5",
+    "summary": "كشفت وثائق داخلية مسربة من موظفين غاضبين في شركة سيسكو (Cisco) عن توطيد الشركة لشراكاتها وتوسيع أعمالها مع الجيش الإسرائيلي، وذلك على الرغم من الاعتراضات والاحتجاجات الداخلية المتصاعدة بين موظفي الشركة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "cisco-leaked-documents-israel-military",
+    "event_key": "cisco|2026 11|أعمال وتقنية|غير محدد|دولي",
+    "company_name": "Cisco",
+    "event_year_month": "2026-11",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "دولي",
+    "keywords": [
+      "Cisco",
+      "وثائق مسربة",
+      "سيسكو"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-08T08:14:36.481079+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 281,
+    "telegram_message_url": "https://t.me/Eng_limitless/281"
   }
 ]

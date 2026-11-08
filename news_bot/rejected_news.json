@@ -1,119 +1,5 @@
 [
   {
-    "title": "Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)",
-    "link": "https://www.techmeme.com/261008/p55#a261008p55",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Associated Press : Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &nbsp; &mdash;&nbsp; President Donald Trump's administration announced Thursday it was suspending Microsoft and several other firms &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T03:27:47.578692+00:00",
-    "details": {}
-  },
-  {
-    "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)",
-    "link": "https://www.techmeme.com/261008/p54#a261008p54",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Sergiu Gatlan / BleepingComputer : A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions &nbsp; &mdash;&nbsp; The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T03:27:47.594334+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Sibuna an open source web application firewall with proof of work",
-    "link": "https://github.com/insanai/sibuna",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Hi HN, We are building an open source web application firewall Sibuna to have more control over automated traffic from AI bots and crawlers. Sibuna runs as a reverse proxy or alongside an existing ingress through forward-auth. It includes application inspection, OWASP CRS support and a wasm based management console. Please try it, and give us feedback for improvements. Github Project: https://gith",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T03:27:47.605268+00:00",
-    "details": {}
-  },
-  {
-    "title": "Augment Code's Next Chapter",
-    "link": "https://www.augmentcode.com/blog/augment-code-next-chapter",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.augmentcode.com/blog/augment-code-next-chapter Comments URL: https://news.ycombinator.com/item?id=50015056 Points: 3 # Comments: 1",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T03:27:47.614478+00:00",
-    "details": {}
-  },
-  {
-    "title": "Strata rewrote their Github history to wipe evidence of Claude-authoring",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x15a8w/strata_rewrote_their_github_history_to_wipe/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Just noticed this today when I went to run the built-in &quot;UPDATE&quot; script and git failed because there was no common ancestor. Looked into why, and apparently every historical commit has been re-written to strip the &quot;Co-Authored by Claude&quot; text from the descriptions. Personally I think that's pretty gross. I'm struggling to think of any reason to do this other than an intention t",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T03:27:47.625122+00:00",
-    "details": {}
-  },
-  {
-    "title": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Post title is slightly misleading, I don't think you can get these for $350 each anymore but they're still pretty cheap all things considered. They're Radeon Pro V620's which are older RDNA2 enterprise cloud gaming cards with 32 GB VRAM. (Ignore the RTX 4090 on the side, it's just used for stuff like image/video gen models, no LLMs) But I bought these cards a couple months ago as a gamble to see i",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T03:27:47.640232+00:00",
-    "details": {}
-  },
-  {
     "title": "storytold/artcraft",
     "link": "https://github.com/storytold/artcraft",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -16010,6 +15896,177 @@
       ]
     },
     "rejected_at": "2026-11-07T21:11:43.653611+00:00",
+    "details": {}
+  },
+  {
+    "title": "meta/astryx",
+    "link": "https://github.com/meta/astryx",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "An open source design system that's fully customizable and agent ready http://astryx.atmeta.com Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contributing · Discord Overview Astryx is an open source design system that grew i",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T08:14:20.820545+00:00",
+    "details": {}
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "link": "https://github.com/sherlock-project/sherlock",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Hunt down social media accounts by username across social networks https://sherlockproject.xyz Hunt down social media accounts by username across 400+ social networks Installation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Usage &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; Contributing Installation Warning Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be broken . Users of thes",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T08:14:20.836287+00:00",
+    "details": {}
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "link": "https://github.com/tailwindlabs/tailwindcss",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A utility-first CSS framework for rapid UI development. https://tailwindcss.com/ A utility-first CSS framework for rapidly building custom user interfaces. Documentation For full documentation, visit tailwindcss.com . Community For help, discussion about best practices, or feature ideas: Discuss Tailwind CSS on GitHub Contributing If you're interested in contributing to Tailwind CSS, please read o",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T08:14:20.858555+00:00",
+    "details": {}
+  },
+  {
+    "title": "mbillow/localthings",
+    "link": "https://github.com/mbillow/localthings",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings Control your Samsung appliances from Home Assistant over your home network, with no cloud account. LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other appliances that work with the SmartThings app. It talks to each appliance on",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T08:14:20.866618+00:00",
+    "details": {}
+  },
+  {
+    "title": "ranxianglei/billion-context",
+    "link": "https://github.com/ranxianglei/billion-context",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need billion-context English | 中文 Context-compression plugin — billion-context is all you need. small context windows (100K is enough) · 5× fewer tokens",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T08:14:20.885092+00:00",
+    "details": {}
+  },
+  {
+    "title": "dsx-ai-factory/nvke",
+    "link": "https://github.com/dsx-ai-factory/nvke",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. https://docs.nvidia.com/nvke/ NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes clusters for their customers. Each workload cluster has",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T08:14:20.893428+00:00",
+    "details": {}
+  },
+  {
+    "title": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)",
+    "link": "https://www.techmeme.com/261108/p6#a261108p6",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Valerie Volcovici / Reuters : Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers &nbsp; &mdash;&nbsp; Environmental groups worldwide are using artificial intelligence to analyze climate data, track forest fires and count endangered wildlife &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T08:14:36.500671+00:00",
+    "details": {}
+  },
+  {
+    "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hey r/LocalLLaMA ! I made this quick demo of how Observer can run local models to monitor anything with your phone! These are some crazy things I've monitored: When someone that's not me, approaches my car, send me a picture. When a bird is on the bird's nest, send me a telegram with the picture. When my washing machine is on the rinse cycle, call me. When my dog finishes eating their food, notify",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T08:14:36.512901+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Stylome bot is useless spam and should be removed",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I've recently been seeing comments everywhere from the Stylome bot, which is also a mod in this sub. Every time it pops up to declare a comment was AI written I've gone in to check its confidence level, and it's always low. I decided to do a few tests myself and have Gemini rewrite some of my comments, Stylome said they were all human written with equally low confidence. What is the point of this",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T08:14:36.522090+00:00",
     "details": {}
   }
 ]
