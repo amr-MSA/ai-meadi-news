@@ -1,31 +1,5 @@
 [
   {
-    "title": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)",
-    "link": "https://www.techmeme.com/261031/p11#a261031p11",
-    "summary": "كشف باحثون أمنيون عن ثغرة أمنية في ميزة روابط المشاركة بشركة أوبن إيه آي، تمكّن المهاجمين من تنفيذ أكواد برمجية خبيثة داخل الجلسات النشطة للمستخدمين بمجرد فتحهم لرابط مشاركة مفخخ، وقد حصل الباحثون على مكافأة قدرها 5 آلاف دولار بعد الإبلاغ عن الفجوة.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "openai-chatgpt-share-link-vulnerability",
-    "event_key": "openai|2026 10|أمن سيبراني|chatgpt|أمريكا الشمالية",
-    "company_name": "OpenAI",
-    "event_year_month": "2026-10",
-    "news_type": "أمن سيبراني",
-    "product_name": "ChatGPT",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "OpenAI",
-      "ChatGPT",
-      "ثغرة أمنية",
-      "أمن سيبراني"
-    ],
-    "month": "2026-10",
-    "posted_at": "2026-10-31T22:54:40.275450+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 260,
-    "telegram_message_url": "https://t.me/Eng_limitless/260"
-  },
-  {
     "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
     "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
     "summary": "نشر باحث أمني نموذج إثبات مفهوم (PoC) لاستغلال ثغرة أمنية حرجة في نظام أندرويد تُعرف باسم SMS of Death ومسجلة تحت الرمز CVE-2026-58882، تسمح للمهاجمين بتعطيل الاتصال الخلوي أو إسقاط الأجهزة غير المحدثة عن بُعد عبر إرسال رسالة نصية خبيثة.",
