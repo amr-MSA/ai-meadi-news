@@ -1,119 +1,5 @@
 [
   {
-    "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
-    "link": "https://www.techmeme.com/261009/p20#a261009p20",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dominic-Madori Davis / TechCrunch : Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M &nbsp; &mdash;&nbsp; Vesta, an AI-native software startup that helps lenders originate mortgages, announced on Thursday that it raised a $30 million round led by Conversion Capital.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T17:40:17.947642+00:00",
-    "details": {}
-  },
-  {
-    "title": "Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)",
-    "link": "https://www.techmeme.com/261009/p19#a261009p19",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Davis Giangiulio / CNBC : Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally &nbsp; &mdash;&nbsp; Blockchain.com, a digital asset platform, wants to get in on the prediction market boom in the U.S.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T17:40:17.961345+00:00",
-    "details": {}
-  },
-  {
-    "title": "Qwen/Qwen-Image-2.1-Turbo · Hugging Face",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/chocofoxy [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T17:40:17.971466+00:00",
-    "details": {}
-  },
-  {
-    "title": "Qwen-Image-2.1-Turbo released!",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x1lclx/qwenimage21turbo_released/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Qwen-Image-2.1-Turbo, create and edit images in just 8 denoising steps! Open weights now available! Built on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. Fewer steps does not mean lower quality: it still generates strong 2K images from text, and supports continued creation through natural-language edits, from adding accessories to changing a sce",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T17:40:17.980686+00:00",
-    "details": {}
-  },
-  {
-    "title": "Silent Ransom Group claims “Luna Moth Files” are fake. The data suggest otherwise.",
-    "link": "https://databreaches.net/2026/10/09/silent-ransom-group-claims-luna-moth-files-are-fake-the-data-suggest-otherwise/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "On Tuesday, cybersecurity professionals began investigating an onion site that appeared to contain internal chat files from Silent Ransom Group. On Thursday, Silent Ransom Group said the leak was fake, but is it? A bespoke site called &#8220;Luna Moth Files&#8221; appeared Tuesday morning. The identity of the person who published the data is unknown, as... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T17:40:17.992505+00:00",
-    "details": {}
-  },
-  {
-    "title": "Cyberattack at IDC Frontier disrupts services around nation",
-    "link": "https://databreaches.net/2026/10/09/cyberattack-at-idc-frontier-disrupts-services-around-nation/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "The Asahi Shimbun reports: IDC Frontier Inc., a SoftBank subsidiary that provides cloud services, said Oct. 7 that a ransomware attack caused a system outage affecting 495 corporate and local government customers. The Tokyo-based company said it is still investigating the scale of the damage and whether any personal information was compromised. The cyberattack has... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-09T17:40:18.002287+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)",
     "link": "https://www.techmeme.com/261009/p26#a261009p26",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16105,6 +15991,139 @@
       "keywords": []
     },
     "rejected_at": "2026-11-08T16:27:05.940294+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+    "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+    "source_name": "BleepingComputer",
+    "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T18:13:02.699464+00:00",
+    "details": {}
+  },
+  {
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "link": "https://github.com/synchopate/llama-modchip",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T18:13:20.689813+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Reconstruction of Torn Documents",
+    "link": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T18:13:20.695682+00:00",
+    "details": {}
+  },
+  {
+    "title": "Writing as a thinking tool",
+    "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T18:13:20.701364+00:00",
+    "details": {}
+  },
+  {
+    "title": "A field guide to CAPTCHA types and how they break",
+    "link": "https://github.com/vsmutok/FuckCaptcha",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T18:13:20.707697+00:00",
+    "details": {}
+  },
+  {
+    "title": "Goodbye Claude, hello Pi",
+    "link": "https://caleb.software/posts/claude-to-pi.html",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T18:13:20.713562+00:00",
+    "details": {}
+  },
+  {
+    "title": "I'm not a fan of Deno's security model (2024)",
+    "link": "https://goldstein.lol/posts/deno-security/",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-08T18:13:20.720272+00:00",
     "details": {}
   }
 ]
