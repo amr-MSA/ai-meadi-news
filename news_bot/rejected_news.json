@@ -16030,5 +16030,271 @@
     },
     "rejected_at": "2026-11-09T20:16:08.474477+00:00",
     "details": {}
+  },
+  {
+    "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+    "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+    "source_name": "BleepingComputer",
+    "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:51:44.743675+00:00",
+    "details": {}
+  },
+  {
+    "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+    "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+    "source_name": "BleepingComputer",
+    "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.447977+00:00",
+    "details": {}
+  },
+  {
+    "title": "York University breach exposed personal information dating to 2007",
+    "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+    "source_name": "BleepingComputer",
+    "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.456431+00:00",
+    "details": {}
+  },
+  {
+    "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+    "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+    "source_name": "BleepingComputer",
+    "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.464899+00:00",
+    "details": {}
+  },
+  {
+    "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+    "source_name": "BleepingComputer",
+    "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.473397+00:00",
+    "details": {}
+  },
+  {
+    "title": "Binance denies data breach after alleged ShinyHunters claims",
+    "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+    "source_name": "BleepingComputer",
+    "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.481419+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+    "source_name": "BleepingComputer",
+    "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.489533+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+    "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+    "source_name": "BleepingComputer",
+    "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.498789+00:00",
+    "details": {}
+  },
+  {
+    "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+    "source_name": "BleepingComputer",
+    "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.507548+00:00",
+    "details": {}
+  },
+  {
+    "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+    "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+    "source_name": "BleepingComputer",
+    "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.516161+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+    "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+    "source_name": "BleepingComputer",
+    "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.525067+00:00",
+    "details": {}
+  },
+  {
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "link": "https://postalpro.usps.com/zcb",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.540564+00:00",
+    "details": {}
+  },
+  {
+    "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+    "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.549399+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "link": "https://github.com/thisisme6598/gemini_files/",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T22:52:10.557946+00:00",
+    "details": {}
   }
 ]
