@@ -1,100 +1,5 @@
 [
   {
-    "title": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)",
-    "link": "https://www.techmeme.com/261010/p11#a261010p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Adam Morgan / Wired : Dozens of staff at HarperCollins, Simon &amp; Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more &nbsp; &mdash;&nbsp; Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T14:04:21.414456+00:00",
-    "details": {}
-  },
-  {
-    "title": "big or small?",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "what size do you want? tell them on X: https://x.com/QwenDevs/status/2108764909798641737 &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T14:04:21.420921+00:00",
-    "details": {}
-  },
-  {
-    "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "No..... &#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T14:04:21.429322+00:00",
-    "details": {}
-  },
-  {
-    "title": "FBI announces yet another arrest allegedly connected to the FBI Jobs hack",
-    "link": "https://databreaches.net/2026/10/10/fbi-announces-yet-another-arrest-allegedly-connected-to-the-fbi-jobs-hack/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "The FBI is doing another victory dance after arresting someone they allege assisted ShinyHunters with the FBI Jobs attack. Brian Krebs reports: Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T14:04:21.437250+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic AI agent gives fake murder tip to US cops in global breach",
-    "link": "https://databreaches.net/2026/10/10/anthropic-ai-agent-gives-fake-murder-tip-to-us-cops-in-global-breach/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Georgia Wells and Joseph Pisani report: Rogue AI models have hacked companies and tried to break into government websites. Now one has submitted a fake tip for an unsolved crime. Police in Philadelphia say Anthropic alerted them this week that one of its artificial-intelligence models submitted a false homicide tip through PhillyUnsolvedMurders.com. In a blog... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T14:04:21.445169+00:00",
-    "details": {}
-  },
-  {
     "title": "\"Super Intelligence systems\" are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)",
     "link": "https://www.techmeme.com/261010/p18#a261010p18",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16010,6 +15915,120 @@
       "keywords": []
     },
     "rejected_at": "2026-11-09T08:49:24.392667+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
+    "link": "https://www.techmeme.com/261109/p40#a261109p40",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Frederic Lardinois / The New Stack : Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens &nbsp; &mdash;&nbsp; On Monday, Anthropic launched Claude Fable 5.2 and Mythos 5.2, the latest versions of its duo of flagship models.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T20:16:08.443476+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)",
+    "link": "https://www.techmeme.com/261109/p39#a261109p39",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jay Peters / The Verge : Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems &nbsp; &mdash;&nbsp; Claude Fable 5.2 is designed to take on big technical challenges, and it's available today.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T20:16:08.451903+00:00",
+    "details": {}
+  },
+  {
+    "title": "More interesting and unusual Qwen3.5-4B neurons",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "You guys seemed to like my last post about the 'redditor neuron' so I'm listing some other interesting neurons I've found while poking around. L11 N8147: The redditor neuron/ contrarianism neuron. Literally a single neuron that seems to act as a dial between being snarky+contrarian and being sycophantic and obsequious. Interestingly, the snarky contrarian polarity makes it lie about everything, an",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T20:16:08.457126+00:00",
+    "details": {}
+  },
+  {
+    "title": "Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "https://artificialanalysis.ai/models/muse-ember https://x.com/finkd/status/2086755195535413696 &#32; submitted by &#32; /u/Gohab2001 [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T20:16:08.463597+00:00",
+    "details": {}
+  },
+  {
+    "title": "Binance calls alleged “ShinyHunters” post a scam attempt",
+    "link": "https://databreaches.net/2026/11/09/binance-calls-alleged-shinyhunters-post-a-scam-attempt/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Sergiu Gatlan reports: Binance, the world&#8217;s largest crypto exchange, has denied claims of a new security breach made by a threat actor using the &#8216;ShinyHunters&#8217; handle on a newly emerged underground cybercrime forum. This follows the threat actor, believed to impersonate the ShinyHunters extortion gang, putting up for sale what they claimed were records of...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T20:16:08.469104+00:00",
+    "details": {}
+  },
+  {
+    "title": "AU: Important update from Epichealth – cyber incident",
+    "link": "https://databreaches.net/2026/11/09/au-important-update-from-epichealth-cyber-incident/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Seen on Epichealth: 4 November 2026 What has happened Epichealth operates four medical clinics including the Warrnambool Medicare Urgent Care Clinic, Epichealth Ocean Grove Marketplace, Epichealth Ocean Plaza, and Epichealth Portarlington. Epichealth recently experienced a cyber incident, during which an unauthorised third party accessed a part of our IT systems. As soon we became aware...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-09T20:16:08.474477+00:00",
     "details": {}
   }
 ]

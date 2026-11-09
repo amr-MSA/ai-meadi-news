@@ -1,32 +1,5 @@
 [
   {
-    "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its staff, saying \"automation and AI are fundamentally shifting how software companies operate\" (Liam Proven/The Register)",
-    "link": "https://www.techmeme.com/261102/p35#a261102p35",
-    "summary": "كشفت مذكرة داخلية مسربة من شركة SUSE، المطورة لتوزيعة لينكس الشهيرة، عن خطة لتسريح نحو 10% من موظفيها. وأرجعت الإدارة هذا القرار إلى التحول الجذري الذي تفرضه أدوات الذكاء الاصطناعي والأتمتة على أساليب إدارة وتطوير البرمجيات وسير العمل اليومي داخل الشركات التقنية.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "suse-staff-layoffs-ai-automation",
-    "event_key": "suse|2026 11|أعمال وتقنية|غير محدد|دولي",
-    "company_name": "SUSE",
-    "event_year_month": "2026-11",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "دولي",
-    "keywords": [
-      "SUSE",
-      "تسريح الموظفين",
-      "الذكاء الاصطناعي",
-      "الأتمتة",
-      "لينكس"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-02T19:52:40.026099+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 264,
-    "telegram_message_url": "https://t.me/Eng_limitless/264"
-  },
-  {
     "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
     "link": "https://databreaches.net/2026/11/02/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
     "summary": "تسبب مقاول دفاعي يعمل لوزارة الدفاع الأمريكية في حادث أمني بعد ربطه نظامًا مركزيًا آمنًا تُشاركه وكالات استخباراتية بحسابه الشخصي في أداة الذكاء الاصطناعي Claude Code التابعة لشركة Anthropic، مما أتاح للوكيل التقني الوصول إلى بيئة النظام الحساسة.",
