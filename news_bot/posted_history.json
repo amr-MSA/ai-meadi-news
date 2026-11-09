@@ -902,5 +902,31 @@
       "تأكيد وجود مخاوف أمنية لدى أرفع المسؤولين الأمريكيين بشأن القضية منذ عدة أشهر."
     ],
     "supersedes_posted_at": "2026-11-07T03:34:41.848804+00:00"
+  },
+  {
+    "title": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge in an all-share deal valuing Ada at ~$430M, sources say (Globe and Mail)",
+    "link": "https://www.techmeme.com/261109/p5#a261109p5",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطّلعة عن موافقة شركة Ada الكندية وشركة Dialpad الأمريكية، المتخصصتين في برمجيات خدمة العملاء بالذكاء الاصطناعي، على الاندماج عبر صفقة تبادل أسهم تقيّم شركة Ada بنحو 430 مليون دولار.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "ada-dialpad-merger-deal",
+    "event_key": "ada support|2026 11|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Ada Support",
+    "event_year_month": "2026-11",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Ada",
+      "Dialpad",
+      "اندماج",
+      "ذكاء اصطناعي"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-09T08:49:24.314684+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 286,
+    "telegram_message_url": "https://t.me/Eng_limitless/286"
   }
 ]
