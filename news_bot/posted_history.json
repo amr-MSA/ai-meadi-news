@@ -1,39 +1,5 @@
 [
   {
-    "title": "A look at Binance's efforts to contain the hack, including creating a global war room of ~100 people, coordinating with other crypto firms and the FBI, and more (Bloomberg)",
-    "link": "https://www.techmeme.com/261101/p19#a261101p19",
-    "summary": "كشفت تقارير صحفية أن منصة بينانس شكلت غرفة عمليات عالمية تضم نحو 100 متخصص وتعمل بالتنسيق المباشر مع مكتب التحقيقات الفيدرالي (FBI) وشركات الكريبتو الأخرى للسيطرة على تداعيات السرقة الرقمية التاريخية وتتبع الأموال المستهدفة.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "binance-6-3b-crypto-theft-devops-laptop",
-    "event_key": "binance|2026 10|أمن سيبراني|غير محدد|دولي",
-    "company_name": "Binance",
-    "event_year_month": "2026-10",
-    "news_type": "أمن سيبراني",
-    "product_name": "غير محدد",
-    "region": "دولي",
-    "keywords": [
-      "Binance",
-      "FBI",
-      "War Room",
-      "Crypto Hack"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-02T01:06:32.198721+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 263,
-    "telegram_message_url": "https://t.me/Eng_limitless/263",
-    "is_update": true,
-    "updates_event_key": "binance|2026 10|أمن سيبراني|غير محدد|دولي",
-    "update_summary": "كشفت تقارير عن إنشاء بينانس غرفة عمليات من 100 شخص وتنسيقها مع الـ FBI لتطويق تداعيات الاختراق.",
-    "new_facts": [
-      "تأسيس غرفة عمليات (War Room) عالمية تضم نحو 100 متخصص لإدارة الأزمة.",
-      "التنسيق المباشر مع مكتب التحقيقات الفيدرالي (FBI) وشركات الأصول الرقمية لتتبع الأموال."
-    ],
-    "supersedes_posted_at": "2026-10-30T18:25:19.124280+00:00"
-  },
-  {
     "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its staff, saying \"automation and AI are fundamentally shifting how software companies operate\" (Liam Proven/The Register)",
     "link": "https://www.techmeme.com/261102/p35#a261102p35",
     "summary": "كشفت مذكرة داخلية مسربة من شركة SUSE، المطورة لتوزيعة لينكس الشهيرة، عن خطة لتسريح نحو 10% من موظفيها. وأرجعت الإدارة هذا القرار إلى التحول الجذري الذي تفرضه أدوات الذكاء الاصطناعي والأتمتة على أساليب إدارة وتطوير البرمجيات وسير العمل اليومي داخل الشركات التقنية.",
@@ -898,6 +864,42 @@
     "new_facts": [
       "أكد جينسن هوانغ وجود العلاقة في رسالة بريد إلكتروني داخلية وجهها لموظفي شركة إنفيديا.",
       "أعلن تحمله المسؤولية الكاملة وأقر بتقصيره في أداء واجباته تجاه مجلس الإدارة والمساهمين والموظفين."
+    ],
+    "supersedes_posted_at": "2026-11-07T03:34:41.848804+00:00"
+  },
+  {
+    "title": "Sources: Marco Rubio oversaw the drafting of a classified memo this spring warning Trump admin that Jensen Huang was in a close relationship with a Chinese spy (New York Times)",
+    "link": "https://www.techmeme.com/261108/p17#a261108p17",
+    "summary": "أفادت صحيفة نيويورك تايمز نقلاً عن مصادر مطّلعة أن ماركو روبيو أشرف خلال ربيع هذا العام على إعداد مذكرة استخباراتية سرية تحذر إدارة ترامب من وجود علاقة وثيقة تجمع الرئيس التنفيذي لشركة إنفيديا جينسن هوانغ بمشتبه بها بالتجسس لصالح الصين، مما يكشف عن مخاوف أمنية مبكرة لدى أرفع المسؤولين الأمريكيين قبل تكشف القضية علنًا.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "jensen-huang-us-intelligence-mss-spying-allegations",
+    "event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "company_name": "Nvidia",
+    "event_year_month": "2026-11",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Nvidia",
+      "Jensen Huang",
+      "Marco Rubio",
+      "Trump",
+      "Spying Allegations",
+      "New York Times"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-09T01:17:48.731651+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 285,
+    "telegram_message_url": "https://t.me/Eng_limitless/285",
+    "is_update": true,
+    "updates_event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "update_summary": "كشفت تقارير صحفية عن إشراف ماركو روبيو على صياغة مذكرة سرية مبكرة تحذر إدارة ترامب من علاقة رئيس إنفيديا.",
+    "new_facts": [
+      "إشراف ماركو روبيو على صياغة مذكرة استخباراتية سرية في الربيع لتنبيه إدارة ترامب.",
+      "تأكيد وجود مخاوف أمنية لدى أرفع المسؤولين الأمريكيين بشأن القضية منذ عدة أشهر."
     ],
     "supersedes_posted_at": "2026-11-07T03:34:41.848804+00:00"
   }
