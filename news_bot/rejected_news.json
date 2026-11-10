@@ -1,366 +1,5 @@
 [
   {
-    "title": "Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)",
-    "link": "https://www.techmeme.com/261011/p8#a261011p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tymur Dubovyk / Kyiv Post : Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages &nbsp; &mdash;&nbsp; A Ukrainian drone strike targeted a major Yandex data center in the Russian city of Vladimir early Sunday morning, Oct. 11 &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T16:56:10.955125+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Vizipedia – free open-source visualizations Wikipedia your agents code",
-    "link": "https://shapelessai.com/vizipedia",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://shapelessai.com/vizipedia Comments URL: https://news.ycombinator.com/item?id=50045166 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T16:56:10.963921+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: PR-witness – run the base branch's tests against the PR's code",
-    "link": "https://github.com/talhayme/pr-witness",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/talhayme/pr-witness Comments URL: https://news.ycombinator.com/item?id=50045037 Points: 1 # Comments: 1",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T16:56:10.972879+00:00",
-    "details": {}
-  },
-  {
-    "title": "Here’s why RTX 5090 costs $5,000: AI firms are buying gaming GPUs by the pallet",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x37tg6/heres_why_rtx_5090_costs_5000_ai_firms_are_buying/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T16:56:10.981933+00:00",
-    "details": {}
-  },
-  {
-    "title": "The Luna Moth Files Weren’t Hacked. Here’s How They Leaked.",
-    "link": "https://databreaches.net/2026/10/11/the-luna-moth-files-werent-hacked-heres-how-they-leaked/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "When asked about the &#8220;Luna Moth Files&#8221; that had mysteriously appeared online, Silent Ransom Group called them &#8220;fake&#8221; and insisted they hadn&#8217;t had any leak or breach. But they had. Here&#8217;s what we know. When the &#8220;Luna Moth Files&#8221; appeared on an onion site without anyone claiming responsibility or explaining their origin, DataBreaches asked a... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T16:56:10.999002+00:00",
-    "details": {}
-  },
-  {
-    "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-    "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-    "source_name": "BleepingComputer",
-    "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.829035+00:00",
-    "details": {}
-  },
-  {
-    "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-    "source_name": "BleepingComputer",
-    "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.838255+00:00",
-    "details": {}
-  },
-  {
-    "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-    "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-    "source_name": "BleepingComputer",
-    "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.847759+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-    "source_name": "BleepingComputer",
-    "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.857283+00:00",
-    "details": {}
-  },
-  {
-    "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-    "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-    "source_name": "BleepingComputer",
-    "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.866484+00:00",
-    "details": {}
-  },
-  {
-    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-    "source_name": "BleepingComputer",
-    "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.875594+00:00",
-    "details": {}
-  },
-  {
-    "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-    "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-    "source_name": "BleepingComputer",
-    "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.884755+00:00",
-    "details": {}
-  },
-  {
-    "title": "How to keep AI agents within their permissions",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-    "source_name": "BleepingComputer",
-    "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.893360+00:00",
-    "details": {}
-  },
-  {
-    "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-    "source_name": "BleepingComputer",
-    "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.902334+00:00",
-    "details": {}
-  },
-  {
-    "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-    "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-    "source_name": "BleepingComputer",
-    "summary": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.911989+00:00",
-    "details": {}
-  },
-  {
-    "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-    "source_name": "BleepingComputer",
-    "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.921411+00:00",
-    "details": {}
-  },
-  {
-    "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-    "source_name": "BleepingComputer",
-    "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.930700+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-    "source_name": "BleepingComputer",
-    "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.940418+00:00",
-    "details": {}
-  },
-  {
-    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-    "source_name": "BleepingComputer",
-    "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T17:54:22.949872+00:00",
-    "details": {}
-  },
-  {
     "title": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)",
     "link": "https://www.techmeme.com/261011/p10#a261011p10",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16238,6 +15877,139 @@
       "keywords": []
     },
     "rejected_at": "2026-11-10T11:55:48.352337+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Citigroup, Goldman Sachs, and others in a 21-bank consortium committed around $270M to fund five years of a stablecoin venture announced in September (Bloomberg)",
+    "link": "https://www.techmeme.com/261110/p41#a261110p41",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: Citigroup, Goldman Sachs, and others in a 21-bank consortium committed around $270M to fund five years of a stablecoin venture announced in September &nbsp; &mdash;&nbsp; A group of financial firms including Goldman Sachs Group Inc., Citigroup Inc., Banco Santander SA and Deutsche Bank AG &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T19:00:18.335164+00:00",
+    "details": {}
+  },
+  {
+    "title": "Alta, which is building blockchain infrastructure for banks and payment companies, raised a $47.5M Series A, bringing its total funding to $80M (Kyle Baird/The Block)",
+    "link": "https://www.techmeme.com/261110/p40#a261110p40",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Kyle Baird / The Block : Alta, which is building blockchain infrastructure for banks and payment companies, raised a $47.5M Series A, bringing its total funding to $80M &nbsp; &mdash;&nbsp; Index Ventures led the round, bringing Alta's total funding to $80 million as it builds a blockchain for financial firms.&nbsp; &mdash;&nbsp; Make us preferred",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T19:00:18.343046+00:00",
+    "details": {}
+  },
+  {
+    "title": "I built a Claude Code mod that turns my English prompts into a learning log",
+    "link": "https://github.com/rapha-rodrigues/cc-esol",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/rapha-rodrigues/cc-esol Comments URL: https://news.ycombinator.com/item?id=50444598 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T19:00:18.348698+00:00",
+    "details": {}
+  },
+  {
+    "title": "How do you keep up quality when you vibe-code?",
+    "link": "https://news.ycombinator.com/item?id=50444380",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "I'm having a really hard time working with claude. In the past when I wrote all the code manually, it was always carefully reviewed and architected, with all possible flows carefully mapped out. Now, my code is mostly AI written which has led to things going out of control. Since it's easy to add new features and support many user flows, we went ahead and implemented flows that support a lot of ca",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T19:00:18.353982+00:00",
+    "details": {}
+  },
+  {
+    "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/MagicZhang [link] &#32; [comments]",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T19:00:18.359637+00:00",
+    "details": {}
+  },
+  {
+    "title": "UZ Brussel among hospitals experiencing severe network problems",
+    "link": "https://databreaches.net/2026/11/10/uz-brussel-among-hospitals-experiencing-severe-network-problems/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "VRT reports: Brussels University Hospital UZ Brussel (VUB) was the first hospital to report network problems. These are affecting the hospital’s IT infrastructure and telephone systems. There are also problems at AZ Monica in Antwerp, at the Heilig Hart Hospital in Lier and Sint-Andries Hospital in Tielt. As a result, at UZ Brussel scheduled operations...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T19:00:18.371072+00:00",
+    "details": {}
+  },
+  {
+    "title": "HIPAA Enforcement by State Attorneys General",
+    "link": "https://databreaches.net/2026/11/10/hipaa-enforcement-by-state-attorneys-general-3/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "HIPAA Journal has a convenient table of HIPAA enforcement actions by state attorneys general. Most entries involve violations of the Security Rule and/or HITECH, but a few appear to relate more to the Privacy Rule or access to records. You can find the table at https://www.hipaajournal.com/hipaa-enforcement-by-state-attorneys-general/ DataBreaches.net has reported on most of the incidents or...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T19:00:18.375901+00:00",
     "details": {}
   }
 ]
