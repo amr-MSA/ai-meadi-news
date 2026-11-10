@@ -1,176 +1,5 @@
 [
   {
-    "title": "\"Super Intelligence systems\" are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)",
-    "link": "https://www.techmeme.com/261010/p18#a261010p18",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Satya Nadella / @satyanadella : &ldquo;Super Intelligence systems&rdquo; are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment &nbsp; &mdash;&nbsp; As traditional software systems were being deployed across the economy over the last few decades, we had the tools &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T23:39:33.612828+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
-    "link": "https://www.techmeme.com/261010/p17#a261010p17",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Lewis Parker / Kotaku : Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well &nbsp; &mdash;&nbsp; Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T23:39:33.622367+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Open-Source Canva Alternative",
-    "link": "https://github.com/shaongitbd/doory",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50038115 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T23:39:33.627980+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Convertix – A free, client-side QR code generator with customization",
-    "link": "https://convertix-fast-imager-co.blogspot.com/p/convertix-free-online-qr-code-generator.html",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://convertix-fast-imager-co.blogspot.com/p/convertix-free-online-qr-code-generator.html Comments URL: https://news.ycombinator.com/item?id=50037892 Points: 3 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T23:39:33.634911+00:00",
-    "details": {}
-  },
-  {
-    "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "DigUp is a free Mac app that runs Google DeepMind’s new EmbeddingGemma 2 locally over your own files. The model puts text, images, audio and video in one space, so you describe what you remember and land on it: “zebra in a video” opens the clip at the moment it shows up “where they talk about sleep” jumps to that minute of a podcast “the clause about pets in the lease” shows the PDF page, your wor",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T23:39:33.642271+00:00",
-    "details": {}
-  },
-  {
-    "title": "`123456’ password used in massive Danish CPR data breach",
-    "link": "https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Ritzau has more on the Denmark Central Person Register (CPR) breach: At least three accounts at the company linked to a major breach of Denmark’s CPR register reportedly used the password “123456”, including an administrator account. At least three user accounts at the Funen-based IT company Pays used the password “123456” when hackers gained access... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-10T23:39:33.655204+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
-    "link": "https://littleguys.hervalicio.us",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://littleguys.hervalicio.us Comments URL: https://news.ycombinator.com/item?id=50038883 Points: 13 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T02:39:38.655390+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ocudu 26.10 brings satellite connectivity to open-source 5G",
-    "link": "https://www.linuxfoundation.org/press/ocudu-ecosystem-foundation-announces-ocudu-26.10-and-invites-developers-to-the-ocudu-ecosystem-developer-summit-october-20-22-near-washington-dc-to-learn-m-1791460743158",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.linuxfoundation.org/press/ocudu-ecosystem-foundation-announces-ocudu-26.10-and-invites-developers-to-the-ocudu-ecosystem-developer-summit-october-20-22-near-washington-dc-to-learn-m-1791460743158 Comments URL: https://news.ycombinator.com/item?id=50038805 Points: 7 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T02:39:38.663243+00:00",
-    "details": {}
-  },
-  {
-    "title": "Building a 4x R9700 setup for a 10 person startup",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Just wanted to share a build I am doing for a client. $18k. Specs: Threadripper 9970x 128gb DDR5 ECC 5600 4x AMD Radeon R9700 AI Pro 32gb(128gb total VRAM) 1600W PSU(GPUs are undervolted and under 210w each) Engine : using a fork of Radiance to serve Qwen 3.8 Next flash/27b and DSV4 Flash Results: 16 concurrent sessions Qwen 3.8 27b MXFP4 6.3-6.8k aggregate prefill tok/s 900 t/s - 80t/s aggregate",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T02:39:38.670495+00:00",
-    "details": {}
-  },
-  {
     "title": "mksglu/context-mode",
     "link": "https://github.com/mksglu/context-mode",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -16295,6 +16124,215 @@
       "keywords": []
     },
     "rejected_at": "2026-11-09T22:52:10.557946+00:00",
+    "details": {}
+  },
+  {
+    "title": "google-deepmind/mujoco",
+    "link": "https://github.com/google-deepmind/mujoco",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator. https://mujoco.org MuJoCo stands for Mu lti- Jo int dynamics with Co ntact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:52:41.758960+00:00",
+    "details": {}
+  },
+  {
+    "title": "anthropics/claude-quickstarts",
+    "link": "https://github.com/anthropics/claude-quickstarts",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific need",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:52:41.764397+00:00",
+    "details": {}
+  },
+  {
+    "title": "garrytan/gbrain",
+    "link": "https://github.com/garrytan/gbrain",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and fre",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:52:41.770071+00:00",
+    "details": {}
+  },
+  {
+    "title": "ZhuLinsen/daily_stock_analysis",
+    "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. https://dsa.zhulinsen.tech 📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:52:41.785071+00:00",
+    "details": {}
+  },
+  {
+    "title": "homeassistant-ai/ha-mcp",
+    "link": "https://github.com/homeassistant-ai/ha-mcp",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. https://homeassistant-ai.github.io/ha-mcp/ Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta . HA-MCP — Manage Home Assistant with AI Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. 🚀 Get Started The recommended way to run ha-mcp is the HA-MCP integration . It",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:52:41.791433+00:00",
+    "details": {}
+  },
+  {
+    "title": "Trump Media Q3: $409.7M profit fueled by gains on digital assets, vs. a Q3 2025 $54.8M loss, and sales of $3M, $1.8M from subscriptions like Truth API, Truth+ (Elias Schisgall/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261109/p49#a261109p49",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Elias Schisgall / Wall Street Journal : Trump Media Q3: $409.7M profit fueled by gains on digital assets, vs. a Q3 2025 $54.8M loss, and sales of $3M, $1.8M from subscriptions like Truth API, Truth+ &nbsp; &mdash;&nbsp; The parent of Truth Social reported a profit of $409.7 million in the third quarter&nbsp; &mdash;&nbsp; Trump Media &amp; Technology Group &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:53:21.447811+00:00",
+    "details": {}
+  },
+  {
+    "title": "I built an open-source Python tool to download YouTube videos",
+    "link": "https://github.com/pH-7/Download-Simply-Videos-From-YouTube",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/pH-7/Download-Simply-Videos-From-YouTube Comments URL: https://news.ycombinator.com/item?id=50435731 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:53:21.454265+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: ZTHR – what replaces code review when AI agents write all the code",
+    "link": "https://zthr.ai/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://zthr.ai/ Comments URL: https://news.ycombinator.com/item?id=50435672 Points: 2 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:53:21.461298+00:00",
+    "details": {}
+  },
+  {
+    "title": "Is ArtificialAnalysis biased against open weight models?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "It seems like whenever open weight models come close to proprietary US models, ArtificialAnalysis conveniently &quot;re-calibrates&quot; their benchmarks which then shoves open weight models down the toilet. Then they advertise on X/Twitter this &quot;intelligence index&quot; which presents open weight models as dog shit compared to Claude or GPT (all while ignoring the actual intelligence of mode",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:53:21.467340+00:00",
+    "details": {}
+  },
+  {
+    "title": "Got another good reminder why local matters today",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Apparently, they're threatening to ban me for merely red-teaming my own plugin. The appeal was immediately denied without any details. &#32; submitted by &#32; /u/stevie_balemi [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:53:21.473203+00:00",
+    "details": {}
+  },
+  {
+    "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+    "link": "https://databreaches.net/2026/11/09/cisa-announces-enhanced-reporting-form-for-cyber-incidents/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "A press release from the Cybersecurity and Infrastructure Security Agency (CISA) today: Today, the Cybersecurity and Infrastructure Security Agency (CISA) unveiled the updated cyber incident reporting form, an enhanced web-enabled questionnaire available on CISA’s Incident Reporting Portal for reporting cyber incidents. By improving data quality, the more robust form strengthens the effectiveness",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T03:53:21.479185+00:00",
     "details": {}
   }
 ]

@@ -1,32 +1,5 @@
 [
   {
-    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "link": "https://databreaches.net/2026/11/02/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "summary": "تسبب مقاول دفاعي يعمل لوزارة الدفاع الأمريكية في حادث أمني بعد ربطه نظامًا مركزيًا آمنًا تُشاركه وكالات استخباراتية بحسابه الشخصي في أداة الذكاء الاصطناعي Claude Code التابعة لشركة Anthropic، مما أتاح للوكيل التقني الوصول إلى بيئة النظام الحساسة.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "defense-contractor-claude-code-pentagon-incident",
-    "event_key": "anthropic|2026 11|أمن سيبراني|claude code|أمريكا الشمالية",
-    "company_name": "Anthropic",
-    "event_year_month": "2026-11",
-    "news_type": "أمن سيبراني",
-    "product_name": "Claude Code",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Claude Code",
-      "Anthropic",
-      "البنتاغون",
-      "أمن سيبراني",
-      "تسريب بيانات"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-03T01:55:34.715589+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 265,
-    "telegram_message_url": "https://t.me/Eng_limitless/265"
-  },
-  {
     "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
     "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
     "summary": "نجحت شركة جوجل بالتعاون مع شركاء أمنيين في تفكيك شبكة الخوادم الخبيثة XCPE التي طالت أكثر من 1.3 مليون جهاز استقبال وتلفاز يعمل بنظام أندرويد (Android TV Boxes)، عقب ثبوت قيام الشركة المصنعة بزرع برمجيات خبيثة داخل الأجهزة من المصنع لتحقيق أرباح عبر الجرائم السيبرانية والاحتيال الإعلاني.",
@@ -984,5 +957,31 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)",
+    "link": "https://www.techmeme.com/261109/p48#a261109p48",
+    "summary": "كشفت تقارير صحفية استنادًا إلى رسائل بريد إلكتروني مسربة أن شركة الذكاء الاصطناعي Anthropic شاركت مع مصرفيين مستندات أولية لملف طرحها العام الأولي (IPO) تُظهر مساعيها لجمع تمويل يصل إلى 69 مليار دولار، لتتبع ذلك برسائل لاحقة تؤكد فيها عدم دقة بيانات التسعير المرفقة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "anthropic-ipo-filing-leak-retraction",
+    "event_key": "anthropic|2026 11|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
+    "company_name": "Anthropic",
+    "event_year_month": "2026-11",
+    "news_type": "ذكاء اصطناعي",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Anthropic",
+      "IPO",
+      "تسريب",
+      "تمويل"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-10T03:53:21.434286+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 291,
+    "telegram_message_url": "https://t.me/Eng_limitless/291"
   }
 ]
