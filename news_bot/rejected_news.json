@@ -1,157 +1,5 @@
 [
   {
-    "title": "mksglu/context-mode",
-    "link": "https://github.com/mksglu/context-mode",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. https://context-mode.com Context Mode The other half of the context problem. Used across teams at The Problem Every MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues c",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T10:23:54.024049+00:00",
-    "details": {}
-  },
-  {
-    "title": "flutter/flutter",
-    "link": "https://github.com/flutter/flutter",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond https://flutter.dev Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source. Documentation Install Flutter Flutter documentation Develop",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T10:23:54.039349+00:00",
-    "details": {}
-  },
-  {
-    "title": "hugohe3/ppt-master",
-    "link": "https://github.com/hugohe3/ppt-master",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He https://hugohe3.github.io/ppt-master-examples/ PPT Master — AI generates native PowerPoint from any document English | 中文 ❤️ Sponsors This project is kept f",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T10:23:54.053987+00:00",
-    "details": {}
-  },
-  {
-    "title": "pytorch/pytorch",
-    "link": "https://github.com/pytorch/pytorch",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration https://pytorch.org PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration Deep neural networks built on a tape-based autograd system You can reuse your favorite Python packages such as NumPy, SciPy, and Cython to extend PyTorch when needed. Our trunk",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T10:23:54.063045+00:00",
-    "details": {}
-  },
-  {
-    "title": "multica-ai/andrej-karpathy-skills",
-    "link": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuan_jy A single CLAUDE.md file to improve Claude Code behavior, derived from And",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T10:23:54.076376+00:00",
-    "details": {}
-  },
-  {
-    "title": "A look at Beijing-based Neolix, which operates the world's largest robovan fleet at 27K, as Shenzhen tests nighttime parcel deliveries by driverless vehicles (Bloomberg)",
-    "link": "https://www.techmeme.com/261011/p5#a261011p5",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : A look at Beijing-based Neolix, which operates the world's largest robovan fleet at 27K, as Shenzhen tests nighttime parcel deliveries by driverless vehicles &nbsp; &mdash;&nbsp; Autonomous vehicle companies believe there's a huge market opportunity in delivering after dark, if the technical challenges can be overcome.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T10:24:09.716747+00:00",
-    "details": {}
-  },
-  {
-    "title": "Rein Security, which develops runtime tools to secure enterprise AI agents and stop adversarial AI agents, raised a $25M Series A, taking total funding to $35M (Meir Orbach/CTech)",
-    "link": "https://www.techmeme.com/261011/p4#a261011p4",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Meir Orbach / CTech : Rein Security, which develops runtime tools to secure enterprise AI agents and stop adversarial AI agents, raised a $25M Series A, taking total funding to $35M &nbsp; &mdash;&nbsp; The Israeli startup says its revenue has grown eightfold since January and its platform is now securing thousands of agents that execute millions of actions.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T10:24:09.731882+00:00",
-    "details": {}
-  },
-  {
-    "title": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "https://x.com/firesidealpha/status/2108930562794864912 &#32; submitted by &#32; /u/Recoil42 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T10:24:09.743650+00:00",
-    "details": {}
-  },
-  {
     "title": "Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)",
     "link": "https://www.techmeme.com/261011/p8#a261011p8",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16333,6 +16181,63 @@
       "keywords": []
     },
     "rejected_at": "2026-11-10T03:53:21.479185+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Jensen Huang and Alice Huang's relationship dates back to at least 2023, facilitating $7.5B+ in Nvidia chip shipments via Chinese companies since then (The Information)",
+    "link": "https://www.techmeme.com/261110/p13#a261110p13",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "The Information : Sources: Jensen Huang and Alice Huang's relationship dates back to at least 2023, facilitating $7.5B+ in Nvidia chip shipments via Chinese companies since then &nbsp; &mdash;&nbsp; The relationship between Nvidia CEO Jensen Huang and Alice Huang, the woman that the U.S. government reportedly identified &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T11:55:48.328455+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic launches its IPO roadshow, saying it plans to sell 825M shares of Class A common stock priced at $70 to $78 each, listing on the Nasdaq under ANT. (Anthropic)",
+    "link": "https://www.techmeme.com/261110/p12#a261110p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anthropic : Anthropic launches its IPO roadshow, saying it plans to sell 825M shares of Class A common stock priced at $70 to $78 each, listing on the Nasdaq under ANT. &nbsp; &mdash;&nbsp; Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T11:55:48.341954+00:00",
+    "details": {}
+  },
+  {
+    "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "This seems excessive, especially if they trust their classification models for safeguards, why add both? However I guess it is to be expected from a private company. It's also &quot;yet another reason&quot; for open weight LLMs &#32; submitted by &#32; /u/EntropyMagnets [link] &#32; [comments]",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-10T11:55:48.352337+00:00",
     "details": {}
   }
 ]
