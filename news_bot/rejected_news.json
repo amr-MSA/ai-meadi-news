@@ -1,43 +1,5 @@
 [
   {
-    "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-    "source_name": "BleepingComputer",
-    "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-12T21:32:57.088733+00:00",
-    "details": {}
-  },
-  {
-    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-    "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-    "source_name": "TechCrunch",
-    "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
-    "reason": "مكرر داخل دفعة RSS الحالية",
-    "rejection_stage": "batch-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-12T21:32:58.283318+00:00",
-    "details": {}
-  },
-  {
     "title": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)",
     "link": "https://www.techmeme.com/261012/p43#a261012p43",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16238,6 +16200,82 @@
       "keywords": []
     },
     "rejected_at": "2026-11-11T20:01:15.083778+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Scott Bessent confronted Howard Lutnick last week over the Commerce Dept. not adding Megaspeed to the Entity List; Commerce denies the confrontation (Axios)",
+    "link": "https://www.techmeme.com/261111/p45#a261111p45",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Axios : Sources: Scott Bessent confronted Howard Lutnick last week over the Commerce Dept. not adding Megaspeed to the Entity List; Commerce denies the confrontation &nbsp; &mdash;&nbsp; Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick over a failure to place Nvidia customer Megaspeed &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T23:47:53.871338+00:00",
+    "details": {}
+  },
+  {
+    "title": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/fallingdowndizzyvr [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T23:47:53.878014+00:00",
+    "details": {}
+  },
+  {
+    "title": "AU: Hacker claims to have sold stolen exams to students — but marked them for identification purposes?",
+    "link": "https://databreaches.net/2026/11/11/au-hacker-claims-to-have-sold-stolen-exams-to-students-but-marked-them-for-identification-purposes/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Aimee Edwards reports: Victoria’s Year 12 exams have been thrown into turmoil after the state’s curriculum and assessment authority website was hacked. A bizarre message appeared on the Victorian Curriculum and Assessment Authority (VCAA) website on Wednesday evening, with the hacker mocking the authority’s security and claiming to have obtained and distributed this year’s exam papers....",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T23:47:53.884649+00:00",
+    "details": {}
+  },
+  {
+    "title": "WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data",
+    "link": "https://databreaches.net/2026/11/11/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Pierluigi Paganini reports: A.P. Moller Maersk, the Danish shipping giant, says it identified an IT security incident involving unauthorized access and data extraction from one of its local legacy systems, one inherited from a previous acquisition. “Maersk has identified an IT security incident involving unauthorised access and data extraction from one of our local legacy...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T23:47:53.889998+00:00",
     "details": {}
   }
 ]
