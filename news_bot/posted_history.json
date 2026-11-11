@@ -925,5 +925,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 292,
     "telegram_message_url": "https://t.me/Eng_limitless/292"
+  },
+  {
+    "title": "Leaked memo: Meta's head of infrastructure and co-head of engineering Santosh Janardhan plans to leave in early 2027; he will be succeeded by Dave Brown (Riley Griffin/Bloomberg)",
+    "link": "https://www.techmeme.com/261111/p35#a261111p35",
+    "summary": "كشفت مذكرة داخلية مسربة حصلت عليها صحيفة بلومبرغ عن عزم سنتوش جاناردهان، رئيس البنية التحتية والرئيس المشارك للهندسة في شركة ميتا، المغادرة في أوائل عام 2027، مع تسمية ديف براون لخلافته في قيادة قطاع البنية التحتية والحوسبة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "meta-infrastructure-head-resignation-leaked-memo",
+    "event_key": "meta|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "company_name": "Meta",
+    "event_year_month": "2026-11",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Meta",
+      "Santosh Janardhan",
+      "Dave Brown",
+      "Infrastructure",
+      "Leaked Memo"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-11T17:31:40.931979+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 293,
+    "telegram_message_url": "https://t.me/Eng_limitless/293"
   }
 ]

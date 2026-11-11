@@ -15973,5 +15973,119 @@
     },
     "rejected_at": "2026-11-11T08:34:29.471560+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: self-driving simulation software maker Applied Intuition is in talks to raise at least $1.5B led by General Catalyst at a ~$30B pre-money valuation (Bloomberg)",
+    "link": "https://www.techmeme.com/261111/p36#a261111p36",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: self-driving simulation software maker Applied Intuition is in talks to raise at least $1.5B led by General Catalyst at a ~$30B pre-money valuation &nbsp; &mdash;&nbsp; Applied Intuition Inc., a defense contractor developing technology for autonomous vehicles, is in talks to raise at least $1.5 billion &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T17:31:40.941797+00:00",
+    "details": {}
+  },
+  {
+    "title": "I built an open source app to debloat and control your TV",
+    "link": "https://github.com/man15h/tellyscope",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/man15h/tellyscope Comments URL: https://news.ycombinator.com/item?id=50455478 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T17:31:40.946859+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Connect Claude Code to 10.6M Earnings Call Embeddings with FN2 AI",
+    "link": "https://fn2.ai/claude",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Hello! I'm the solo founder/builder of FN2 AI and I built a free set of skills that you can use with an API key to dispatch research agents to search earnings calls, SEC filings, economic data, financial news, and more without having to set up all those sources yourself. These agents can be invoked directly in a CC session, or scheduled at a certain time or to coincide with certain market events (",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T17:31:40.952390+00:00",
+    "details": {}
+  },
+  {
+    "title": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Norwood_Reaper_ [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T17:31:40.959296+00:00",
+    "details": {}
+  },
+  {
+    "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
+    "link": "https://databreaches.net/2026/11/11/the-26-million-cyber-heist-rocking-a-small-new-jersey-town/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Scott Calvert reports: This historic village, established in 1697, drips with charm. White clapboard houses on Main Street proclaim their vintage—“Built by John Nesbit 1804” reads one plaque—and locals proudly share that George Washington and Alexander Hamilton met here in 1778 ahead of the Battle of Monmouth. But now Cranbury, a town of about 4,000...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T17:31:40.964465+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ca: York University Breach Exposes 19 Years of Student Health and Financial Data",
+    "link": "https://databreaches.net/2026/11/11/ca-york-university-breach-exposes-19-years-of-student-health-and-financial-data/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Garrett Cole reports: Toronto’s York University has confirmed a major cybersecurity incident that resulted in the unauthorized theft of sensitive personal, medical, and financial records submitted across departmental webforms over a 19-year span. Disclosed to community members following forensic containment, the breach allowed an unauthorized actor to exfiltrate archived form submissions dating fr",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T17:31:40.969981+00:00",
+    "details": {}
   }
 ]
