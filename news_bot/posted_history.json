@@ -899,5 +899,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 291,
     "telegram_message_url": "https://t.me/Eng_limitless/291"
+  },
+  {
+    "title": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation (Maria Armental/Wall Street Journal)",
+    "link": "https://www.techmeme.com/261110/p58#a261110p58",
+    "summary": "كشفت تقارير صحفية نقلًا عن مصادر مطلعة أن شركة Daylight المتخصصة في تقديم خدمات الأمن السيبراني المدارة بالذكاء الاصطناعي جمعت 80 مليون دولار في جولة تمويلية من الفئة (B) بقيادة Goldman Sachs Alternatives، مما يقفز بتقييم الشركة إلى نحو 400 مليون دولار.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "daylight-security-80m-series-b-funding",
+    "event_key": "daylight|2026 11|أمن سيبراني|غير محدد|أمريكا الشمالية",
+    "company_name": "Daylight",
+    "event_year_month": "2026-11",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Daylight",
+      "Goldman Sachs",
+      "Series B",
+      "AI Security"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-11T00:17:48.717122+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 292,
+    "telegram_message_url": "https://t.me/Eng_limitless/292"
   }
 ]

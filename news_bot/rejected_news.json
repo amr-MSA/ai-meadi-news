@@ -1,62 +1,5 @@
 [
   {
-    "title": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)",
-    "link": "https://www.techmeme.com/261011/p10#a261011p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Terrence O'Brien / The Verge : How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &ldquo;super intelligence&rdquo;, as Silicon Valley falls in line with Trump &nbsp; &mdash;&nbsp; Musk, Benioff, Huang, and now Nadella have all capitulated to Trump's &lsquo;super intelligence&rsquo; rebrand.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T21:11:02.315152+00:00",
-    "details": {}
-  },
-  {
-    "title": "A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
-    "link": "https://www.techmeme.com/261011/p9#a261011p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ann Davis Vaughan / The Information : A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN &nbsp; &mdash;&nbsp; Why is Anthropic driving its partners to speed up the $530 billion of data center leasing deals it has signed?",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T21:11:02.324475+00:00",
-    "details": {}
-  },
-  {
-    "title": "Every Model That Can Be Run On 10-16GB VRAM Ranked",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "It's been 4 years since c.ai first hallucination model, and yet, we're nowhere good enough at LLMs in terms of spontaneity/interesting hallucination features. Fortunately, last year brought new architecture that allow those within 10-16GB VRAM range to run something usable up to 64k Context Windows via Kobold or LLAMA. Requirements: 10-16GB VRAM - 26-32GB RAM. How I Evaluated: Speed; If tokens per",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-11T21:11:02.336023+00:00",
-    "details": {}
-  },
-  {
     "title": "bilawalsidhu/gods-eye-view",
     "link": "https://github.com/bilawalsidhu/gods-eye-view",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -16029,6 +15972,101 @@
       "keywords": []
     },
     "rejected_at": "2026-11-10T20:12:08.589292+00:00",
+    "details": {}
+  },
+  {
+    "title": "In a report, Railway says it believes the October hack targeted AI provider keys for resale, and unauthorized spend on the stolen keys was estimated at ~$740K (Lawrence Abrams/BleepingComputer)",
+    "link": "https://www.techmeme.com/261110/p57#a261110p57",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Lawrence Abrams / BleepingComputer : In a report, Railway says it believes the October hack targeted AI provider keys for resale, and unauthorized spend on the stolen keys was estimated at ~$740K &nbsp; &mdash;&nbsp; Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T00:17:48.734742+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/themixtergames [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T00:17:48.743993+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full fine-tuning (FFT) at scale across three LLM post-training regimes: reinforcement learning with verifiable rewards, supervised fine-tuning, and on-policy distillation. Our method, Deletion Tuning, learn",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T00:17:48.753446+00:00",
+    "details": {}
+  },
+  {
+    "title": "Lake County School Board seeks injunction requiring a parent who received unredacted data because of the district’s error to destroy the data",
+    "link": "https://databreaches.net/2026/11/10/lake-county-school-board-seeks-injunction-requiring-a-parent-who-received-unredacted-data-because-the-districts-error-to-destroy-the-data/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Fox35 in Orlando, Florida, reports that a school district is suing a parent after the district mistakenly sent them unredacted data in 47,000 records: The Lake County School Board filed a lawsuit against a parent after an employee mistakenly shared the confidential education and disability records of approximately 47,000 students. The district is asking a...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T00:17:48.766217+00:00",
+    "details": {}
+  },
+  {
+    "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+    "link": "https://databreaches.net/2026/11/10/near-ai-breach-exposes-user-details-and-data-from-18-ai-agents/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Jose Antonio Lanz reports: Near AI has disclosed a breach that exposed account information belonging to about 100 users and data from 18 AI agents after an attacker exploited software running its servers. The company said in a November 9 report that an attacker used a remote code execution vulnerability in SGLang, an open-source engine...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-11T00:17:48.775326+00:00",
     "details": {}
   }
 ]
