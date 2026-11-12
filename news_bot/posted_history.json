@@ -895,5 +895,41 @@
     "reliability_level": "🟡",
     "telegram_message_id": 296,
     "telegram_message_url": "https://t.me/Eng_limitless/296"
+  },
+  {
+    "title": "Jensen Huang resigns as Nvidia CEO, president, and board member; CFO Colette Kress will be interim CEO, as the board considers candidates; NVDA drops 10%+ (Nvidia Newsroom)",
+    "link": "https://www.techmeme.com/261112/p26#a261112p26",
+    "summary": "أعلنت شركة إنفيديا في بيان رسمي عن استقالة رئيسها التنفيذي ومؤسسها جينسن هوانغ من كافة مناصبه التنفيذية وعضويته في مجلس الإدارة، وتعيين المديرة المالية كوليت كريس كرئيس تنفيذي مؤقت أثناء بحث مجلس الإدارة عن مرشحين دائمين، وذلك إثر التداعيات والتطورات المتلاحقة الأخيرة.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "jensen-huang-us-intelligence-mss-spying-allegations",
+    "event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "company_name": "Nvidia",
+    "event_year_month": "2026-11",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Nvidia",
+      "Jensen Huang",
+      "Colette Kress",
+      "Resignation",
+      "CEO"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-12T14:10:31.843558+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 297,
+    "telegram_message_url": "https://t.me/Eng_limitless/297",
+    "is_update": true,
+    "updates_event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "update_summary": "أعلنت إنفيديا استقالة رئيسها التنفيذي جينسن هوانغ وتكليف كوليت كريس بمهام الرئيس التنفيذي المؤقت.",
+    "new_facts": [
+      "استقالة جينسن هوانغ من منصبه كرئيس تنفيذي ورئيس وعضو مجلس إدارة شركة إنفيديا.",
+      "تعيين المدير المالي كوليت كريس في منصب الرئيس التنفيذي المؤقت للشركة.",
+      "انخفاض أسهم شركة إنفيديا (NVDA) بنسبة تجاوزت 10% عقب الإعلان."
+    ],
+    "supersedes_posted_at": "2026-11-07T03:34:41.848804+00:00"
   }
 ]
