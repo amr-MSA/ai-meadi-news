@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: Google DeepMind spinout Isomorphic Labs is in talks to raise ~$5B at a ~$50B valuation; the AI drug discovery startup last raised $2.1B in May (Bloomberg)",
-    "link": "https://www.techmeme.com/261104/p56#a261104p56",
-    "summary": "تجري شركة Isomorphic Labs التابعة لـ Alphabet والمختصة في اكتشاف الأدوية بالذكاء الاصطناعي محادثات لجمع تمويل ضخم بقيمة 5 مليارات دولار، مما يقفز ببتعديل تقييمها إلى نحو 50 مليار دولار بحسب مصادر مطلعة.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "isomorphic-labs-5b-funding-talks-50b-valuation",
-    "event_key": "isomorphic labs|2026 11|ذكاء اصطناعي|غير محدد|أمريكا الشمالية",
-    "company_name": "Isomorphic Labs",
-    "event_year_month": "2026-11",
-    "news_type": "ذكاء اصطناعي",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Isomorphic Labs",
-      "Alphabet",
-      "DeepMind",
-      "AI drug discovery",
-      "Funding"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-05T00:35:23.955200+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 270,
-    "telegram_message_url": "https://t.me/Eng_limitless/270"
-  },
-  {
     "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
     "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
     "summary": "كُشف عن ثغرة أمنية خطيرة في حزمة OpenSSH يُطلق عليها اسم sshole، تسمح للمهاجمين بتجاوز نظام المصادقة وتسجيل الدخول إلى حسابات على توزيعة Alpine Linux وأنظمة لينكس المعتمدة على مكتبة musl، حتى عندما تكون الحسابات مهيأة لمنع التوثيق باستخدام كلمات المرور.",
