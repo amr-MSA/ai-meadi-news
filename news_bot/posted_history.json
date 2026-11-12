@@ -829,5 +829,31 @@
       "انخفاض أسهم شركة إنفيديا (NVDA) بنسبة تجاوزت 10% عقب الإعلان."
     ],
     "supersedes_posted_at": "2026-11-07T03:34:41.848804+00:00"
+  },
+  {
+    "title": "TSMC has reportedly leaked the personal data of 46,000 employees, but emphasized that no evidence of intrusion was found in the system.",
+    "link": "https://databreaches.net/2026/11/12/tsmc-has-reportedly-leaked-the-personal-data-of-46000-employees-but-emphasized-that-no-evidence-of-intrusion-was-found-in-the-system/",
+    "summary": "عرض مهاجمون على منتدى إلكتروني غير شرعي بيانات شخصية يزعمون أنها تعود لنحو 46 ألف موظف في شركة تصنيع الرقائق العالمية TSMC بحجم يصل إلى 6.9 جيجابايت، بينما أكدت الشركة عدم رصد أي أدلة تشير إلى اختراق مباشر لأنظمتها الداخلية حتى الآن.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "tsmc-employee-data-leak-underground-forum",
+    "event_key": "tsmc|2026 11|أمن سيبراني|غير محدد|آسيا",
+    "company_name": "TSMC",
+    "event_year_month": "2026-11",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "آسيا",
+    "keywords": [
+      "TSMC",
+      "تسريب بيانات",
+      "أمن سيبراني",
+      "رقائق إلكترونية"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-12T21:57:55.392172+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 298,
+    "telegram_message_url": "https://t.me/Eng_limitless/298"
   }
 ]

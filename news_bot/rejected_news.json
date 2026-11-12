@@ -16131,5 +16131,119 @@
     },
     "rejected_at": "2026-11-12T14:10:31.895096+00:00",
     "details": {}
+  },
+  {
+    "title": "Sources: Kalshi is in talks to raise funding at a $65B valuation, weeks after closing a round at a $40B valuation; its annual run rate recently surpassed $5B (Bloomberg)",
+    "link": "https://www.techmeme.com/261112/p58#a261112p58",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: Kalshi is in talks to raise funding at a $65B valuation, weeks after closing a round at a $40B valuation; its annual run rate recently surpassed $5B &nbsp; &mdash;&nbsp; Weeks after finalizing new funding at a $40 billion valuation, prediction marketplace Kalshi is in talks with investors to raise &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-12T21:57:55.404921+00:00",
+    "details": {}
+  },
+  {
+    "title": "Cerebras reports Q3 core revenue up 70% YoY to $230.9M, vs. $214.7M est., issues strong guidance, and announces a Microsoft deal; CBRS jumps 15%+ after hours (Jordan Novet/CNBC)",
+    "link": "https://www.techmeme.com/261112/p57#a261112p57",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jordan Novet / CNBC : Cerebras reports Q3 core revenue up 70% YoY to $230.9M, vs. $214.7M est., issues strong guidance, and announces a Microsoft deal; CBRS jumps 15%+ after hours &nbsp; &mdash;&nbsp; Cerebras Systems reported better-than-expected revenue and quarterly guidance in its earnings report on Thursday, and touted a new deal with Microsoft.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-12T21:57:55.416522+00:00",
+    "details": {}
+  },
+  {
+    "title": "Fast-Compose – An Instant Runtime for Jetpack Compose Code",
+    "link": "https://github.com/fast-compose/fast-compose",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/fast-compose/fast-compose Comments URL: https://news.ycombinator.com/item?id=50474867 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-12T21:57:55.423595+00:00",
+    "details": {}
+  },
+  {
+    "title": "League of Legends Draft Recommender System (open-source itero.gg)",
+    "link": "https://github.com/angelotc/lol-companion",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/angelotc/lol-companion Comments URL: https://news.ycombinator.com/item?id=50474688 Points: 1 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-12T21:57:55.430690+00:00",
+    "details": {}
+  },
+  {
+    "title": "So this will be true in couple of years?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I think after jensen they will fully focus on AI compute for data centers &#32; submitted by &#32; /u/UltramanQuar [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-12T21:57:55.438469+00:00",
+    "details": {}
+  },
+  {
+    "title": "Resource: DysruptionHub’s Cyber Incident Registry completes its historical backfill",
+    "link": "https://databreaches.net/2026/11/12/resource-dysruptionhubs-cyber-incident-registry-completes-its-historical-backfill/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "More than 600 researched profiles now connect past coverage with ongoing follow-up, alongside new ways for Sustainers to follow the reporting. Joseph Topping reports: DysruptionHub’s Cyber Incident Registry now contains more than 600 researched profiles, all free to read, following the completed backfill of more than two years of past coverage. When I introduced the...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-12T21:57:55.445879+00:00",
+    "details": {}
   }
 ]
