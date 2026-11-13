@@ -1,119 +1,5 @@
 [
   {
-    "title": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)",
-    "link": "https://www.techmeme.com/261013/p45#a261013p45",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "The Information : A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique &nbsp; &mdash;&nbsp; OpenAI is grappling with fallout from its use of a controversial innovation in AI design as it works to get its next unreleased model &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-13T22:04:01.177139+00:00",
-    "details": {}
-  },
-  {
-    "title": "Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents (Annelise Levy/Bloomberg Law)",
-    "link": "https://www.techmeme.com/261013/p44#a261013p44",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Annelise Levy / Bloomberg Law : Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents &nbsp; &mdash;&nbsp; Apple Inc. convinced a federal judge in California to force OpenAI Inc. to expedite turning over documents concerning its alleged theft &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-13T22:04:01.190166+00:00",
-    "details": {}
-  },
-  {
-    "title": "Nexus-Q: un motor open source de Rust para PQC",
-    "link": "https://nexus-q.link/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://nexus-q.link/ Comments URL: https://news.ycombinator.com/item?id=50079417 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-13T22:04:01.198165+00:00",
-    "details": {}
-  },
-  {
-    "title": "Open source Scion – Anthropic's Git alternative in open source",
-    "link": "https://github.com/tinyhumansai/openscion",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/tinyhumansai/openscion Comments URL: https://news.ycombinator.com/item?id=50079329 Points: 3 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-13T22:04:01.206591+00:00",
-    "details": {}
-  },
-  {
-    "title": "LiquidAI/LFM2.5-24B-A2B",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x52kco/liquidailfm2524ba2b/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Gguf's: https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF Free Demo: https://playground.liquid.ai &quot;LFM2.5-24B-A2B is a 24B-parameter reasoning model with only 2B active parameters, built for fast, private agents on-device . It is the largest and final model in the LFM2.5 family, which now spans two orders of magnitude: from LFM2.5-230M to LFM2.5-24B-A2B. Best-in-class agent : Competitive wi",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-13T22:04:01.222223+00:00",
-    "details": {}
-  },
-  {
-    "title": "Attackers claim to have stolen 80 million South African patient records in massive Ampath Laboratories data breach",
-    "link": "https://databreaches.net/2026/10/13/attackers-claim-to-have-stolen-80-million-south-african-patient-records-in-massive-ampath-laboratories-data-breach/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Luis Monzon reports: Ampath Laboratories, one of South Africa’s largest pathology service providers, has been hit by a cyberattack, with the attacker claiming that more than 80 million patient records have been exfiltrated. Threat actor ByteToBreach, which has attacked other major entities across Africa, including major targets in Nigeria, claimed responsibility for the breach. The... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-13T22:04:01.231964+00:00",
-    "details": {}
-  },
-  {
     "title": "Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September's record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)",
     "link": "https://www.techmeme.com/261013/p51#a261013p51",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16244,6 +16130,49 @@
       "keywords": []
     },
     "rejected_at": "2026-11-12T21:57:55.445879+00:00",
+    "details": {}
+  },
+  {
+    "title": "TSMC has reportedly leaked the personal data of 46,000 employees, but emphasized that no evidence of intrusion was found in the system.",
+    "link": "https://databreaches.net/2026/11/12/tsmc-has-reportedly-leaked-the-personal-data-of-46000-employees-but-emphasized-that-no-evidence-of-intrusion-was-found-in-the-system/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The following is an automated Google translation of an article that originally appeared in Chinese. Jian Yongxiang reports: TSMC, the world&#8217;s leading semiconductor foundry, has been hit by a major cybersecurity incident. Hackers were openly selling personal data, allegedly belonging to TSMC employees, on an underground forum. They claimed to possess 46,000 records, totaling 6.9GB of...",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T02:20:02.648108+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit (Bloomberg)",
+    "link": "https://www.techmeme.com/261112/p69#a261112p69",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit &nbsp; &mdash;&nbsp; Before Nvidia Corp. was thrown into turmoil by the ouster of longtime chief executive Jensen Huang, a major initiative &hellip;",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "Nvidia",
+      "event_year_month": "2026-11",
+      "news_type": "أعمال وتقنية",
+      "product_name": "غير محدد",
+      "region": "أمريكا الشمالية",
+      "topic_key": "nvidia-500b-ai-financing-backstop",
+      "keywords": [
+        "Nvidia",
+        "AI financing",
+        "Bloomberg",
+        "Jensen Huang"
+      ]
+    },
+    "rejected_at": "2026-11-13T02:20:19.215416+00:00",
     "details": {}
   }
 ]

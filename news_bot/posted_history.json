@@ -1,31 +1,5 @@
 [
   {
-    "title": "Claude Code sends your email address to websites",
-    "link": "https://github.com/anthropics/claude-code/issues/107757",
-    "summary": "كشفت بلاغات أمنية ومناقشات للمطورين عن سلوك في أداة البرمجة Claude Code التابعة لشركة Anthropic، يتسبب في تضمن البريد الإلكتروني الخاص بالمستخدم وإرساله تلقائيًا إلى خوادم ومواقع خارجية أثناء تنفيذ الأوامر، مما يشكل مخاطر تتعلق بالخصوصية وتتبع المطورين.",
-    "source_name": "Hacker News - بحث leak/breach",
-    "topic_key": "claude-code-email-leak-websites",
-    "event_key": "anthropic|2026 11|خصوصية وبيانات|claude code|أمريكا الشمالية",
-    "company_name": "Anthropic",
-    "event_year_month": "2026-11",
-    "news_type": "خصوصية وبيانات",
-    "product_name": "Claude Code",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Anthropic",
-      "Claude Code",
-      "خصوصية",
-      "تسريب بيانات"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-05T22:59:36.013464+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 273,
-    "telegram_message_url": "https://t.me/Eng_limitless/273"
-  },
-  {
     "title": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)",
     "link": "https://www.techmeme.com/261106/p8#a261106p8",
     "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطّلعة أن شركة إنفيديا بدأت تشترط على عملائها في جنوب شرق آسيا الراغبين في الحصول على صفة شركاء سحابيين الانضمام لبرنامج مراقبة يتتبع المواقع الجغرافية لرقائق الذكاء الاصطناعي، في خطوة تهدف للحد من تهريب المعالجات المتقدمة والالتفاف على القيود التجارية.",
