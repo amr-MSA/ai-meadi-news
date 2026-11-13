@@ -1,119 +1,5 @@
 [
   {
-    "title": "SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min (SpaceXSI)",
-    "link": "https://www.techmeme.com/261014/p38#a261014p38",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "SpaceXSI : SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min &nbsp; &mdash;&nbsp; The world's most intelligent voice model. &hellip; Today, we're announcing Grok Voice 3.0, the world's most intelligent speech-to-speech model.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T19:49:05.980239+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Anduril opens a tender offer of up to ~$1.3B for staff at a ~$90B valuation, available in 16 countries for the first time; it was valued at $61B in May (Bloomberg)",
-    "link": "https://www.techmeme.com/261014/p37#a261014p37",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Sources: Anduril opens a tender offer of up to ~$1.3B for staff at a ~$90B valuation, available in 16 countries for the first time; it was valued at $61B in May &nbsp; &mdash;&nbsp; Anduril Industries Inc. is allowing employees to sell shares as part of a tender that stands to value the defense technology startup &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T19:49:05.988816+00:00",
-    "details": {}
-  },
-  {
-    "title": "Go code review skill Claude",
-    "link": "https://github.com/katayunak/go-review-deploy-skills",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/katayunak/go-review-deploy-skills Comments URL: https://news.ycombinator.com/item?id=50093562 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T19:49:05.993313+00:00",
-    "details": {}
-  },
-  {
-    "title": "Page One Open Source Screenwriting App",
-    "link": "https://github.com/scripthook84/Page-One",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/scripthook84/Page-One Comments URL: https://news.ycombinator.com/item?id=50093303 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T19:49:05.997944+00:00",
-    "details": {}
-  },
-  {
-    "title": "NVIDIA Nemotron Bolt 3.5 74B A9B releases Oct. 15th",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "This model is a 74B parameter, 9B-active-parameter mixture-of-experts (MoE) model, packed into 24GB using 2-bit quantization with advanced quantization-aware training techniques to retain quality. It aims to achieve the optimal balance between speed and intelligence, being faster than most popular dense models while smarter than most popular MoE models with a similar memory footprint. Nemotron 3.5",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T19:49:06.003067+00:00",
-    "details": {}
-  },
-  {
-    "title": "Japan on Cyberattack Alert as Ransomware Wave Hits Major Brands and Exposes Millions of Records",
-    "link": "https://databreaches.net/2026/10/14/japan-on-cyberattack-alert-as-ransomware-wave-hits-major-brands-and-exposes-millions-of-records/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Audrey Liza M. Nolasco reports: Japan is confronting a mounting cybersecurity crisis, with a ransomware attack disrupting hundreds of organisations and a series of separate breaches putting millions of customer records at risk. One alarming detail: experts estimate that stolen Japanese driver&#8217;s licence images could be offered on dark-web markets for as little as ¥25,... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T19:49:06.014430+00:00",
-    "details": {}
-  },
-  {
     "title": "Shareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance (Todd Spangler/Variety)",
     "link": "https://www.techmeme.com/261014/p45#a261014p45",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16141,6 +16027,272 @@
       "keywords": []
     },
     "rejected_at": "2026-11-13T18:53:29.266480+00:00",
+    "details": {}
+  },
+  {
+    "title": "German military drone operations disrupted by cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+    "source_name": "BleepingComputer",
+    "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.756461+00:00",
+    "details": {}
+  },
+  {
+    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+    "source_name": "BleepingComputer",
+    "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.765165+00:00",
+    "details": {}
+  },
+  {
+    "title": "How one AI agent exposed five critical enterprise security gaps",
+    "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+    "source_name": "BleepingComputer",
+    "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.773538+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft says November security updates cause printing issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.781670+00:00",
+    "details": {}
+  },
+  {
+    "title": "Check Point warns of zero-day flaw exploited for root access",
+    "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+    "source_name": "BleepingComputer",
+    "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.790232+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft confirms Windows activation failures after November updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.798717+00:00",
+    "details": {}
+  },
+  {
+    "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+    "source_name": "BleepingComputer",
+    "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.807023+00:00",
+    "details": {}
+  },
+  {
+    "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+    "source_name": "BleepingComputer",
+    "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.815839+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+    "source_name": "BleepingComputer",
+    "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.824539+00:00",
+    "details": {}
+  },
+  {
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.833299+00:00",
+    "details": {}
+  },
+  {
+    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+    "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+    "source_name": "BleepingComputer",
+    "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.842384+00:00",
+    "details": {}
+  },
+  {
+    "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+    "source_name": "BleepingComputer",
+    "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.851123+00:00",
+    "details": {}
+  },
+  {
+    "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+    "source_name": "BleepingComputer",
+    "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.859561+00:00",
+    "details": {}
+  },
+  {
+    "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+    "source_name": "BleepingComputer",
+    "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T20:19:54.868149+00:00",
     "details": {}
   }
 ]
