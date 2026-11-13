@@ -1,100 +1,5 @@
 [
   {
-    "title": "A profile of Abdulrahman Alfozan, a Saudi national who the FBI arrested after OpenAI discovered a recording device and who has deep connections in Saudi Arabia (Financial Times)",
-    "link": "https://www.techmeme.com/261014/p29#a261014p29",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : A profile of Abdulrahman Alfozan, a Saudi national who the FBI arrested after OpenAI discovered a recording device and who has deep connections in Saudi Arabia &nbsp; &mdash;&nbsp; Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T14:46:27.922313+00:00",
-    "details": {}
-  },
-  {
-    "title": "Epic unveils a refresh of its Epic Games Launcher for PC in preview, saying that the new version is \"vibe coded\" and \"way faster\", and now supports Linux (Jay Peters/The Verge)",
-    "link": "https://www.techmeme.com/261014/p28#a261014p28",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jay Peters / The Verge : Epic unveils a refresh of its Epic Games Launcher for PC in preview, saying that the new version is &ldquo;vibe coded&rdquo; and &ldquo;way faster&rdquo;, and now supports Linux &nbsp; &mdash;&nbsp; Epic is making a big push into AI-assisted development, and that approach includes its work on the new, faster launcher.&#65279;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T14:46:27.936019+00:00",
-    "details": {}
-  },
-  {
-    "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Source: whatmodel.sh , an open source AI leaderboard I built (and launched here yesterday). Every point comes from published benchmark results: 22,113 of them across 987 benchmarks, from 1,011 sources, each one linked to where it was published. This chart uses data for the text models: 18,755 results for 1,211 models on 617 benchmarks. - 14,436 results are independent evaluations: papers whose aut",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T14:46:27.946168+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk https://www.business-standard.com/technology/artificial-intelligence/open-source-ai-models-carry-more-cybersecurity-risks-anthropic-executive-126101400731_1.html &#32; submitted by &#32; /u/External_Mood4719 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T14:46:27.955260+00:00",
-    "details": {}
-  },
-  {
-    "title": "Shipping firms and ports caught in mass cyber extortion claim",
-    "link": "https://databreaches.net/2026/10/14/shipping-firms-and-ports-caught-in-mass-cyber-extortion-claim/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Bojan Lepic reports: A cyber extortion group has threatened to publish data it claims it stole from 38 shipping, port, and logistics companies unless they pay multimillion-dollar ransoms by October 19. Cybersecurity firm SOCRadar said the group, known as n0n, added the 38 organisations to its dark web leak site in a single batch on... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T14:46:27.964146+00:00",
-    "details": {}
-  },
-  {
     "title": "SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min (SpaceXSI)",
     "link": "https://www.techmeme.com/261014/p38#a261014p38",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16103,6 +16008,139 @@
       ]
     },
     "rejected_at": "2026-11-13T11:41:22.624618+00:00",
+    "details": {}
+  },
+  {
+    "title": "Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week (Mithil Aggarwal/NBC News)",
+    "link": "https://www.techmeme.com/261113/p22#a261113p22",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Mithil Aggarwal / NBC News : Some in China question the timing of reports on the relationship between Jensen Huang and Alice Huang; Trump is set to meet Xi Jinping in Shenzhen next week &nbsp; &mdash;&nbsp; Reports of resigned CEO Jensen Huang's relationship with an alleged Chinese spy may lead to tighter restrictions on U.S. chip sales &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T18:53:29.214311+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally (Bruce Gil/Gizmodo)",
+    "link": "https://www.techmeme.com/261113/p21#a261113p21",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bruce Gil / Gizmodo : Microsoft says Microsoft 365 availability is improving as the outage stretches into a second day, disrupting governments, hospitals, and businesses globally &nbsp; &mdash;&nbsp; The tech giant is racing to fully restore Outlook, Teams, and other Microsoft 365 services following a widespread outage.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T18:53:29.225439+00:00",
+    "details": {}
+  },
+  {
+    "title": "Xc: Compile the same source for GPUs and CPUs",
+    "link": "https://github.com/ThrudTheBarbarian/xc",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/ThrudTheBarbarian/xc Comments URL: https://news.ycombinator.com/item?id=50487155 Points: 1 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T18:53:29.232901+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Altar: Open-source launch command center for indie devs",
+    "link": "https://github.com/iampal/altar",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/iampal/altar Comments URL: https://news.ycombinator.com/item?id=50486200 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T18:53:29.240903+00:00",
+    "details": {}
+  },
+  {
+    "title": "llama.cpp v1.0 is here 🦙",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we’ll keep covering every platform and every model type, while keeping llama.cpp robust and lean for downstream applications that build on it. While I'm here, want to announce that we've been shipping Llama desktop apps to lower the barrier of entry to local AI to few clicks, built-on llama.cpp. I will leave lin",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T18:53:29.249381+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hospitals, airlines and governments hit by Microsoft outage as employee risk warnings mount",
+    "link": "https://databreaches.net/2026/11/13/hospitals-airlines-and-governments-hit-by-microsoft-outage-as-employee-risk-warnings-mount/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Sheriff&#8217;s offices, courts, state agencies and hospitals lost email as the Microsoft 365 failure ran past 12 hours. The bigger risk for insurers may be what staff did to keep working. An insurance perspective on the outage from Insurance News. From a post by Matthew Sellers: For US brokers, the outage raises three coverage questions....",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T18:53:29.257925+00:00",
+    "details": {}
+  },
+  {
+    "title": "Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year",
+    "link": "https://databreaches.net/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Carly Page reports: Britain&#8217;s privacy watchdog has put healthcare bosses on notice after receiving more than 300 reports of staff snooping through medical records this year, demanding that executives personally confirm they&#8217;re doing enough to keep prying eyes out of patient files. The Information Commissioner&#8217;s Office (ICO) said on Thursday that it had written to...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-13T18:53:29.266480+00:00",
     "details": {}
   }
 ]
