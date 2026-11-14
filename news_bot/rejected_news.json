@@ -1,100 +1,5 @@
 [
   {
-    "title": "Shareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance (Todd Spangler/Variety)",
-    "link": "https://www.techmeme.com/261014/p45#a261014p45",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Todd Spangler / Variety : Shareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance &nbsp; &mdash;&nbsp; At separate special meetings of shareholders Wednesday to vote on the deal, the majority of shares owned by Fox Corp. and Roku investors were in favor the deal.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T22:48:00.597023+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)",
-    "link": "https://www.techmeme.com/261014/p44#a261014p44",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 &nbsp; &mdash;&nbsp; AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its anticipated public listing",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T22:48:00.608584+00:00",
-    "details": {}
-  },
-  {
-    "title": "Open source text and image to CAD harness for build123d, OpenSCAD, and smlibpy",
-    "link": "https://github.com/nanassound/mnft",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/nanassound/mnft Comments URL: https://news.ycombinator.com/item?id=50096312 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T22:48:00.617232+00:00",
-    "details": {}
-  },
-  {
-    "title": "Reflex, a TUI that compiles Claude Code and Codex transcripts into agent skills",
-    "link": "https://github.com/sumervaid/reflex-tui",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/sumervaid/reflex-tui Comments URL: https://news.ycombinator.com/item?id=50096217 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T22:48:00.622937+00:00",
-    "details": {}
-  },
-  {
-    "title": "Someone jailbroke a PS5 and got Qwen 3.8 27B running on its GPU at 20 tok/s.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x62uhc/someone_jailbroke_a_ps5_and_got_qwen_38_27b/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/98Saman [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-14T22:48:00.629089+00:00",
-    "details": {}
-  },
-  {
     "title": "Flock CEO Garrett Langley defends his company's cameras, arguing that reducing crime means sacrificing privacy in return and that \"we shouldn't pause progress\" (Sarah Perez/TechCrunch)",
     "link": "https://www.techmeme.com/261014/p52#a261014p52",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16293,6 +16198,44 @@
       "keywords": []
     },
     "rejected_at": "2026-11-13T20:19:54.868149+00:00",
+    "details": {}
+  },
+  {
+    "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
+    "link": "https://www.techmeme.com/261113/p34#a261113p34",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Asi / @airspaceintel : ASI, developer of AI tool SMART, says the FAA outage &ldquo;is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC&rdquo; &nbsp; &mdash;&nbsp; The current ground stop is not based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-14T00:32:38.460612+00:00",
+    "details": {}
+  },
+  {
+    "title": "Curious about “Curious Worm”",
+    "link": "https://databreaches.net/2026/11/13/curious-about-curious-worm/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "There have been so many new groups, individuals, or rebrands that it&#8217;s hard to keep track of every group attacking the healthcare sector. Today, an entity called &#8220;Curious Worm&#8221; caught my eye. It appears to have emerged in October and November, and more than half of the 12 incidents on its dark web leak site...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-14T00:32:38.474049+00:00",
     "details": {}
   }
 ]

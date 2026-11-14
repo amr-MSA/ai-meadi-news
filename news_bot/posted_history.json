@@ -1,32 +1,5 @@
 [
   {
-    "title": "Crusoe says Google has bought out its data center site in southeast Wyoming; Crusoe reportedly failed to lock in customers including Google for the project (Lynn Doan/Bloomberg)",
-    "link": "https://www.techmeme.com/261106/p25#a261106p25",
-    "summary": "استحوذت شركة جوجل على موقع مركز البيانات التابع لشركة Crusoe في جنوب شرق ولاية وايومنغ لتتولى إدارة وتطوير المشروع بنفسها، عقب تعثر شركة Crusoe في إبرام عقود طويلة الأجل مع العملاء الرئيسيين بما فيهم جوجل.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "google-crusoe-wyoming-datacenter-buyout",
-    "event_key": "google|2026 11|سحابة ومراكز بيانات|غير محدد|أمريكا الشمالية",
-    "company_name": "Google",
-    "event_year_month": "2026-11",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Google",
-      "Crusoe",
-      "Data Center",
-      "Wyoming",
-      "Cloud"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-06T23:52:07.814202+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 277,
-    "telegram_message_url": "https://t.me/Eng_limitless/277"
-  },
-  {
     "title": "Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China's top spy agency, MSS (Demetri Sevastopulo/Financial Times)",
     "link": "https://www.techmeme.com/261106/p29#a261106p29",
     "summary": "كشفت صحيفة فايننشال تايمز نقلًا عن مسؤولي استخبارات أمريكيين عن وجود اعتقاد بوجود علاقة تجمع الرئيس التنفيذي لشركة إنفيديا جينسن هوانغ مع آليس هوانغ، والتي يُدعى أنه تم تجنيدها لصالح وكالة الاستخبارات الصينية (MSS) لجمع معلومات عن الشركة وتكنولوجيا الرقائق الأمريكية.",
@@ -795,5 +768,31 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)",
+    "link": "https://www.techmeme.com/261113/p35#a261113p35",
+    "summary": "نقلت تقارير صحفية عن مصادر مطلعة أن العطل الذي أصاب أنظمة إدارة الطيران الفيدرالية الأمريكية (FAA) وقع عقب إجراء تحديث لشبكة الاتصالات الخاصة التي تربط أنظمة التحكم في الحركة الجوية، مما تسبب في إعادة تشغيل الأنظمة بشكل مفاجئ وانهيارها.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "faa-atc-network-update-outage",
+    "event_key": "faa|2026 11|سحابة ومراكز بيانات|faa atc system|أمريكا الشمالية",
+    "company_name": "FAA",
+    "event_year_month": "2026-11",
+    "news_type": "سحابة ومراكز بيانات",
+    "product_name": "FAA ATC System",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "FAA",
+      "ATC",
+      "Outage",
+      "Network Update"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-14T00:32:38.446524+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 301,
+    "telegram_message_url": "https://t.me/Eng_limitless/301"
   }
 ]
