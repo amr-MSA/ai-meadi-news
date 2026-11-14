@@ -1,252 +1,5 @@
 [
   {
-    "title": "nvm-sh/nvm",
-    "link": "https://github.com/nvm-sh/nvm",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. Node Version Manager Table of Contents Intro About Installing and Updating Install &amp; Update Script Additional Notes Installing in Docker Installing in Docker for CICD-Jobs Troubleshooting on Linux Troubleshooting on macOS Ansible Verify Installation Important Notes Git Install Manual Install Manual U",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T08:39:38.446605+00:00",
-    "details": {}
-  },
-  {
-    "title": "K-Dense-AI/scientific-agent-skills",
-    "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. https://arxiv.org/abs/2609.00065 Scientific Agent Skills 🔔",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T08:39:38.458038+00:00",
-    "details": {}
-  },
-  {
-    "title": "ifixai-ai/iFixAi",
-    "link": "https://github.com/ifixai-ai/iFixAi",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. https://www.ifixai.ai English · 简体中文 · 日本語 · 한국어 Catch your agent's mistakes and blind spots before the shit hits the fan. Quick start • Three ways to run • Test yo",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T08:39:38.471740+00:00",
-    "details": {}
-  },
-  {
-    "title": "vxcontrol/pentagi",
-    "link": "https://github.com/vxcontrol/pentagi",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks https://pentagi.com PentAGI P enetration testing A rtificial G eneral I ntelligence Join the Community! Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. ⠀ Table of Contents Overview Features Archi",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T08:39:38.488221+00:00",
-    "details": {}
-  },
-  {
-    "title": "rust-lang/rust",
-    "link": "https://github.com/rust-lang/rust",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Empowering everyone to build reliable and efficient software. https://www.rust-lang.org Website | Getting started | Learn | Documentation | Contributing This is the main source code repository for Rust . It contains the compiler, standard library, and documentation. Why Rust? Performance: Fast and memory-efficient, suitable for critical services, embedded devices, and easily integrated with other",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T08:39:38.495856+00:00",
-    "details": {}
-  },
-  {
-    "title": "ntdevlabs/tiny11builder",
-    "link": "https://github.com/ntdevlabs/tiny11builder",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "WinUI app for building smaller, customized Windows 11 images. Tiny11 Builder Build a smaller Windows 11 ISO with a native WinUI app. Download an official Windows image or use your own, choose what to remove, and create your ISO. Download Get the latest version Choose x64 for Intel/AMD PCs or ARM64 for Windows on ARM. Extract the entire ZIP and open Tiny11Builder.exe . Administrator approval is req",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T08:39:38.510791+00:00",
-    "details": {}
-  },
-  {
-    "title": "NationalSecurityAgency/ghidra",
-    "link": "https://github.com/NationalSecurityAgency/ghidra",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Ghidra is a software reverse engineering (SRE) framework Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including W",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T08:39:38.518607+00:00",
-    "details": {}
-  },
-  {
-    "title": "Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating (Phoebe Liu/The Information)",
-    "link": "https://www.techmeme.com/261015/p31#a261015p31",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Phoebe Liu / The Information : Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating &nbsp; &mdash;&nbsp; Portland-based startup Mueon raised $65 million to develop a new way to arrange AI server rack components.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T14:31:47.985783+00:00",
-    "details": {}
-  },
-  {
-    "title": "North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M (Chris Metinko/Axios)",
-    "link": "https://www.techmeme.com/261015/p30#a261015p30",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Chris Metinko / Axios : North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M &nbsp; &mdash;&nbsp; North.cloud, which helps companies watch their cloud, AI and data spend, closed a $60 million Series B led by PeakSpan Capital, CEO Matt Biringer tells Axios Pro exclusively.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T14:31:47.993548+00:00",
-    "details": {}
-  },
-  {
-    "title": "NVIDIA AI: So many models launching this week! And we have one of our own coming...",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "From NVIDIA AI on 𝕏: https://x.com/NVIDIAAI/status/2110468004609950057 &#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T14:31:47.999316+00:00",
-    "details": {}
-  },
-  {
-    "title": "New TTS king in town: Fish's Drama 3 35B3A!",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x6f9p2/new_tts_king_in_town_fishs_drama_3_35b3a/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Yesterday Fish released this incredible text-to-speech model, so naturally I spent the rest of the day building a great demo for them :D The model is a chunky MoE (35B3A), but it runs well on a DGX Spark. The 4bit quants get very close to the original. You can try it here: https://huggingface.co/spaces/fishaudio/Drama-3 or download the model and run it locally 🤗 &#32; submitted by &#32; /u/futtern",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T14:31:48.004275+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ransomware Attacks Intensify: Criminals Shift Focus to Target Employees and Their Families",
-    "link": "https://databreaches.net/2026/10/15/ransomware-attacks-intensify-criminals-shift-focus-to-target-employees-and-their-families/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Guru Baran reports: Ransomware gangs are moving beyond locked files and stolen data. Criminals now threaten employees, executives, and their families to force companies to pay. According to the Semperis 2026 Ransomware Risk Report, 37% of successful attacks included threats against workers’ friends or relatives. The findings show that ransomware is no longer only a... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T14:31:48.009625+00:00",
-    "details": {}
-  },
-  {
-    "title": "Legal Aid Agency cyberattack: Compromised data goes back to 1978",
-    "link": "https://databreaches.net/2026/10/15/legal-aid-agency-cyberattack-compromised-data-goes-back-to-1978/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Tevye Markson has an update on the April 2025 breach of the UK&#8217;s Legal Aid Agency, previously reported on this site: A new update on the Legal Aid Agency data breach has revealed that the data which was compromised in a cyberattack in 2025 goes back as far as 1978. The LAA on Wednesday announced... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-15T14:31:48.014679+00:00",
-    "details": {}
-  },
-  {
     "title": "Vibetech Database Exposes 13.7M Records Including Assortment of Old Breaches",
     "link": "https://databreaches.net/2026/10/15/vibetech-database-exposes-13-7m-records-including-assortment-of-old-breaches/",
     "source_name": "DataBreaches.net (تسريبات واختراقات)",
@@ -16369,6 +16122,120 @@
       "keywords": []
     },
     "rejected_at": "2026-11-14T08:16:04.032760+00:00",
+    "details": {}
+  },
+  {
+    "title": "Tesla posts its Cybercab Autonomy Subscription Agreement, requiring personal buyers to pay a mandatory $299/month on top of the vehicle's $29,990 purchase price (Fred Lambert/Electrek)",
+    "link": "https://www.techmeme.com/261114/p12#a261114p12",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Fred Lambert / Electrek : Tesla posts its Cybercab Autonomy Subscription Agreement, requiring personal buyers to pay a mandatory $299/month on top of the vehicle's $29,990 purchase price &nbsp; &mdash;&nbsp; Tesla has posted the agreement that comes with its $29,990 Cybercab, and it's even worse than the order page suggested.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-14T16:13:24.626053+00:00",
+    "details": {}
+  },
+  {
+    "title": "Italy's data protection agency fines Meta €805M for allegedly accessing Android users' photos and videos without their consent or informing them (Reuters)",
+    "link": "https://www.techmeme.com/261114/p11#a261114p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Reuters : Italy's data protection agency fines Meta &euro;805M for allegedly accessing Android users' photos and videos without their consent or informing them &nbsp; &mdash;&nbsp; Italy's data protection agency said on Saturday it had fined Meta Platforms (META.O) &euro;805 million ($887 million) &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-14T16:13:24.639500+00:00",
+    "details": {}
+  },
+  {
+    "title": "Formalizing US Tax Code (Using Lean)",
+    "link": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://lexifina.com/blog/formalizing-the-us-tax-code Comments URL: https://news.ycombinator.com/item?id=50497900 Points: 4 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-14T16:13:24.647987+00:00",
+    "details": {}
+  },
+  {
+    "title": "Traits – Teach your agent to code like you",
+    "link": "https://traits.sh/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://traits.sh/ Comments URL: https://news.ycombinator.com/item?id=50497874 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-14T16:13:24.656860+00:00",
+    "details": {}
+  },
+  {
+    "title": "Uber Data Breach: Driver Licenses Stolen via Fireworks AI",
+    "link": "https://databreaches.net/2026/11/14/uber-data-breach-driver-licenses-stolen-via-fireworks-ai/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Vivek reports: Uber is notifying thousands of US drivers that their personal and driver’s license information was stolen in October 2026, after hackers compromised Fireworks AI, a third-party artificial intelligence (AI) vendor that held Uber data. The company disclosed the incident in a notice letter dated 10 November 2026 and filed it with several state...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-14T16:13:24.679471+00:00",
+    "details": {}
+  },
+  {
+    "title": "Statement from Microsoft",
+    "link": "https://databreaches.net/2026/11/14/statement-from-microsoft/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place in our services and take that responsibility extremely seriously. We are seeing broad recovery and stability across our services. This was a technical issue not related to cyber or AI / agents. The incident...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-14T16:13:24.687034+00:00",
     "details": {}
   }
 ]
