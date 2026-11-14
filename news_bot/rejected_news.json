@@ -1,30 +1,5 @@
 [
   {
-    "title": "Vibetech Database Exposes 13.7M Records Including Assortment of Old Breaches",
-    "link": "https://databreaches.net/2026/10/15/vibetech-database-exposes-13-7m-records-including-assortment-of-old-breaches/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Debra Ahmed reports: An unprotected database linked to India-based AI software development and IT services company Vibetech exposed 13.7 million records containing credentials and other sensitive information from previous data breaches. The repository was accessible online without security authentication or a password, according to cybersecurity researcher Jeremiah Fowler, whose findings were publ",
-    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "Vibetech",
-      "event_year_month": "2026-10",
-      "news_type": "أمن سيبراني",
-      "product_name": "غير محدد",
-      "region": "آسيا",
-      "topic_key": "vibetech-database-exposure-data-leak",
-      "keywords": [
-        "تسريب بيانات",
-        "أمن سيبراني",
-        "Vibetech",
-        "قواعد بيانات",
-        "جيرمياه فاولر"
-      ]
-    },
-    "rejected_at": "2026-10-15T19:32:40.584153+00:00",
-    "details": {}
-  },
-  {
     "title": "Netflix Chief Content Officer Bela Bajaria is leaving the company and will be replaced by former Disney and Fox executive Peter Rice, who starts October 26 (Rebecca Rubin/Variety)",
     "link": "https://www.techmeme.com/261015/p54#a261015p54",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16350,6 +16325,25 @@
       "keywords": []
     },
     "rejected_at": "2026-11-14T18:38:42.406985+00:00",
+    "details": {}
+  },
+  {
+    "title": "USD-pegged stablecoins are taking a growing share of Latin America's crypto activity, serving as a store of value and an efficient cross-border payment system (Maria Clara Cobo/Bloomberg)",
+    "link": "https://www.techmeme.com/261114/p19#a261114p19",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Maria Clara Cobo / Bloomberg : USD-pegged stablecoins are taking a growing share of Latin America's crypto activity, serving as a store of value and an efficient cross-border payment system &nbsp; &mdash;&nbsp; Stablecoins are proving useful not only as a store of value but as a payment system &mdash; including for users who don't know anything about the blockchain.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-14T21:47:09.377903+00:00",
     "details": {}
   }
 ]
