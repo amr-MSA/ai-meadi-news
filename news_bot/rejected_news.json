@@ -16117,5 +16117,100 @@
     },
     "rejected_at": "2026-11-15T19:14:25.823467+00:00",
     "details": {}
+  },
+  {
+    "title": "Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)",
+    "link": "https://www.techmeme.com/261115/p16#a261115p16",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ben Cottier / Epoch AI : Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028 &nbsp; &mdash;&nbsp; This is a condensed version of a longer report on our website&nbsp; &mdash;&nbsp; Huawei, China's biggest AI chip developer, is drawing on China's abundant energy to build data centers.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-15T22:13:39.931149+00:00",
+    "details": {}
+  },
+  {
+    "title": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
+    "link": "https://www.techmeme.com/261115/p15#a261115p15",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Associated Press : Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a &ldquo;legitimate and lawful business&rdquo; as it opens an internal probe &nbsp; &mdash;&nbsp; Singapore-based cloud computing company Megaspeed International said Sunday that Chinese businesswoman Alice Huang &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-15T22:13:39.938612+00:00",
+    "details": {}
+  },
+  {
+    "title": "Colbin: Serialization format faster and smaller than Protobuf. No code-gen",
+    "link": "https://github.com/ivanjoz/colbin",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/ivanjoz/colbin Comments URL: https://news.ycombinator.com/item?id=50511099 Points: 1 # Comments: 1",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-15T22:13:39.943922+00:00",
+    "details": {}
+  },
+  {
+    "title": "LeakRadar – 18-signal B2B domain and revenue leak auditor on Cloudflare Workers",
+    "link": "https://leakradar.leakradar.workers.dev",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://leakradar.leakradar.workers.dev Comments URL: https://news.ycombinator.com/item?id=50510110 Points: 1 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-15T22:13:39.949423+00:00",
+    "details": {}
+  },
+  {
+    "title": "I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Ever since the information surfaced five days ago, I had intended to implement it right away. Having confirmed that it could be executed using 'pico,' I carried it out today. I had Astra write the script for the restricted write-access portion, and after nearly 15 hours of work, I finally managed to complete the task. I also plan to handle the second CMP later on. &#32; submitted by &#32; /u/Yaruk",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-15T22:13:39.955326+00:00",
+    "details": {}
   }
 ]
