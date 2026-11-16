@@ -15940,5 +15940,138 @@
     },
     "rejected_at": "2026-11-16T22:44:17.195738+00:00",
     "details": {}
+  },
+  {
+    "title": "United Airlines reports \"widespread system outage\" affecting departing flights but not flights in progress (Michele Luhn/CNBC)",
+    "link": "https://www.techmeme.com/261116/p45#a261116p45",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Michele Luhn / CNBC : United Airlines reports &ldquo;widespread system outage&rdquo; affecting departing flights but not flights in progress &nbsp; &mdash;&nbsp; United Airlines on Monday reported a &ldquo;widespread system outage&rdquo; was affecting departing flights.&nbsp; &mdash;&nbsp; &ldquo;We are troubleshooting a technology issue affecting departing flights,&rdquo; the airline said in a st",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T23:06:11.041169+00:00",
+    "details": {}
+  },
+  {
+    "title": "A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug (Nate Raymond/Reuters)",
+    "link": "https://www.techmeme.com/261116/p44#a261116p44",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Nate Raymond / Reuters : A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug &nbsp; &mdash;&nbsp; A federal judge on Monday ordered the acquittal of two Massachusetts Institute of Technology-educated brothers on US charges &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T23:06:11.053330+00:00",
+    "details": {}
+  },
+  {
+    "title": "Uber says hackers stole information on close to 150k DLs during data breach",
+    "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50524538 Points: 6 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T23:06:11.061998+00:00",
+    "details": {}
+  },
+  {
+    "title": "All code is slop (except mine) [video]",
+    "link": "https://www.youtube.com/watch?v=O_zcc6Xl12g",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.youtube.com/watch?v=O_zcc6Xl12g Comments URL: https://news.ycombinator.com/item?id=50524382 Points: 2 # Comments: 0",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T23:06:11.069971+00:00",
+    "details": {}
+  },
+  {
+    "title": "Best Audio Models - Nov 2026",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxpxvi/best_audio_models_nov_2026/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "Its time for another Best Audio Models megathread - its already been 9 months since the last one! Share what your favorite ASR, TTS, STT, Text to Music models are right now and why. Given the the amount of ambiguity and subjectivity in rating/testing these models, please be as detailed as possible in describing your setup, nature of your usage (how much, personal/professional use), tools/framework",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T23:06:11.077369+00:00",
+    "details": {}
+  },
+  {
+    "title": "NV: Douglas County data leak exposes Social Security numbers after public records request",
+    "link": "https://databreaches.net/2026/11/16/nv-douglas-county-data-leak-exposes-social-security-numbers-after-public-records-request/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Kim Burrows reports: Several Douglas County School District employees say they&#8217;re facing financial and emotional strain after a public records request resulted in the release of employees&#8217; private information, including Social Security numbers, was accidentally released. Scott Colato, a teacher at Carson Valley Middle School, said his personnel file was turned over in response to...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T23:06:11.086982+00:00",
+    "details": {}
+  },
+  {
+    "title": "System Status",
+    "link": "https://databreaches.net/2026/11/16/system-status/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Well, this has been quite the year. The websites are online, although some attachments and images are still missing, and now there&#8217;s a snafu with email. Until further notice here, if you need to reach me or any accounts at pogowasright.org or databreaches.net, please email breaches@protonmail.ch If you sent mail within the past 18 hours...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T23:06:11.093745+00:00",
+    "details": {}
   }
 ]
