@@ -1,252 +1,5 @@
 [
   {
-    "title": "android/skills",
-    "link": "https://github.com/android/skills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Android skills Android skills are a dedicated repository of AI-optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android development from developer.android.com . Android skills follow the open-standard agent skills - markdown files ( SKILL.md ) that provide a technical specification of a task",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T06:24:26.515128+00:00",
-    "details": {}
-  },
-  {
-    "title": "MadsLorentzen/ai-job-search",
-    "link": "https://github.com/MadsLorentzen/ai-job-search",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. AI Job Search The job search that runs on your machine. An AI-powered job application framework built on Claude Code . Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover le",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T06:24:26.531217+00:00",
-    "details": {}
-  },
-  {
-    "title": "hmjz100/LinkSwift",
-    "link": "https://github.com/hmjz100/LinkSwift",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 https://github.com/hmjz100/LinkSwift/raw/main/%EF%BC%88%E6%94%B9%EF%BC%89%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B.user.js Important 如果您是从 GreasyFork 找到这的，建议前往下方的 安装 选择一个合适的源覆盖安装，避免因脚本失效或 GF 黑产刷子导致无法及时更新。 “出淤泥而不染，濯清涟而不妖” 搭配使用，效果更佳！👋扩展脚本 123 云盘会员青春版 | 百度网盘会员青",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T06:24:26.535998+00:00",
-    "details": {}
-  },
-  {
-    "title": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
-    "link": "https://www.techmeme.com/261017/p7#a261017p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "FinTech Global : Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners &nbsp; &mdash;&nbsp; Reach Security has secured more than $50m in a Series B round led by Top Tier Capital Partners, while unveiling Reach Everywhere &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T06:24:53.761198+00:00",
-    "details": {}
-  },
-  {
-    "title": "Duvo, which develops tech to automate business processes across enterprise systems, including ERPs and legacy apps, raised a $32M Series A led by Balderton (Mike Butcher/Pathfounders)",
-    "link": "https://www.techmeme.com/261017/p6#a261017p6",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Mike Butcher / Pathfounders : Duvo, which develops tech to automate business processes across enterprise systems, including ERPs and legacy apps, raised a $32M Series A led by Balderton &nbsp; &mdash;&nbsp; He didn't get very far.&nbsp; He discovered that much of the company's operational knowledge just wasn't documented anywhere.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T06:24:53.769269+00:00",
-    "details": {}
-  },
-  {
-    "title": "Space: Sandboxed Platform for Agentic Code Execution",
-    "link": "https://github.com/perplexityai/SPACE",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/perplexityai/SPACE Comments URL: https://news.ycombinator.com/item?id=50128051 Points: 3 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T06:24:53.774456+00:00",
-    "details": {}
-  },
-  {
-    "title": "Zeabur discontinues AI Hub after its August security breach",
-    "link": "https://zeabur.com/changelogs/aihub-shutdown",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://zeabur.com/changelogs/aihub-shutdown Comments URL: https://news.ycombinator.com/item?id=50127877 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T06:24:53.779773+00:00",
-    "details": {}
-  },
-  {
-    "title": "10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I know everyone's excited about 3.8, but honestly I'm still refining 3.6. And I hate the way 3.8 talks, so... I keep seeing all these posts about what's the use of open source, so I figured I'd submit my own answer with this post. Qwen 3.5 27B was my first agent, starting my journey around May 31st, and I've learned a lot in these 4+ months, so I wanted to share with other people just starting the",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T06:24:53.786327+00:00",
-    "details": {}
-  },
-  {
-    "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/coder543 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T06:24:53.792335+00:00",
-    "details": {}
-  },
-  {
-    "title": "An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more (Nilay Patel/The Verge)",
-    "link": "https://www.techmeme.com/261017/p9#a261017p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Nilay Patel / The Verge : An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more &nbsp; &mdash;&nbsp; Today, I'm talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T11:49:13.974569+00:00",
-    "details": {}
-  },
-  {
-    "title": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
-    "link": "https://github.com/rajbos/ai-engineering-fluency",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/rajbos/ai-engineering-fluency Comments URL: https://news.ycombinator.com/item?id=50130191 Points: 1 # Comments: 1",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T11:49:13.984491+00:00",
-    "details": {}
-  },
-  {
-    "title": "MAGS: Machine-checked guarantees on specified safety properties in AI code",
-    "link": "https://arxiv.org/abs/2609.19391",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://arxiv.org/abs/2609.19391 Comments URL: https://news.ycombinator.com/item?id=50129603 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T11:49:13.994159+00:00",
-    "details": {}
-  },
-  {
-    "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/Bestlife73 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T11:49:14.004066+00:00",
-    "details": {}
-  },
-  {
     "title": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage (Jean Eaglesham/Wall Street Journal)",
     "link": "https://www.techmeme.com/261017/p11#a261017p11",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -16224,6 +15977,177 @@
       "keywords": []
     },
     "rejected_at": "2026-11-16T03:35:43.186023+00:00",
+    "details": {}
+  },
+  {
+    "title": "google-labs-code/stitch-skills",
+    "link": "https://github.com/google-labs-code/stitch-skills",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. https://stitch.withgoogle.com/docs/mcp/setup Stitch Design Skills A collection of agent skills and plugins for Google Stitch , following the Agent Skills open standard. Compatible with co",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T12:10:46.862667+00:00",
+    "details": {}
+  },
+  {
+    "title": "ggml-org/ggml",
+    "link": "https://github.com/ggml-org/ggml",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Tensor library for machine learning https://github.com/ggml-org ggml Tensor library for machine learning Quick start Build from source: git clone https://github.com/ggml-org/ggml cd ggml mkdir build &amp;&amp; cd build cmake .. cmake --build . --config Release -j 8 For a minimal, fully commented example (matrix multiplication), see examples/simple . Description The main goal of ggml is to be a sim",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T12:10:46.894575+00:00",
+    "details": {}
+  },
+  {
+    "title": "elementalsouls/Claude-BugHunter",
+    "link": "https://github.com/elementalsouls/Claude-BugHunter",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. https://elementalsouls.github.io/Claude-BugHunter claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T12:10:46.901774+00:00",
+    "details": {}
+  },
+  {
+    "title": "NVIDIA/SkillEvaluator",
+    "link": "https://github.com/NVIDIA/SkillEvaluator",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. https://docs.nvidia.com/skills/skillevaluator/ SkillEvaluator 📺 Livestream: Ask the Experts: Evaluating Agent Skills SkillEvaluator checks AI agent skills and measures their effect on t",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T12:10:46.924070+00:00",
+    "details": {}
+  },
+  {
+    "title": "Canada faces intense lobbying from Meta, Apple, Alphabet, and Signal over Bill C-22, which would compel them to retain and hand over metadata to the authorities (Laura Osman/Bloomberg)",
+    "link": "https://www.techmeme.com/261116/p19#a261116p19",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Laura Osman / Bloomberg : Canada faces intense lobbying from Meta, Apple, Alphabet, and Signal over Bill C-22, which would compel them to retain and hand over metadata to the authorities &nbsp; &mdash;&nbsp; Prime Minister Mark Carney's government is facing fierce pushback from Big Tech firms over security legislation &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T12:11:03.550343+00:00",
+    "details": {}
+  },
+  {
+    "title": "An interview with Rockstar executives at the company's Edinburgh HQ about GTA VI, encouraging players to avoid rampages, realism, building the game, and more (Keza MacDonald/The Guardian)",
+    "link": "https://www.techmeme.com/261116/p18#a261116p18",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Keza MacDonald / The Guardian : An interview with Rockstar executives at the company's Edinburgh HQ about GTA VI, encouraging players to avoid rampages, realism, building the game, and more &nbsp; &mdash;&nbsp; The latest instalment of the epic crime saga is finally here.&nbsp; We visit Rockstar Games for a hands-on encounter with the cultural event &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T12:11:03.560891+00:00",
+    "details": {}
+  },
+  {
+    "title": "Advent of Code 2026",
+    "link": "https://adventofcode.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://adventofcode.com/ Comments URL: https://news.ycombinator.com/item?id=50516497 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T12:11:03.566532+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+    "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/ Comments URL: https://news.ycombinator.com/item?id=50516473 Points: 6 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T12:11:03.573571+00:00",
+    "details": {}
+  },
+  {
+    "title": "The beginning of the becoming of the beginning begins",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "&#32; submitted by &#32; /u/Subulicious [link] &#32; [comments]",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T12:11:03.580386+00:00",
     "details": {}
   }
 ]
