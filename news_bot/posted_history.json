@@ -1,41 +1,5 @@
 [
   {
-    "title": "Sources: Marco Rubio oversaw the drafting of a classified memo this spring warning Trump admin that Jensen Huang was in a close relationship with a Chinese spy (New York Times)",
-    "link": "https://www.techmeme.com/261108/p17#a261108p17",
-    "summary": "أفادت صحيفة نيويورك تايمز نقلاً عن مصادر مطّلعة أن ماركو روبيو أشرف خلال ربيع هذا العام على إعداد مذكرة استخباراتية سرية تحذر إدارة ترامب من وجود علاقة وثيقة تجمع الرئيس التنفيذي لشركة إنفيديا جينسن هوانغ بمشتبه بها بالتجسس لصالح الصين، مما يكشف عن مخاوف أمنية مبكرة لدى أرفع المسؤولين الأمريكيين قبل تكشف القضية علنًا.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "jensen-huang-us-intelligence-mss-spying-allegations",
-    "event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "company_name": "Nvidia",
-    "event_year_month": "2026-11",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Nvidia",
-      "Jensen Huang",
-      "Marco Rubio",
-      "Trump",
-      "Spying Allegations",
-      "New York Times"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-09T01:17:48.731651+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 285,
-    "telegram_message_url": "https://t.me/Eng_limitless/285",
-    "is_update": true,
-    "updates_event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "update_summary": "كشفت تقارير صحفية عن إشراف ماركو روبيو على صياغة مذكرة سرية مبكرة تحذر إدارة ترامب من علاقة رئيس إنفيديا.",
-    "new_facts": [
-      "إشراف ماركو روبيو على صياغة مذكرة استخباراتية سرية في الربيع لتنبيه إدارة ترامب.",
-      "تأكيد وجود مخاوف أمنية لدى أرفع المسؤولين الأمريكيين بشأن القضية منذ عدة أشهر."
-    ],
-    "supersedes_posted_at": "2026-11-07T03:34:41.848804+00:00"
-  },
-  {
     "title": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge in an all-share deal valuing Ada at ~$430M, sources say (Globe and Mail)",
     "link": "https://www.techmeme.com/261109/p5#a261109p5",
     "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطّلعة عن موافقة شركة Ada الكندية وشركة Dialpad الأمريكية، المتخصصتين في برمجيات خدمة العملاء بالذكاء الاصطناعي، على الاندماج عبر صفقة تبادل أسهم تقيّم شركة Ada بنحو 430 مليون دولار.",
@@ -770,5 +734,40 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Sources: Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further (Wall Street Journal)",
+    "link": "https://www.techmeme.com/261115/p24#a261115p24",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة لصحيفة وول ستريت جورنال أن الرئيسة التنفيذية المؤقتة لشركة إنفيديا، كوليت كريس، تتجه لتشديد التسهيلات المالية وتقليص التمويل الهجومي لصفقات الحوسبة واستثمارات الشركات الناشئة، وذلك امتدادًا لرؤية صاغها جينسن هوانغ قبل استقالته تطالب مزودي الخدمات السحابية الجدد بتحصيل دفعات مالية مسبقة من العملاء.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "jensen-huang-us-intelligence-mss-spying-allegations",
+    "event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "company_name": "Nvidia",
+    "event_year_month": "2026-11",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Nvidia",
+      "Colette Kress",
+      "Jensen Huang",
+      "WSJ",
+      "neoclouds"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-16T03:35:43.140787+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 308,
+    "telegram_message_url": "https://t.me/Eng_limitless/308",
+    "is_update": true,
+    "updates_event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "update_summary": "أفادت تقارير صحفية بتوجه القيادة المؤقتة لإنفيديا نحو تقليص التسهيلات والتمويلات الهجومية لشركات السحابة.",
+    "new_facts": [
+      "تعتزم الرئيسة التنفيذية المؤقتة كوليت كريس تشديد السياسة المالية وتقليص التمويل لصفقات الحوسبة والشركات الناشئة.",
+      "كان جينسن هوانغ قد صاغ خطة قبل مغادرته تتطلب من شركات السحابة الناشئة استلام دفعات مالية مسبقة من العملاء."
+    ],
+    "supersedes_posted_at": "2026-11-12T14:10:31.843558+00:00"
   }
 ]

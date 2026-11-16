@@ -1,87 +1,5 @@
 [
   {
-    "title": "Apple says demand for iPhone Duo has been \"nothing short of extraordinary\"; deliveries slipped to late January within hours of preorders opening (Michael Acton/Financial Times)",
-    "link": "https://www.techmeme.com/261016/p22#a261016p22",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Michael Acton / Financial Times : Apple says demand for iPhone Duo has been &ldquo;nothing short of extraordinary&rdquo;; deliveries slipped to late January within hours of preorders opening &nbsp; &mdash;&nbsp; Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale&nbsp; &mdash;&nbsp; Apple on Friday said its foldable iPhone Duo had seen &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-16T22:18:16.646123+00:00",
-    "details": {}
-  },
-  {
-    "title": "Software Engineering Cannot Be Solved by Code Generation",
-    "link": "https://ycao.net/posts/ai-se-dilemma",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://ycao.net/posts/ai-se-dilemma Comments URL: https://news.ycombinator.com/item?id=50125342 Points: 3 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-16T22:18:16.654608+00:00",
-    "details": {}
-  },
-  {
-    "title": "Brutal, the framework behind RimWorld's Waylith engine, releases its source code",
-    "link": "https://www.gamingonlinux.com/2026/10/brutal-the-framework-behind-rimworlds-waylith-engine-releases-its-source-code/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.gamingonlinux.com/2026/10/brutal-the-framework-behind-rimworlds-waylith-engine-releases-its-source-code/ Comments URL: https://news.ycombinator.com/item?id=50124848 Points: 6 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-16T22:18:16.664104+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic's $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt (Financial Times)",
-    "link": "https://www.techmeme.com/261016/p29#a261016p29",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic's $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt &nbsp; &mdash;&nbsp; High borrowing costs complicate AI lab's goal of achieving investment-grade status&nbsp; &mdash;&nbsp; Anthropic is offering Blackstone &hellip;",
-    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "Anthropic",
-      "event_year_month": "2026-10",
-      "news_type": "ذكاء اصطناعي",
-      "product_name": "Google TPU",
-      "region": "أمريكا الشمالية",
-      "topic_key": "anthropic-blackstone-google-tpu-debt-package",
-      "keywords": [
-        "Anthropic",
-        "Blackstone",
-        "Google TPU",
-        "تمويل",
-        "ذكاء اصطناعي"
-      ]
-    },
-    "rejected_at": "2026-10-17T01:56:26.567015+00:00",
-    "details": {}
-  },
-  {
     "title": "android/skills",
     "link": "https://github.com/android/skills",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -16211,6 +16129,101 @@
       "keywords": []
     },
     "rejected_at": "2026-11-15T22:13:39.955326+00:00",
+    "details": {}
+  },
+  {
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "link": "https://databreaches.net/2026/11/15/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Lawrence Abrams reports: The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. In a FLASH advisory released Friday, the agency said multiple threat actors have weaponized the open-source frame",
+    "reason": "مكرر في السجل: title-similarity",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T03:34:59.793393+00:00",
+    "details": {}
+  },
+  {
+    "title": "Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction (Bradley C/9to5Mac)",
+    "link": "https://www.techmeme.com/261115/p23#a261115p23",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bradley C / 9to5Mac : Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction &nbsp; &mdash;&nbsp; Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform.&nbsp; Mosyle is the only solution that integrates &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T03:35:43.158462+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: gavel: guided code review with your coding agent",
+    "link": "https://photostructure.com/coding/gavel/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Howdy! I've been working on an open-source tool that helps lighten the burden of reviewing what your coding agents write. You still see all the lines of code, but the agents write a \"tour guide\" that links you through the local PR, and as you have questions or comments, you chat with your agent in the context of the code, in a threaded conversation. I called it \"gavel\" (you make your agents build",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T03:35:43.167534+00:00",
+    "details": {}
+  },
+  {
+    "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+    "link": "https://visualbasic.world/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://visualbasic.world/ Comments URL: https://news.ycombinator.com/item?id=50511874 Points: 2 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T03:35:43.176797+00:00",
+    "details": {}
+  },
+  {
+    "title": "Why download abliterated Flash Next models when LoRA exists?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
+    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
+    "summary": "I just wanted to post a kind of PSA for everyone out there downloading hundreds of GB of abliterated models. You don't need to do that -- the vast majority of abliteration techniques are rank-1 ablations, meaning their refusal projection can be encapsulated in a tiny LoRA and applied at runtime to a quant you already have on disk. It can even be applied per-request, so you can run an unmodified mo",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-16T03:35:43.186023+00:00",
     "details": {}
   }
 ]
