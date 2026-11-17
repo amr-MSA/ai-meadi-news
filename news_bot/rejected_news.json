@@ -1,157 +1,5 @@
 [
   {
-    "title": "stablyai/orca",
-    "link": "https://github.com/stablyai/orca",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. https://orca.dev Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T06:45:48.790694+00:00",
-    "details": {}
-  },
-  {
-    "title": "anthropics/claude-code",
-    "link": "https://github.com/anthropics/claude-code",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps yo",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T06:45:48.799088+00:00",
-    "details": {}
-  },
-  {
-    "title": "anomalyco/opencode",
-    "link": "https://github.com/anomalyco/opencode",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "The open source coding agent. https://opencode.ai The open source AI coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt Installation # YOLO curl -fsSL https://opencode.ai/install | bash # Package managers npm i -g @opencode/",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T06:45:48.814065+00:00",
-    "details": {}
-  },
-  {
-    "title": "RegLayer: 47+ large US data center projects were delayed, withdrawn, or blocked in 2026; Bernstein says ~35% of the planned US data center pipeline is credible (Financial Times)",
-    "link": "https://www.techmeme.com/261018/p6#a261018p6",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : RegLayer: 47+ large US data center projects were delayed, withdrawn, or blocked in 2026; Bernstein says ~35% of the planned US data center pipeline is credible &nbsp; &mdash;&nbsp; A vast bet on the future of the technology is running into the unforgiving economics of the physical world",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T06:46:32.108481+00:00",
-    "details": {}
-  },
-  {
-    "title": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
-    "link": "https://www.techmeme.com/261018/p5#a261018p5",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "New York Times : AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar &nbsp; &mdash;&nbsp; Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there are broader problems with the data center build-out.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T06:46:32.122924+00:00",
-    "details": {}
-  },
-  {
-    "title": "You don’t need that expensive of a build for local llms.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Been seeing a lot of people with their 64gb of ddr5 4x3090 or whatever strata builds and it’s been sorta depressing knowing i cant afford that but i finally finished my setup today so here we go, Qwen 3.8 27b at 262k context, unsloth iq4XS ascii condensed with kv cache streaming My only gpu is a 9060 xt 16gb and i have 24gb ddr5 for my whole homelab only needing 16 for this MTP+ ngram prediction q",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T06:46:32.143416+00:00",
-    "details": {}
-  },
-  {
-    "title": "An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)",
-    "link": "https://www.techmeme.com/261018/p7#a261018p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Giovanni Colantonio / Polygon : An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more &nbsp; &mdash;&nbsp; Back when Apple Arcade launched in 2019, there was a resounding belief among gamers that the mobile gaming service wasn't long for this world.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T12:14:43.400982+00:00",
-    "details": {}
-  },
-  {
-    "title": "More NHS staff sacked for accessing records of Nottingham stabbing victims",
-    "link": "https://databreaches.net/2026/10/18/more-nhs-staff-sacked-for-accessing-records-of-nottingham-stabbing-victims/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Ellie Ng reports: More NHS staff have been dismissed for inappropriately accessing medical records of the Nottingham stabbing victims, taking the total sacked so far to 15, a trust said. Students Barnaby Webber and Grace O’Malley-Kumar and grandfather Ian Coates were stabbed to death in the city by Valdo Calocane in 2023. During its investigation,... Source",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T12:14:43.434277+00:00",
-    "details": {}
-  },
-  {
     "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
     "source_name": "BleepingComputer",
@@ -16015,6 +15863,234 @@
       "keywords": []
     },
     "rejected_at": "2026-11-17T05:33:28.619131+00:00",
+    "details": {}
+  },
+  {
+    "title": "getarcaneapp/arcane",
+    "link": "https://github.com/getarcaneapp/arcane",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Modern Docker Management, Designed for Everyone https://getarcane.app Note The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. Important Feature requests have moved to Discussions . Open new requests and upvote existing ones there; issues are only used for Bug reports now to help maintain priority on those issues. Modern Docker Management, Designed fo",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:03:57.052621+00:00",
+    "details": {}
+  },
+  {
+    "title": "DeanChensj/jiangshan-map",
+    "link": "https://github.com/DeanChensj/jiangshan-map",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes https://deanchen.me/jiangshan-map/ Chronicles of the Realm · 江山时序 English · 简体中文 (Chinese) · 繁體中文 (Traditional Chinese) · 日本語 (Japanese) An Interactive Historical Atlas of China from the Warring States (403 BCE) to",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:03:57.059830+00:00",
+    "details": {}
+  },
+  {
+    "title": "mvanhorn/last30days-skill",
+    "link": "https://github.com/mvanhorn/last30days-skill",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days English | Français | Deutsch | Español | Português (Brasil) | 日本語 | 简体中文 | العربية An AI agent-led search engine scored by upvotes, likes, and real money - not editors. This README tracks the current v4 pipeline. The runtime skill spec lives in skills/la",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:03:57.073758+00:00",
+    "details": {}
+  },
+  {
+    "title": "google-research/paper-orchestra",
+    "link": "https://github.com/google-research/paper-orchestra",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing. https://yiwen-song.github.io/paper_orchestra/ 🎻 PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing Yiwen Song 1 , Yale Song 1 , Tomas Pfister 1 , and Jinsung Yoon 1 1 Google Cloud AI Research PaperOrchestra is a multi-agent framework for automated AI research paper writing. It flexibly t",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:03:57.092348+00:00",
+    "details": {}
+  },
+  {
+    "title": "sveltejs/svelte",
+    "link": "https://github.com/sveltejs/svelte",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "web development for the rest of us https://svelte.dev What is Svelte? Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM. Learn more at the Svelte website , or stop by the Discord chatroom . Supporting Svelte Svelte is an MIT-licensed open source project with its ongoing d",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:03:57.104345+00:00",
+    "details": {}
+  },
+  {
+    "title": "kajisho5/ffmpeg-skill",
+    "link": "https://github.com/kajisho5/ffmpeg-skill",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. https://www.npmjs.com/package/ffmpeg-skill Give your coding agent a video editor. Claude Code, Cursor, Codex or any MCP client edits your footage with local FFmpeg, then checks its own",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:03:57.114534+00:00",
+    "details": {}
+  },
+  {
+    "title": "Neuralink co-founder Max Hodak's Science Corp, which offers a retinal implant for age-related macular degeneration, raised $400M at a $3.5B valuation (Ike Swetlitz/Bloomberg)",
+    "link": "https://www.techmeme.com/261117/p29#a261117p29",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ike Swetlitz / Bloomberg : Neuralink co-founder Max Hodak's Science Corp, which offers a retinal implant for age-related macular degeneration, raised $400M at a $3.5B valuation &nbsp; &mdash;&nbsp; Science Corp, the company behind a retinal chip that restores some vision to people with an age-related form of blindness, is valued at $3.5 billion after a recent fundraising round.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:04:57.862265+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Anthony Hughes/Bloomberg)",
+    "link": "https://www.techmeme.com/261117/p28#a261117p28",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Anthony Hughes / Bloomberg : Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range &nbsp; &mdash;&nbsp; Anthropic PBC is guiding prospective investors in its initial public offering it expects to price the shares at the high end of the price range or above &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:04:57.873351+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open-Source Tools That Let Claude Code Create Videos Automatically",
+    "link": "https://medium.com/@ajseven/7-open-source-tools-that-let-claude-code-create-videos-automatically-32c0a0c04329",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://medium.com/@ajseven/7-open-source-tools-that-let-claude-code-create-videos-automatically-32c0a0c04329 Comments URL: https://news.ycombinator.com/item?id=50532284 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:04:57.880654+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: If Conductor and Cursor Had a Baby (Open Source, macOS)",
+    "link": "https://github.com/bestboyhq/malini",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "When Cursor got acquired a small question appeared in my head. Then after Conductor's acquisition by Meta it quickly became more itchy. And then after a few months of asking myself \"what if agentic coding tool wasn't built for exit?\" I came up with Malini. Those both were the best coding platforms (on the UI/UX front especially) I've ever used, so Malini aims to join what was best in both of them.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:04:57.888330+00:00",
+    "details": {}
+  },
+  {
+    "title": "NH: Monadnock Community Hospital server outage due to ‘cyber incident,’ officials say",
+    "link": "https://databreaches.net/2026/11/17/nh-monadnock-community-hospital-server-outage-due-to-cyber-incident-officials-say/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Jackson Stoever reports: Monadnock Community Hospital said on Monday its week-long server outage is due to a &#8220;cyber incident.&#8221; The ongoing investigation now includes determining what data was affected. If any sensitive information was involved, patients will be directly notified, according to hospital officials. The phone network was restored Sunday, and the emergency department remain",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:04:57.903079+00:00",
+    "details": {}
+  },
+  {
+    "title": "It’s the Golden State, not the Wild West: Attorney General Bonta Sues OpenAI Over Cybersecurity Incidents",
+    "link": "https://databreaches.net/2026/11/17/its-the-golden-state-not-the-wild-west-attorney-general-bonta-sues-openai-over-cybersecurity-incidents/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "SAN FRANCISCO, November 16 — California Attorney General Rob Bonta today filed a lawsuit against OpenAI alleging the company misled and endangered the public by knowingly developing and testing advanced artificial intelligence (AI) models without the safeguards and monitoring necessary to adequately protect the public. Today’s lawsuit alleges that the Hugging Face attack — one...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T15:04:57.912044+00:00",
     "details": {}
   }
 ]
