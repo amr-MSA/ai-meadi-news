@@ -1,157 +1,5 @@
 [
   {
-    "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)",
-    "link": "https://www.techmeme.com/261017/p18#a261017p18",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Walter Schulze / Startup Fortune : Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a &ldquo;large scale distillation attack&rdquo; &nbsp; &mdash;&nbsp; A large-scale distillation attack against the company behind the open-source coding agent OpenCode exposed stored OpenAI &hellip;",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T23:35:59.414016+00:00",
-    "details": {}
-  },
-  {
-    "title": "Google says \"magic state cultivation\" works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x (Google)",
-    "link": "https://www.techmeme.com/261017/p19#a261017p19",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Google : Google says &ldquo;magic state cultivation&rdquo; works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x &nbsp; &mdash;&nbsp; We've shown that magic state cultivation works on Google Quantum AI hardware.&nbsp; &mdash;&nbsp; Research Scientist, Google Quantum AI Quantum Software Engineer, Google Quantum AI",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T23:36:43.499276+00:00",
-    "details": {}
-  },
-  {
-    "title": "Does code quality still matter when AI writes the code?",
-    "link": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/ Comments URL: https://news.ycombinator.com/item?id=50136214 Points: 1 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T23:36:43.522856+00:00",
-    "details": {}
-  },
-  {
-    "title": "Astrax – Open-source MCP server for Windows desktop AI control",
-    "link": "https://github.com/AstraxOf/astrax-mcp",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/AstraxOf/astrax-mcp Comments URL: https://news.ycombinator.com/item?id=50136051 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T23:36:43.532754+00:00",
-    "details": {}
-  },
-  {
-    "title": "NY AG James and CT AG Tong Secure $2.7 Million from Boston Children’s Health Physicians and XTIUM for 2024 Data Breach",
-    "link": "https://databreaches.net/2026/10/17/ny-ag-james-and-ct-ag-tong-secure-2-7-million-from-boston-childrens-health-physicians-and-xtium-for-2024-data-breach/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "NY&#8217;s Attorney General and CT&#8217;s Attorney General held both a provider and its IT company liable for a data breach. The settlement also includes a corrective action plan to improve data security. New York Attorney General Letitia James and Connecticut Attorney General William Tong today secured $2.7 million from Boston Children’s Health Physicians (BCHP), a... Source",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-17T23:36:43.564294+00:00",
-    "details": {}
-  },
-  {
-    "title": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more (Joanna Stern/The New Things)",
-    "link": "https://www.techmeme.com/261017/p20#a261017p20",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Joanna Stern / The New Things : An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more &nbsp; &mdash;&nbsp; My exclusive interview with Satya Nadella on the new Surface Laptop Ultra and Microsoft's plan to make Windows safer for AI agents",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T01:55:18.707266+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
-    "link": "https://github.com/ahmtsahin/claude-env-tabs",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/ahmtsahin/claude-env-tabs Comments URL: https://news.ycombinator.com/item?id=50137006 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T01:55:18.731295+00:00",
-    "details": {}
-  },
-  {
-    "title": "Control the Ideas, Not the Code",
-    "link": "https://www.antirez.com/news/169",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.antirez.com/news/169 Comments URL: https://news.ycombinator.com/item?id=50136995 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T01:55:18.740044+00:00",
-    "details": {}
-  },
-  {
     "title": "stablyai/orca",
     "link": "https://github.com/stablyai/orca",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -16072,6 +15920,101 @@
       "keywords": []
     },
     "rejected_at": "2026-11-16T23:06:11.093745+00:00",
+    "details": {}
+  },
+  {
+    "title": "Meta is testing Direct, a standalone messaging app for Instagram that doesn't require an existing Instagram account to use, in Thailand and Turkey (Karissa Bell/Engadget)",
+    "link": "https://www.techmeme.com/261116/p53#a261116p53",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Karissa Bell / Engadget : Meta is testing Direct, a standalone messaging app for Instagram that doesn't require an existing Instagram account to use, in Thailand and Turkey &nbsp; &mdash;&nbsp; It's only available in Turkey and Thailand for now.&nbsp; &mdash;&nbsp; Meta is working on a dedicated messaging app for Instagram that could also expand the reach of the app's DMs.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T05:33:28.593773+00:00",
+    "details": {}
+  },
+  {
+    "title": "News from more than one source",
+    "link": "https://www.simplenewss.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.simplenewss.com/ Comments URL: https://news.ycombinator.com/item?id=50526953 Points: 1 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T05:33:28.598105+00:00",
+    "details": {}
+  },
+  {
+    "title": "Localix Studio – an open-source Cursor alternative for any model",
+    "link": "https://github.com/localixai/localix-studio",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/localixai/localix-studio Comments URL: https://news.ycombinator.com/item?id=50526622 Points: 3 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T05:33:28.603339+00:00",
+    "details": {}
+  },
+  {
+    "title": "Customer Personal Information Leak at Legoland… Even Annual Pass Barcodes Stolen",
+    "link": "https://databreaches.net/2026/11/16/customer-personal-information-leak-at-legoland-even-annual-pass-barcodes-stolen/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The following is an automated translation of an article that appeared in Japanese. Choi Jeong-seok reports: A hacking and leakage incident involving customer personal information occurred at Legoland. A total of six items were leaked, including customer names, home addresses, phone numbers, and annual pass barcode numbers.On the 17th, Legoland announced that on the 14th,...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T05:33:28.613293+00:00",
+    "details": {}
+  },
+  {
+    "title": "Bank outage reports spike: JPMorgan says issues are resolved, blames internal software bug for transaction delays",
+    "link": "https://databreaches.net/2026/11/16/bank-outage-reports-spike-jpmorgan-says-issues-are-resolved-blames-internal-software-bug-for-transaction-delays/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "David Hollerith and Grace O&#8217;Donnell report: Reports of problems with banking apps and payment services surged across major US banks Monday, though several institutions said their systems were operating as usual while some customers experienced transaction delays. Customers&#8217; reports of issues spiked across a number of sites, including those for JPMorgan Chase, Bank of America...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T05:33:28.619131+00:00",
     "details": {}
   }
 ]
