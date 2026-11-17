@@ -1,24 +1,5 @@
 [
   {
-    "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "What a week. Quick recap, all numbers from the official repos and model cards: Thursday: Meta drops Muse Spark Open. 816B total, 42B active, 1M context. The launch post says it brings agentic AI &quot;to your desktop&quot;. The desktop is two M5 Ultra Mac Studios with 512GB each, a config Apple says ships &quot;late October&quot; and still hasn't put a price on. The alternative is four 256GB Studi",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T22:00:49.134007+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
     "link": "https://www.techmeme.com/261018/p11#a261018p11",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15939,6 +15920,82 @@
       "keywords": []
     },
     "rejected_at": "2026-11-17T21:29:40.393190+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive (Tom Warren/The Verge)",
+    "link": "https://www.techmeme.com/261117/p60#a261117p60",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Tom Warren / The Verge : Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive &nbsp; &mdash;&nbsp; A bug took down Microsoft's email services for millions around the world. &hellip; At 9AM last Thursday, everything seemed normal.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T23:13:57.834672+00:00",
+    "details": {}
+  },
+  {
+    "title": "On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)",
+    "link": "https://www.techmeme.com/261117/p59#a261117p59",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Hayden Field / The Verge : On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO &nbsp; &mdash;&nbsp; The board said it would not take additional questions on the call about Huang's departure. &hellip; Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T23:13:57.842971+00:00",
+    "details": {}
+  },
+  {
+    "title": "IE: Suspected data breach at 43 credit unions could affect hundreds of thousands of members",
+    "link": "https://databreaches.net/2026/11/17/ie-suspected-data-breach-at-43-credit-unions-could-affect-hundreds-of-thousands-of-members/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The Irish Times reports: A possible data breach impacting more than 40 credit unions around the country has been described as “deeply concerning” by the Tánaiste and Minister for Finance, Simon Harris. The affected credit unions were contacted about the potential data breach earlier this week by Belfast-based IT company Wellington IT. It is understood...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T23:13:57.849647+00:00",
+    "details": {}
+  },
+  {
+    "title": "Highly classified NSA communications network is down — CNN sources",
+    "link": "https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "CNN is reporting that the highly classified ‌network that ‌the US National Security ​Agency (NSA) uses for its internal communications is down. This is a developing story, and the NSA&#8217;s preliminary statement says there is no evidence that this was related to a cyberattack.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T23:13:57.855857+00:00",
     "details": {}
   }
 ]
