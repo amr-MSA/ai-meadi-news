@@ -1,176 +1,5 @@
 [
   {
-    "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-    "source_name": "BleepingComputer",
-    "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T16:20:21.429495+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Chest – a tiny, open-source menu bar manager for macOS 27",
-    "link": "https://chest.boringbar.app/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Hi HN! One of my favorite apps on macOS, Ice, stopped working when I updated to macOS 27 because the trick it relied on doesn't work anymore. The only thing I really needed from the app was the ability to hide menu bar items to the left of it, so I built Chest to do just that. There are other apps like this as well that try to use the menu bar part of macOS's exam mode to hide items, but that appr",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T17:00:05.885782+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: FR/EN search engine built with Chez Scheme and Claude Code for €150",
-    "link": "https://h9p3r.fr",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://h9p3r.fr Comments URL: https://news.ycombinator.com/item?id=50142710 Points: 1 # Comments: 3",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T17:00:05.896645+00:00",
-    "details": {}
-  },
-  {
-    "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T17:00:05.907205+00:00",
-    "details": {}
-  },
-  {
-    "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "no document or announcement from unslot team yet &#32; submitted by &#32; /u/MundanePercentage674 [link] &#32; [comments]",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T17:00:05.917398+00:00",
-    "details": {}
-  },
-  {
-    "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
-    "link": "https://databreaches.net/2026/10/18/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Kevin Townsend reports: Data for CyberSN’s jobs report is aggregated from JobSpikr (with duplicates removed). The various job titles are then analyzed and assigned to CyberSN’s taxonomy of 45 cybersecurity functional roles in ten categories. The result is an assessment of the job market by skills required rather than by the recruiting companies’ role titles.... Source",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T17:00:05.927256+00:00",
-    "details": {}
-  },
-  {
-    "title": "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)",
-    "link": "https://www.techmeme.com/261018/p10#a261018p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anthropic : Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise &nbsp; &mdash;&nbsp; Today, we're committing a portion of Anthropic's shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T19:48:42.740034+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Lungo Generates Rust, Python, from Lean Proof Source",
-    "link": "https://machinefabric.com/lungo/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://machinefabric.com/lungo/ Comments URL: https://news.ycombinator.com/item?id=50144463 Points: 1 # Comments: 1",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T19:48:42.748633+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: OpenDesk, an open-source alternative to Zendesk and Intercom",
-    "link": "https://opendesk.sh/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://opendesk.sh/ Comments URL: https://news.ycombinator.com/item?id=50143797 Points: 3 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T19:48:42.757384+00:00",
-    "details": {}
-  },
-  {
     "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
     "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
@@ -16091,6 +15920,25 @@
       "keywords": []
     },
     "rejected_at": "2026-11-17T15:04:57.912044+00:00",
+    "details": {}
+  },
+  {
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+    "source_name": "BleepingComputer",
+    "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organi",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-17T21:29:40.393190+00:00",
     "details": {}
   }
 ]
