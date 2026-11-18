@@ -1,138 +1,5 @@
 [
   {
-    "title": "mlabonne/llm-course",
-    "link": "https://github.com/mlabonne/llm-course",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. https://mlabonne.github.io/blog/ 𝕏 Follow me on X • 🤗 Hugging Face • 💻 Blog • 📙 LLM Engineer's Handbook The LLM course is divided into three parts: 🧩 LLM Fundamentals is optional and covers fundamental knowledge about mathematics, Python, and neural networks. 🧑‍🔬 The LLM Scientist focuses on building the best possib",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-19T09:23:39.891562+00:00",
-    "details": {}
-  },
-  {
-    "title": "Kruk2/jasna",
-    "link": "https://github.com/Kruk2/jasna",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Video restoration tool The only places to get a genuine License code for the supporter models are Buy Me a Coffee , Unifans , and for China the seller in the Chinese README . 支持者模型的正版许可证码只能通过 Buy Me a Coffee 、 Unifans 或 闲鱼 获取。 English | 日本語 | 中文 Jasna Jasna restores mosaics in videos and images. It is free, has a simple app and a command line, and runs on your GPU. Contents Start here What Jasna d",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-19T09:23:39.898865+00:00",
-    "details": {}
-  },
-  {
-    "title": "Comfy-Org/ComfyUI",
-    "link": "https://github.com/Comfy-Org/ComfyUI",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world. https://www.comfy.org/ ComfyUI The most powerful and modular AI engine for content creation. ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-19T09:23:39.906881+00:00",
-    "details": {}
-  },
-  {
-    "title": "Q&A with Nvidia's Vera team on agentic AI driving CPU demands and forcing CPU design priority back to single-threaded performance over core counts, and more (Wccftech)",
-    "link": "https://www.techmeme.com/261019/p10#a261019p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Wccftech : Q&amp;A with Nvidia's Vera team on agentic AI driving CPU demands and forcing CPU design priority back to single-threaded performance over core counts, and more &nbsp; &mdash;&nbsp; NVIDIA's Vera CPU heralds a redefinition of computing architecture from a traditional, task-isolated paradigm to an orchestrated &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-19T09:24:02.602127+00:00",
-    "details": {}
-  },
-  {
-    "title": "How the data center industry courts kids amid a backlash: 11+ firms and groups hosting field trips since 2025, flag kits and cards for first graders, and more (Caroline Haskins/Wired)",
-    "link": "https://www.techmeme.com/261019/p9#a261019p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Caroline Haskins / Wired : How the data center industry courts kids amid a backlash: 11+ firms and groups hosting field trips since 2025, flag kits and cards for first graders, and more &nbsp; &mdash;&nbsp; Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-19T09:24:02.615289+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Free design canvas for your AI (open source)",
-    "link": "https://uidesigneditor.com/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Hey, sometimes it's easier to just move around some buttons in an editor instead of waiting a minute for the AI result. E.g. take a screenshot of your UI, cut out a button, move it around to see what it looks like. Your AI can send HTML into the editor, or screenshots. Then you can edit it, move things around, and your AI takes it from there. I've made it free and open source. You can build on top",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-19T09:24:02.624050+00:00",
-    "details": {}
-  },
-  {
-    "title": "Shopify CLI Renders Theme Code That Isn't Uploaded Yet",
-    "link": "https://www.vincentschmalbach.com/shopify-theme-dev-replace-templates/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.vincentschmalbach.com/shopify-theme-dev-replace-templates/ Comments URL: https://news.ycombinator.com/item?id=50149447 Points: 1 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-19T09:24:02.632552+00:00",
-    "details": {}
-  },
-  {
     "title": "SCOTUS rejects an appeal by BMG, Sony Music, UMG, and Warner Music, upholding a decision that copyright termination rights apply globally, not just in the US (Blake Brittain/Reuters)",
     "link": "https://www.techmeme.com/261019/p34#a261019p34",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15920,6 +15787,120 @@
       "keywords": []
     },
     "rejected_at": "2026-11-18T05:00:01.200792+00:00",
+    "details": {}
+  },
+  {
+    "title": "cursor/plugins",
+    "link": "https://github.com/cursor/plugins",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) teaching Teaching Cursor Utilities Skill mapping, practice plans, and lear",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-18T14:44:20.024024+00:00",
+    "details": {}
+  },
+  {
+    "title": "obra/superpowers",
+    "link": "https://github.com/obra/superpowers",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "An agentic skills framework & software development methodology that works. Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started Claude Code Antigravity Codex App Codex CLI Cursor De",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-18T14:44:20.029185+00:00",
+    "details": {}
+  },
+  {
+    "title": "affaan-m/ECC",
+    "link": "https://github.com/affaan-m/ECC",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. https://ecc.tools Language: English | العربية | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español | Українська | Polski | বাংলা | Italiano Warning Official sources only. Insta",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-18T14:44:20.051311+00:00",
+    "details": {}
+  },
+  {
+    "title": "jingyaogong/minimind",
+    "link": "https://github.com/jingyaogong/minimind",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "🧠 Train a 64M-parameter LLM from scratch in just 2h! https://jingyaogong.github.io/minimind \"大道至简\" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等全过程代码。 MiniM",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-18T14:44:20.058104+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage (Alexandra Alper/Reuters)",
+    "link": "https://www.techmeme.com/261118/p23#a261118p23",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Alexandra Alper / Reuters : Sources: the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage &nbsp; &mdash;&nbsp; The Trump administration is considering requiring US companies to publicly disclose their use of Chinese AI models &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-18T14:44:47.520939+00:00",
+    "details": {}
+  },
+  {
+    "title": "Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas (Alex Weprin/The Hollywood Reporter)",
+    "link": "https://www.techmeme.com/261118/p22#a261118p22",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Alex Weprin / The Hollywood Reporter : Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas &nbsp; &mdash;&nbsp; The new creations, the Anzellans, will react to guests and each other in real-time, showcasing how AI could transform the theme park experience.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-18T14:44:47.531040+00:00",
     "details": {}
   }
 ]
