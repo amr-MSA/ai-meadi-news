@@ -1,138 +1,5 @@
 [
   {
-    "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
-    "link": "https://www.techmeme.com/261018/p11#a261018p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Phoebe Liu / The Information : Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases &nbsp; &mdash;&nbsp; How many young AI cloud providers can the market, and Nvidia, support?&nbsp; &mdash;&nbsp; That's one of the big questions after a week &hellip;",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T23:57:46.070107+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal (Bailey Lipschultz/Bloomberg)",
-    "link": "https://www.techmeme.com/261018/p12#a261018p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bailey Lipschultz / Bloomberg : Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal &nbsp; &mdash;&nbsp; Nscale Ltd. is facing opposition to the valuation target it's pursuing in its initial public offering, according to people familiar &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T23:58:23.784718+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Gspot, a tool to lint gstack code",
-    "link": "https://generativespotting.com/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Hi HN! I just launched gspot. It's a tool that auto detects languages and frameworks you use in a repo and then sets up linters and agent rules. It handles JS, TS, Python and Swift. You can turn any rule and tool on and off. You can also create templates from any repo that uses gspot. Templates tell gspot what rules, tools and exceptions to install in a completely different repo. It makes it easy",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T23:58:23.798099+00:00",
-    "details": {}
-  },
-  {
-    "title": "ShortSmash – prompt-to-published short videos, 50-language dubbing, open source",
-    "link": "https://github.com/hydope/shortsmash",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/hydope/shortsmash Comments URL: https://news.ycombinator.com/item?id=50145847 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T23:58:23.804253+00:00",
-    "details": {}
-  },
-  {
-    "title": "Google Open Sources Harness2 for Self Improving AI Agents",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Google just released Harness2 as open source. It turns any AI harness into a system that improves itself over time. A harness is everything around the model. System prompt, tools, memory, skills, and subagents. Normally a person designs it once and the agent uses that fixed setup for every new task. With Harness2 the agent itself refines the harness for each task. It proposes changes, runs a few c",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-18T23:58:23.816053+00:00",
-    "details": {}
-  },
-  {
-    "title": "Analysis: 795 accounts funded by ADI Predictstreet's own fee-collecting wallet drove 99% of the FIFA-partnered prediction market's activity since late August (Wall Street Journal)",
-    "link": "https://www.techmeme.com/261018/p15#a261018p15",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Wall Street Journal : Analysis: 795 accounts funded by ADI Predictstreet's own fee-collecting wallet drove 99% of the FIFA-partnered prediction market's activity since late August &nbsp; &mdash;&nbsp; ADI Predictstreet, backed by Abu Dhabi's royal family, paid close to $150 million for advertising rights during the World Cup",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-19T02:59:51.066541+00:00",
-    "details": {}
-  },
-  {
-    "title": "Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment (Aaron Kirchfeld/Financial Times)",
-    "link": "https://www.techmeme.com/261018/p14#a261018p14",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Aaron Kirchfeld / Financial Times : Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment &nbsp; &mdash;&nbsp; Schneider Electric and Siemens move further into software as rival ABB bets on physical equipment",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-19T02:59:51.079378+00:00",
-    "details": {}
-  },
-  {
     "title": "mlabonne/llm-course",
     "link": "https://github.com/mlabonne/llm-course",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15996,6 +15863,63 @@
       "keywords": []
     },
     "rejected_at": "2026-11-17T23:13:57.855857+00:00",
+    "details": {}
+  },
+  {
+    "title": "YouTube is rolling out an update to include \"co-views\", or the estimated number of people watching together on TV, in the public view counts for videos (Emma Roth/The Verge)",
+    "link": "https://www.techmeme.com/261117/p73#a261117p73",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Emma Roth / The Verge : YouTube is rolling out an update to include &ldquo;co-views&rdquo;, or the estimated number of people watching together on TV, in the public view counts for videos &nbsp; &mdash;&nbsp; YouTube view counts will now include estimates of how many people are watching a video together on TV.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-18T05:00:01.177906+00:00",
+    "details": {}
+  },
+  {
+    "title": "LanceDB, which makes a multimodal lakehouse for AI training, built on the open format Lance, raised a $57.5M Series B led by Bessemer and Innovation Endeavors (Kyt Dotson/SiliconANGLE)",
+    "link": "https://www.techmeme.com/261117/p72#a261117p72",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Kyt Dotson / SiliconANGLE : LanceDB, which makes a multimodal lakehouse for AI training, built on the open format Lance, raised a $57.5M Series B led by Bessemer and Innovation Endeavors &nbsp; &mdash;&nbsp; LanceDB Inc., the developer of database technology designed to speed up artificial intelligence models, today announced &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-18T05:00:01.190859+00:00",
+    "details": {}
+  },
+  {
+    "title": "Canada: Highland Shores Children’s Aid Reveals Cybersecurity Breach Involving Personal Information",
+    "link": "https://databreaches.net/2026/11/17/canada-highland-shores-childrens-aid-reveals-cybersecurity-breach-involving-personal-information/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Pete Fisher reports: Highland Shores Children’s Aid Society is notifying individuals that their personal information may have been compromised following a cybersecurity incident that involved unauthorized access to its computer network. In a public notice dated November 4, 2026, the Society said it discovered on August 25 that an unauthorized third party had gained access...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-18T05:00:01.200792+00:00",
     "details": {}
   }
 ]
