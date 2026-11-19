@@ -1,43 +1,5 @@
 [
   {
-    "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
-    "link": "https://www.techmeme.com/261020/p53#a261020p53",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Abner Li / 9to5Google : Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature &nbsp; &mdash;&nbsp; Google is beginning to roll out Personal Intelligence for Gemini on Android Auto and Android Automotive (cars with Google built-in).",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T22:47:28.006979+00:00",
-    "details": {}
-  },
-  {
-    "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
-    "link": "https://www.techmeme.com/261020/p52#a261020p52",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dina Bass / Bloomberg : Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation &nbsp; &mdash;&nbsp; Pigment, a French AI company that competes with Microsoft's Excel and PowerPoint, has raised $250 million in a funding round &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T22:47:28.019902+00:00",
-    "details": {}
-  },
-  {
     "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back (Will Douglas Heaven/MIT Technology Review)",
     "link": "https://www.techmeme.com/261020/p58#a261020p58",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15737,6 +15699,63 @@
       ]
     },
     "rejected_at": "2026-11-19T21:10:30.639505+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: National Cyber Director Sean Cairncross is leaving now to let the White House get a successor confirmed before Democrats take the Senate in January (Axios)",
+    "link": "https://www.techmeme.com/261119/p53#a261119p53",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Axios : Sources: National Cyber Director Sean Cairncross is leaving now to let the White House get a successor confirmed before Democrats take the Senate in January &nbsp; &mdash;&nbsp; White House national cyber director Sean Cairncross is leaving his post, Axios has learned. &hellip; - Cairncross' departure was described as amicable.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T22:49:01.469350+00:00",
+    "details": {}
+  },
+  {
+    "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+    "link": "https://databreaches.net/2026/11/19/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Ben Glickman and Alexander Saeedy report: Data from thousands of customers of Visa, Mastercard, and JPMorgan Chase have unnerved consumers in the last week. A Visa spokesman said no payments data, such as card numbers, were affected and Visa’s own systems weren’t involved or affected. It added that the incident involved a third-party service provider...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T22:49:01.477817+00:00",
+    "details": {}
+  },
+  {
+    "title": "Google spots first-ever autonomous AI cyberattack by Russian-speaking hackers targeting France",
+    "link": "https://databreaches.net/2026/11/19/google-spots-first-ever-autonomous-ai-cyberattack-by-russian-speaking-hackers-targeting-france/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Jonah Davidov reports: An AI tool developed by Russian-speaking hackers carried out the first-ever fully automated cyberattack, according to a Monday report by Google&#8217;s Threat Intelligence Group. Multiple threat actors have been observed &#8220;abusing open-source, agentic penetration (pentesting) frameworks to autonomously name discrete phases and specific operational tasks during live intr",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T22:49:01.486915+00:00",
     "details": {}
   }
 ]
