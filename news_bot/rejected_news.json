@@ -1,233 +1,5 @@
 [
   {
-    "title": "headroomlabs-ai/headroom",
-    "link": "https://github.com/headroomlabs-ai/headroom",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the live index · full docs blob . Headroom co",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T06:49:02.499651+00:00",
-    "details": {}
-  },
-  {
-    "title": "withmarbleapp/os-taxonomy",
-    "link": "https://github.com/withmarbleapp/os-taxonomy",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Marble Skill Taxonomy An open, structured taxonomy of what children learn across the primary/elementary years — decomposed into fine-grained \"micro-topics\", wired into a prerequisite graph, and aligned to national curriculum standards. Produced by Marble . Version: v1 · Topics: 1,591 · Prerequisite edges: 3,225 · Subjects: 8 See it Every dot is a micro-topic, colored by subject; height is age; eac",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T06:49:02.508013+00:00",
-    "details": {}
-  },
-  {
-    "title": "shiyu-coder/Kronos",
-    "link": "https://github.com/shiyu-coder/Kronos",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Kronos: A Foundation Model for the Language of Financial Markets Kronos: A Foundation Model for the Language of Financial Markets Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Kronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from over 45 global exchanges . 📰 News 🚩 [2025.11.10] Kronos has been accpeted by AAAI 2026. 🚩 [202",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T06:49:02.536267+00:00",
-    "details": {}
-  },
-  {
-    "title": "Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets (Sam Biddle/The Intercept)",
-    "link": "https://www.techmeme.com/261020/p2#a261020p2",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Sam Biddle / The Intercept : Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets &nbsp; &mdash;&nbsp; Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T06:49:29.803678+00:00",
-    "details": {}
-  },
-  {
-    "title": "Chinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries (Saritha Rai/Bloomberg)",
-    "link": "https://www.techmeme.com/261020/p1#a261020p1",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Saritha Rai / Bloomberg : Chinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries &nbsp; &mdash;&nbsp; Neolix Technologies Co., a Chinese maker of driverless delivery vehicles, raised $400 million to fuel its global expansion.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T06:49:29.818964+00:00",
-    "details": {}
-  },
-  {
-    "title": "24GB is plenty if your engines take turns",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "System service that watches your card, swaps and loads whatever you want, whenever you want. Don’t have to swap anything manually, collisions avoided, VRAM fully dedicated to each function while it’s running (no VRAM squatters). I had issues everyday (Linux) where a node process would orphan, comfyUI auto starts and holds 500MB that strata can’t claim. I also wanted to be able to switch natively a",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T06:49:29.836837+00:00",
-    "details": {}
-  },
-  {
-    "title": "DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs (Saritha Rai/Bloomberg)",
-    "link": "https://www.techmeme.com/261020/p21#a261020p21",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Saritha Rai / Bloomberg : DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs &nbsp; &mdash;&nbsp; DeepSeek is opening up the software it uses to run its artificial intelligence models at scale, potentially making its technology cheaper and easier for businesses to run.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T13:07:58.356513+00:00",
-    "details": {}
-  },
-  {
-    "title": "Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)",
-    "link": "https://www.techmeme.com/261020/p20#a261020p20",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dana Wollman / Bloomberg : Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 &nbsp; &mdash;&nbsp; Salesforce Inc. has agreed to buy Braze Inc., an artificial intelligence-powered platform for marketers, for almost $5.7 billion in enterprise value.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T13:07:58.365013+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Algebras Harness – Localize Apps/Games from Claude Code",
-    "link": "https://github.com/algebras-ai/algebras-agent",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/algebras-ai/algebras-agent Comments URL: https://news.ycombinator.com/item?id=50165772 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T13:07:58.370835+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: ObsQRity – a daily puzzle played on a real QR code",
-    "link": "https://obsqrity.com",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://obsqrity.com Comments URL: https://news.ycombinator.com/item?id=50165724 Points: 1 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T13:07:58.376604+00:00",
-    "details": {}
-  },
-  {
-    "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "This is crazy good for studying to improve existing custom engines by community like gufo, halogen, strixite, Strata... by learning their secret sauces. &#32; submitted by &#32; /u/feelspeaceman [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T13:07:58.388006+00:00",
-    "details": {}
-  },
-  {
-    "title": "Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio",
-    "link": "https://databreaches.net/2026/10/20/suspected-cyber-incident-blocks-parkview-health-patient-portal-in-indiana-and-ohio/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "DysruptionHub reports: The health system disabled its network after suspicious activity, leaving MyChart and doctor searches unavailable and directing urgent medical needs to phone calls or walk-in clinics. A suspected cyber incident left Parkview Health patients without MyChart and online doctor searches Monday after the Indiana-based health system disabled its network in response to suspicious..",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T13:07:58.393648+00:00",
-    "details": {}
-  },
-  {
     "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
     "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
     "source_name": "BleepingComputer",
@@ -15768,6 +15540,253 @@
       "keywords": []
     },
     "rejected_at": "2026-11-19T04:52:57.268749+00:00",
+    "details": {}
+  },
+  {
+    "title": "HKUDS/CLI-Anything",
+    "link": "https://github.com/HKUDS/CLI-Anything",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ https://clianything.cc/ &nbsp; CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub : pip install cli-anything-hub then cli-hub install &lt;name&gt; — browse, install,",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:50:51.936020+00:00",
+    "details": {}
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "link": "https://github.com/nvm-sh/nvm",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. Node Version Manager Table of Contents Intro About Installing and Updating Install &amp; Update Script Additional Notes Installing in Docker Installing in Docker for CICD-Jobs Troubleshooting on Linux Troubleshooting on macOS Ansible Verify Installation Important Notes Git Install Manual Install Manual U",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:50:51.968685+00:00",
+    "details": {}
+  },
+  {
+    "title": "astral-sh/uv",
+    "link": "https://github.com/astral-sh/uv",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "An extremely fast Python package and project manager, written in Rust. https://docs.astral.sh/uv uv An extremely fast Python package and project manager, written in Rust. Installing Trio 's dependencies with a warm cache. Highlights A single tool to replace pip , pip-tools , pipx , poetry , pyenv , twine , virtualenv , and more. 10-100x faster than pip . Provides comprehensive project management ,",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:50:51.976400+00:00",
+    "details": {}
+  },
+  {
+    "title": "jquery/jquery",
+    "link": "https://github.com/jquery/jquery",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "jQuery JavaScript Library https://jquery.com jQuery — New Wave JavaScript Meetings are currently held on the matrix.org platform . Meeting minutes can be found at meetings.jquery.org . The latest version of jQuery is available at https://jquery.com/download/ . Version support Version Branch Support 4.x main Full 3.x 3.x-stable Critical-only 2.x 2.x-stable None 1.x 1.x-stable None jQuery 4.0.0 has",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:50:52.006362+00:00",
+    "details": {}
+  },
+  {
+    "title": "appwrite/appwrite",
+    "link": "https://github.com/appwrite/appwrite",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more https://appwrite.io Appwrite The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases, Storage, Functions, Messaging, Realtime, and Hosting, all in one place. English |",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:50:52.014086+00:00",
+    "details": {}
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "link": "https://github.com/openvinotoolkit/openvino",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference https://docs.openvino.ai Open-source software toolkit for optimizing and deploying deep learning models. Documentation • Blog • Key Features • Tutorials • Integrations • Benchmarks • Generative AI Inference Optimization : Boost deep learning performance in computer vision, automatic speech recognition, generative AI, nat",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:50:52.021785+00:00",
+    "details": {}
+  },
+  {
+    "title": "n8n-io/n8n",
+    "link": "https://github.com/n8n-io/n8n",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. https://n8n.io n8n – The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the cloud , and connect to 1500+ integrations. A",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:50:52.057080+00:00",
+    "details": {}
+  },
+  {
+    "title": "solidjs/solid",
+    "link": "https://github.com/solidjs/solid",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A declarative, efficient, and flexible JavaScript library for building user interfaces. https://solidjs.com Website • Docs • Tutorial • Playground • Discord Solid is a declarative JavaScript library for building user interfaces. Instead of a Virtual DOM, it compiles templates to real DOM nodes and updates them with fine-grained reactivity. Declare your state and use it throughout your app — when a",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:50:52.064559+00:00",
+    "details": {}
+  },
+  {
+    "title": "punkpeye/awesome-mcp-servers",
+    "link": "https://github.com/punkpeye/awesome-mcp-servers",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "A collection of MCP servers. https://glama.ai/mcp/servers",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:50:52.072376+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Anthropic's IPO left 50%+ of bidding institutional investors with zero shares; allocations heavily favored US investors, shutting out foreign orders (Bloomberg)",
+    "link": "https://www.techmeme.com/261119/p33#a261119p33",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Sources: Anthropic's IPO left 50%+ of bidding institutional investors with zero shares; allocations heavily favored US investors, shutting out foreign orders &nbsp; &mdash;&nbsp; Anthropic PBC's initial public offering left more than half of the institutional investors bidding for stock without any shares, according to people familiar with the matter.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:52:01.722483+00:00",
+    "details": {}
+  },
+  {
+    "title": "The European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX (Gerardo Fortuna/Politico)",
+    "link": "https://www.techmeme.com/261119/p32#a261119p32",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Gerardo Fortuna / Politico : The European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX &nbsp; &mdash;&nbsp; Presented by European Commission's Directorate-General for Education, Youth, Sport and Culture&nbsp; &mdash;&nbsp; with MAX GRIERA&nbsp; &mdash;&nbsp; CIAO THERE.",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:52:01.736546+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Chipload – Open-source 2.5D CAM for CNC routing",
+    "link": "https://github.com/chipload/chipload",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "This is an Open source 2.5D CAM software I made (w. Claude) for generating gcode for CNC routers. It is quite full-featured by now and I have tried to make it powerful but still quite easy/intuitive to use. I would love to get feedback on the design Features: * Import DXF/SVG or draw in app * Pockets with restpasses * Profile cutting with tabs * V-carving * Prism-carving * Moulding-carving * 3D-re",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:52:01.746499+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: ChartKit – a chart library where the agent writes JSON, not code",
+    "link": "https://github.com/toddynho/chartkit",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/toddynho/chartkit Comments URL: https://news.ycombinator.com/item?id=50560641 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T14:52:01.756763+00:00",
     "details": {}
   }
 ]
