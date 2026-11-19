@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved them for the third time this year on Nov. 5 (Axios)",
-    "link": "https://www.techmeme.com/261111/p46#a261111p46",
-    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن وزير التجارة الأمريكي هوارد لوتنيك يماطل في تنفيذ قيود وقواعد تنظيمية أقرها الرئيس ترامب تستهدف شركات يُشتبه في قيامها بتحويل وإعادة توجيه رقائق الذكاء الاصطناعي المتقدمة من شركة إنفيديا إلى الصين، وذلك رغم صدور موافقات البيت الأبيض الأخيرة لمكافحة الالتفاف على العقوبات التجارية.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "us-stalls-nvidia-chip-export-curbs-china",
-    "event_key": "nvidia|2026 11|أجهزة وعتاد|غير محدد|أمريكا الشمالية",
-    "company_name": "Nvidia",
-    "event_year_month": "2026-11",
-    "news_type": "أجهزة وعتاد",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Nvidia",
-      "AI chips",
-      "China",
-      "Export controls",
-      "Howard Lutnick"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-11T23:47:53.832313+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 296,
-    "telegram_message_url": "https://t.me/Eng_limitless/296"
-  },
-  {
     "title": "Jensen Huang resigns as Nvidia CEO, president, and board member; CFO Colette Kress will be interim CEO, as the board considers candidates; NVDA drops 10%+ (Nvidia Newsroom)",
     "link": "https://www.techmeme.com/261112/p26#a261112p26",
     "summary": "أعلنت شركة إنفيديا في بيان رسمي عن استقالة رئيسها التنفيذي ومؤسسها جينسن هوانغ من كافة مناصبه التنفيذية وعضويته في مجلس الإدارة، وتعيين المديرة المالية كوليت كريس كرئيس تنفيذي مؤقت أثناء بحث مجلس الإدارة عن مرشحين دائمين، وذلك إثر التداعيات والتطورات المتلاحقة الأخيرة.",

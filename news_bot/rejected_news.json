@@ -1,43 +1,5 @@
 [
   {
-    "title": "Sources: OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ (Reuters)",
-    "link": "https://www.techmeme.com/261019/p49#a261019p49",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Reuters : Sources: OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ &nbsp; &mdash;&nbsp; OpenAI is racing to secure investor commitments before rival Anthropic's expected public market debut in mid-November &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T00:47:18.394683+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief (Wall Street Journal)",
-    "link": "https://www.techmeme.com/261019/p48#a261019p48",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Wall Street Journal : Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief &nbsp; &mdash;&nbsp; Company is overhauling creative leadership as it struggles to get domestic audiences to watch more&nbsp; &mdash;&nbsp; Netflix is writing a new script.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-20T00:47:18.407500+00:00",
-    "details": {}
-  },
-  {
     "title": "headroomlabs-ai/headroom",
     "link": "https://github.com/headroomlabs-ai/headroom",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15673,6 +15635,139 @@
       "keywords": []
     },
     "rejected_at": "2026-11-18T22:45:33.434629+00:00",
+    "details": {}
+  },
+  {
+    "title": "TfL photocard breach exposes 265,000 customers",
+    "link": "https://www.bbc.co.uk/news/articles/c6n4kz3lgdz5o",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/c6n4kz3lgdz5o Comments URL: https://news.ycombinator.com/item?id=50555675 Points: 2 # Comments: 1",
+    "reason": "مكرر في السجل: title-similarity",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T04:52:12.958033+00:00",
+    "details": {}
+  },
+  {
+    "title": "UK: Transport for London photocard breach exposes 265,000 customers",
+    "link": "https://databreaches.net/2026/11/18/uk-transport-for-london-photocard-breach-exposes-265000-customers/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The BBC reports: The personal details of about 265,000 Oyster photocard customers have been accessed in a cyber breach, Transport for London (TfL) has said. Names, email and home addresses, phone numbers, dates of birth and security questions and answers were compromised after &#8220;suspicious activity&#8221; was detected on the photocard website on Monday. TfL said...",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T04:52:13.259213+00:00",
+    "details": {}
+  },
+  {
+    "title": "Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 (Bloomberg)",
+    "link": "https://www.techmeme.com/261118/p63#a261118p63",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Beijing-based MegaRobo, which uses robotics and AI to automate lab work for biotech research, raised ~$200M; it became a unicorn after raising $300M in 2022 &nbsp; &mdash;&nbsp; Chinese biotech upstart MegaRobo Technologies has raised nearly $200 million from investors including Oman's sovereign wealth fund &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T04:52:57.239839+00:00",
+    "details": {}
+  },
+  {
+    "title": "Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets (CoinDesk)",
+    "link": "https://www.techmeme.com/261118/p62#a261118p62",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "CoinDesk : Kraken parent company Payward agrees to buy Tribe Capital, the VC firm formerly led by Kraken co-CEO Arjun Sethi; Tribe Capital has $2.7B in assets &nbsp; &mdash;&nbsp; Payward, the parent company of cryptocurrency exchange giant Kraken, agreed to buy Tribe Capital Management, the venture capital business formerly helmed &hellip;",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T04:52:57.246958+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: A Air traffic control SIM that forces you to remember how to write code",
+    "link": "https://github.com/shawnzam/holding-pattern",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/shawnzam/holding-pattern Comments URL: https://news.ycombinator.com/item?id=50555534 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T04:52:57.252394+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Open-source MCP server for pay-per-result research/public-data tools",
+    "link": "https://github.com/pandadad0214/panda-federation-tools",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/pandadad0214/panda-federation-tools Comments URL: https://news.ycombinator.com/item?id=50555500 Points: 1 # Comments: 0",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T04:52:57.258025+00:00",
+    "details": {}
+  },
+  {
+    "title": "North Carolina Arrests 2 involved in business email compromise scam of hospital",
+    "link": "https://databreaches.net/2026/11/18/north-carolina-arrests-2-involved-in-business-email-compromise-scam-of-hospital/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "November 16 &#8211; The West Jefferson Police Department and the North Carolina State Bureau of Investigation (SBI) have arrested two men in a multi-state fraud investigation that began when Ashe Memorial Hospital lost more than $196,000 to a business email scam. Investigators say the suspects posed as legitimate vendors in emails to hospital staff and...",
+    "reason": "تعذر تقييم المرشح عبر Gemini",
+    "rejection_stage": "gemini-evaluation",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-19T04:52:57.268749+00:00",
     "details": {}
   }
 ]
