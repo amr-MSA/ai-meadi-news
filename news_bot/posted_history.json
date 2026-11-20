@@ -532,5 +532,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 316,
     "telegram_message_url": "https://t.me/Eng_limitless/316"
+  },
+  {
+    "title": "Sources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September (Rebecca Torrence/Bloomberg)",
+    "link": "https://www.techmeme.com/261120/p36#a261120p36",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة الذكاء الاصطناعي الناشئة Cognition تدرس جمع ملياري دولار أو أكثر في جولة تمويلية جديدة تسعى فيها للوصول إلى تقييم يبلغ 75 مليار دولار، وذلك بعد أن جمعت أكثر من 3 مليارات دولار خلال عام 2026، تضمنت جولة بقيمة ملياري دولار على تقييم 48 مليار دولار في سبتمبر الماضي.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "cognition-ai-funding-talks-75b-valuation",
+    "event_key": "cognition|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "company_name": "Cognition",
+    "event_year_month": "2026-11",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Cognition",
+      "ذكاء اصطناعي",
+      "تمويل",
+      "تقييم"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-20T22:26:13.215492+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 317,
+    "telegram_message_url": "https://t.me/Eng_limitless/317"
   }
 ]
