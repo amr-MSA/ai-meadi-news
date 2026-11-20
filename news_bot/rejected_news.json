@@ -1,176 +1,5 @@
 [
   {
-    "title": "OpenAI says the PHP flaws, found using GPT-5.6 Sol, \"are among several significant vulnerabilities\" it found and expects \"similar findings to increase sharply\" (OpenAI)",
-    "link": "https://www.techmeme.com/261021/p34#a261021p34",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "OpenAI : OpenAI says the PHP flaws, found using GPT-5.6 Sol, &ldquo;are among several significant vulnerabilities&rdquo; it found and expects &ldquo;similar findings to increase sharply&rdquo; &nbsp; &mdash;&nbsp; - Validate and fix the upstream vulnerability. &hellip; - Give affected organizations time to act.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T14:45:59.284122+00:00",
-    "details": {}
-  },
-  {
-    "title": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A (Sean O'Kane/TechCrunch)",
-    "link": "https://www.techmeme.com/261021/p33#a261021p33",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Sean O'Kane / TechCrunch : Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A &nbsp; &mdash;&nbsp; When Alex Baikovitz co-founded Mach9 Robotics in 2021, his goal was to build a better, faster, and cheaper way for civil engineers to do visual inspections.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T14:45:59.291954+00:00",
-    "details": {}
-  },
-  {
-    "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/chemist_slime [link] &#32; [comments]",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T14:45:59.304423+00:00",
-    "details": {}
-  },
-  {
-    "title": "EA is shutting down BioWare",
-    "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-    "source_name": "The Verge",
-    "summary": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has chosen not to continue development on the next Mass Effect game that was in the works",
-    "reason": "مكرر داخل دفعة RSS الحالية",
-    "rejection_stage": "batch-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T17:54:08.072001+00:00",
-    "details": {}
-  },
-  {
-    "title": "Microsoft reveals pricing for Xbox Cloud Gaming without Game Pass, for Xbox Insiders now and others next month: 10 hours for $3.99, 25 for $7.99, 50 for $11.99 (Tom Warren/The Verge)",
-    "link": "https://www.techmeme.com/261021/p44#a261021p44",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tom Warren / The Verge : Microsoft reveals pricing for Xbox Cloud Gaming without Game Pass, for Xbox Insiders now and others next month: 10 hours for $3.99, 25 for $7.99, 50 for $11.99 &nbsp; &mdash;&nbsp; Microsoft is opening up Xbox Cloud Gaming to anyone in November. &hellip; Microsoft announced last month that it will let anyone &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T19:45:42.113347+00:00",
-    "details": {}
-  },
-  {
-    "title": "Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)",
-    "link": "https://www.techmeme.com/261021/p43#a261021p43",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Rachel Metz / Bloomberg : Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation &nbsp; &mdash;&nbsp; Flapping Airplanes, a year-old artificial intelligence startup, has raised $1 billion in funding at a $6 billion valuation &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T19:45:42.121756+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ask HN: How will programming language design change as more code comes from AI?",
-    "link": "https://news.ycombinator.com/item?id=50186311",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "It appears that we're moving to a world where human programmers deal less and less with specific code details. How do you expect/prefer language designers' priorities to shift? e.g. less toward human friendliness changes, more towards machine verifiability, etc? Comments URL: https://news.ycombinator.com/item?id=50186311 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T19:45:42.127681+00:00",
-    "details": {}
-  },
-  {
-    "title": "LLM-D 1.0 Takes Open-Source Kubernetes AI Inference into Production",
-    "link": "https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/ Comments URL: https://news.ycombinator.com/item?id=50186310 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T19:45:42.133485+00:00",
-    "details": {}
-  },
-  {
-    "title": "RecursiveSI/flint (40B A2.5B) · Hugging Face",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqik0/recursivesiflint_40b_a25b_hugging_face/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/coder543 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T19:45:42.143849+00:00",
-    "details": {}
-  },
-  {
     "title": "SAP: Q3 cloud revenue up 25% YoY to €6.67B, vs. €6.57B est., total revenue up 12% to €10.27B, current cloud backlog up 26% to €24.1B, all in constant currencies (Christina Kyriasoglou/Bloomberg)",
     "link": "https://www.techmeme.com/261021/p55#a261021p55",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15718,6 +15547,32 @@
       "keywords": []
     },
     "rejected_at": "2026-11-20T14:32:40.304980+00:00",
+    "details": {}
+  },
+  {
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+    "source_name": "BleepingComputer",
+    "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "VMware",
+      "event_year_month": "2026-11",
+      "news_type": "أمن سيبراني",
+      "product_name": "VMware vCenter Server",
+      "region": "دولي",
+      "topic_key": "vmware-vcenter-zero-day-auth-bypass-patched",
+      "keywords": [
+        "VMware",
+        "vCenter",
+        "Zero-Day",
+        "Broadcom",
+        "Authentication Bypass",
+        "Cybersecurity"
+      ]
+    },
+    "rejected_at": "2026-11-20T20:55:43.509507+00:00",
     "details": {}
   }
 ]
