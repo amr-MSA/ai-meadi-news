@@ -1,62 +1,5 @@
 [
   {
-    "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back (Will Douglas Heaven/MIT Technology Review)",
-    "link": "https://www.techmeme.com/261020/p58#a261020p58",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Will Douglas Heaven / MIT Technology Review : An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back &nbsp; &mdash;&nbsp; &ldquo;I think I have good news about the nature of neural networks.&rdquo;&nbsp; With those simple words of optimism, Nick Cammarata &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T02:21:22.526434+00:00",
-    "details": {}
-  },
-  {
-    "title": "Thiel's leaked Rome lectures cast EA and AI \"safetyism\" as Antichrist forerunners, Bill Gates as \"Mr. Hyde\", and Eliezer Yudkowsky as \"more Luddite than Greta\" (David Gibson/The Verge)",
-    "link": "https://www.techmeme.com/261020/p57#a261020p57",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "David Gibson / The Verge : Thiel's leaked Rome lectures cast EA and AI &ldquo;safetyism&rdquo; as Antichrist forerunners, Bill Gates as &ldquo;Mr. Hyde&rdquo;, and Eliezer Yudkowsky as &ldquo;more Luddite than Greta&rdquo; &nbsp; &mdash;&nbsp; It's a time of apocalyptic worldviews in Silicon Valley.&nbsp; The latest AI doom cycle is driven &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T02:21:22.541148+00:00",
-    "details": {}
-  },
-  {
-    "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "China just ordered 3mil RTX 5500 Pro for $11.4 a pop. Probably for llm inference and AI video gen. I suppose this card is now out of reach for local llm. &#32; submitted by &#32; /u/Ok_Warning2146 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T02:21:22.559792+00:00",
-    "details": {}
-  },
-  {
     "title": "cloudflare/security-audit-skill",
     "link": "https://github.com/cloudflare/security-audit-skill",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15756,6 +15699,44 @@
       "keywords": []
     },
     "rejected_at": "2026-11-19T22:49:01.486915+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic shares fell ~5% in after-hours trading following its debut, after raising a record $107.3B in its IPO (Bloomberg)",
+    "link": "https://www.techmeme.com/261119/p61#a261119p61",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Bloomberg : Anthropic shares fell ~5% in after-hours trading following its debut, after raising a record $107.3B in its IPO &nbsp; &mdash;&nbsp; Anthropic PBC shares were down about 5% in post-market trading as the artificial intelligence developer wrapped up its first day as a public company after a record-setting $107.3 billion offering.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T04:43:24.352230+00:00",
+    "details": {}
+  },
+  {
+    "title": "California's AG subpoenas Nvidia to investigate whether Jensen Huang's actions resulted in China getting advanced chips, and whether Nvidia misled investors (Katie Nicora/CBS News)",
+    "link": "https://www.techmeme.com/261119/p60#a261119p60",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Katie Nicora / CBS News : California's AG subpoenas Nvidia to investigate whether Jensen Huang's actions resulted in China getting advanced chips, and whether Nvidia misled investors &nbsp; &mdash;&nbsp; California Attorney General Rob Bonta announced an investigative subpoena on chipmaker Nvidia on Thursday following allegations &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T04:43:24.361398+00:00",
     "details": {}
   }
 ]
