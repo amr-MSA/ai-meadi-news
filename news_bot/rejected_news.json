@@ -1,195 +1,5 @@
 [
   {
-    "title": "cloudflare/security-audit-skill",
-    "link": "https://github.com/cloudflare/security-audit-skill",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seed",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:13.770441+00:00",
-    "details": {}
-  },
-  {
-    "title": "Graphify-Labs/graphify",
-    "link": "https://github.com/Graphify-Labs/graphify",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.com Read this in other languages English | 简体中文 | 日本語 | 한국어 | Deutsch | Français | Español | हिन्दी | Português | Русский | العربية | فارسی |",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:13.797681+00:00",
-    "details": {}
-  },
-  {
-    "title": "anthropics/knowledge-work-plugins",
-    "link": "https://github.com/anthropics/knowledge-work-plugins",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork , also compatible with Claude Code . Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you li",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:13.824189+00:00",
-    "details": {}
-  },
-  {
-    "title": "wshobson/agents",
-    "link": "https://github.com/wshobson/agents",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi https://sethhobson.com Plugins, agents, and skills for AI coding tools Use one collection of plugins, agents, skills, and commands across Claude Code, OpenAI Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi. A harness is the coding tool that loads and ru",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:13.830292+00:00",
-    "details": {}
-  },
-  {
-    "title": "sickn33/agentic-awesome-skills",
-    "link": "https://github.com/sickn33/agentic-awesome-skills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. https://aaskills.tech/ AAS Core — Agentic Awesome Skills Find reusable instructions for your project, inspect their complete files, and keep an exact skill set you can revie",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:13.840301+00:00",
-    "details": {}
-  },
-  {
-    "title": "vllm-project/vllm",
-    "link": "https://github.com/vllm-project/vllm",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please visit vllm.ai/events to join us. About vLLM is a fast and easy-",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:13.852747+00:00",
-    "details": {}
-  },
-  {
-    "title": "Memo: Nscale CEO Josh Payne says it has \"more than $100B in contracted revenue\"; sources say it still plans to list by the end of 2026 at a $30B-$35B valuation (Kieran Smith/Financial Times)",
-    "link": "https://www.techmeme.com/261021/p8#a261021p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Kieran Smith / Financial Times : Memo: Nscale CEO Josh Payne says it has &ldquo;more than $100B in contracted revenue&rdquo;; sources say it still plans to list by the end of 2026 at a $30B-$35B valuation &nbsp; &mdash;&nbsp; Founder Josh Payne says demand remains &lsquo;insatiable&rsquo; for the services of Nvidia-backed data centre group",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:41.285429+00:00",
-    "details": {}
-  },
-  {
-    "title": "A look at Chinese philosophical views on AI; one says aligning AI to human values may be a \"suicidal mistake\" and another fears the \"machinization of humans\" (Arnaud Bertrand)",
-    "link": "https://www.techmeme.com/261021/p7#a261021p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Arnaud Bertrand : A look at Chinese philosophical views on AI; one says aligning AI to human values may be a &ldquo;suicidal mistake&rdquo; and another fears the &ldquo;machinization of humans&rdquo; &nbsp; &mdash;&nbsp; We've been looking at AI from the bottom of our own well.&nbsp; Here's the view from China's.&nbsp; &mdash;&nbsp; &#8729; Paid",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:41.296707+00:00",
-    "details": {}
-  },
-  {
-    "title": "Claude Code Spotted a Cryptominer on Mac While Building a Temperature App",
-    "link": "https://www.gadgetreview.com/claude-code-spotted-a-cryptominer-on-mac-while-helping-to-build-a-temperature-app",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.gadgetreview.com/claude-code-spotted-a-cryptominer-on-mac-while-helping-to-build-a-temperature-app Comments URL: https://news.ycombinator.com/item?id=50177756 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:41.304488+00:00",
-    "details": {}
-  },
-  {
-    "title": "Using AI to Delete Code: Agentic Tech Debt Cleanup at Uber",
-    "link": "https://www.uber.com/us/en/blog/ai-code-cleanup/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://www.uber.com/us/en/blog/ai-code-cleanup/ Comments URL: https://news.ycombinator.com/item?id=50177259 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T08:57:41.311994+00:00",
-    "details": {}
-  },
-  {
     "title": "OpenAI says the PHP flaws, found using GPT-5.6 Sol, \"are among several significant vulnerabilities\" it found and expects \"similar findings to increase sharply\" (OpenAI)",
     "link": "https://www.techmeme.com/261021/p34#a261021p34",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15737,6 +15547,177 @@
       "keywords": []
     },
     "rejected_at": "2026-11-20T04:43:24.361398+00:00",
+    "details": {}
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "link": "https://github.com/firecrawl/firecrawl",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. https://firecrawl.dev 🔥 Firecrawl Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three. Firecrawl Local . Run Firecrawl on your own machine",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T14:31:35.220763+00:00",
+    "details": {}
+  },
+  {
+    "title": "nginx/nginx",
+    "link": "https://github.com/nginx/nginx",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The official NGINX Open Source repository. https://nginx.org/ NGINX (pronounced \"engine x\" or \"en-jin-eks\") is the world's most popular Web Server, high performance Load Balancer, Reverse Proxy, API Gateway and Content Cache. NGINX is free and open source software, distributed under the terms of a simplified 2-clause BSD-like license . Enterprise distributions, commercial support and training are",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T14:31:35.228398+00:00",
+    "details": {}
+  },
+  {
+    "title": "cathrynlavery/diagram-design",
+    "link": "https://github.com/cathrynlavery/diagram-design",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. https://diagramdesign.dev An agent skill that draws diagrams as one self-contained HTML + SVG file, in your brand. 51 diagram types. No shadows. No Mermaid slop. Website · Gallery · Changelog Install · What it makes · Quick",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T14:31:35.245279+00:00",
+    "details": {}
+  },
+  {
+    "title": "mjmirza/app-store-compliance",
+    "link": "https://github.com/mjmirza/app-store-compliance",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents. https://mjmirza.github.io/app-store-compliance/ &nbsp;&nbsp;&nbsp; App Store Compliance Playbook Stop getting your iOS and Androi",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T14:31:35.270194+00:00",
+    "details": {}
+  },
+  {
+    "title": "Tracer-Cloud/opensre",
+    "link": "https://github.com/Tracer-Cloud/opensre",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The open-source agent for CI/CD reliability. https://opensre.com OpenSRE: The open-source agent for CI/CD reliability Your CI tells you it broke, but not why or how to fix it. OpenSRE is a CLI agent that reads the failed run, traces the cause and pushes a fix for you to review. Self-hosted, with your own models. Quickstart · Docs · FAQ · Security 🚧 Public Alpha: Core workflows are usable for early",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T14:31:35.278015+00:00",
+    "details": {}
+  },
+  {
+    "title": "toeverything/AFFiNE",
+    "link": "https://github.com/toeverything/AFFiNE",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. https://affine.pro AFFiNE.Pro Write, Draw and Plan All at Once A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion &amp; Miro. One hyper-fused platform fo",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T14:31:35.285537+00:00",
+    "details": {}
+  },
+  {
+    "title": "XiaoYouChR/Ghost-Downloader-3",
+    "link": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "The only downloader you need. 下载器的集大成者。 https://gd.xychr.com/ 简体中文 | English Note Swiftproxy – Premium Global Residential Proxy Network Swiftproxy provides 90M+ real residential IPs across 220+ locations worldwide, helping users access global content and manage location-specific network connections. With rotating and static residential proxies, flexible geo-targeting, and HTTP(S)/SOCKS5 support, S",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T14:31:35.293557+00:00",
+    "details": {}
+  },
+  {
+    "title": "zhouxiaoka/autoclip",
+    "link": "https://github.com/zhouxiaoka/autoclip",
+    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
+    "summary": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing. https://zhouxiaoka.github.io/autoclip_intro/ AutoClip 一个链接，一键出片 开源，在你的电脑上剪辑与渲染。贴一个链接，选好平台，生成 视频、封面和发布文案 ， 适配抖音、小红书、TikTok、Reels、YouTube Shorts、B 站与 YouTube。 软件免费，云端模型按量计费；需要调整时可进入编辑器。 官网 · 下载桌面版 · 案例库 · 研究 · 快速开始 · 文档 · 问题反馈 简体中文 · English",
+    "reason": "لا يوجد تاريخ موثوق",
+    "rejection_stage": "fetch",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T14:31:35.301191+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic raises an additional $12.2B as underwriters exercise their \"greenshoe\" overallotment of shares, bringing the total raised in its IPO to $93.5B (Ashley Capoot/CNBC)",
+    "link": "https://www.techmeme.com/261120/p14#a261120p14",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Ashley Capoot / CNBC : Anthropic raises an additional $12.2B as underwriters exercise their &ldquo;greenshoe&rdquo; overallotment of shares, bringing the total raised in its IPO to $93.5B &nbsp; &mdash;&nbsp; Anthropic underwriters have officially exercised their overallotment of shares in the historic initial public offering &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-20T14:32:40.304980+00:00",
     "details": {}
   }
 ]

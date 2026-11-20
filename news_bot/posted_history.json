@@ -608,5 +608,31 @@
     "reliability_level": "🟢",
     "telegram_message_id": 315,
     "telegram_message_url": "https://t.me/Eng_limitless/315"
+  },
+  {
+    "title": "Source: Coinbase is targeting H1 2027 to begin offering in-house event contracts in the US; it currently offers prediction markets through a Kalshi partnership (Bloomberg)",
+    "link": "https://www.techmeme.com/261120/p15#a261120p15",
+    "summary": "كشفت تقارير صحفية نقلًا عن مصدر مطلع أن شركة كوينبيس (Coinbase) تخطط لبدء تقديم عقود الأحداث والأسواق التوقعية بشكل مستقل وداخلي في الولايات المتحدة خلال النصف الأول من عام 2027، بدلاً من الاعتماد الحالي على الشراكة مع منصة كالمشي.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "coinbase-in-house-event-contracts-leak",
+    "event_key": "coinbase|2026 11|أعمال وتقنية|coinbase event contracts|أمريكا الشمالية",
+    "company_name": "Coinbase",
+    "event_year_month": "2026-11",
+    "news_type": "أعمال وتقنية",
+    "product_name": "Coinbase Event Contracts",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Coinbase",
+      "Event Contracts",
+      "Prediction Markets",
+      "Kalshi"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-20T14:32:40.288110+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 316,
+    "telegram_message_url": "https://t.me/Eng_limitless/316"
   }
 ]
