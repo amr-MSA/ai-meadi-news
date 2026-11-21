@@ -1,31 +1,5 @@
 [
   {
-    "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)",
-    "link": "https://www.techmeme.com/261113/p35#a261113p35",
-    "summary": "نقلت تقارير صحفية عن مصادر مطلعة أن العطل الذي أصاب أنظمة إدارة الطيران الفيدرالية الأمريكية (FAA) وقع عقب إجراء تحديث لشبكة الاتصالات الخاصة التي تربط أنظمة التحكم في الحركة الجوية، مما تسبب في إعادة تشغيل الأنظمة بشكل مفاجئ وانهيارها.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "faa-atc-network-update-outage",
-    "event_key": "faa|2026 11|سحابة ومراكز بيانات|faa atc system|أمريكا الشمالية",
-    "company_name": "FAA",
-    "event_year_month": "2026-11",
-    "news_type": "سحابة ومراكز بيانات",
-    "product_name": "FAA ATC System",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "FAA",
-      "ATC",
-      "Outage",
-      "Network Update"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-14T00:32:38.446524+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 301,
-    "telegram_message_url": "https://t.me/Eng_limitless/301"
-  },
-  {
     "title": "Cursor confirms security breach led to malicious Claude Code extension",
     "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
     "summary": "أكدت منصة تطوير البرمجيات بالذكاء الاصطناعي Cursor تعرضها لاختراق أمني أتاح للمهاجمين نشر وتوزيع إضافة خبيثة تُحاكي أداة Claude Code عبر متجرها الرسمي، وذلك بعد سرقة بيانات اعتماد خاصة بالشركة من مزود البنية التحتية للذكاء الاصطناعي Fireworks AI.",
@@ -558,5 +532,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 317,
     "telegram_message_url": "https://t.me/Eng_limitless/317"
+  },
+  {
+    "title": "Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks (Evan Perez/CNN)",
+    "link": "https://www.techmeme.com/261120/p44#a261120p44",
+    "summary": "كشفت تقارير صحفية نقلًا عن مصادر مطلعة أن مكتب التحقيقات الفيدرالي الأمريكي (FBI) يجري تحقيقًا بشأن اختراق أمني محتمل استهدف قاعدة بيانات المركز الوطني لعلومات الجرائم (NCIC)، وهي المنظومة الحيوية التي تعتمد عليها أجهزة إنفاذ القانون لتبادل أذونات الاعتقال والسجلات الجنائية.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "fbi-ncic-database-breach-investigation",
+    "event_key": "fbi|2026 11|أمن سيبراني|ncic database|أمريكا الشمالية",
+    "company_name": "FBI",
+    "event_year_month": "2026-11",
+    "news_type": "أمن سيبراني",
+    "product_name": "NCIC Database",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "FBI",
+      "NCIC",
+      "اختراق",
+      "أمن سيبراني",
+      "تسريب"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-21T04:38:20.014111+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 318,
+    "telegram_message_url": "https://t.me/Eng_limitless/318"
   }
 ]

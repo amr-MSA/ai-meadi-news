@@ -1,138 +1,5 @@
 [
   {
-    "title": "SAP: Q3 cloud revenue up 25% YoY to €6.67B, vs. €6.57B est., total revenue up 12% to €10.27B, current cloud backlog up 26% to €24.1B, all in constant currencies (Christina Kyriasoglou/Bloomberg)",
-    "link": "https://www.techmeme.com/261021/p55#a261021p55",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Christina Kyriasoglou / Bloomberg : SAP: Q3 cloud revenue up 25% YoY to &euro;6.67B, vs. &euro;6.57B est., total revenue up 12% to &euro;10.27B, current cloud backlog up 26% to &euro;24.1B, all in constant currencies &nbsp; &mdash;&nbsp; SAP SE reported higher growth for its cloud products than anticipated in a sign that the boom &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T22:52:29.432206+00:00",
-    "details": {}
-  },
-  {
-    "title": "IBM reports Q3 revenue up 5% YoY to $17.1B, above $16.82B est., net income up 26% to $2.19B, software revenue up 8% to $7.8B, and infrastructure revenue up 4% (Elias Schisgall/Wall Street Journal)",
-    "link": "https://www.techmeme.com/261021/p54#a261021p54",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Elias Schisgall / Wall Street Journal : IBM reports Q3 revenue up 5% YoY to $17.1B, above $16.82B est., net income up 26% to $2.19B, software revenue up 8% to $7.8B, and infrastructure revenue up 4% &nbsp; &mdash;&nbsp; The company reported a third-quarter profit of $2.19 billion, up from $1.74 billion a year earlier",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T22:52:29.447237+00:00",
-    "details": {}
-  },
-  {
-    "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-    "link": "https://xingjianbai.com/reactive-optimizers/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://xingjianbai.com/reactive-optimizers/ Comments URL: https://news.ycombinator.com/item?id=50188440 Points: 2 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T22:52:29.456423+00:00",
-    "details": {}
-  },
-  {
-    "title": "Pghacker-MCP: MCP server indexing pgsql-hackers and PostgreSQL source",
-    "link": "https://pghacker-mcp.dev/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://pghacker-mcp.dev/ Comments URL: https://news.ycombinator.com/item?id=50188285 Points: 2 # Comments: 0",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-21T22:52:29.465519+00:00",
-    "details": {}
-  },
-  {
-    "title": "GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq (Aarian Marshall/Wired)",
-    "link": "https://www.techmeme.com/261021/p59#a261021p59",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Aarian Marshall / Wired : GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq &nbsp; &mdash;&nbsp; The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-22T02:16:40.828570+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: advisers within Elon Musk's empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power (Bloomberg)",
-    "link": "https://www.techmeme.com/261021/p58#a261021p58",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Bloomberg : Sources: advisers within Elon Musk's empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power &nbsp; &mdash;&nbsp; Time is running out to pull off the $3.7 trillion merger before political and financial environments take a turn.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-22T02:16:40.838526+00:00",
-    "details": {}
-  },
-  {
-    "title": "After using Flash next",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xc4mn5/after_using_flash_next/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#x200b; Fun fact the entire meme made by flash next in Rikkahub android app &#32; submitted by &#32; /u/Fz1zz [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-22T02:16:40.850159+00:00",
-    "details": {}
-  },
-  {
     "title": "supabase/supabase",
     "link": "https://github.com/supabase/supabase",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15668,6 +15535,44 @@
       "keywords": []
     },
     "rejected_at": "2026-11-20T22:26:13.261036+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)",
+    "link": "https://www.techmeme.com/261120/p45#a261120p45",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "The Information : Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is &ldquo;no longer under active consideration&rdquo; &nbsp; &mdash;&nbsp; SoftBank CEO Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar buyout of memory chip giant SK Hynix &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-21T04:38:20.026813+00:00",
+    "details": {}
+  },
+  {
+    "title": "Ransomware: What we know about the arrests of Chaos affiliates",
+    "link": "https://databreaches.net/2026/11/20/ransomware-what-we-know-about-the-arrests-of-chaos-affiliates/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Valéry Rieß-Marchive reports: The Ukraininan authorities have released further details regarding four individuals arrested as part of a wider ransomware investigation into the cyber criminal ransomware underground. The four detainees linked to the so-called Chaos ransomware operation – a group that has only recently come to light – are described as members of a 27-person...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-21T04:38:20.033340+00:00",
     "details": {}
   }
 ]
