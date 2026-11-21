@@ -476,5 +476,33 @@
     "reliability_level": "🟡",
     "telegram_message_id": 318,
     "telegram_message_url": "https://t.me/Eng_limitless/318"
+  },
+  {
+    "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
+    "link": "https://www.techmeme.com/261121/p10#a261121p10",
+    "summary": "أفاد تقرير أمني منشور أن باحثين زرعوا اعتماديات اختبارية في الطلبات الموجهة عبر خدمات توجيه الذكاء الاصطناعي مثل OpenRouter وVercel، ورصدوا خرقًا لسياسات عدم الاحتفاظ بالبيانات (ZDR)، مما تسبب في تسريب مفاتيح التشفير وبيانات الحسابات.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "ai-routers-zdr-data-leak",
+    "event_key": "openrouter|2026 11|أمن سيبراني|vercel|أمريكا الشمالية",
+    "company_name": "OpenRouter",
+    "event_year_month": "2026-11",
+    "news_type": "أمن سيبراني",
+    "product_name": "Vercel",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "OpenRouter",
+      "Vercel",
+      "ZDR",
+      "Canary Credentials",
+      "AI Routers",
+      "Data Leak"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-21T20:18:36.802917+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 319,
+    "telegram_message_url": "https://t.me/Eng_limitless/319"
   }
 ]

@@ -15378,5 +15378,62 @@
     },
     "rejected_at": "2026-11-21T13:51:05.599765+00:00",
     "details": {}
+  },
+  {
+    "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
+    "link": "https://www.techmeme.com/261121/p9#a261121p9",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Financial Times : Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China &nbsp; &mdash;&nbsp; Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-21T20:18:36.817783+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Openski.org – Open-source ski map editor and navigator",
+    "link": "https://openski.org/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://openski.org/ Comments URL: https://news.ycombinator.com/item?id=50593198 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-21T20:18:36.827039+00:00",
+    "details": {}
+  },
+  {
+    "title": "The People's Code",
+    "link": "https://thepeoplescode.us/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://thepeoplescode.us/ Comments URL: https://news.ycombinator.com/item?id=50592120 Points: 1 # Comments: 2",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-21T20:18:36.833941+00:00",
+    "details": {}
   }
 ]
