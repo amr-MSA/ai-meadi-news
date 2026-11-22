@@ -1,43 +1,5 @@
 [
   {
-    "title": "Source: Shein has agreed to pay $100M, equivalent to 44% of its Q2 profit, to settle a US FTC investigation over delivery delays and other customer complaints (Reuters)",
-    "link": "https://www.techmeme.com/261023/p11#a261023p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Reuters : Source: Shein has agreed to pay $100M, equivalent to 44% of its Q2 profit, to settle a US FTC investigation over delivery delays and other customer complaints &nbsp; &mdash;&nbsp; Chinese fast-fashion giant Shein (0625.HK) has agreed to pay $100 million to settle an investigation by the US Federal Trade Commission &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-23T14:31:34.323155+00:00",
-    "details": {}
-  },
-  {
-    "title": "OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges (Tim Fernholz/TechCrunch)",
-    "link": "https://www.techmeme.com/261023/p10#a261023p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tim Fernholz / TechCrunch : OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges &nbsp; &mdash;&nbsp; OpenAI made its Decisions API model widely available to users for the first time, entering the market for fast &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-23T14:31:34.337173+00:00",
-    "details": {}
-  },
-  {
     "title": "Microsoft: Windows Server 2016 reaches end of support in January",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
     "source_name": "BleepingComputer",
@@ -15249,6 +15211,101 @@
       ]
     },
     "rejected_at": "2026-11-22T08:58:49.366927+00:00",
+    "details": {}
+  },
+  {
+    "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+    "link": "https://www.techmeme.com/261122/p7#a261122p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Jonah Weiner / New York Times : Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with &ldquo;taste&rdquo; as a moat against AI slop and whether AI can learn it &nbsp; &mdash;&nbsp; To move through A.I.-era San Francisco as a relatively normal person is to confront the sheer volume of bewildering concepts that tech has lately thrust upon us.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-22T17:28:38.934950+00:00",
+    "details": {}
+  },
+  {
+    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+    "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://bjin.github.io/go-codegolf-benchmark/#leaderboard Comments URL: https://news.ycombinator.com/item?id=50601280 Points: 2 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-22T17:28:38.944061+00:00",
+    "details": {}
+  },
+  {
+    "title": "Checking agent code against your intent",
+    "link": "https://leangineer.com/blog/checking-agent-code/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://leangineer.com/blog/checking-agent-code/ Comments URL: https://news.ycombinator.com/item?id=50600875 Points: 1 # Comments: 1",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-22T17:28:38.951428+00:00",
+    "details": {}
+  },
+  {
+    "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+    "link": "https://databreaches.net/2026/11/22/dialing-for-data-inside-the-coms-high-profile-heists/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "From a new article by Unit 42: Unit 42 has tracked and responded to numerous waves of vishing attacks conducted by Com-affiliated threat actors in recent months. The attacks have led to data theft and extortion attempts. This activity has targeted data-rich industries, such as financial services, healthcare and legal services. Targeted organizations were primarily...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-22T17:28:38.960040+00:00",
+    "details": {}
+  },
+  {
+    "title": "Information and Privacy Commissioner confirms health authority updates following snooping incidents related to Lapu Lapu Day Festival",
+    "link": "https://databreaches.net/2026/11/22/information-and-privacy-commissioner-confirms-health-authority-updates-following-snooping-incidents-related-to-lapu-lapu-day-festival/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "The Office of the Information and Privacy Commissioner of British Columbia issued a news release: Following a February 2026 investigation report that revealed 71 snooping incidents by 36 healthcare workers related to the 2025 Lapu Lapu Day Festival, Information and Privacy Commissioner Michael Harvey has confirmed that the health authorities involved (the Fraser Health Authority,...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-22T17:28:38.970033+00:00",
     "details": {}
   }
 ]

@@ -1,32 +1,5 @@
 [
   {
-    "title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
-    "link": "https://www.techmeme.com/261115/p10#a261115p10",
-    "summary": "كشفت تقارير صحفية نقلًا عن مصادر مطلعة أن شركة أبل تخطط لإماطة اللثام عن نظاراتها الذكية الأولى خلال مؤتمر المطورين العالمي (WWDC)، مع استهداف إطلاقها في الأسواق بحلول نهاية عام 2027، مراهنةً على الدمج العميق بين تطبيقات الآيفون والذكاء الاصطناعي للمساعد سيري.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "apple-smart-glasses-siri-ai-leak",
-    "event_key": "apple|2026 11|أجهزة وعتاد|apple smart glasses|أمريكا الشمالية",
-    "company_name": "Apple",
-    "event_year_month": "2026-11",
-    "news_type": "أجهزة وعتاد",
-    "product_name": "Apple Smart Glasses",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "أبل",
-      "نظارات ذكية",
-      "سيري",
-      "WWDC",
-      "ذكاء اصطناعي"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-15T16:41:30.142872+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 305,
-    "telegram_message_url": "https://t.me/Eng_limitless/305"
-  },
-  {
     "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
     "summary": "أصدر مكتب التحقيقات الفيدرالي الأمريكي تحذيرًا أمنيًا بشأن استغلال المهاجمين لإطار عمل يعمل بالذكاء الاصطناعي يُدعى ARTEX لأتمتة وتنفيذ هجمات سيبرانية استهدفت مؤسسات عالمية، وكان أحدثها اختراقًا لسلسلة التوريد لدى شركة ConnectWise.",
@@ -496,5 +469,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 320,
     "telegram_message_url": "https://t.me/Eng_limitless/320"
+  },
+  {
+    "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
+    "link": "https://www.techmeme.com/261122/p8#a261122p8",
+    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة الذكاء الاصطناعي أنثروبيك (Anthropic) فرضت قيودًا وإجراءات أمنية صارمة على البنوك والمؤسسات المالية المشاركة في ترتيبات طرحها العام الأول (IPO)؛ تضمنت تقليص حجم الفرق المفوضة بالاطلاع إلى أربعة أفراد فقط لكل بنك، واستخدام منصة ملفات تعقب وتسجل عمليات العرض بدقة، بالإضافة إلى اشتراط حظر تقديم الاستشارات للشركات المنافسة لمدة ستة أشهر.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "anthropic-ipo-bank-restrictions-leak",
+    "event_key": "anthropic|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
+    "company_name": "Anthropic",
+    "event_year_month": "2026-11",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "Anthropic",
+      "IPO",
+      "تسريبات",
+      "رويترز",
+      "استثمار"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-22T17:28:38.916730+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 321,
+    "telegram_message_url": "https://t.me/Eng_limitless/321"
   }
 ]
