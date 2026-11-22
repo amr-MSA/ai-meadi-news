@@ -1,81 +1,5 @@
 [
   {
-    "title": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)",
-    "link": "https://www.techmeme.com/261022/p55#a261022p55",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Financial Times : Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors &nbsp; &mdash;&nbsp; AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT&nbsp; &mdash;&nbsp; OpenAI has cut its valuation target &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-22T22:51:06.036901+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: SpaceX is in talks with at least one major cellular infrastructure firm to secure a minimum of 80K US cell sites, as it eyes a wireless carrier launch (Kelcee Griffis/Bloomberg)",
-    "link": "https://www.techmeme.com/261022/p54#a261022p54",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Kelcee Griffis / Bloomberg : Sources: SpaceX is in talks with at least one major cellular infrastructure firm to secure a minimum of 80K US cell sites, as it eyes a wireless carrier launch &nbsp; &mdash;&nbsp; SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it's in talks with at least one major cellular infrastructure company &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-22T22:51:06.051659+00:00",
-    "details": {}
-  },
-  {
-    "title": "Speeding up code review with `small-change`",
-    "link": "https://lethain.com/small-changes/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://lethain.com/small-changes/ Comments URL: https://news.ycombinator.com/item?id=50202041 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-22T22:51:06.061003+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Murmur, open-source push-to-talk dictation for Mac (BYO OpenAI key)",
-    "link": "https://github.com/leochaddad/murmur",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "I know there are many dictation apps out there, but I built one myself anyways based on my custom needs. Since OpenAI dictation is so good, my previous workflow would be speaking to ChatGPT UI and pasting a default prompt to turn my speech into a well formatted prompt Now I just hold a key (Fn for me), talk, let go, and the text gets pasted wherever the cursor is, mostly Claude Code in the termina",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-22T22:51:06.072027+00:00",
-    "details": {}
-  },
-  {
     "title": "Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers' phones within seven days of notice (Sarah Perez/TechCrunch)",
     "link": "https://www.techmeme.com/261022/p60#a261022p60",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15434,6 +15358,82 @@
       "keywords": []
     },
     "rejected_at": "2026-11-21T20:18:36.833941+00:00",
+    "details": {}
+  },
+  {
+    "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
+    "link": "https://www.techmeme.com/261121/p10#a261121p10",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Dan Goodin / Ars Technica : Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &ldquo;ZDR&rdquo; policies, and saw &ldquo;privacy&rdquo; often broken, keys stolen &nbsp; &mdash;&nbsp; Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services &hellip;",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-22T01:44:49.188999+00:00",
+    "details": {}
+  },
+  {
+    "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+    "link": "https://www.techmeme.com/261121/p11#a261121p11",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wired : Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches &ldquo;zero espionage&rdquo; executive girlfriends &nbsp; &mdash;&nbsp; The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-22T01:45:06.890426+00:00",
+    "details": {}
+  },
+  {
+    "title": "I made my daily notes app open source with free iOS<>Mac syncing",
+    "link": "https://github.com/zlwaterfield/cue",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://github.com/zlwaterfield/cue Comments URL: https://news.ycombinator.com/item?id=50595419 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-22T01:45:06.896789+00:00",
+    "details": {}
+  },
+  {
+    "title": "Open-Source FPGA The \"startup idea\" to \"go big fast\"",
+    "link": "https://news.ycombinator.com/item?id=50595097",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "FPGAs are general purpose and can be made to do anything. They are basically a function of the number of repeated elements. They are \"commodity items\" except for one fact. The current FPGA manufacturers won't disclose the details of the design internals to \"protect their intellectual property\". Only small FPGAs have been reverse engineered and there are some high-quality tools that have been devel",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-22T01:45:06.902729+00:00",
     "details": {}
   }
 ]

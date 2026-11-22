@@ -1,40 +1,5 @@
 [
   {
-    "title": "Letter: Altimeter's Brad Gerstner and Atreides's Gavin Baker urge Nvidia's board to consider \"the potential return of Jensen Huang\"; they own $2.13B in Nvidia (Katie Tarasov/CNBC)",
-    "link": "https://www.techmeme.com/261114/p18#a261114p18",
-    "summary": "وجّه المستثمران البارزان براد غيرستنر (Altimeter) وغافين بيكر (Atreides)، اللذان يمتلكان أسهمًا بقيمة 2.13 مليار دولار في شركة إنفيديا، رسالة إلى مجلس إدارة الشركة تحثه على تقييم جميع الخيارات الخاصة بالقيادة المستقبلية، بما في ذلك إمكانية عودة الرئيس التنفيذي المستقيل جينسن هوانغ.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "jensen-huang-us-intelligence-mss-spying-allegations",
-    "event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "company_name": "Nvidia",
-    "event_year_month": "2026-11",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Nvidia",
-      "Jensen Huang",
-      "Altimeter",
-      "Atreides",
-      "Board"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-14T21:47:09.363720+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 304,
-    "telegram_message_url": "https://t.me/Eng_limitless/304",
-    "is_update": true,
-    "updates_event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "update_summary": "طالب مستثمرون رئيسيون يمتلكون حصصًا بمليارات الدولارات في إنفيديا مجلس الإدارة بدراسة إمكانية عودة جينسن هوانغ.",
-    "new_facts": [
-      "دعوة كبار المساهمين لمجلس إدارة إنفيديا للنظر في كافة الخيارات القيادية بما فيها عودة جينسن هوانغ.",
-      "المستثمرون أصحاب الدعوة يمتلكون أسهمًا بقيمة 2.13 مليار دولار في شركة إنفيديا."
-    ],
-    "supersedes_posted_at": "2026-11-08T21:26:43.189888+00:00"
-  },
-  {
     "title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
     "link": "https://www.techmeme.com/261115/p10#a261115p10",
     "summary": "كشفت تقارير صحفية نقلًا عن مصادر مطلعة أن شركة أبل تخطط لإماطة اللثام عن نظاراتها الذكية الأولى خلال مؤتمر المطورين العالمي (WWDC)، مع استهداف إطلاقها في الأسواق بحلول نهاية عام 2027، مراهنةً على الدمج العميق بين تطبيقات الآيفون والذكاء الاصطناعي للمساعد سيري.",
@@ -504,5 +469,32 @@
     "reliability_level": "🟡",
     "telegram_message_id": 319,
     "telegram_message_url": "https://t.me/Eng_limitless/319"
+  },
+  {
+    "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
+    "link": "https://www.techmeme.com/261121/p9#a261121p9",
+    "summary": "كشف تحقيق استقصائي نشرته صحيفة فاينانشال تايمز عن صلات تجمع أليس هوانغ بشبكة معقدة تضم مئات الشركات الوهمية وكيانات في قطاع الألعاب، استُخدمت للالتفاف على القيود الضريبية والتجارية وتسهيل نقل شرائح إنفيديا المتقدمة إلى الصين.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "nvidia-chip-smuggling-network-china",
+    "event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أسيا",
+    "company_name": "Nvidia",
+    "event_year_month": "2026-11",
+    "news_type": "أعمال وتقنية",
+    "product_name": "غير محدد",
+    "region": "أسيا",
+    "keywords": [
+      "Nvidia",
+      "China",
+      "Alice Huang",
+      "Financial Times",
+      "Chip Smuggling"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-22T01:45:06.880146+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 320,
+    "telegram_message_url": "https://t.me/Eng_limitless/320"
   }
 ]
