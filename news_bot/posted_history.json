@@ -1,40 +1,5 @@
 [
   {
-    "title": "Sources: Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further (Wall Street Journal)",
-    "link": "https://www.techmeme.com/261115/p24#a261115p24",
-    "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة لصحيفة وول ستريت جورنال أن الرئيسة التنفيذية المؤقتة لشركة إنفيديا، كوليت كريس، تتجه لتشديد التسهيلات المالية وتقليص التمويل الهجومي لصفقات الحوسبة واستثمارات الشركات الناشئة، وذلك امتدادًا لرؤية صاغها جينسن هوانغ قبل استقالته تطالب مزودي الخدمات السحابية الجدد بتحصيل دفعات مالية مسبقة من العملاء.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "jensen-huang-us-intelligence-mss-spying-allegations",
-    "event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "company_name": "Nvidia",
-    "event_year_month": "2026-11",
-    "news_type": "أعمال وتقنية",
-    "product_name": "غير محدد",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Nvidia",
-      "Colette Kress",
-      "Jensen Huang",
-      "WSJ",
-      "neoclouds"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-16T03:35:43.140787+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 308,
-    "telegram_message_url": "https://t.me/Eng_limitless/308",
-    "is_update": true,
-    "updates_event_key": "nvidia|2026 11|أعمال وتقنية|غير محدد|أمريكا الشمالية",
-    "update_summary": "أفادت تقارير صحفية بتوجه القيادة المؤقتة لإنفيديا نحو تقليص التسهيلات والتمويلات الهجومية لشركات السحابة.",
-    "new_facts": [
-      "تعتزم الرئيسة التنفيذية المؤقتة كوليت كريس تشديد السياسة المالية وتقليص التمويل لصفقات الحوسبة والشركات الناشئة.",
-      "كان جينسن هوانغ قد صاغ خطة قبل مغادرته تتطلب من شركات السحابة الناشئة استلام دفعات مالية مسبقة من العملاء."
-    ],
-    "supersedes_posted_at": "2026-11-12T14:10:31.843558+00:00"
-  },
-  {
     "title": "Hack at French postal unit exposes 22 million people’s data",
     "link": "https://databreaches.net/2026/11/15/hack-at-french-postal-unit-exposes-22-million-peoples-data/",
     "summary": "كشفت تقارير إعلامية عن تعرض شركة Maileva، التابعة لمجموعة البريد الفرنسي La Poste، لهجوم سيبراني تسبب في كشف البيانات الشخصية لنحو 22 مليون شخص، حيث شملت البيانات المسربة الأسماء الكاملة والعناوين البريدية للضحايا.",
