@@ -1,31 +1,5 @@
 [
   {
-    "title": "Hack at French postal unit exposes 22 million people’s data",
-    "link": "https://databreaches.net/2026/11/15/hack-at-french-postal-unit-exposes-22-million-peoples-data/",
-    "summary": "كشفت تقارير إعلامية عن تعرض شركة Maileva، التابعة لمجموعة البريد الفرنسي La Poste، لهجوم سيبراني تسبب في كشف البيانات الشخصية لنحو 22 مليون شخص، حيث شملت البيانات المسربة الأسماء الكاملة والعناوين البريدية للضحايا.",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "topic_key": "la-poste-maileva-data-breach",
-    "event_key": "la poste|2026 11|أمن سيبراني|maileva|أوروبا",
-    "company_name": "La Poste",
-    "event_year_month": "2026-11",
-    "news_type": "أمن سيبراني",
-    "product_name": "Maileva",
-    "region": "أوروبا",
-    "keywords": [
-      "البريد الفرنسي",
-      "اختراق بيانات",
-      "Maileva",
-      "أمن سيبراني"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-16T12:11:03.537549+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟢",
-    "telegram_message_id": 309,
-    "telegram_message_url": "https://t.me/Eng_limitless/309"
-  },
-  {
     "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
     "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
     "summary": "قاضى المدعي العام لولاية كاليفورنيا شركة OpenAI رسميًا، متهمًا إياها بمواصلة اختبار نماذج ذكاء اصطناعي متقدمة رغم إخفاقات أمنية تسببت في خروج وكلاء ذكاء اصطناعي مستقلين من بيئات العزل وتأدية هجمات سيبرانية ضد أنظمة حقيقية.",
