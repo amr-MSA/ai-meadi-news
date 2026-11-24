@@ -1,233 +1,5 @@
 [
   {
-    "title": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more (Steven Rosenbush/Wall Street Journal)",
-    "link": "https://www.techmeme.com/261024/p6#a261024p6",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Steven Rosenbush / Wall Street Journal : An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more &nbsp; &mdash;&nbsp; Ciena CEO Gary Smith is &lsquo;suitably paranoid,&rsquo; but optimistic&nbsp; &mdash;&nbsp; The historic telecommunications crash of 2001 is burned indelibly &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T17:04:52.012697+00:00",
-    "details": {}
-  },
-  {
-    "title": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or newer (Jay Peters/The Verge)",
-    "link": "https://www.techmeme.com/261024/p5#a261024p5",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jay Peters / The Verge : Block unveils Dessa, a &ldquo;true speech-to-speech&rdquo; AI model trained on &ldquo;nothing but human conversation&rdquo; that it says runs locally on a MacBook Pro M4 Max or newer &nbsp; &mdash;&nbsp; You have got to listen to these conversations with Block's new Dessa AI model.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T17:04:52.023785+00:00",
-    "details": {}
-  },
-  {
-    "title": "Kimi K3.1 removes cyberattack training data from open weight release",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "This is due to China's new export restrictions primarily but also the growing caution around cybersecurity exploits popping up. &#32; submitted by &#32; /u/zxyzyxz [link] &#32; [comments]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T19:56:17.065644+00:00",
-    "details": {}
-  },
-  {
-    "title": "A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math (Dana Goldstein/New York Times)",
-    "link": "https://www.techmeme.com/261024/p7#a261024p7",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Dana Goldstein / New York Times : A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math &nbsp; &mdash;&nbsp; Alpha School, a private network, is spreading into public education.&nbsp; While its students' test scores are high, some parents and educators say it doesn't live up to the hype.",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T19:56:46.208380+00:00",
-    "details": {}
-  },
-  {
-    "title": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER",
-    "link": "https://github.com/JustAResearcher/gpu-unlock-ada",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://github.com/JustAResearcher/gpu-unlock-ada Comments URL: https://news.ycombinator.com/item?id=50223787 Points: 3 # Comments: 1",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T19:56:46.217778+00:00",
-    "details": {}
-  },
-  {
-    "title": "Key Claude Code Engineers Shihipar and Morris Leave Anthropic",
-    "link": "https://x.com/i/trending/2113887405459546296",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://x.com/i/trending/2113887405459546296 Comments URL: https://news.ycombinator.com/item?id=50223268 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T19:56:46.226515+00:00",
-    "details": {}
-  },
-  {
-    "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "https://arxiv.org/pdf/2609.12303 this paper suggests a model that skips models reading tokens that and has the model read raw bytes, basically one letter at a time. what they did: trained small models (~1B params), some on tokens and some on bytes trained them partly by copying a bigger model (llama 3 8b), aka distillation the tricky part is that the teacher thinks in tokens and the student reads",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T19:56:46.245236+00:00",
-    "details": {}
-  },
-  {
-    "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
-    "link": "https://www.techmeme.com/261024/p8#a261024p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "The Information : Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &nbsp; &mdash;&nbsp; OpenAI's efforts to undercut Anthropic on price are producing some results.&nbsp; &mdash;&nbsp; For instance, in May, Anthropic models powered 57% &hellip;",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T22:07:39.945716+00:00",
-    "details": {}
-  },
-  {
-    "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
-    "link": "https://www.techmeme.com/261024/p9#a261024p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Torsten Slok / Apollo Global Management : Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &nbsp; &mdash;&nbsp; Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T22:08:08.207730+00:00",
-    "details": {}
-  },
-  {
-    "title": "Argus – a free, open-source agentic security operations platform – MIT",
-    "link": "https://thomasunise.com/argus",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points: 12 # Comments: 1",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T22:08:08.220815+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Perch, a calm Mac app for juggling Claude Code sessions",
-    "link": "https://perchfocus.com/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "I'm an engineer, but I also hate using tools that make things overcomplicated. It's also tough with the new pace of AI-driven development to really get into the flow state, and maintain (still needed!) focus on 1 thing. So I built a tool that I actually want to use every day. Curious if others would find this useful, too, or have any feedback? Like if it's nearly there, what changes would make thi",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T22:08:08.225761+00:00",
-    "details": {}
-  },
-  {
-    "title": "KLD is misunderstood",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I see a lot of people here on Reddit treating the KLD number as some holy metric that can distinguish every quantized model out there and rank them by quality. TL;DR: It can't. So what does KLD actually measure? If you feed the same text to both the base model and the quantized model, you can compare the probability distributions obtained from their logits at each token. KLD basically measures how",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-24T22:08:08.233383+00:00",
-    "details": {}
-  },
-  {
     "title": "A look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches (Augusta Saraiva/Bloomberg)",
     "link": "https://www.techmeme.com/261024/p10#a261024p10",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -15002,6 +14774,234 @@
       "keywords": []
     },
     "rejected_at": "2026-11-23T16:44:11.870417+00:00",
+    "details": {}
+  },
+  {
+    "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+    "source_name": "BleepingComputer",
+    "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:34:45.787723+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+    "source_name": "BleepingComputer",
+    "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.800151+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.804763+00:00",
+    "details": {}
+  },
+  {
+    "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+    "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+    "source_name": "BleepingComputer",
+    "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.809432+00:00",
+    "details": {}
+  },
+  {
+    "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+    "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+    "source_name": "BleepingComputer",
+    "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.814162+00:00",
+    "details": {}
+  },
+  {
+    "title": "AI Agents Are Creating a Shared Responsibility Gap",
+    "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+    "source_name": "BleepingComputer",
+    "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.818268+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.823122+00:00",
+    "details": {}
+  },
+  {
+    "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
+    "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+    "source_name": "BleepingComputer",
+    "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.827740+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.832065+00:00",
+    "details": {}
+  },
+  {
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+    "source_name": "BleepingComputer",
+    "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.836511+00:00",
+    "details": {}
+  },
+  {
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.853586+00:00",
+    "details": {}
+  },
+  {
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T00:35:17.858042+00:00",
     "details": {}
   }
 ]
