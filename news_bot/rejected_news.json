@@ -1,157 +1,5 @@
 [
   {
-    "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-    "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-    "source_name": "BleepingComputer",
-    "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T16:57:27.348930+00:00",
-    "details": {}
-  },
-  {
-    "title": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)",
-    "link": "https://www.techmeme.com/261025/p9#a261025p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tom Matsuda / Financial Times : The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions &nbsp; &mdash;&nbsp; Record labels and artists including Taylor Swift and Ariana Grande are using the throwback music store to bolster their chart position and cash in on their fandom",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T17:28:10.442383+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used (Mark Gurman/Bloomberg)",
-    "link": "https://www.techmeme.com/261025/p8#a261025p8",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Mark Gurman / Bloomberg : Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used &nbsp; &mdash;&nbsp; Also: The company rolls out a retail store tool to reduce wasted inventory.&nbsp; &mdash;&nbsp; Apple's touch-screen MacBook Pro will arrive on Wednesday &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T17:28:10.457156+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: A Morse code trainer whose landing page is the first lesson",
-    "link": "https://morse.iamcanturk.dev/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://morse.iamcanturk.dev/ Comments URL: https://news.ycombinator.com/item?id=50233666 Points: 1 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T17:28:10.467448+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Junior – an open-source AI junior engineer that runs on your Mac",
-    "link": "https://github.com/usejunior-sh/junior",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Hi HN, I'm Samar, a software engineer. I built Junior because I was spending more time fixing CI issues, babysitting PRs and resolving merge conflicts. I thought maybe i should automate all of it, and that's why I started building Junior. Junior is an agent that runs locally on macOS and picks up that kind of work. It connects with my Linear, Slack, Github etc and autopicks work for himself. It wo",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T17:28:10.478567+00:00",
-    "details": {}
-  },
-  {
-    "title": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)",
-    "link": "https://www.techmeme.com/261025/p10#a261025p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Ann Davis Vaughan / The Information : Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new &ldquo;delay-in-delivery&rdquo; coverage from brokers like Marsh &nbsp; &mdash;&nbsp; This spring, Mike Mathews, who leads the global digital infrastructure practice at insurance broker Marsh &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T20:06:43.755642+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: Ledge – an open-source app that puts the MacBook notch to work",
-    "link": "https://ledgeapp.dev/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Ledge is free and open-source MacBook app that puts your idle notch into the work. It transforms the static notch into a status area: music, your next meeting, and more. It also keeps your agents work even when your lid is shut. Feel free to reach out if you have any feedback! Comments URL: https://news.ycombinator.com/item?id=50235534 Points: 2 # Comments: 0",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T20:06:43.780460+00:00",
-    "details": {}
-  },
-  {
-    "title": "Show HN: tmux source code – Explore the deep C internals",
-    "link": "https://libtmux.org/en/tmux/latest/reference/",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Article URL: https://libtmux.org/en/tmux/latest/reference/ Comments URL: https://news.ycombinator.com/item?id=50234737 Points: 1 # Comments: 1",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T20:06:43.790277+00:00",
-    "details": {}
-  },
-  {
     "title": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more (Terrence O'Brien/The Verge)",
     "link": "https://www.techmeme.com/261025/p12#a261025p12",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -14755,6 +14603,51 @@
       "keywords": []
     },
     "rejected_at": "2026-11-24T14:23:33.481540+00:00",
+    "details": {}
+  },
+  {
+    "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+    "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+    "source_name": "BleepingComputer",
+    "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T22:54:20.298286+00:00",
+    "details": {}
+  },
+  {
+    "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+    "source_name": "BleepingComputer",
+    "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+    "reason": "مكرر أو بلا تحديث جوهري: classification-exact",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "OpenAI",
+      "event_year_month": "2026-11",
+      "news_type": "أمن سيبراني",
+      "product_name": "Shirudo",
+      "region": "أمريكا الشمالية",
+      "topic_key": "openai-cisco-shirudo-linux-security-tool",
+      "keywords": [
+        "Shirudo",
+        "OpenAI",
+        "Cisco",
+        "Linux",
+        "أمن سيبراني",
+        "ذكاء اصطناعي"
+      ]
+    },
+    "rejected_at": "2026-11-24T22:54:43.304333+00:00",
     "details": {}
   }
 ]
