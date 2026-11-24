@@ -1,32 +1,5 @@
 [
   {
-    "title": "Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with \"basically no human intervention\", vs. the usual 6-12 months (Shane Downing/Tom's Hardware)",
-    "link": "https://www.techmeme.com/261116/p52#a261116p52",
-    "summary": "أفادت تقارير صحفية استنادًا إلى إفصاحات قدمتها شركة أنثروبيك للمستثمرين أن معاينة نموذجها المستقبلي Claude Mythos تمكنت من كتابة الشيفرات البرمجية منخفضة المستوى ونقل نماذج الذكاء الاصطناعي للعمل على معالجات الرسوميات من AMD خلال ثلاثة أيام فقط ودون أي تدخل بشري، وهي المهمة التي تستغرق عادة من 6 إلى 12 شهرًا من التطوير البشري، مما يقوض الاعتماد الحصري على بيئة CUDA من إنفيديا.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "anthropic-claude-mythos-amd-gpu-porting",
-    "event_key": "anthropic|2026 11|ذكاء اصطناعي|claude mythos preview|أمريكا الشمالية",
-    "company_name": "Anthropic",
-    "event_year_month": "2026-11",
-    "news_type": "ذكاء اصطناعي",
-    "product_name": "Claude Mythos Preview",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Anthropic",
-      "Claude Mythos",
-      "AMD",
-      "GPUs",
-      "CUDA"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-17T05:33:28.584623+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 312,
-    "telegram_message_url": "https://t.me/Eng_limitless/312"
-  },
-  {
     "title": "UK: Transport for London photocard breach exposes 265,000 customers",
     "link": "https://databreaches.net/2026/11/18/uk-transport-for-london-photocard-breach-exposes-265000-customers/",
     "summary": "أعلنت هيئة النقل في لندن (TfL) عن رصد نشاط مشبوه على موقع بطاقات Oyster الضوئية تسبب في اختراق سيبراني أتاح للمهاجمين الوصول إلى البيانات الشخصية لنحو 265 ألف عميل. وشملت البيانات المسربة الأسماء، والعناوين البريدية والمنزلية، وأرقام الهواتف، وتواريخ الميلاد، بالإضافة إلى أسئلة وأجوبة الأمان الخاصة بالحسابات المخترقة.",
