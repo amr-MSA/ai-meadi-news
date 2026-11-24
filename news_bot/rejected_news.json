@@ -1,24 +1,5 @@
 [
   {
-    "title": "A look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches (Augusta Saraiva/Bloomberg)",
-    "link": "https://www.techmeme.com/261024/p10#a261024p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Augusta Saraiva / Bloomberg : A look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches &nbsp; &mdash;&nbsp; A new villain is emerging in the closing stretch of Brazil's bitterly contested presidential election: Meta Platforms Inc.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T02:06:45.060778+00:00",
-    "details": {}
-  },
-  {
     "title": "aws/agent-toolkit-for-aws",
     "link": "https://github.com/aws/agent-toolkit-for-aws",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -15002,6 +14983,44 @@
       "keywords": []
     },
     "rejected_at": "2026-11-24T00:35:17.858042+00:00",
+    "details": {}
+  },
+  {
+    "title": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia's board, but was remorseful about them (Wall Street Journal)",
+    "link": "https://www.techmeme.com/261123/p51#a261123p51",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Wall Street Journal : Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia's board, but was remorseful about them &nbsp; &mdash;&nbsp; Trump made clear he wanted the Nvidia CEO reinstated; on Monday he touted the decision, saying the market proved it was right",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T03:34:02.946197+00:00",
+    "details": {}
+  },
+  {
+    "title": "GTA 6 hacker released on licence with warning ‘don’t let this happen again’",
+    "link": "https://databreaches.net/2026/11/23/gta-6-hacker-released-on-licence-with-warning-dont-let-this-happen-again/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Here&#8217;s an example of a case and a sentence that will have no deterrent value, because no matter what a judge intends, the sentence will be taken as a free pass by young people engaging in cybercrime &#8212; Dissent. Joe Tidy reports: A cyber criminal who hacked the maker of Grand Theft Auto has been...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-24T03:34:02.951405+00:00",
     "details": {}
   }
 ]

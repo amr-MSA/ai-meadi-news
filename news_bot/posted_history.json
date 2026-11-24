@@ -471,5 +471,32 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)",
+    "link": "https://www.techmeme.com/261123/p50#a261123p50",
+    "summary": "كشفت لائحة دعوى قضائية نشرتها صحيفة نيويورك تايمز أن مهندسًا سابقًا في شركة OpenAI يُدعى عبد الرحمن الفوزان قام بتسجيل اجتماعات سرية تناولت شؤون العملاء وأمان الذكاء الاصطناعي وإيجازات مع ممثلي حكومات أجنبية دون تصريح، إضافة إلى تصوير وثائق سرية تتضمن شروط اتفاقية تجارية مع شركة أخرى.",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "topic_key": "openai-insider-ex-engineer-court-filing",
+    "event_key": "openai|2026 11|أمن سيبراني|غير محدد|أمريكا الشمالية",
+    "company_name": "OpenAI",
+    "event_year_month": "2026-11",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "OpenAI",
+      "تسريب",
+      "أمن سيبراني",
+      "ذكاء اصطناعي",
+      "وثائق قضائية"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-24T03:34:02.937540+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 326,
+    "telegram_message_url": "https://t.me/Eng_limitless/326"
   }
 ]
