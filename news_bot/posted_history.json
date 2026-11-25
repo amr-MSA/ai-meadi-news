@@ -471,5 +471,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 326,
     "telegram_message_url": "https://t.me/Eng_limitless/326"
+  },
+  {
+    "title": "Gingko Bioworks Holdings issued a statement on October 8 about a data breach. Getting an update from them has been difficult.",
+    "link": "https://databreaches.net/2026/11/24/gingko-bioworks-holdings-issued-a-statement-on-october-8-about-a-data-breach-getting-an-update-from-them-has-been-difficult/",
+    "summary": "أدرجت مجموعة التهديد السيبراني FulcrumSec شركة الهندسة الحيوية Ginkgo Bioworks على موقع التسريبات التابع لها، مدعية الاستيلاء على 9.9 تيرابايت من البيانات المخزنة وتضم أكثر من 10.7 مليون ملف موزعة على 82 مستودع بيانات. يأتي نشر البيانات في أعقاب خرق أمني سابق أعلنت عنه الشركة، وسط صعوبة الحصول على تحديثات رسمية توضح الحجم الكامل للتسريب.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "ginkgo-bioworks-data-leak-fulcrumsec",
+    "event_key": "ginkgo bioworks|2026 11|أمن سيبراني|غير محدد|أمريكا الشمالية",
+    "company_name": "Ginkgo Bioworks",
+    "event_year_month": "2026-11",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "ginkgo bioworks",
+      "fulcrumsec",
+      "تسريب بيانات",
+      "أمن سيبراني"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-25T00:13:15.919615+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 327,
+    "telegram_message_url": "https://t.me/Eng_limitless/327"
   }
 ]

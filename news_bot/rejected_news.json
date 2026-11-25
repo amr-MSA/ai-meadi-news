@@ -1,62 +1,5 @@
 [
   {
-    "title": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more (Terrence O'Brien/The Verge)",
-    "link": "https://www.techmeme.com/261025/p12#a261025p12",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Terrence O'Brien / The Verge : Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more &nbsp; &mdash;&nbsp; The opensource subreddit's new rules against AI have sparked a revolt. &hellip; The post made Saturday evening opens by saying &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T23:40:13.001581+00:00",
-    "details": {}
-  },
-  {
-    "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
-    "link": "https://www.techmeme.com/261025/p11#a261025p11",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Elon Musk / @elonmusk : Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face &ldquo;death and consolidation&rdquo; &nbsp; &mdash;&nbsp; Pretty much. As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn't have substantial revenue independent of AI data centers. Sp",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T23:40:13.016884+00:00",
-    "details": {}
-  },
-  {
-    "title": "CrowdGPT - A collaboratively trained LLM.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Hello, I'm developing CrowdGPT , a project aiming to create an LLM without datacenters and without the usual millions of dollars spent by AI companies. The project aims to train a 1 billion parameter model collaboratively and openly, with a protocol where everyone gets a say in the direction the project takes. Anyone can use their PC to train the AI independently, then add their contributions to t",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-25T23:40:13.033161+00:00",
-    "details": {}
-  },
-  {
     "title": "Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex's China ties after Airwallex scrapped a Ramp deal (Michael Roddan/The Information)",
     "link": "https://www.techmeme.com/261025/p14#a261025p14",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -14648,6 +14591,82 @@
       ]
     },
     "rejected_at": "2026-11-24T22:54:43.304333+00:00",
+    "details": {}
+  },
+  {
+    "title": "Utah prosecutors drop criminal charges against Kalshi and its co-founders, one day after the company halted operations in the state (Marshall Cohen/CNN)",
+    "link": "https://www.techmeme.com/261124/p45#a261124p45",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Marshall Cohen / CNN : Utah prosecutors drop criminal charges against Kalshi and its co-founders, one day after the company halted operations in the state &nbsp; &mdash;&nbsp; Utah prosecutors dropped criminal charges against the prediction company Kalshi and its co-founders on Tuesday, one day after the company halted operations in the state.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T00:13:15.937613+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them (OpenAI)",
+    "link": "https://www.techmeme.com/261124/p44#a261124p44",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "OpenAI : OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them &nbsp; &mdash;&nbsp; - Our GPT-6 family of models can design new protein shapes and the sequence of their chemical building blocks using only reasoning and code &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T00:13:15.949009+00:00",
+    "details": {}
+  },
+  {
+    "title": "T3 Code v0.1.11 sends hashed OpenAI and Claude account IDs at first launch",
+    "link": "https://www.everydev.ai/p/tool-t3-code-v0111-sends-hashed-openai-and-claude-account-ids-at-first-launch",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://www.everydev.ai/p/tool-t3-code-v0111-sends-hashed-openai-and-claude-account-ids-at-first-launch Comments URL: https://news.ycombinator.com/item?id=50636552 Points: 1 # Comments: 2",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T00:13:15.957373+00:00",
+    "details": {}
+  },
+  {
+    "title": "Xz: A microcosm of the interactions in open source projects (2024)",
+    "link": "https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/ Comments URL: https://news.ycombinator.com/item?id=50636457 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T00:13:15.965390+00:00",
     "details": {}
   }
 ]
