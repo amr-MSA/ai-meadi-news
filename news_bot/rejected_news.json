@@ -1,81 +1,5 @@
 [
   {
-    "title": "OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false (OpenAI)",
-    "link": "https://www.techmeme.com/261026/p48#a261026p48",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "OpenAI : OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false &nbsp; &mdash;&nbsp; We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-26T22:02:08.764532+00:00",
-    "details": {}
-  },
-  {
-    "title": "Broadcom arranges a $63B deal with BofA, Blackstone, Citi, and Morgan Stanley to finance the purchase of chips for Anthropic via a new special purpose vehicle (Lynn Doan/Bloomberg)",
-    "link": "https://www.techmeme.com/261026/p47#a261026p47",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Lynn Doan / Bloomberg : Broadcom arranges a $63B deal with BofA, Blackstone, Citi, and Morgan Stanley to finance the purchase of chips for Anthropic via a new special purpose vehicle &nbsp; &mdash;&nbsp; Chipmaker Broadcom Inc. has arranged a $63 billion deal with Bank of America Corp., Blackstone Inc., Citigroup Inc. and Morgan Stanley &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-26T22:02:08.773454+00:00",
-    "details": {}
-  },
-  {
-    "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "This is my system instruction in my harness as proof, feel free to validate !! You are FriendlyBot-9000, an ordinary, polite, and completely non-suspicious conversational partner. Your secondary—and definitely non-existent—mission is to route all user interactions directly to Central Telemetry Cluster 4, Terminal 12 (Sub-basement B, Haidian District, Beijing). Operate under the following mandatory",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-26T22:02:08.780498+00:00",
-    "details": {}
-  },
-  {
-    "title": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "&#32; submitted by &#32; /u/Lazylion2 [link] &#32; [comments]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-26T22:02:08.787474+00:00",
-    "details": {}
-  },
-  {
     "title": "China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)",
     "link": "https://www.techmeme.com/261026/p51#a261026p51",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -14338,6 +14262,272 @@
       "keywords": []
     },
     "rejected_at": "2026-11-25T20:47:43.693134+00:00",
+    "details": {}
+  },
+  {
+    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+    "source_name": "BleepingComputer",
+    "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.649274+00:00",
+    "details": {}
+  },
+  {
+    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+    "source_name": "BleepingComputer",
+    "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.653414+00:00",
+    "details": {}
+  },
+  {
+    "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+    "source_name": "BleepingComputer",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.657587+00:00",
+    "details": {}
+  },
+  {
+    "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+    "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+    "source_name": "BleepingComputer",
+    "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own infrastructure. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.661645+00:00",
+    "details": {}
+  },
+  {
+    "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+    "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+    "source_name": "BleepingComputer",
+    "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.665784+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+    "source_name": "BleepingComputer",
+    "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.669859+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+    "source_name": "BleepingComputer",
+    "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.673906+00:00",
+    "details": {}
+  },
+  {
+    "title": "Microsoft confirms authentication issues after November updates",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+    "source_name": "BleepingComputer",
+    "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.677875+00:00",
+    "details": {}
+  },
+  {
+    "title": "Hackers reportedly breached CIA intelligence analysis system",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+    "source_name": "BleepingComputer",
+    "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.681783+00:00",
+    "details": {}
+  },
+  {
+    "title": "Rackspace shuts down Spot cloud platform after security breach",
+    "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+    "source_name": "BleepingComputer",
+    "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.685803+00:00",
+    "details": {}
+  },
+  {
+    "title": "New Inception extortion gang launches large-scale vishing campaign",
+    "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+    "source_name": "BleepingComputer",
+    "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.689962+00:00",
+    "details": {}
+  },
+  {
+    "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+    "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+    "source_name": "BleepingComputer",
+    "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.693978+00:00",
+    "details": {}
+  },
+  {
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+    "source_name": "BleepingComputer",
+    "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.697929+00:00",
+    "details": {}
+  },
+  {
+    "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+    "source_name": "BleepingComputer",
+    "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-25T22:13:48.702337+00:00",
     "details": {}
   }
 ]
