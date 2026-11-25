@@ -497,5 +497,31 @@
     "reliability_level": "🟡",
     "telegram_message_id": 327,
     "telegram_message_url": "https://t.me/Eng_limitless/327"
+  },
+  {
+    "title": "CIA system breached in latest cyberattack targeting US intelligence agencies",
+    "link": "https://databreaches.net/2026/11/24/cia-system-breached-in-latest-cyberattack-targeting-us-intelligence-agencies/",
+    "summary": "كشفت تقارير صحفية نقلًا عن مصادر مطلعة عن تعرض شبكة إلكترونية غير سرية تابعة لوكالة الاستخبارات المركزية الأمريكية (CIA) لاختراق سيبراني حديث. وأفادت المصادر بأن الهجوم لم يستهدف معلومات أو بيانات شديدة الحساسية، وتمت معالجة الخرق واحتواء الحادثة.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "cia-unclassified-system-cyberattack",
+    "event_key": "cia|2026 11|أمن سيبراني|غير محدد|أمريكا الشمالية",
+    "company_name": "CIA",
+    "event_year_month": "2026-11",
+    "news_type": "أمن سيبراني",
+    "product_name": "غير محدد",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "CIA",
+      "أمن سيبراني",
+      "اختراق",
+      "استخبارات"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-25T10:39:15.980044+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟢",
+    "telegram_message_id": 328,
+    "telegram_message_url": "https://t.me/Eng_limitless/328"
   }
 ]
