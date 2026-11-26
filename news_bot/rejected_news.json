@@ -14149,5 +14149,81 @@
     },
     "rejected_at": "2026-11-26T22:09:53.497538+00:00",
     "details": {}
+  },
+  {
+    "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K (Nathan Grayson/Aftermath)",
+    "link": "https://www.techmeme.com/261126/p25#a261126p25",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Nathan Grayson / Aftermath : A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K &nbsp; &mdash;&nbsp; What goes around comes around, I suppose.&nbsp; Earlier this year, Kick streamer N3on, a weasly little twig person who spends &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:43:32.824342+00:00",
+    "details": {}
+  },
+  {
+    "title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)",
+    "link": "https://www.techmeme.com/261126/p24#a261126p24",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Rajveer Singh Pardesi / Reuters : Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month &nbsp; &mdash;&nbsp; Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal suspension after a record $6.3 billion was stolen in a hack last month.",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:43:32.836594+00:00",
+    "details": {}
+  },
+  {
+    "title": "Happy Thanksgiving!",
+    "link": "https://databreaches.net/2026/11/26/happy-thanksgiving-8/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "Regular news updates will resume tonight. In the meantime, thank you to all who read this site or who send me tips and helpful information. This is DataBreaches.net&#8217;s 17th Thanksgiving, and attempts to censor news or opinions have never been more concerning. Those of you who support journalists—whether by donations, kind words, or encouragement to...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:43:32.843147+00:00",
+    "details": {}
+  },
+  {
+    "title": "FIFA says it has been victim of a cyberattack accessing ‘personal and business information’",
+    "link": "https://databreaches.net/2026/11/26/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "CNA reports: FIFA was the victim of a cyberattack that saw hackers gain access to what soccer’s world governing body describes as a “limited set of personal and business information,&#8221; it said on Thursday (Nov 26). “FIFA is working closely with the relevant authorities, including law enforcement,” the organisation said in a statement sent to...",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:43:32.852485+00:00",
+    "details": {}
   }
 ]
