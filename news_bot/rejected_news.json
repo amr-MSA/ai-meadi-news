@@ -1,423 +1,5 @@
 [
   {
-    "title": "Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable (Stephanie Palazzolo/The Information)",
-    "link": "https://www.techmeme.com/261027/p22#a261027p22",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Stephanie Palazzolo / The Information : Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable &nbsp; &mdash;&nbsp; When Anthropic on Monday dropped its long-awaited initial public offering prospectus filing, a lot of the details &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T15:36:04.071092+00:00",
-    "details": {}
-  },
-  {
-    "title": "London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed (Rya Jetha/Business Insider)",
-    "link": "https://www.techmeme.com/261027/p21#a261027p21",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Rya Jetha / Business Insider : London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed &nbsp; &mdash;&nbsp; A London-based robotics startup is betting it can teach robots new tricks without collecting the mountains of real-world data its much bigger rivals are chasing.",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T15:36:04.085086+00:00",
-    "details": {}
-  },
-  {
-    "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "HF traces: https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces 1. Understand the Python script: ids ids = dataset[0][&quot;token_ids&quot;] if len(ids) &lt; 2323: raise ValueError(&quot;The trace is shorter than the required 2,323-token prefix.&quot;) ids = ids[:2323] # stop just before the URL, at the end of ...ABC123 = dataset[0][&quot;token_ids&quot;] if len(ids) &lt; 2",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T15:36:04.095584+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Well, “coming soon” turned out to be five days. I posted the earlier announcement last week. The 1019 weights are now on Hugging Face . Still 560B total, 25B active, with a 1M context window. This is the update they reported at 44 on the AA Intelligence Index v4.3.2, up from 41. AutomationBench-AA went from 62% to 68%, according to the release. They also put out Ling-3.1-flash-base in BF16 for fur",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T15:36:04.105975+00:00",
-    "details": {}
-  },
-  {
-    "title": "System Note: October 27, 2026",
-    "link": "https://databreaches.net/2026/10/27/system-note-october-27-2026/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Unfortunately, a backup failure has resulted in the loss of media files and documents attached to posts. They will be restored eventually, but restoring files will take time. To make matters worse, I was offline for days because I was hospitalized. Beginning today, I will start catching up on this blog. Thank you to everyone...",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T15:36:04.114211+00:00",
-    "details": {}
-  },
-  {
-    "title": "Type Server Protocol",
-    "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "مكرر في السجل: link",
-    "rejection_stage": "history-duplicate",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:29.354152+00:00",
-    "details": {}
-  },
-  {
-    "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
-    "source_name": "BleepingComputer",
-    "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.721165+00:00",
-    "details": {}
-  },
-  {
-    "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-    "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-    "source_name": "BleepingComputer",
-    "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.729820+00:00",
-    "details": {}
-  },
-  {
-    "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-    "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-    "source_name": "BleepingComputer",
-    "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.738166+00:00",
-    "details": {}
-  },
-  {
-    "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-    "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-    "source_name": "BleepingComputer",
-    "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.746791+00:00",
-    "details": {}
-  },
-  {
-    "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-    "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-    "source_name": "BleepingComputer",
-    "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.755251+00:00",
-    "details": {}
-  },
-  {
-    "title": "Energy giant ENGIE discloses data breach affecting customers",
-    "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-    "source_name": "BleepingComputer",
-    "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.763411+00:00",
-    "details": {}
-  },
-  {
-    "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-    "source_name": "BleepingComputer",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.771662+00:00",
-    "details": {}
-  },
-  {
-    "title": "University of Copenhagen data breach exposes data of 525,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-    "source_name": "BleepingComputer",
-    "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.780493+00:00",
-    "details": {}
-  },
-  {
-    "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-    "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-    "source_name": "BleepingComputer",
-    "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.789264+00:00",
-    "details": {}
-  },
-  {
-    "title": "DreamHost forces password resets in ongoing \"incident\"",
-    "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-    "source_name": "BleepingComputer",
-    "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.797622+00:00",
-    "details": {}
-  },
-  {
-    "title": "Three new discoveries in mathematics, computer science, and physics",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "source_name": "Hacker News",
-    "summary": "Comments",
-    "reason": "لم يُختر للنشر اليومي",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T18:32:56.831398+00:00",
-    "details": {}
-  },
-  {
-    "title": "Sources: Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares (Anthony Hughes/Bloomberg)",
-    "link": "https://www.techmeme.com/261027/p28#a261027p28",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anthony Hughes / Bloomberg : Sources: Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares &nbsp; &mdash;&nbsp; Meta Platforms Inc.'s upsized $25 billion share sale attracted demand for about five times the available shares &hellip;",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T20:17:41.343782+00:00",
-    "details": {}
-  },
-  {
-    "title": "Ask HN: Will Open Source force companies like Anthropic to shift their focus?",
-    "link": "https://news.ycombinator.com/item?id=50263936",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "What I mean by this, will Open Source own the creating of amazing models and cause companies like OpenAI and Anthropic to focus on verticals? I know there's a high costs right now for training models, but I'm sure innovation will change this long term. Comments URL: https://news.ycombinator.com/item?id=50263936 Points: 3 # Comments: 4",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T20:17:41.353851+00:00",
-    "details": {}
-  },
-  {
-    "title": "Muse Referral Code – If you need extra usage credits",
-    "link": "https://news.ycombinator.com/item?id=50263110",
-    "source_name": "Hacker News - بحث leak/breach",
-    "summary": "Code: WEVJW8 Comments URL: https://news.ycombinator.com/item?id=50263110 Points: 1 # Comments: 0",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T20:17:41.363259+00:00",
-    "details": {}
-  },
-  {
-    "title": "I am a King, but local 😂",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I am feeling like a mighty local King spinning two Strata engines with 70tps each whole day and using 12M tokens a day. Also me scrolling twitter and stumbling upon a post saying that poteto uses 34M tokens per minute 🤪 Upd: Guys are interested who is she and what she is doing with all these tokens. Poteto is her twitter nickname and she worked in Cursor before XAI has acquired them and now she is",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T20:17:41.371820+00:00",
-    "details": {}
-  },
-  {
-    "title": "Hacking attempts against US Federal Election Commission system triggered outage, email shows",
-    "link": "https://databreaches.net/2026/10/27/hacking-attempts-against-us-federal-election-commission-system-triggered-outage-email-shows/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Dawn Kopecki reports: The US Federal Election Commission&#8217;s website has been targeted by a hacker or hackers, disrupting the agency&#8217;s electronic filings system a week before the November 3 elections, according to an email seen by Reuters. In a statement, the FEC said that, &#8220;at this time, the FEC’s electronic filing system is currently offline...",
-    "reason": "لم يُختر للتسريبات في هذه الجولة",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-27T20:17:41.401268+00:00",
-    "details": {}
-  },
-  {
     "title": "Source: OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to \"lead the optimization\" of its models on TPUs (Ryan Barwick/The Information)",
     "link": "https://www.techmeme.com/261027/p39#a261027p39",
     "source_name": "Techmeme (مجمّع أخبار سريع)",
@@ -14433,6 +14015,139 @@
       "keywords": []
     },
     "rejected_at": "2026-11-26T13:21:59.396181+00:00",
+    "details": {}
+  },
+  {
+    "title": "1Password customer data stolen after employee GitHub account breach",
+    "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+    "source_name": "BleepingComputer",
+    "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+    "reason": "مكرر في السجل: link",
+    "rejection_stage": "history-duplicate",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:06:28.565178+00:00",
+    "details": {}
+  },
+  {
+    "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+    "source_name": "BleepingComputer",
+    "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:09:53.428428+00:00",
+    "details": {}
+  },
+  {
+    "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+    "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+    "source_name": "BleepingComputer",
+    "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:09:53.434058+00:00",
+    "details": {}
+  },
+  {
+    "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+    "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+    "source_name": "BleepingComputer",
+    "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:09:53.439456+00:00",
+    "details": {}
+  },
+  {
+    "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+    "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+    "source_name": "BleepingComputer",
+    "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:09:53.444954+00:00",
+    "details": {}
+  },
+  {
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+    "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:09:53.492466+00:00",
+    "details": {}
+  },
+  {
+    "title": "AMD-specific fork of llama.cpp",
+    "link": "https://devnull.land/amd-specific-llama-cpp",
+    "source_name": "Hacker News",
+    "summary": "Comments",
+    "reason": "لم يُختر للنشر اليومي",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-26T22:09:53.497538+00:00",
     "details": {}
   }
 ]
