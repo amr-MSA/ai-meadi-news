@@ -1,252 +1,5 @@
 [
   {
-    "title": "elayadesign/ai-design-skills",
-    "link": "https://github.com/elayadesign/ai-design-skills",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "AI Design Skills A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file. Each skill is a self-contained folder. Install the ones you need. Skills Skill What it does landing-page-design Builds a landing page from scratch — intake questions, page structure, conversion copy, plus a full visual system (type,",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T07:40:22.420358+00:00",
-    "details": {}
-  },
-  {
-    "title": "HKUDS/DeepTutor",
-    "link": "https://github.com/HKUDS/DeepTutor",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. http://arxiv.org/abs/2604.26962 &nbsp; DeepTutor: Lifelong Personalized Tutoring &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Features · Get Started · Explore · CLI · Ecosystem · Community 🤝 We welcome any kinds of contributing! Vote on roadmap items or propose new ones at Roadmap , and see o",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T07:40:22.479492+00:00",
-    "details": {}
-  },
-  {
-    "title": "togg53192-cmd/jailbreaks",
-    "link": "https://github.com/togg53192-cmd/jailbreaks",
-    "source_name": "GitHub Trending (نشاط كود مفاجئ)",
-    "summary": "LIST OF ALL MY JAILBREAKS Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models. About A working collection of 31 prompts targeting 25+ models , including complete system prompts, persona definitions, workspace policies, AGENTS.md files, configuration blocks, and Ollama Modelfiles.",
-    "reason": "لا يوجد تاريخ موثوق",
-    "rejection_stage": "fetch",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T07:40:22.495391+00:00",
-    "details": {}
-  },
-  {
-    "title": "How Silicon Valley billionaires raised $333M+ to try to defeat a 5% California wealth tax; Patrick Collison's $33M is his most serious campaign engagement yet (New York Times)",
-    "link": "https://www.techmeme.com/261028/p10#a261028p10",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "New York Times : How Silicon Valley billionaires raised $333M+ to try to defeat a 5% California wealth tax; Patrick Collison's $33M is his most serious campaign engagement yet &nbsp; &mdash;&nbsp; Every Tuesday for the last few months, two dozen of the world's richest people or their advisers hop onto a conference call and plan for war.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T07:40:32.322145+00:00",
-    "details": {}
-  },
-  {
-    "title": "The CFTC files a legal challenge to block Utah's attempt to restrict prediction market betting, asserting it is the sole US regulator of prediction markets (Jesse Hamilton/CoinDesk)",
-    "link": "https://www.techmeme.com/261028/p9#a261028p9",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jesse Hamilton / CoinDesk : The CFTC files a legal challenge to block Utah's attempt to restrict prediction market betting, asserting it is the sole US regulator of prediction markets &nbsp; &mdash;&nbsp; The U.S. agency that oversees derivatives has filed a federal legal challenge to halt Utah's attempt to stop prediction market betting in its state &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T07:40:32.336238+00:00",
-    "details": {}
-  },
-  {
-    "title": "Dirt cheap GPUs coming next year",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "I think a turn of events are pointing towards a very likely crash in prices in the coming months. With a single gb300 rack being to serve all of Openrouter's traffic for DSV4.1 Flash( https://x.com/thdxr/status/2115165365630026178 ) Half of data center buildouts already being cancelled/stalled. Neoclouds unable to finance debt for their compute, and being stuck in a 5 year deal with no confirmed d",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T07:40:32.344643+00:00",
-    "details": {}
-  },
-  {
-    "title": "Artificial Analysis Intelligence Index v5 (major update)",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xhdmlk/artificial_analysis_intelligence_index_v5_major/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Artificial Analysis Intelligence Index has been updated to v5, which according to them is a major upgrade resulting in a more accurate ranking. Notably, this update widens the gap between open-weight models and closed ones. Some people already questioning its accuracy based on their experiences with models (GPT-Terra-6.1 &gt; Fable-5.1). Also, this update, v5, has 60% of the Index based on evaluat",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T07:40:32.353839+00:00",
-    "details": {}
-  },
-  {
-    "title": "Privacy Commissioner of Canada to investigate data breach involving Crime Stoppers",
-    "link": "https://databreaches.net/2026/10/27/privacy-commissioner-of-canada-to-investigate-data-breach-involving-crime-stoppers/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "October 27, 2026 – Gatineau, Quebec Privacy Commissioner of Canada Philippe Dufresne has opened an investigation related to a cybersecurity incident involving tips shared with Crime Stoppers programs across Canada. The Commissioner initiated the investigation into Navigate360, the commercial organization that provides and manages the tip management platform used by Canadian Crime Stoppers’ chapter",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T07:40:32.363716+00:00",
-    "details": {}
-  },
-  {
-    "title": "Dropbox plans to cut ~6% of its staff, or ~200 jobs, costing $27M to $33M in severance and related costs, and says CTO Ali Dasdan will step down on November 18 (Anhata Rooprai/Reuters)",
-    "link": "https://www.techmeme.com/261028/p31#a261028p31",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Anhata Rooprai / Reuters : Dropbox plans to cut ~6% of its staff, or ~200 jobs, costing $27M to $33M in severance and related costs, and says CTO Ali Dasdan will step down on November 18 &nbsp; &mdash;&nbsp; File hosting service Dropbox (DBX.O) said on Wednesday it would cut its global workforce by about 9% to align investments &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T14:39:05.512501+00:00",
-    "details": {}
-  },
-  {
-    "title": "X adds an intrusive promotional animation of an arm reaching across the screen to direct users to a \"promote\" post button, targeting verified and Premium users (Andrew Liszewski/The Verge)",
-    "link": "https://www.techmeme.com/261028/p30#a261028p30",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Andrew Liszewski / The Verge : X adds an intrusive promotional animation of an arm reaching across the screen to direct users to a &ldquo;promote&rdquo; post button, targeting verified and Premium users &nbsp; &mdash;&nbsp; You have to hand it to X's latest promotional gimmick.&#65279;&nbsp; &mdash;&nbsp; After Elon Musk warned that &hellip;",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T14:39:05.520480+00:00",
-    "details": {}
-  },
-  {
-    "title": "AMA Announcement: MOSS, the Team Behind MOSS-Image, MOSS-TTS, and More (Friday, Oct 30, 8–11 AM PT)",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xhouci/ama_announcement_moss_the_team_behind_mossimage/",
-    "source_name": "r/LocalLLaMA (شائعات نماذج AI)",
-    "summary": "Hi r/LocalLLaMA 👋 We’re welcoming the MOSS team for an AMA this Friday, October 30, from 8–11 AM PT ! They’re bringing the whole MOSS model family: speech, sound, music, images, and video—with a particular focus on their recent MOSS-Image release. ⚠️ Note : The AMA itself will be hosted in a separate thread , please don’t post questions here. &#32; submitted by &#32; /u/Aggressive-Sign-8167 [link]",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T14:39:05.527488+00:00",
-    "details": {}
-  },
-  {
-    "title": "KR: Bithumb discloses data leak after internal system breach; One of three financial firm breaches reported that day",
-    "link": "https://databreaches.net/2026/10/28/kr-bithumb-discloses-data-leak-after-internal-system-breach-one-of-three-financial-firm-breaches-reported-that-day/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "CoinTelegraph reports: South Korea’s crypto exchange Bithumb is investigating the extent of a data leak caused by a hack of its internal mobile system earlier this week, Yonhap News Agency reported Wednesday. Bithumb discovered the breach of its in-house mobile system — the platform used by employees to communicate internally — on Tuesday and notified...",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T14:39:05.538334+00:00",
-    "details": {}
-  },
-  {
-    "title": "Japanese internet giant GMO tells customers to shut down and disconnect PCs from the internet following data breach and ransomware threat",
-    "link": "https://databreaches.net/2026/10/28/japanese-internet-giant-gmo-tells-customers-to-shut-down-and-disconnect-pcs-from-the-internet-following-data-breach-and-ransomware-threat/",
-    "source_name": "DataBreaches.net (تسريبات واختراقات)",
-    "summary": "Sead Fadilpašić reports: Japanese internet giant GMO Group has told its customers to scan their computers for viruses, back up all of their data, disconnect the devices from the internet and then shut them down. The announcement, which literally told customers, “unplug any cords connected to your PC,&#8221; was made in response to a cyberattack...",
-    "reason": "تعذر تقييم المرشح عبر Gemini",
-    "rejection_stage": "gemini-evaluation",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-28T14:39:05.544809+00:00",
-    "details": {}
-  },
-  {
     "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
     "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
     "source_name": "BleepingComputer",
@@ -14186,6 +13939,101 @@
       "keywords": []
     },
     "rejected_at": "2026-11-27T05:42:19.870919+00:00",
+    "details": {}
+  },
+  {
+    "title": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
+    "link": "https://www.techmeme.com/261127/p8#a261127p8",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Joseph Bambridge / Politico : The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US &nbsp; &mdash;&nbsp; The U.K. terms of service for Muse give consumers far more protection than in the U.S.&nbsp; &mdash;&nbsp; LONDON &mdash; Meta will be on the hook &hellip;",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-27T15:47:22.832956+00:00",
+    "details": {}
+  },
+  {
+    "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)",
+    "link": "https://www.techmeme.com/261127/p7#a261127p7",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "New York Times : Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions &nbsp; &mdash;&nbsp; As China's access to Nvidia's advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-27T15:47:22.840711+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Open-source ESP32 desk body for a local AI assistant",
+    "link": "https://www.bobebot.com/body",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Here is a fun project if you want to make an open-source Meta Muse Charm. It is a cheap ESP32-S3 talking toy from Shanghai talking to my Mac/Linux desktop app (BoBe), with zero API keys on the chip. I mapped the screen, audio and power-latch pins with no schematic, and wired a Raspberry Pi Pico 2 to press its physical buttons automatically behind a packet-loss router to test bad Wi-Fi. Not selling",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-27T15:47:22.845918+00:00",
+    "details": {}
+  },
+  {
+    "title": "Show HN: Just Dashboard, open-source Linux full management dashboard",
+    "link": "https://just-dashboard.com/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://just-dashboard.com/ Comments URL: https://news.ycombinator.com/item?id=50667860 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-27T15:47:22.851028+00:00",
+    "details": {}
+  },
+  {
+    "title": "The Biggest Data Breach Settlements of 2026",
+    "link": "https://databreaches.net/2026/11/27/the-biggest-data-breach-settlements-of-2026/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "James Coker writes: In 2026, we saw a vast number of class action settlement agreements reached in regard to high-profile data breach incidents that have taken place during the past few years, some of which have also been subject to separate regulatory action. Here are the biggest data breach class action settlement agreements announced in...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-27T15:47:22.855133+00:00",
     "details": {}
   }
 ]

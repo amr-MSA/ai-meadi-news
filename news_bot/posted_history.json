@@ -1,31 +1,5 @@
 [
   {
-    "title": "Source: Coinbase is targeting H1 2027 to begin offering in-house event contracts in the US; it currently offers prediction markets through a Kalshi partnership (Bloomberg)",
-    "link": "https://www.techmeme.com/261120/p15#a261120p15",
-    "summary": "كشفت تقارير صحفية نقلًا عن مصدر مطلع أن شركة كوينبيس (Coinbase) تخطط لبدء تقديم عقود الأحداث والأسواق التوقعية بشكل مستقل وداخلي في الولايات المتحدة خلال النصف الأول من عام 2027، بدلاً من الاعتماد الحالي على الشراكة مع منصة كالمشي.",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "topic_key": "coinbase-in-house-event-contracts-leak",
-    "event_key": "coinbase|2026 11|أعمال وتقنية|coinbase event contracts|أمريكا الشمالية",
-    "company_name": "Coinbase",
-    "event_year_month": "2026-11",
-    "news_type": "أعمال وتقنية",
-    "product_name": "Coinbase Event Contracts",
-    "region": "أمريكا الشمالية",
-    "keywords": [
-      "Coinbase",
-      "Event Contracts",
-      "Prediction Markets",
-      "Kalshi"
-    ],
-    "month": "2026-11",
-    "posted_at": "2026-11-20T14:32:40.288110+00:00",
-    "type": "leak",
-    "status": "published",
-    "reliability_level": "🟡",
-    "telegram_message_id": 316,
-    "telegram_message_url": "https://t.me/Eng_limitless/316"
-  },
-  {
     "title": "Sources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September (Rebecca Torrence/Bloomberg)",
     "link": "https://www.techmeme.com/261120/p36#a261120p36",
     "summary": "كشفت تقارير صحفية نقلاً عن مصادر مطلعة أن شركة الذكاء الاصطناعي الناشئة Cognition تدرس جمع ملياري دولار أو أكثر في جولة تمويلية جديدة تسعى فيها للوصول إلى تقييم يبلغ 75 مليار دولار، وذلك بعد أن جمعت أكثر من 3 مليارات دولار خلال عام 2026، تضمنت جولة بقيمة ملياري دولار على تقييم 48 مليار دولار في سبتمبر الماضي.",
@@ -646,5 +620,32 @@
     "type": "daily_candidate",
     "status": "skipped",
     "selection_reason": "خبر مهم لم يُختر للنشر اليوم"
+  },
+  {
+    "title": "Hackers breach US Air Force Cloud One platform, putting military data at risk",
+    "link": "https://databreaches.net/2026/11/27/hackers-breach-us-air-force-cloud-one-platform-putting-military-data-at-risk/",
+    "summary": "كشفت تقارير صحفية نقلاً عن ثلاثة مصادر مطلعة عن تعرض منصة الحوسبة السحابية الرئيسية التابعة لسلاح الجو الأمريكي (Cloud One) لاختراق سيبراني. ووُصف الخرق بأنه يهدد كميات كبيرة من البيانات العسكرية التكتيكية واللوجستية ومعلومات الأفراد الحساسة، حيث تم اكتشاف التسلل خلال أعمال صيانة وتحديث للمنظومة.",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "topic_key": "us-air-force-cloud-one-breach",
+    "event_key": "us air force|2026 11|أمن سيبراني|cloud one|أمريكا الشمالية",
+    "company_name": "US Air Force",
+    "event_year_month": "2026-11",
+    "news_type": "أمن سيبراني",
+    "product_name": "Cloud One",
+    "region": "أمريكا الشمالية",
+    "keywords": [
+      "سلاح الجو الأمريكي",
+      "Cloud One",
+      "اختراق سيبراني",
+      "رويترز",
+      "أمن سيبراني"
+    ],
+    "month": "2026-11",
+    "posted_at": "2026-11-27T15:47:22.823005+00:00",
+    "type": "leak",
+    "status": "published",
+    "reliability_level": "🟡",
+    "telegram_message_id": 332,
+    "telegram_message_url": "https://t.me/Eng_limitless/332"
   }
 ]
