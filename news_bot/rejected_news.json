@@ -13959,5 +13959,81 @@
     },
     "rejected_at": "2026-11-27T21:48:30.017512+00:00",
     "details": {}
+  },
+  {
+    "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+    "link": "https://www.techmeme.com/261127/p14#a261127p14",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Drew Breunig : Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following &nbsp; &mdash;&nbsp; Is Claude Throwing the Game?&nbsp; &mdash;&nbsp; There's a recent spate of claims that Claude is silently sabotaging people's projects, especially when they involve machine learning.",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-27T23:48:34.461883+00:00",
+    "details": {}
+  },
+  {
+    "title": "Built a new open-source Digital Audio Workstation",
+    "link": "https://elsewhere.audio",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://elsewhere.audio Comments URL: https://news.ycombinator.com/item?id=50672755 Points: 1 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-27T23:48:34.468240+00:00",
+    "details": {}
+  },
+  {
+    "title": "Agromate – The Open Source and customizable greenhouse based on ESP32",
+    "link": "https://agromate-devs.github.io/website/",
+    "source_name": "Hacker News - بحث leak/breach",
+    "summary": "Article URL: https://agromate-devs.github.io/website/ Comments URL: https://news.ycombinator.com/item?id=50672585 Points: 3 # Comments: 0",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-27T23:48:34.475151+00:00",
+    "details": {}
+  },
+  {
+    "title": "Department of Health Care Access and Information (HCAI) notifies individuals of data security incident discovered in May.",
+    "link": "https://databreaches.net/2026/11/27/department-of-health-care-access-and-information-hcai-notifies-individuals-of-data-security-incident-discovered-in-may/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "On November 16, California&#8217;s Department of Health Care Access and Information (HCAI) mailed notification letters to individuals affected by an incident they discovered on May 27, 2026: On May 27, 2026, HCAI discovered that some grant, scholarship, and loan applications submitted through our Funding Portal 1.0 could be accessed by certain search engine links. This...",
+    "reason": "لم يُختر للتسريبات في هذه الجولة",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-27T23:48:34.483333+00:00",
+    "details": {}
   }
 ]
