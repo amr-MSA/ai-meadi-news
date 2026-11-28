@@ -1,43 +1,5 @@
 [
   {
-    "title": "Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% (Tom Warren/The Verge)",
-    "link": "https://www.techmeme.com/261028/p61#a261028p61",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Tom Warren / The Verge : Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% &nbsp; &mdash;&nbsp; Windows and Xbox revenues have declined during Microsoft's first quarter of the 2027 financial year. &hellip; Microsoft just posted the first quarter of its 2027 fiscal financial results.",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-29T01:21:52.599507+00:00",
-    "details": {}
-  },
-  {
-    "title": "Zillow agrees to pay $212.5M to settle an investor class action over its failed Zillow Offers home-flipping venture, after SCOTUS refused to hear its appeal (Jonathan Stempel/Reuters)",
-    "link": "https://www.techmeme.com/261028/p60#a261028p60",
-    "source_name": "Techmeme (مجمّع أخبار سريع)",
-    "summary": "Jonathan Stempel / Reuters : Zillow agrees to pay $212.5M to settle an investor class action over its failed Zillow Offers home-flipping venture, after SCOTUS refused to hear its appeal &nbsp; &mdash;&nbsp; Zillow (ZG.O) said on Wednesday it will pay $212.5 million in cash to settle a class action accusing the online real estate marketplace &hellip;",
-    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
-    "rejection_stage": "gemini-selection",
-    "classification": {
-      "company_name": "غير محدد",
-      "event_year_month": "غير محدد",
-      "news_type": "أخرى",
-      "product_name": "غير محدد",
-      "region": "غير محدد",
-      "topic_key": "غير محدد",
-      "keywords": []
-    },
-    "rejected_at": "2026-10-29T01:21:52.609737+00:00",
-    "details": {}
-  },
-  {
     "title": "macro-inc/macro",
     "link": "https://github.com/macro-inc/macro",
     "source_name": "GitHub Trending (نشاط كود مفاجئ)",
@@ -14034,6 +13996,63 @@
       "keywords": []
     },
     "rejected_at": "2026-11-27T23:48:34.483333+00:00",
+    "details": {}
+  },
+  {
+    "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+    "link": "https://www.techmeme.com/261127/p17#a261127p17",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "Edwin / @edwinarbus : Anthropic says Claude doesn't silently sabotage work and that some user reports reflect &ldquo;overcaution&rdquo;, where Claude clings to self-imposed rules on long tasks &nbsp; &mdash;&nbsp; Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn't sabotage. There have been a few screenshots floating",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-28T05:20:59.705339+00:00",
+    "details": {}
+  },
+  {
+    "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
+    "link": "https://www.techmeme.com/261127/p16#a261127p16",
+    "source_name": "Techmeme (مجمّع أخبار سريع)",
+    "summary": "LithoWar : How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff &nbsp; &mdash;&nbsp; At the heart of the AI race, while East and West stockpile advanced processors, a quiet technology battle is under &hellip;",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-28T05:20:59.711381+00:00",
+    "details": {}
+  },
+  {
+    "title": "Cyber incident disrupting services for Pacific Blue Cross members",
+    "link": "https://databreaches.net/2026/11/27/cyber-incident-disrupting-services-for-pacific-blue-cross-members/",
+    "source_name": "DataBreaches.net (تسريبات واختراقات)",
+    "summary": "CBC reports: Pacific Blue Cross says it&#8217;s dealing with a &#8220;cyber incident&#8221; that has disrupted some of its systems, leaving members unable to access certain services, including its website and contact centre. The Burnaby-based health benefits provider, which serves approximately 1.7 million British Columbians, says it first became aware of the disruption early Wednesday, Nov....",
+    "reason": "لم يحدد Gemini قيمة خبرية كافية للنشر",
+    "rejection_stage": "gemini-selection",
+    "classification": {
+      "company_name": "غير محدد",
+      "event_year_month": "غير محدد",
+      "news_type": "أخرى",
+      "product_name": "غير محدد",
+      "region": "غير محدد",
+      "topic_key": "غير محدد",
+      "keywords": []
+    },
+    "rejected_at": "2026-11-28T05:20:59.715343+00:00",
     "details": {}
   }
 ]
